@@ -42,7 +42,7 @@ function format(x){
 }
 function add(x,day){
   if(ok(x,day)){
-    return format(x);
+    return " "+format(x);
   }else {
     return "";
   }
@@ -63,7 +63,7 @@ function task(day,interval){
 };
     $("#submit").click(function(){
         var s = task(48,[0,1,2,4]);
-        $("#plan").text = s;
+        $("#plan").text(s);
         console.log(s);
     });
 </script>
