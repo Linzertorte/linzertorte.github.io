@@ -62,7 +62,10 @@ function task(day,interval){
   
 };
     $("#submit").click(function(){
-        var s = task(48,[0,1,2,4]);
+        var s = "{% highlight python %}\n";
+        s += task(48,[0,1,2,4]);
+        s+="{% endhighlight %}";
+        
         $("#plan").html(s);
         console.log(s);
     });
