@@ -3,7 +3,9 @@
 
 
 任务app 我用的Remember the milk. 点击 [文章]
+
 Remeber the milk 任务批量添加工具 [批量添加]
+
 这里许多文章介绍了，有的同时也介绍了其他类似的app. Remember the milk可能中国境内没法用，可以试试其他的。实在不行就找张纸打勾。
 再不会自杀..
 {% highlight python %}
