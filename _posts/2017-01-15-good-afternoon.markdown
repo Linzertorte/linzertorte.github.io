@@ -15,7 +15,7 @@ for i in xrange(1,X+1+Y):
 {% endhighlight %}
 
 
-
+{% highlight python %}
 ---- 40个list 快餐
 01:  1 #N1
 02:  2  1 #N1
@@ -237,3 +237,4 @@ for i in xrange(1,X+1+Y):
 50: 48 46 #N1
 51: 47 #N1
 52: 48 #N1
+{% endhighlight %}
