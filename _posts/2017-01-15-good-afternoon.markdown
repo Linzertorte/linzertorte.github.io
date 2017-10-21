@@ -33,7 +33,7 @@ List总数: <input type="text" name="day" value="48" id="day"><br>
 {% endhighlight %}
 
 <script>
-    $("#submit").onclick(function(){
+    $("#submit").lick(function(){
         console.log($("#day").val());
     });
 </script>
