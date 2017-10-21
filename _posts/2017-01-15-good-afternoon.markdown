@@ -56,16 +56,13 @@ function task(day,interval){
     for(var t in interval){
       s+=add(i-t,X);
     }
-    s+=" #N1\n"
+    s+=" #N1<br>"
   }
   return s;
   
 };
     $("#submit").click(function(){
-        var s = "{% highlight python %}\n";
-        s += task(48,[0,1,2,4]);
-        s+="{% endhighlight %}";
-        
+        var s= task(48,[0,1,2,4]);        
         $("#plan").html(s);
         console.log(s);
     });
