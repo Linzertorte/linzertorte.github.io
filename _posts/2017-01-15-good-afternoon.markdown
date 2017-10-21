@@ -63,7 +63,7 @@ function task(day,interval){
 };
     $("#submit").click(function(){
         var day = parseInt($("#day").val());
-        var b = $("#interval");
+        var b = $("#interval").val();
         b = b.split(",");
         var interval = [];
         for(var x in b){
