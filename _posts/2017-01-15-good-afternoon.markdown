@@ -27,11 +27,8 @@ List总数: <input type="text" name="day" value="48" id="day"><br>
 <input type="submit" value="Submit" id="submit">
 
 
-
-{% highlight python %}
 <div id="plan">
 </div>
-{% endhighlight %}
 
 <script>
     function ok(x,day){
@@ -65,7 +62,9 @@ function task(day,interval){
   
 };
     $("#submit").click(function(){
-        $("#plan").text = task(48,[0,1,2,4]);
+        var s = task(48,[0,1,2,4]);
+        $("#plan").text = s;
+        console.log(s);
     });
 </script>
 
