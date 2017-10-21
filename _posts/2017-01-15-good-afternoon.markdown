@@ -32,7 +32,7 @@ List总数: <input type="text" name="day" value="48" id="day"><br>
 </div>
 
 <script>
-    function ok(x,day){
+function ok(x,day){
   return x>=1 && x<=day;
 }
 function format(x){
@@ -57,7 +57,7 @@ function task(day,interval){
     for(var t in interval){
       s+=add(i-t,X);
     }
-    s+=" #N1<br>"
+    s+=" #N1<br>\n"
   }
   return s;
   
@@ -72,7 +72,7 @@ function task(day,interval){
         }
         var s= task(day,interval);        
         $("#plan").html(s);
-        console.log(s);
+        console.log(interval);
     });
 </script>
 
