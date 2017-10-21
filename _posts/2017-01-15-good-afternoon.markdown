@@ -63,7 +63,7 @@ function task(day,interval){
 };
     $("#submit").click(function(){
         var s = task(48,[0,1,2,4]);
-        $("#plan").text(s);
+        $("#plan").html(s);
         console.log(s);
     });
 </script>
