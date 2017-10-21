@@ -66,6 +66,7 @@ function task(day,interval){
         var day = parseInt($("#day").val());
         var b = $("#interval").val();
         b = b.split(",");
+        console.log(b);
         var interval = [];
         for(var x in b){
             interval.push(+x);
