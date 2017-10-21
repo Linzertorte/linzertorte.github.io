@@ -29,12 +29,43 @@ List总数: <input type="text" name="day" value="48" id="day"><br>
 
 
 {% highlight python %}
-
+<div id="plan">
+</div>
 {% endhighlight %}
 
 <script>
-    $("#submit").lick(function(){
-        console.log($("#day").val());
+    function ok(x,day){
+  return x>=1 && x<=day;
+}
+function format(x){
+  if(x<10)
+    return " "+x.toString();
+    else 
+  return x.toString();
+}
+function add(x,day){
+  if(ok(x,day)){
+    return format(x);
+  }else {
+    return "";
+  }
+}
+function task(day,interval){
+  var X = day;
+  var Y = Math.max.apply(null,interval);
+  var s ="";
+  for(var i=1;i<=X+Y;i++){
+    s += format(i)+":";
+    for(var t in interval){
+      s+=add(i-t,X);
+    }
+    s+=" #N1\n"
+  }
+  return s;
+  
+};
+    $("#submit").click(function(){
+        $("#plan").text = task(48,[0,1,2,4]);
     });
 </script>
 
