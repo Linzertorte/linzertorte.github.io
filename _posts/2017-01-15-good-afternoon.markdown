@@ -62,7 +62,14 @@ function task(day,interval){
   
 };
     $("#submit").click(function(){
-        var s= task(48,[0,1,2,4]);        
+        var day = parseInt($("#day").val());
+        var b = $("#interval");
+        b = b.split(",");
+        var interval = [];
+        for(var x in b){
+            interval.push(+x);
+        }
+        var s= task(day,interval);        
         $("#plan").html(s);
         console.log(s);
     });
