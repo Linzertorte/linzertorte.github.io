@@ -1,5 +1,5 @@
-任务app 我用的Remeber the milk.
-http://www.jianshu.com/search?q=Remember%20The%20Milk&page=1&type=note
+任务app 我用的Remeber the milk. 点击 [文章]
+
 这里许多文章介绍了，有的同时也介绍了其他类似的app. Remeber the milk可能中国境内没法用，可以试试其他的。实在不行就找张纸打勾。
 {% highlight python %}
 X = 48
@@ -241,3 +241,5 @@ for i in xrange(1,X+1+Y):
 51: 47 #N1
 52: 48 #N1
 {% endhighlight %}
+
+[文章]: http://www.jianshu.com/search?q=Remember%20The%20Milk&page=1&type=note
