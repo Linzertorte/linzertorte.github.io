@@ -1,6 +1,6 @@
-任务app 我用的Remeber the milk. 点击 [文章]
+任务app 我用的Remember the milk. 点击 [文章]
 
-这里许多文章介绍了，有的同时也介绍了其他类似的app. Remeber the milk可能中国境内没法用，可以试试其他的。实在不行就找张纸打勾。
+这里许多文章介绍了，有的同时也介绍了其他类似的app. Remember the milk可能中国境内没法用，可以试试其他的。实在不行就找张纸打勾。
 {% highlight python %}
 X = 48
 def ok(i):
@@ -16,6 +16,12 @@ for i in xrange(1,X+1+Y):
         s += add(i-t)
     print s + ' #N1'
 {% endhighlight %}
+
+
+List总数: <input type="text" name="day" value="48"><br>
+复习间隔: <input type="text" name="interval" value="0,1,2,4,7,15,0"><br>
+<input type="submit" value="Submit">
+
 
 
 {% highlight python %}
