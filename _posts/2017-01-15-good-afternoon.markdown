@@ -55,7 +55,7 @@ function task(day,interval){
   for(var i=1;i<=X+Y;i++){
     s += format(i)+":";
     for(var t in interval){
-      s+=add(i-t,X);
+      s+=add(i-interval[t],X);
     }
     s+=" #N1<br>\n"
   }
@@ -69,7 +69,7 @@ function task(day,interval){
         console.log(b);
         var interval = [];
         for(var x in b){
-            interval.push(+x);
+            interval.push(+b[x]);
         }
         var s= task(day,interval);        
         $("#plan").html(s);
