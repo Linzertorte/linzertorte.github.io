@@ -1,0 +1,246 @@
+<html lang="en">
+  <head>
+    <title></title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.0/js/bootstrap.min.js"></script>
+    <style>
+      body {
+      padding-top: 2em;
+      }
+      .speaking {
+      color:#30DFF3;
+      font-weight: bold;
+      }
+      .slidecontainer {
+      width: 100%;
+      }
+      tr {
+         background-color: white;
+      }
+      .slider {
+      -webkit-appearance: none;
+      width: 100%;
+      height: 1em;
+      border-radius: 0.5em;
+      background: #d3d3d3;
+      outline: none;
+      opacity: 0.7;
+      -webkit-transition: .2s;
+      transition: opacity .2s;
+      }
+      .slider:hover {
+      opacity: 1;
+      }
+      .slider::-webkit-slider-thumb {
+      -webkit-appearance: none;
+      appearance: none;
+      width: 2em;
+      height: 2em;
+      border-radius: 50%;
+      background: #30DFF3;
+      cursor: pointer;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <h3>8 Dialogue</h3>
+      <div class="slidecontainer">
+        <input type="range" min="1" max="20" value="1" class="slider" id="myRange">
+        Repeat <span id="demo"> times.</span>
+      </div>
+      <audio id="audio-player" src="22.m4a" controls="controls"></audio>
+      <div>
+        <input type="checkbox" id="nob">
+        <label for="nob">Autoplay</label>
+      </div>
+      <table class="table">
+         <tbody>
+
+            <tr data-start="9.220" data-end="11.540" id="p1">
+               <td>1</td>
+               <td>1</td>
+            </tr>
+            <tr data-start="11.720" data-end="14.920" id="p2">
+               <td>2</td>
+               <td>2</td>
+            </tr>
+            <tr data-start="15.120" data-end="17.300" id="p3">
+               <td>3</td>
+               <td>3</td>
+            </tr>
+            <tr data-start="17.480" data-end="20.980" id="p4">
+               <td>4</td>
+               <td>4</td>
+            </tr>
+            <tr data-start="21.080" data-end="24.000" id="p5">
+               <td>5</td>
+               <td>5</td>
+            </tr>
+            <tr data-start="24.220" data-end="29.000" id="p6">
+               <td>6</td>
+               <td>6</td>
+            </tr>
+            <tr data-start="29.000" data-end="31.000" id="p7">
+               <td>7</td>
+               <td>7</td>
+            </tr>
+            <tr data-start="31.000" data-end="33.000" id="p8">
+               <td>8</td>
+               <td>8</td>
+            </tr>
+            <tr data-start="33.300" data-end="38.640" id="p9">
+               <td>9</td>
+               <td>9</td>
+            </tr>
+            <tr data-start="40.000" data-end="42.400" id="p10">
+               <td>10</td>
+               <td>10</td>
+            </tr>
+            <tr data-start="43.020" data-end="47.640" id="p11">
+               <td>11</td>
+               <td>11</td>
+            </tr>
+            <tr data-start="47.980" data-end="54.400" id="p12">
+               <td>12</td>
+               <td>12</td>
+            </tr>
+            <tr data-start="54.600" data-end="57.700" id="p13">
+               <td>13</td>
+               <td>13</td>
+            </tr>
+            <tr data-start="57.780" data-end="61.320" id="p14">
+               <td>14</td>
+               <td>14</td>
+            </tr>
+            <tr data-start="61.660" data-end="67.320" id="p15">
+               <td>15</td>
+               <td>15</td>
+            </tr>
+            <tr data-start="67.600" data-end="72.760" id="p16">
+               <td>16</td>
+               <td>16</td>
+            </tr>
+            <tr data-start="73.180" data-end="81.040" id="p17">
+               <td>17</td>
+               <td>17</td>
+            </tr>
+            <tr data-start="81.420" data-end="87.480" id="p18">
+               <td>18</td>
+               <td>18</td>
+            </tr>
+            <tr data-start="87.800" data-end="93.140" id="p19">
+               <td>19</td>
+               <td>19</td>
+            </tr>
+            <tr data-start="93.300" data-end="96.420" id="p20">
+               <td>20</td>
+               <td>20</td>
+            </tr>
+            <tr data-start="96.640" data-end="99.960" id="p21">
+               <td>21</td>
+               <td>21</td>
+            </tr>
+            <tr data-start="100.260" data-end="102.980" id="p22">
+               <td>22</td>
+               <td>22</td>
+            </tr>
+            <tr data-start="103.100" data-end="108.540" id="p23">
+               <td>23</td>
+               <td>23</td>
+            </tr>
+            <tr data-start="108.720" data-end="111.800" id="p24">
+               <td>24</td>
+               <td>24</td>
+            </tr>
+            <tr data-start="112.000" data-end="117.920" id="p25">
+               <td>25</td>
+               <td>25</td>
+            </tr>
+            <tr data-start="118.200" data-end="122.800" id="p26">
+               <td>26</td>
+               <td>26</td>
+            </tr>
+            <tr data-start="122.800" data-end="124.800" id="p27">
+               <td>27</td>
+               <td>27</td>
+            </tr>
+            <tr data-start="124.920" data-end="126.080" id="p28">
+               <td>28</td>
+               <td>28</td>
+            </tr>
+            <tr data-start="126.220" data-end="130.060" id="p29">
+               <td>29</td>
+               <td>29</td>
+            </tr>
+            <tr data-start="130.240" data-end="136.120" id="p30">
+               <td>30</td>
+               <td>30</td>
+            </tr>
+            <tr data-start="136.220" data-end="140.160" id="p31">
+               <td>31</td>
+               <td>31</td>
+            </tr>
+        </tbody>
+      </table>
+    </div>
+  </body>
+  <script>
+    var player = document.getElementById('audio-player');
+    var slider = document.getElementById("myRange");
+    var output = document.getElementById("demo");
+    var nob = document.getElementById("nob");
+    var on = true;
+    var total = $('tr').length;
+    output.innerHTML = slider.value;
+    slider.oninput = function() {
+        output.innerHTML = this.value;
+    }
+    $('tr').click(function() {
+        play(player, this.id)
+    });
+    function play(player, id) {
+        var tr = $('#'+id);
+        $('table tr').css('background','white');
+        tr.css('background','#E8E8E8');
+        var start = tr.attr('data-start');
+        var end = tr.attr('data-end');
+        player.currentTime = start;
+        player.play();
+        player.ontimeupdate = function () {
+          if(player.currentTime >= end) {
+            player.pause();
+          }
+        };
+    }
+    function replay(p_no, cnt) {
+        if(!on) return;
+        if(cnt > slider.value) cnt = 1, p_no ++;
+        if(p_no > total) p_no = 1;
+        tr = $('#p'+p_no);
+        var start = tr.attr('data-start');
+        var end = tr.attr('data-end');
+        player.currentTime = start;
+        player.play();
+        player.ontimeupdate = function() {
+          if(player.currentTime >= end) {
+            player.pause();
+            replay(p_no, cnt+1);
+          }
+        };
+    }
+    $('#nob').change(function() {
+        if (nob.checked) {
+            on = true;
+            replay(1,1);
+        } else {
+            on = false;
+        }
+    });
+  </script>
+</html>
+
