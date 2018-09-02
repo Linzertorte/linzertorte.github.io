@@ -1,0 +1,265 @@
+<html lang="en">
+  <head>
+    <title></title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.0/js/bootstrap.min.js"></script>
+    <style>
+      body {
+      padding-top: 2em;
+      }
+      .speaking {
+      color:#30DFF3;
+      font-weight: bold;
+      }
+      .slidecontainer {
+      width: 100%;
+      }
+      tr {
+         background-color: white;
+      }
+      .slider {
+      -webkit-appearance: none;
+      width: 100%;
+      height: 1em;
+      border-radius: 0.5em;
+      background: #d3d3d3;
+      outline: none;
+      opacity: 0.7;
+      -webkit-transition: .2s;
+      transition: opacity .2s;
+      }
+      .slider:hover {
+      opacity: 1;
+      }
+      .slider::-webkit-slider-thumb {
+      -webkit-appearance: none;
+      appearance: none;
+      width: 2em;
+      height: 2em;
+      border-radius: 50%;
+      background: #30DFF3;
+      cursor: pointer;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <h3>2 Text</h3>
+      <div class="slidecontainer">
+        <input type="range" min="1" max="20" value="1" class="slider" id="myRange">
+        Repeat <span id="demo"> times.</span>
+      </div>
+      <audio id="audio-player" src="6.m4a" controls="controls"></audio>
+      <div>
+        <input type="checkbox" id="nob">
+        <label for="nob">Autoplay</label>
+      </div>
+      <table class="table">
+         <tbody>
+
+            <tr data-start="2.980" data-end="7.600" id="p1">
+               <td>1</td>
+               <td>1</td>
+            </tr>
+            <tr data-start="7.600" data-end="10.500" id="p2">
+               <td>2</td>
+               <td>2</td>
+            </tr>
+            <tr data-start="10.500" data-end="17.900" id="p3">
+               <td>3</td>
+               <td>3</td>
+            </tr>
+            <tr data-start="17.900" data-end="20.200" id="p4">
+               <td>4</td>
+               <td>4</td>
+            </tr>
+            <tr data-start="20.200" data-end="22.800" id="p5">
+               <td>5</td>
+               <td>5</td>
+            </tr>
+            <tr data-start="22.800" data-end="28.400" id="p6">
+               <td>6</td>
+               <td>6</td>
+            </tr>
+            <tr data-start="28.400" data-end="32.200" id="p7">
+               <td>7</td>
+               <td>7</td>
+            </tr>
+            <tr data-start="32.200" data-end="36.000" id="p8">
+               <td>8</td>
+               <td>8</td>
+            </tr>
+            <tr data-start="36.000" data-end="39.500" id="p9">
+               <td>9</td>
+               <td>9</td>
+            </tr>
+            <tr data-start="39.500" data-end="44.500" id="p10">
+               <td>10</td>
+               <td>10</td>
+            </tr>
+            <tr data-start="44.500" data-end="47.700" id="p11">
+               <td>11</td>
+               <td>11</td>
+            </tr>
+            <tr data-start="47.700" data-end="54.200" id="p12">
+               <td>12</td>
+               <td>12</td>
+            </tr>
+            <tr data-start="54.200" data-end="57.400" id="p13">
+               <td>13</td>
+               <td>13</td>
+            </tr>
+            <tr data-start="57.400" data-end="59.400" id="p14">
+               <td>14</td>
+               <td>14</td>
+            </tr>
+            <tr data-start="59.400" data-end="63.500" id="p15">
+               <td>15</td>
+               <td>15</td>
+            </tr>
+            <tr data-start="63.500" data-end="66.700" id="p16">
+               <td>16</td>
+               <td>16</td>
+            </tr>
+            <tr data-start="66.700" data-end="69.300" id="p17">
+               <td>17</td>
+               <td>17</td>
+            </tr>
+            <tr data-start="69.300" data-end="72.200" id="p18">
+               <td>18</td>
+               <td>18</td>
+            </tr>
+            <tr data-start="72.200" data-end="76.000" id="p19">
+               <td>19</td>
+               <td>19</td>
+            </tr>
+            <tr data-start="76.000" data-end="81.300" id="p20">
+               <td>20</td>
+               <td>20</td>
+            </tr>
+            <tr data-start="81.300" data-end="87.200" id="p21">
+               <td>21</td>
+               <td>21</td>
+            </tr>
+            <tr data-start="87.200" data-end="93.700" id="p22">
+               <td>22</td>
+               <td>22</td>
+            </tr>
+            <tr data-start="93.700" data-end="97.800" id="p23">
+               <td>23</td>
+               <td>23</td>
+            </tr>
+            <tr data-start="97.800" data-end="104.900" id="p24">
+               <td>24</td>
+               <td>24</td>
+            </tr>
+            <tr data-start="104.900" data-end="108.700" id="p25">
+               <td>25</td>
+               <td>25</td>
+            </tr>
+            <tr data-start="108.700" data-end="114.000" id="p26">
+               <td>26</td>
+               <td>26</td>
+            </tr>
+            <tr data-start="114.000" data-end="116.300" id="p27">
+               <td>27</td>
+               <td>27</td>
+            </tr>
+            <tr data-start="116.300" data-end="123.100" id="p28">
+               <td>28</td>
+               <td>28</td>
+            </tr>
+            <tr data-start="123.100" data-end="128.400" id="p29">
+               <td>29</td>
+               <td>29</td>
+            </tr>
+            <tr data-start="128.400" data-end="131.900" id="p30">
+               <td>30</td>
+               <td>30</td>
+            </tr>
+            <tr data-start="131.900" data-end="135.400" id="p31">
+               <td>31</td>
+               <td>31</td>
+            </tr>
+            <tr data-start="135.400" data-end="139.200" id="p32">
+               <td>32</td>
+               <td>32</td>
+            </tr>
+            <tr data-start="139.200" data-end="142.400" id="p33">
+               <td>33</td>
+               <td>33</td>
+            </tr>
+            <tr data-start="142.400" data-end="148.900" id="p34">
+               <td>34</td>
+               <td>34</td>
+            </tr>
+            <tr data-start="148.900" data-end="152.700" id="p35">
+               <td>35</td>
+               <td>35</td>
+            </tr>
+            <tr data-start="152.700" data-end="158.600" id="p36">
+               <td>36</td>
+               <td>36</td>
+            </tr>
+        </tbody>
+      </table>
+    </div>
+  </body>
+  <script>
+    var player = document.getElementById('audio-player');
+    var slider = document.getElementById("myRange");
+    var output = document.getElementById("demo");
+    var nob = document.getElementById("nob");
+    var on = true;
+    var total = $('tr').length;
+    output.innerHTML = slider.value;
+    slider.oninput = function() {
+        output.innerHTML = this.value;
+    }
+    $('tr').click(function() {
+        play(player, this.id)
+    });
+    function play(player, id) {
+        var tr = $('#'+id);
+        $('table tr').css('background','white');
+        tr.css('background','#E8E8E8');
+        var start = tr.attr('data-start');
+        var end = tr.attr('data-end');
+        player.currentTime = start;
+        player.play();
+        player.ontimeupdate = function () {
+          if(player.currentTime >= end) {
+            player.pause();
+          }
+        };
+    }
+    function replay(p_no, cnt) {
+        if(!on) return;
+        if(cnt > slider.value) cnt = 1, p_no ++;
+        if(p_no > total) p_no = 1;
+        tr = $('#p'+p_no);
+        var start = tr.attr('data-start');
+        var end = tr.attr('data-end');
+        player.currentTime = start;
+        player.play();
+        player.ontimeupdate = function() {
+          if(player.currentTime >= end) {
+            player.pause();
+            replay(p_no, cnt+1);
+          }
+        };
+    }
+    $('#nob').change(function() {
+        if (nob.checked) {
+            on = true;
+            replay(1,1);
+        } else {
+            on = false;
+        }
+    });
+  </script>
+</html>
