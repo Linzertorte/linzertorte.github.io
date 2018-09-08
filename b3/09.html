@@ -3,54 +3,18 @@
     <title></title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css">
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.0/umd/popper.min.js"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.0/js/bootstrap.min.js"></script>
-    <style>
-      body {
-      padding-top: 2em;
-      }
-      .speaking {
-      color:#30DFF3;
-      font-weight: bold;
-      }
-      .slidecontainer {
-      width: 100%;
-      }
-      tr {
-         background-color: white;
-      }
-      .slider {
-      -webkit-appearance: none;
-      width: 100%;
-      height: 1em;
-      border-radius: 0.5em;
-      background: #d3d3d3;
-      outline: none;
-      opacity: 0.7;
-      -webkit-transition: .2s;
-      transition: opacity .2s;
-      }
-      .slider:hover {
-      opacity: 1;
-      }
-      .slider::-webkit-slider-thumb {
-      -webkit-appearance: none;
-      appearance: none;
-      width: 2em;
-      height: 2em;
-      border-radius: 50%;
-      background: #30DFF3;
-      cursor: pointer;
-      }
-    </style>
+    <link rel="stylesheet" href="bootstrap.css">
+    <link rel="stylesheet" href="bubugao.css">
+    <script src="jquery.js"></script>
+    <script src="bootstrap.js"></script>
   </head>
   <body>
     <div class="container">
       <h3>3 Text 2</h3>
       <div class="slidecontainer">
-        <input type="range" min="1" max="20" value="1" class="slider" id="myRange">
+        <input type="range" min="1" max="20" value="3" class="slider" id="myRange">
+      </div>
+      <div>
         Repeat <span id="demo"> times.</span>
       </div>
       <audio id="audio-player" src="9.mp3" controls="controls"></audio>
@@ -265,58 +229,5 @@
       </table>
     </div>
   </body>
-  <script>
-    var player = document.getElementById('audio-player');
-    var slider = document.getElementById("myRange");
-    var output = document.getElementById("demo");
-    var nob = document.getElementById("nob");
-    var on = true;
-    var total = $('tr').length;
-    output.innerHTML = slider.value;
-    slider.oninput = function() {
-        output.innerHTML = this.value;
-    }
-    $('tr').click(function() {
-        play(player, this.id)
-    });
-    function play(player, id) {
-        var tr = $('#'+id);
-        $('table tr').css('background','white');
-        tr.css('background','#E8E8E8');
-        var start = tr.attr('data-start');
-        var end = tr.attr('data-end');
-        player.currentTime = start;
-        player.play();
-        player.ontimeupdate = function () {
-          if(player.currentTime >= end) {
-            player.pause();
-          }
-        };
-    }
-    function replay(p_no, cnt) {
-        if(!on) return;
-        if(cnt > slider.value) cnt = 1, p_no ++;
-        if(p_no > total) p_no = 1;
-        tr = $('#p'+p_no);
-        var start = tr.attr('data-start');
-        var end = tr.attr('data-end');
-        player.currentTime = start;
-        player.play();
-        player.ontimeupdate = function() {
-          if(player.currentTime >= end) {
-            player.pause();
-            replay(p_no, cnt+1);
-          }
-        };
-    }
-    $('#nob').change(function() {
-        if (nob.checked) {
-            on = true;
-            replay(1,1);
-        } else {
-            on = false;
-        }
-    });
-  </script>
+  <script src="bubugao.js"></script>
 </html>
-
