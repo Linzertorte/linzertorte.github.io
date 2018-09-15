@@ -1,8 +1,8 @@
 #! coding:utf-8
 
-f = open('33.srt')  # 歌词文件
-title = '11 Text 2'  # title
-audio = "33.mp3"  #音频文件名 可以是mp3格式，我这里是m4a
+f = open('35.srt')  # 歌词文件
+title = '12 Text'  # title
+audio = "35.mp3"  #音频文件名 可以是mp3格式，我这里是m4a
 
 #将srt文件与音频文件与这个srt.py放在同一文件夹下
 #运行python srt.py > 9.html
