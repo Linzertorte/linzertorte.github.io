@@ -18,6 +18,10 @@ head = '''<html>
             padding-top: 2em;
             background-color: #F8F8F8;
          }
+         table {
+           table-layout: fixed;
+           word-wrap: break-word;
+         }         
          tr {
             background-color: white;
          }
