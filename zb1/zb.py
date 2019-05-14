@@ -1,7 +1,4 @@
 # coding:utf-8
-
-# audiosprite -o zb1_01 -f howler -e mp3 *.mp3
-
 LESSON = 1
 CNT = 52
 
@@ -41,15 +38,15 @@ tail = '''            </tbody>
    <script>
       var sound = Howl(
       );
-      function m(p) {
-         sound.play(p);
-      }
+			function m(p){
+				sound.play(p);
+			}
       $('table tr').each(function(a,b){
-         $(b).click(function(){
-            $('table tr').css('background','white');
-            $(this).css('background','#E8E8E8');
-         });
-      });
+				$(b).click(function(){
+					$('table tr').css('background','white');
+					$(this).css('background','#E8E8E8');
+				});
+			});
    </script>
 </html>'''
 print head%LESSON
