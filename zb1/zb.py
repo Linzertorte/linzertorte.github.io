@@ -1,8 +1,8 @@
 # coding:utf-8
-LESSON = 7
-CNT = 112
-W_FILE = "7.txt"
-JS_FILE = "zb1_07.json"
+LESSON = 8
+CNT = 84
+W_FILE = "8.txt"
+JS_FILE = "zb1_08.json"
 
 head = '''<html>
    <head>
