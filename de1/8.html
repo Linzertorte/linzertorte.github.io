@@ -1,0 +1,170 @@
+<html>
+   <head>
+      <title>Russian Vocabulary</title>
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+      <link rel="stylesheet" href="bootstrap.min.css">
+      <script src="jquery.min.js"></script>
+      <script src="popper.min.js"></script>
+      <script src="bootstrap.min.js"></script>
+      <script src="howler.core.min.js"></script>
+      <script src="howler.min.js"></script>
+      <style>
+         body {
+            padding-top: 2em;
+            background-color: #F8F8F8;
+         }
+         table {
+           table-layout: fixed;
+           word-wrap: break-word;
+         }
+         tr {
+            background-color: white;
+         }
+         td {
+            word-break: break-all;
+         }
+      </style>
+   </head>
+   <body>
+      <div class="container">
+         <h3>第8课</h3>
+         <table class="table">
+            <tbody>
+               <tr onclick="m('untitled-01')">
+                  <td>кaлeнда́рь</td>
+                  <td>日 历</td>
+               </tr>
+               <tr onclick="m('untitled-02')">
+                  <td>янва́рь</td>
+                  <td>一月</td>
+               </tr>
+               <tr onclick="m('untitled-03')">
+                  <td>февра́ль</td>
+                  <td>二月</td>
+               </tr>
+               <tr onclick="m('untitled-04')">
+                  <td>март</td>
+                  <td>三月</td>
+               </tr>
+               <tr onclick="m('untitled-05')">
+                  <td>anpе́ль</td>
+                  <td>四月</td>
+               </tr>
+               <tr onclick="m('untitled-06')">
+                  <td>май</td>
+                  <td>五月</td>
+               </tr>
+               <tr onclick="m('untitled-07')">
+                  <td>ию́нь</td>
+                  <td>六月</td>
+               </tr>
+               <tr onclick="m('untitled-08')">
+                  <td>а́вrycт</td>
+                  <td>八月</td>
+               </tr>
+               <tr onclick="m('untitled-09')">
+                  <td>ceнтя́брь</td>
+                  <td>九月</td>
+               </tr>
+               <tr onclick="m('untitled-10')">
+                  <td>октя́брь</td>
+                  <td>十月</td>
+               </tr>
+               <tr onclick="m('untitled-11')">
+                  <td>ноя́брь</td>
+                  <td>十一月</td>
+               </tr>
+               <tr onclick="m('untitled-12')">
+                  <td>дека́брь</td>
+                  <td>十二月</td>
+               </tr>
+               <tr onclick="m('untitled-13')">
+                  <td>встава́ть,встаю́,встаёшь,встаю́т</td>
+                  <td>起来,起床</td>
+               </tr>
+               <tr onclick="m('untitled-14')">
+                  <td>за́втракать,за́втракаю,за́втракаешь,за́втракают</td>
+                  <td>吃早饭</td>
+               </tr>
+            </tbody>
+         </table>
+      </div>
+   </body>
+   <script>
+      var sound = new Howl(
+        {
+          "src": [
+            "de1_8.mp3"
+          ],
+          "sprite": {
+            "untitled-01": [
+              0,
+              970.5442176870749
+            ],
+            "untitled-02": [
+              2000,
+              1229.3650793650795
+            ],
+            "untitled-03": [
+              5000,
+              1067.596371882086
+            ],
+            "untitled-04": [
+              8000,
+              905.8503401360554
+            ],
+            "untitled-05": [
+              10000,
+              1035.2607709750573
+            ],
+            "untitled-06": [
+              13000,
+              1002.9024943310656
+            ],
+            "untitled-07": [
+              16000,
+              873.5147392290265
+            ],
+            "untitled-08": [
+              18000,
+              1132.3129251700693
+            ],
+            "untitled-09": [
+              21000,
+              1132.3129251700693
+            ],
+            "untitled-10": [
+              24000,
+              1132.3129251700693
+            ],
+            "untitled-11": [
+              27000,
+              1164.671201814059
+            ],
+            "untitled-12": [
+              30000,
+              1067.619047619047
+            ],
+            "untitled-13": [
+              33000,
+              6729.183673469386
+            ],
+            "untitled-14": [
+              41000,
+              7343.854875283448
+            ]
+          }
+        }
+      );
+      function m(p){
+        sound.play(p);
+      }
+      $('table tr').each(function(a,b){
+        $(b).click(function(){
+          $('table tr').css('background','white');
+          $(this).css('background','#E8E8E8');
+        });
+      });
+   </script>
+</html>
