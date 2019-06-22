@@ -1,0 +1,154 @@
+<html>
+   <head>
+      <title>Russian Vocabulary</title>
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+      <link rel="stylesheet" href="bootstrap.min.css">
+      <script src="jquery.min.js"></script>
+      <script src="popper.min.js"></script>
+      <script src="bootstrap.min.js"></script>
+      <script src="howler.core.min.js"></script>
+      <script src="howler.min.js"></script>
+      <style>
+         body {
+            padding-top: 2em;
+            background-color: #F8F8F8;
+         }
+         table {
+           table-layout: fixed;
+           word-wrap: break-word;
+         }
+         tr {
+            background-color: white;
+         }
+         td {
+            word-break: break-all;
+         }
+      </style>
+   </head>
+   <body>
+      <div class="container">
+         <h3>发音课 第2课</h3>
+         <table class="table">
+            <tbody>
+               <tr onclick="m('01')">
+                  <td>1</td>
+                  <td>1</td>
+               </tr>
+               <tr onclick="m('02')">
+                  <td>2</td>
+                  <td>2</td>
+               </tr>
+               <tr onclick="m('03')">
+                  <td>3</td>
+                  <td>3</td>
+               </tr>
+               <tr onclick="m('04')">
+                  <td>4</td>
+                  <td>4</td>
+               </tr>
+               <tr onclick="m('05')">
+                  <td>5</td>
+                  <td>5</td>
+               </tr>
+               <tr onclick="m('06')">
+                  <td>6</td>
+                  <td>6</td>
+               </tr>
+               <tr onclick="m('07')">
+                  <td>7</td>
+                  <td>7</td>
+               </tr>
+               <tr onclick="m('08')">
+                  <td>8</td>
+                  <td>8</td>
+               </tr>
+               <tr onclick="m('09')">
+                  <td>9</td>
+                  <td>9</td>
+               </tr>
+               <tr onclick="m('10')">
+                  <td>10</td>
+                  <td>10</td>
+               </tr>
+               <tr onclick="m('11')">
+                  <td>11</td>
+                  <td>11</td>
+               </tr>
+               <tr onclick="m('12')">
+                  <td>12</td>
+                  <td>12</td>
+               </tr>
+            </tbody>
+         </table>
+      </div>
+   </body>
+   <script>
+      var sound = new Howl(
+        {
+          "src": [
+            "hd1_p2.mp3"
+          ],
+          "sprite": {
+            "10": [
+              20000,
+              1141.7460317460311
+            ],
+            "11": [
+              23000,
+              742.131519274377
+            ],
+            "12": [
+              25000,
+              837.2789115646242
+            ],
+            "01": [
+              0,
+              685.0340136054422
+            ],
+            "02": [
+              2000,
+              932.426303854875
+            ],
+            "03": [
+              4000,
+              742.131519274376
+            ],
+            "04": [
+              6000,
+              1122.721088435374
+            ],
+            "05": [
+              9000,
+              685.034013605442
+            ],
+            "06": [
+              11000,
+              856.303854875284
+            ],
+            "07": [
+              13000,
+              723.106575963719
+            ],
+            "08": [
+              15000,
+              1027.5736961451257
+            ],
+            "09": [
+              18000,
+              742.131519274377
+            ]
+          }
+        }
+      );
+      function m(p){
+        sound.play(p);
+      }
+      $('table tr').each(function(a,b){
+        $(b).click(function(){
+          $('table tr').css('background','white');
+          $(this).css('background','#E8E8E8');
+        });
+      });
+   </script>
+</html>

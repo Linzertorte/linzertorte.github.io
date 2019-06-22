@@ -1,7 +1,7 @@
 # coding:utf-8
-LESSON = 15
-CNT = 94
-JS_FILE = "hd1_15.json"
+LESSON = 12
+CNT = 44
+JS_FILE = "hd1_p12.json"
 
 head = '''<html>
    <head>
@@ -33,7 +33,7 @@ head = '''<html>
    </head>
    <body>
       <div class="container">
-         <h3>第%d课</h3>
+         <h3>发音课 第%d课</h3>
          <table class="table">
             <tbody>'''
 tail1 = '''            </tbody>

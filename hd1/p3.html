@@ -1,0 +1,202 @@
+<html>
+   <head>
+      <title>Russian Vocabulary</title>
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+      <link rel="stylesheet" href="bootstrap.min.css">
+      <script src="jquery.min.js"></script>
+      <script src="popper.min.js"></script>
+      <script src="bootstrap.min.js"></script>
+      <script src="howler.core.min.js"></script>
+      <script src="howler.min.js"></script>
+      <style>
+         body {
+            padding-top: 2em;
+            background-color: #F8F8F8;
+         }
+         table {
+           table-layout: fixed;
+           word-wrap: break-word;
+         }
+         tr {
+            background-color: white;
+         }
+         td {
+            word-break: break-all;
+         }
+      </style>
+   </head>
+   <body>
+      <div class="container">
+         <h3>发音课 第3课</h3>
+         <table class="table">
+            <tbody>
+               <tr onclick="m('01')">
+                  <td>1</td>
+                  <td>1</td>
+               </tr>
+               <tr onclick="m('02')">
+                  <td>2</td>
+                  <td>2</td>
+               </tr>
+               <tr onclick="m('03')">
+                  <td>3</td>
+                  <td>3</td>
+               </tr>
+               <tr onclick="m('04')">
+                  <td>4</td>
+                  <td>4</td>
+               </tr>
+               <tr onclick="m('05')">
+                  <td>5</td>
+                  <td>5</td>
+               </tr>
+               <tr onclick="m('06')">
+                  <td>6</td>
+                  <td>6</td>
+               </tr>
+               <tr onclick="m('07')">
+                  <td>7</td>
+                  <td>7</td>
+               </tr>
+               <tr onclick="m('08')">
+                  <td>8</td>
+                  <td>8</td>
+               </tr>
+               <tr onclick="m('09')">
+                  <td>9</td>
+                  <td>9</td>
+               </tr>
+               <tr onclick="m('10')">
+                  <td>10</td>
+                  <td>10</td>
+               </tr>
+               <tr onclick="m('11')">
+                  <td>11</td>
+                  <td>11</td>
+               </tr>
+               <tr onclick="m('12')">
+                  <td>12</td>
+                  <td>12</td>
+               </tr>
+               <tr onclick="m('13')">
+                  <td>13</td>
+                  <td>13</td>
+               </tr>
+               <tr onclick="m('14')">
+                  <td>14</td>
+                  <td>14</td>
+               </tr>
+               <tr onclick="m('15')">
+                  <td>15</td>
+                  <td>15</td>
+               </tr>
+               <tr onclick="m('16')">
+                  <td>16</td>
+                  <td>16</td>
+               </tr>
+               <tr onclick="m('17')">
+                  <td>17</td>
+                  <td>17</td>
+               </tr>
+               <tr onclick="m('18')">
+                  <td>18</td>
+                  <td>18</td>
+               </tr>
+            </tbody>
+         </table>
+      </div>
+   </body>
+   <script>
+      var sound = new Howl(
+        {
+          "src": [
+            "hd1_p3.mp3"
+          ],
+          "sprite": {
+            "10": [
+              19000,
+              694.0589569160984
+            ],
+            "11": [
+              21000,
+              676.7120181405879
+            ],
+            "12": [
+              23000,
+              815.5328798185941
+            ],
+            "13": [
+              25000,
+              607.3242630385494
+            ],
+            "14": [
+              27000,
+              728.7755102040805
+            ],
+            "15": [
+              29000,
+              728.7755102040805
+            ],
+            "16": [
+              31000,
+              832.8798185941047
+            ],
+            "17": [
+              33000,
+              902.2902494331078
+            ],
+            "18": [
+              35000,
+              815.5328798185906
+            ],
+            "01": [
+              0,
+              867.5736961451247
+            ],
+            "02": [
+              2000,
+              989.0476190476192
+            ],
+            "03": [
+              4000,
+              902.2902494331069
+            ],
+            "04": [
+              6000,
+              572.6077097505673
+            ],
+            "05": [
+              8000,
+              971.7006802721091
+            ],
+            "06": [
+              10000,
+              832.8798185941047
+            ],
+            "07": [
+              12000,
+              1058.43537414966
+            ],
+            "08": [
+              15000,
+              624.6712018140599
+            ],
+            "09": [
+              17000,
+              815.5328798185941
+            ]
+          }
+        }
+      );
+      function m(p){
+        sound.play(p);
+      }
+      $('table tr').each(function(a,b){
+        $(b).click(function(){
+          $('table tr').css('background','white');
+          $(this).css('background','#E8E8E8');
+        });
+      });
+   </script>
+</html>

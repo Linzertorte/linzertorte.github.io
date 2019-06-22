@@ -1,0 +1,98 @@
+<html>
+   <head>
+      <title>Russian Vocabulary</title>
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+      <link rel="stylesheet" href="bootstrap.min.css">
+      <script src="jquery.min.js"></script>
+      <script src="popper.min.js"></script>
+      <script src="bootstrap.min.js"></script>
+      <script src="howler.core.min.js"></script>
+      <script src="howler.min.js"></script>
+      <style>
+         body {
+            padding-top: 2em;
+            background-color: #F8F8F8;
+         }
+         table {
+           table-layout: fixed;
+           word-wrap: break-word;
+         }
+         tr {
+            background-color: white;
+         }
+         td {
+            word-break: break-all;
+         }
+      </style>
+   </head>
+   <body>
+      <div class="container">
+         <h3>发音课 第1课</h3>
+         <table class="table">
+            <tbody>
+               <tr onclick="m('01')">
+                  <td>1</td>
+                  <td>1</td>
+               </tr>
+               <tr onclick="m('02')">
+                  <td>2</td>
+                  <td>2</td>
+               </tr>
+               <tr onclick="m('03')">
+                  <td>3</td>
+                  <td>3</td>
+               </tr>
+               <tr onclick="m('04')">
+                  <td>4</td>
+                  <td>4</td>
+               </tr>
+               <tr onclick="m('05')">
+                  <td>5</td>
+                  <td>5</td>
+               </tr>
+            </tbody>
+         </table>
+      </div>
+   </body>
+   <script>
+      var sound = new Howl(
+        {
+          "src": [
+            "hd1_p1.mp3"
+          ],
+          "sprite": {
+            "01": [
+              0,
+              1478.6621315192742
+            ],
+            "02": [
+              3000,
+              1333.1519274376421
+            ],
+            "03": [
+              6000,
+              1237.9138321995465
+            ],
+            "04": [
+              9000,
+              857.029478458049
+            ],
+            "05": [
+              11000,
+              1206.1678004535138
+            ]
+          }
+        }
+      );
+      function m(p){
+        sound.play(p);
+      }
+      $('table tr').each(function(a,b){
+        $(b).click(function(){
+          $('table tr').css('background','white');
+          $(this).css('background','#E8E8E8');
+        });
+      });
+   </script>
+</html>
