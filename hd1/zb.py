@@ -58,7 +58,7 @@ tail2 = '''      );
 print head%LESSON
 for i in xrange(1,CNT+1):
     r,c = str(i),str(i)
-    print '''               <tr onclick="m('%02d')">'''%(i+1)
+    print '''               <tr onclick="m('%02d')">'''%(i)
     print '''                  <td>%s</td>'''%r
     print '''                  <td>%s</td>'''%c
     print '''               </tr>'''
