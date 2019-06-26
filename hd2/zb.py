@@ -1,7 +1,7 @@
 # coding:utf-8
-LESSON = 12
-CNT = 55
-JS_FILE = "hd2_12.json"
+LESSON = 13
+CNT = 48
+JS_FILE = "hd2_13.json"
 
 head = '''<html>
    <head>
