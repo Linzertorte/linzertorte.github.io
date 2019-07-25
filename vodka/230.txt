@@ -1,0 +1,30 @@
+230. Фрукты. Ягоды
+фрукт, плод                   fruit
+фрукты, плоды                 fruits
+яблоко                        apple
+груша                         pear
+слива                         plum
+клубника                      strawberry
+вишня                         sour cherry
+черешня                       sweet cherry
+виноград                      grape
+малина                        raspberry
+чёрная смородина              blackcurrant
+красная смородина             redcurrant
+крыжовник                     gooseberry
+клюква                        cranberry
+апельсин                      orange
+мандарин                      mandarin
+ананас                        pineapple
+банан                         banana
+финик                         date
+лимон                         lemon
+абрикос                       apricot
+персик                        peach
+киви                          kiwi
+грейпфрут                     grapefruit
+ягода                         berry
+ягоды                         berries
+брусника                      cowberry
+земляника                     field strawberry
+черника                       bilberry

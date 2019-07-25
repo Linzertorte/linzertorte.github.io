@@ -1,0 +1,43 @@
+170. Поезд
+поезд                          train
+электричка                     suburban train
+скорый поезд                   fast train
+тепловоз                       diesel locomotive
+паровоз                        steam engine
+вагон                          passenger car
+вагон-ресторан                 dining car
+рельсы                         rails
+железная дорога                railroad
+шпала                          railway tie
+платформа                      platform
+путь                           track
+семафор                        semaphore
+станция                        station
+машинист                       engineer
+носильщик                      porter
+проводник                      train steward
+пассажир                       passenger
+контролёр                      conductor
+коридор (в поезде)             corridor
+стоп-кран                      emergency break
+купе                           compartment
+полка (для лежания)            berth
+полка верхняя                  upper berth
+полка нижняя                   lower berth
+постельное бельё               linen
+билет                          ticket
+расписание                     schedule
+табло (расписание)             information display
+отходить                       to leave, to depart
+отправление (поезда)           departure
+прибывать                      to arrive (vi)
+прибытие                       arrival
+приехать поездом               to arrive by train
+сесть на поезд                 to get on the train
+сойти с поезда                 to get off the train
+крушение                       train wreck
+сойти с рельс                  to be derailed
+паровоз                        steam engine
+кочегар                        stoker, fireman
+топка                         firebox
+уголь                         coal

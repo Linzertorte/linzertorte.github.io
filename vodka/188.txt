@@ -1,0 +1,62 @@
+188. Средние века
+народ                          people
+народы                         peoples
+племя                          tribe
+племена                        tribes
+варвары                        barbarians
+галлы                          Gauls
+готы                           Goths
+славяне                        Slavs
+викинги                        Vikings
+римляне                        Romans
+римский                        Roman  (adj)
+византийцы                     Byzantines
+Византия                       Byzantium
+византийский                   Byzantine (adj)
+император                      emperor
+вождь                          leader, chief
+могущественный                 powerful (adj)
+король                         king
+правитель                      ruler
+рыцарь                         knight
+рыцарский                      knightly(adj)
+феодал                         feudal lord
+феодальный                     feudal(adj)
+вассал                         vassal
+герцог                         duke
+граф                           earl
+барон                          baron
+епископ                        bishop
+доспехи                         armor
+щит                             shield
+меч                             sword
+забрало                         visor
+кольчуга                        chain armor
+крестовый поход                 crusade
+крестоносец                     crusader
+территория                      territory
+нападать                        to attack(vt)
+завоевать                       to conquer (vt)
+захватить                       to occupy (vt)
+осада                           siege
+осаждённый                      besieged (adj)
+осаждать                        to besiege (vt)
+инквизиция                      inquisition
+инквизитор                      inquisitor
+пытка                           torture
+жестокий                        cruel(adj)
+еретик                          heretic
+ересь                           heresy
+мореплавание                    seafaring
+пират                           pirate
+пиратство                       piracy
+абордаж                         boarding
+добыча                          loot
+сокровища                       treasures
+открытие (новых земель)         discovery
+открыть                         to discover(vt)
+экспедиция                      expedition
+мушкетёр                        musketeer
+кардинал                        cardinal
+геральдика                      heraldry
+геральдический                  heraldic(adj)

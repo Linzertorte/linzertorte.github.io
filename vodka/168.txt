@@ -1,0 +1,79 @@
+168. Инструменты
+инструмент                      tool, instrument
+инструменты                     tools
+оборудование                    equipment
+молоток                         hammer
+отвёртка                        screwdriver
+топор                           ax
+пила                            saw
+пилить                          to saw (vt)
+рубанок                         plane
+строгать                        to plane (vt)
+паяльник                        soldering iron
+паять                           to solder(vt)
+напильник                       file
+клещи                           carpenter pincers
+плоскогубцы                     lineman's pliers
+стамеска                        chisel
+сверло                          drill bit
+дрель                           electric drill
+сверлить                        to drillvi, vt)
+нож                             knife
+карманный нож                   pocket knife
+складной                        folding (adj)
+лезвие (ножа)                   blade
+острый (нож и т.п.)             sharp (adj)
+тупой                           blunt (adj)
+затупиться                      to become blunt
+точить                          to sharpen (vt)
+болт                            bolt
+гайка                           nut
+резьба (на винте)               thread
+шуруп                           wood screw
+гвоздь                          nail
+шляпка (гвоздя)                 nailhead
+линейка                         ruler
+рулетка                         tape measure
+уровень (инструмент)            spirit level
+лупа                            magnifying glass
+измерительный прибор            measuring instrument
+измерять                        to measure  (vt)
+шкала                           scale
+показание (прибора)             readings
+компрессор                      compressor
+микроскоп                       microscope
+насос                           pump
+робот                           robot
+лазер                           laser
+гаечный ключ                    wrench
+лента-скотч                     adhesive tape
+клей                            glue
+наждачная бумага                emery paper
+пружина                         spring
+магнит                          magnet
+перчатки                        gloves
+верёвка                         rope
+шнур (верёвка)                  cord
+провод                          wire
+кабель                          cable
+кувалда                         sledgehammer
+лом                             crowbar
+лестница (переносная)           ladder
+стремянка                       stepladder
+закручивать                     to screw (vt)
+откручивать                     to unscrew  (vt)
+зажимать                        to tighten(vt)
+приклеивать                     to glue, to stick
+резать                          to cut(vt)
+неисправность                   malfunction
+починка                         repair
+ремонтировать                   to repair(vt)
+регулировать (прибор)           to adjust(vt)
+проверять                       to check (vt)
+проверка                        checking
+показание (счётчика)            readings
+надёжный (механизм)             reliable(adj)
+сложный                         complicated  (adj)
+ржаветь                         to rust (vi)
+ржавый                          rusty, rusted(adj)
+ржавчина                        rust

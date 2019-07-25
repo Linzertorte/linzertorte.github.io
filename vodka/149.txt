@@ -1,0 +1,40 @@
+149. Театр
+театр                          theater
+опера                          opera
+оперетта                       operetta
+балет                          ballet
+афиша (театральная)            playbill
+труппа                         company
+гастроли                       tour
+гастролировать                 to be on tour
+репетировать                   to rehearse(vi, vt)
+репетиция                      rehearsal
+репертуар                      repertoire
+представление                  performance
+спектакль                      show, play
+пьеса                          play
+билет                          ticket
+билетная касса                 Box office
+холл (в театре)                lobby
+гардероб                       coat check
+номерок (для пальто)           coat check tag
+бинокль                        binoculars
+контролёр                      usher
+партер                         orchestra seats
+балкон                         balcony
+бельэтаж                       dress circle
+ложа                           box
+ряд                            row
+место                          seat
+публика                        audience
+зритель                        spectator
+хлопать (артистам)             to clap(vi, vt)
+аплодисменты                   applause
+овации                         ovation
+сцена                          stage
+занавес                        curtain
+декорация                      scenery
+кулисы                         backstage
+сцена (действие)               scene
+акт, действие                  act
+антракт                        intermission

@@ -1,0 +1,41 @@
+49. Блюда
+блюдо                           course, dish
+кухня (национальная)            cuisine
+рецепт (кулинарн.)              recipe
+порция                          portion
+салат                           salad
+суп                             soup
+бульон                          clear soup
+бутерброд                       sandwich
+яичница                         fried eggs
+котлета                         cutlet
+гамбургер                       hamburger
+бифштекс                        steak
+жаркое                          roast meat
+гарнир                          garnish
+спагетти                        spaghetti
+картофельное пюре               mashed potatoes
+пицца                           pizza
+каша                            porridge
+омлет                           omelet
+варёный                         boiled (adj)
+копчёный                        smoked   (adj)
+жареный (на сковороде)          fried (adj)
+сушёный                         dried (adj)
+замороженный                    frozen (adj)
+маринованный                    pickled (adj)
+сладкий (о чае, кофе)           sweet  (adj)
+солёный                         salty (adj)
+холодный                        cold (adj)
+горячий                         hot (adj)
+горький                         bitter(adj)
+вкусный                         tasty (adj)
+варить (готовить)               to cook  (vt)
+готовить (ужин)                 to cook  (vt)
+жарить                          to fry(vt)
+разогревать                     to heat up
+солить                          to salt(vt)
+перчить                         to pepper  (vt)
+тереть (на тёрке)               to grate(vt)
+кожура                          peel
+чистить (картошку и т.п.)       to peel(vt)

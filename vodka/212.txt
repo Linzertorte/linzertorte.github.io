@@ -1,0 +1,39 @@
+212. Домашние животные
+кошка                          cat
+кот                            tomcat
+собака, пёс                    dog
+лошадь                         horse
+жеребец                        stallion
+кобыла                         mare
+корова                         cow
+бык                            bull
+вол                            ox
+овца                           sheep
+баран                          ram
+коза                           goat
+козёл                          he-goat
+осёл                           donkey
+мул                            mule
+свинья                         pig
+поросёнок                      piglet
+кролик                         rabbit
+курица                         hen
+петух                          rooster
+утка                           duck
+селезень                       drake
+гусь                           goose
+индюк                          tom turkey
+индюшка                        turkey
+домашние животные              domestic animals
+ручной (о животных)            tame (adj)
+приручать                      to tame(vt)
+выращивать                     to breed(vt)
+ферма                          farm
+домашняя птица                 poultry
+скот                           cattle
+стадо                          herd
+конюшня                        stable
+свинарник                      pigpen
+коровник                       cowshed
+крольчатник                    rabbit hutch
+курятник                       hen house

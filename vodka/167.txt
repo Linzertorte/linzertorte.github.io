@@ -1,0 +1,34 @@
+167. Электричество
+электричество                   electricity
+электрический                   electricaladj)
+электростанция                  electric power station
+энергия                         energy
+электроэнергия                  electric power
+лампочка                        light bulb
+фонарь (ручной)                 flashlight
+фонарь (уличный)                street light
+свет (электричество)            light
+включать                        to turn on
+выключать                       to turn off
+погасить свет                   to turn off the light
+перегореть (о лампочке)         to burn out (vi)
+короткое замыкание              short circuit
+обрыв (провода)                 broken wire
+контакт                         contact
+выключатель                     switch
+розетка                         wall socket
+вилка                           plug
+удлинитель                      extension cord
+предохранитель                  fuze, fuse
+провод                          cable, wire
+проводка                        wiring
+ампер                           ampere
+сила тока                       amperage
+вольт                           volt
+напряжение                      voltage
+электроприбор                   electrical device
+индикатор                       indicator
+электрик                        electrician
+паять                           to solder(vt)
+паяльник                        soldering iron
+ток                             current

@@ -1,0 +1,16 @@
+87. Дом. Подъезд. Лифт
+подъезд                        entrance
+лестница                       stairs
+ступени                        steps
+перила                         banisters
+холл                           lobby
+почтовый ящик                  mailbox
+мусорный бак                   trash container
+мусоропровод                   trash chute
+лифт                           elevator
+грузовой лифт                  freight elevator
+кабина (лифта)                 elevator
+ехать на лифте                 to take the elevator
+квартира                       apartment
+жильцы                         residents
+соседи                         neighbors

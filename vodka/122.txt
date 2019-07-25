@@ -1,0 +1,40 @@
+122. Наука. Исследования. Учёные
+наука                          science
+научный                        scientific(adj)
+учёный                         scientist
+теория                         theory
+аксиома                        axiom
+анализ                         analysis
+анализировать                  to analyze (vt)
+аргумент                       argument
+вещество                       substance
+гипотеза                       hypothesis
+дилемма                        dilemma
+диссертация                    dissertation
+догма                          dogma
+доктрина                       doctrine
+исследование (поиск)           research
+исследовать                    to do research
+контроль (испытания)           testing
+лаборатория                    laboratory
+метод                          method
+молекула                       molecule
+мониторинг                     monitoring
+открытие (в науке)             discovery
+постулат                       postulate
+принцип                        principle
+прогноз                        forecast
+прогнозировать                 to forecast(vt)
+синтез                         synthesis
+тенденция                      trend
+теорема                        theorem
+учения                        teachings
+факт                          fact
+экспедиция                    expedition
+эксперимент                   experiment
+академик                      academician
+бакалавр                      bachelor
+доктор                        doctor, PhD
+доцент                        associate professor
+магистр                       master
+профессор                     professor

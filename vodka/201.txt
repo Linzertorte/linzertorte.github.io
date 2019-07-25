@@ -1,0 +1,15 @@
+201. Названия гор
+Альпы                         Alps
+Монблан                       Mont Blanc
+Пиренеи                       Pyrenees
+Карпаты                       Carpathians
+Уральские горы                Ural Mountains
+Кавказ                        Caucasus
+Эльбрус                       Elbrus
+Алтай                         Altai
+Тянь-Шань                     Tien Shan
+Памир                         Pamir Mountains
+Гималаи                       Himalayas
+Эверест                       Everest
+Анды                          Andes
+Килиманджаро                  Kilimanjaro

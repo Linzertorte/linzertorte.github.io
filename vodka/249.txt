@@ -1,0 +1,68 @@
+249. Термины общего характера
+база (основа)                 base
+баланс                        balance
+вариант                       variant
+вещь                          thing
+вид (напр. спорта)            kind
+выбор (ассортимент)           choice
+зона                          zone
+идеал                         ideal
+истина                        truth
+категория                     category
+компенсация                   compensation
+лабиринт                      labyrinth
+момент                        moment
+начало                        beginning
+объект (предмет)              object
+окончание (конец)             end
+оригинал                      original
+остановка (перерыв)           stop, pause
+очередь (в первую ~)          turn
+ошибка                        mistake
+пауза                         pause
+позиция                       position
+польза (полезность)           utility
+помощь                        help
+преграда                      barrier
+препятствие                   obstacle
+пример                        example
+принцип                       principle
+причина                       cause
+проблема                      problem
+прогресс                      progress
+процесс                       process
+развитие                       development
+различие                       difference
+реакция                        reaction
+решение (задачи)               solution
+риск                           risk
+рост (процесс)                 growth
+свойство                       property, quality
+секция                         section
+серия (ряд)                    series
+система                        system
+ситуация                       situation
+совпадение                     coincidence
+способ                         way
+сравнение                      comparison
+срочно                         urgently
+срочный                        urgent (adj)
+стандарт                       standard
+стандартный                    standard  (adj)
+степень                        degree
+стиль                          style
+таблица                        table, chart
+тайна, секрет                  secret
+темп                           tempo, rate
+термин                         term
+тип                            type
+удобный (мебель и т.п.)        comfortable  (adj)
+усилие                         effort
+факт                           fact
+фон                            background
+форма (внешний вид)            shape
+частица (часть чего-л.)        particle
+частый                         frequent (adj)
+часть (целого)                 part
+элемент                        element
+эффект                         effect

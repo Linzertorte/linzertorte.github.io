@@ -1,0 +1,44 @@
+246. Мировые религии. Конфессии
+религия                        religion
+религиозный                    religiousadj)
+верование                      belief
+верить (в бога)                to believe (vi)
+верующий  (сущ.)               believer
+атеизм                         atheism
+атеист                         atheist
+Христианство                   Christianity
+христианин                     Christian
+христианский                  Christian(adj)
+Католицизм                    Catholicism
+католик                       Catholic
+католический                  Catholic(adj)
+Протестантство                Protestantism
+Протестантская церковь        Protestant Church
+протестант                    Protestant
+Православие                   Orthodoxy
+Православная церковь          Orthodox Church
+православный                  Orthodox
+Пресвитерианство              Presbyterianism
+Пресвитерианская церковь      Presbyterian Church
+пресвитерианин                Presbyterian
+Лютеранская церковь           Lutheranism
+лютеранин                     Lutheran
+Баптизм                       Baptist Church
+баптист                       Baptist
+Англиканская церковь          Anglican
+англиканин                    Anglican
+Мормонство                    Mormonism
+мормон                        Mormon
+Иудаизм                       Judaism
+иудей                         Jew
+Буддизм                       Buddhism
+буддист                       Buddhist
+Индуизм                       Hinduism
+индуист                       Hindu
+Ислам                         Islam
+мусульманин                   Muslim
+мусульманский                 Muslim (adj)
+Шиизм                         Shiism
+шиит                          Shiite
+Суннизм                       Sunni
+суннит                        Sunnite

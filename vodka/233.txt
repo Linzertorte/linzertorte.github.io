@@ -1,0 +1,31 @@
+233. Овощи. Зелень
+овощи                          vegetables
+зелень                         greens
+помидор                        tomato
+огурец                         cucumber
+морковь                        carrot
+картофель                      potato
+лук (луковица)                 onion
+чеснок                         garlic
+капуста                        cabbage
+цветная капуста                cauliflower
+брюссельская капуста           Brussels sprouts
+капуста брокколи               broccoli
+свёкла                         beetroot
+баклажан                       eggplant
+кабачок                        zucchini
+тыква                          pumpkin
+репа                           turnip
+петрушка                       parsley
+укроп                          dill
+салат (латук)                  lettuce
+сельдерей                      celery
+спаржа                         asparagus
+шпинат                         spinach
+горох                          pea
+бобы                           beans
+кукуруза                       corn
+фасоль                         kidney bean
+перец                          bell pepper
+редис                          radish
+артишок                        artichoke

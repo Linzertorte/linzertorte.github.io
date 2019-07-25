@@ -1,0 +1,60 @@
+157. Книга. Чтение
+книга                          book
+автор                          author
+писатель                       writer
+написать (книгу)               to write(vt)
+читатель                       reader
+читать                         to read (vi, vt)
+чтение                         reading
+про себя (читать)              silently
+вслух                          aloud
+издавать (книгу)               to publish (vt)
+издание                        publishing
+издатель                       publisher
+издательство                   publishing house
+выйти (о книге)                to come out
+выход (книги)                  release
+тираж (книги)                  print run
+книжный магазин                bookstore
+библиотека                     library
+повесть                        story
+рассказ                        short story
+роман                          novel
+детектив                       detective novel
+мемуары                        memoirs
+легенда                        legend
+миф                            myth
+стихи                          poetry, poems
+автобиография                  autobiography
+избранное                      selected works
+фантастика (научная)           science fiction
+название                       title
+введение                       introduction
+титульный лист                 title page
+глава (книги)                  chapter
+отрывок                        extract
+эпизод                         episode
+сюжет                          plot, storyline
+содержание (список)            contents
+главный герой                  main character
+том                            volume
+обложка (книги)                cover
+закладка                       bookmark
+страница                       page
+листать                        to flick through
+поля (на странице)             margins
+пометка                        annotation
+примечание                     footnote
+текст                          text
+шрифт                          type, font
+опечатка                       misprint, typo
+перевод                        translation
+переводить                     to translatevt)
+подлинник                      original
+знаменитый                     famous  (adj)
+неизвестный                    unknown  (adj)
+интересный                     interesting (adj)
+бестселлер                     bestseller
+словарь                        dictionary
+учебник                        textbook
+энциклопедия                   encyclopedia

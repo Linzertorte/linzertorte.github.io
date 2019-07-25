@@ -1,0 +1,25 @@
+129. Профессии в области искусства
+актёр                         actor
+актриса                       actress
+певец                         singer
+певица                        singer
+танцор                        dancer
+танцовщица                    dancer
+музыкант                      musician
+пианист                       pianist
+гитарист                      guitar player
+дирижёр                       conductor
+композитор                    composer
+импресарио                    impresario
+режиссёр                      movie director
+продюсер                      producer
+сценарист                     scriptwriter
+критик                        critic
+писатель                      writer
+поэт                          poet
+скульптор                     sculptor
+художник                      artist, painter
+жонглёр                       juggler
+клоун                         clown
+акробат                       acrobat
+фокусник                      magician

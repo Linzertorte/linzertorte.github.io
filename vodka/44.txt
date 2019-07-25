@@ -1,0 +1,75 @@
+44. Продукты
+мясо                          meat
+курица                        chicken
+цыплёнок                      young chicken
+утка                          duck
+гусь                          goose
+дичь                          game
+индейка                       turkey
+свинина                       pork
+телятина                      veal
+баранина                      lamb
+говядина                      beef
+кролик                        rabbit
+колбаса                       sausage
+сосиска                       vienna sausage
+бекон                         bacon
+ветчина                       ham
+окорок                        gammon
+паштет                        pâté
+печень                        liver
+сало                          lard
+фарш                          ground beef
+язык                          tongue
+яйцо                          egg
+яйца                          eggs
+белок                         egg white
+желток                        egg yolk
+рыба                          fish
+морепродукты                  seafood
+ракообразные                  crustaceans
+икра                          caviar
+краб                          crab
+креветка                      shrimp
+устрица                       oyster
+лангуст                       spiny lobster
+осьминог                      octopus
+кальмар                       squid
+осетрина                      sturgeon
+лосось                        salmon
+палтус                        halibut
+треска                        cod
+скумбрия                      mackerel
+тунец                         tuna
+угорь                         eel
+форель                        trout
+сардина                       sardine
+щука                          pike
+сельдь                        herring
+хлеб                          bread
+сыр                           cheese
+сахар                         sugar
+соль                          salt
+рис                           rice
+макароны                      pasta
+лапша                         noodles
+сливочное масло               butter
+масло растительное            vegetable oil
+подсолнечное масло            sunflower oil
+маргарин                      margarine
+оливки                        olives
+масло оливковое               olive oil
+молоко                        milk
+сгущённое молоко              condensed milk
+йогурт                        yogurt
+сметана                       sour cream
+сливки                        cream
+майонез                       mayonnaise
+крем                          buttercream
+крупа                         groats
+мука                          flour
+консервы                      canned food
+кукурузные хлопья             cornflakes
+мёд                           honey
+джем, конфитюр                jam
+жевательная резинка           chewing gum

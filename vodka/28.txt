@@ -1,0 +1,25 @@
+28. Металлы
+металл                          metal
+металлический                   metal (as adj)
+сплав                           alloy
+золото                          gold
+золотой                         gold, golden (adj)
+серебро                         silver
+серебряный                      silver(adj)
+железо                          iron
+железный                        iron, made of iron
+сталь                           steel
+стальной                        steel(as adj)
+медь                            copper
+медный                          copper  (as adj)
+алюминий                       aluminum
+алюминиевый                    aluminum  (as adj)
+бронза                         bronze
+бронзовый                      bronze (as adj)
+латунь                         brass
+никель                         nickel
+платина                        platinum
+ртуть                          mercury
+олово                          tin
+свинец                         lead
+цинк                           zinc

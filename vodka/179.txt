@@ -1,0 +1,43 @@
+179. Автомобиль. Дорога
+дорога                         road
+автомагистраль                 highway
+шоссе                          freeway
+направление                    direction
+расстояние                     distance
+мост                           bridge
+паркинг, парковка              parking lot
+площадь                        square
+развязка                       interchange
+тоннель                        tunnel
+автозаправка                   gas station
+автостоянка                    parking lot
+бензоколонка                   gas pump
+заправить (машину)             to get gas
+топливо, горючее               fuel
+канистра                       jerrycan
+асфальт                        asphalt
+разметка                       road markings
+бордюр                          curb
+ограждение                      guardrail
+кювет                           ditch
+обочина                         roadside
+столб                           lamppost
+вести (автомобиль)              to drive(vi, vt)
+поворачивать                    to turn (vi)
+разворачиваться                 to make a U-turn
+задний ход                      reverse
+сигналить (авто)                to honk (vi)
+звуковой сигнал                 honk
+застрять                        to get stuck
+буксовать                       to spin (vi)
+глушить (мотор)                 to stop, to turn off
+скорость                        speed
+превысить скорость              to exceed the speed limit
+штрафовать                      to give sb a ticket
+светофор                        traffic lights
+права водительские              driver's license
+переезд                         grade crossing
+перекрёсток                     intersection
+пешеходный переход              crosswalk
+поворот (место на дороге)       turn
+пешеходная зона                 pedestrian zone

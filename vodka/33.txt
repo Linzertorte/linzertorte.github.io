@@ -1,0 +1,11 @@
+33. Верхняя одежда
+одежда                        clothes
+верхняя одежда                outer clothing
+зимняя одежда                 winter clothing
+пальто                        overcoat
+шуба                          fur coat
+полушубок                     fur jacket
+пуховик                       down coat
+куртка (кожаная и т.п.)       jacket
+плащ                          raincoat
+непромокаемый                 waterproof (adj)

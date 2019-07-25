@@ -1,0 +1,17 @@
+232. Зерновые
+зерно (собират.)               grain
+зерновые растения              cereals
+колос                          ear
+пшеница                        wheat
+рожь                           rye
+овёс                           oats
+просо                          millet
+ячмень                         barley
+кукуруза                       corn
+рис                            rice
+гречиха                        buckwheat
+горох                          pea
+фасоль                         kidney bean
+соя                            soy
+чечевица                       lentil
+бобы                           beans

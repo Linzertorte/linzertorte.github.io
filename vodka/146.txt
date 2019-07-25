@@ -1,0 +1,40 @@
+146. Изучение иностранных языков
+язык (напр. русский)           language
+иностранный                    foreign(adj)
+изучать                        to study(vt)
+учить (иностр. язык)            to learn(vt)
+читать                          to read(vi, vt)
+говорить                        to speak (vi, vt)
+понимать                        to understand (vt)
+писать                          to write(vt)
+быстро                          quickly, fast
+медленно                        slowly
+свободно                        fluently
+правила                         rules
+грамматика                      grammar
+лексика                         vocabulary
+фонетика                        phonetics
+учебник                         textbook
+словарь                         dictionary
+самоучитель                     teach-yourself book
+разговорник                     phrasebook
+кассета                         cassette
+видеокассета                    videotape
+CD, компакт-диск                CD, compact disc
+DVD-диск                        DVD
+алфавит                         alphabet
+говорить по буквам              to spell(vt)
+произношение                    pronunciation
+акцент                          accent
+с акцентом                      with an accent
+без акцента                     without an accent
+слово (единица речи)            word
+смысл (напр. слова)             meaning
+курсы                           course
+записаться (на курсы)           to sign up
+преподаватель                   teacher
+перевод (текст)                 translation
+переводчик                      translator
+переводчик (устный)             interpreter
+полиглот                        polyglot
+память                          memory

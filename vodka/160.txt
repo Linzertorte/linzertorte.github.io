@@ -1,0 +1,18 @@
+160. Игры. Карты
+бубны                          diamonds
+пики                           spades
+червы                          hearts
+трефы                          clubs
+туз                            ace
+король                         king
+дама                           queen
+валет                          jack, knave
+карта игральная                playing card
+карты                          cards
+козырь                         trump
+колода                         deck of cards
+очко (в игре)                  point
+сдавать (карты)                to deal(vi, vt)
+тасовать                       to shuffle(vt)
+ход (в игре)                   lead, turn
+шулер                          cardsharp

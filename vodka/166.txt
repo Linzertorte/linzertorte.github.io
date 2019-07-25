@@ -1,0 +1,37 @@
+166. Интернет. E-mail
+интернет                        Internet
+браузер                         browser
+поисковый ресурс                search engine
+провайдер                       provider
+веб-мастер                      web master
+веб-сайт                        website
+веб-страница                    web page
+адрес                           address
+адресная книга                  address book
+почтовый ящик                   mailbox
+почта (сообщения)               mail
+переполненный (ящик)            fulladj)
+сообщение                       message
+входящие сообщения              incoming messages
+исходящие сообщения             outgoing messages
+отправитель                     sender
+отправить                       to send (vt)
+отправка (письма)               sending
+получатель                      receiver
+получить                        to receive(vt)
+переписка                       correspondence
+переписываться                  to correspond (vi)
+файл                            file
+скачать (скопировать)           to download (vt)
+создать                         to create(vt)
+удалить                         to delete(vt)
+удалённый (о файле)             deleted (adj)
+связь                           connection
+скорость                        speed
+модем                           modem
+доступ                          access
+порт (комп.)                    port
+подключение                     connection
+подключиться                    to connect to …
+выбрать                         to select(vt)
+искать                          to search for …

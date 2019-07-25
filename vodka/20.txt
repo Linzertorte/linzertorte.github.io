@@ -1,0 +1,39 @@
+20. Часы. Время суток
+утро                          morning
+утром                         in the morning
+полдень                       noon, midday
+после обеда                   in the afternoon
+вечер                          evening
+вечером                        in the evening
+ночь                           night
+ночью                          at night
+полночь                        midnight
+секунда                        second
+минута                         minute
+час                            hour
+полчаса                        half an hour
+четверть часа                  quarter of an hour
+15 минут                       fifteen minutes
+сутки                          twenty four hours
+восход солнца                  sunrise
+рассвет                        dawn
+раннее утро                    early morning
+закат                          sunset
+рано утром                     early in the morning
+сегодня утром                  this morning
+завтра утром                   tomorrow morning
+сегодня днём                   this afternoon
+после обеда                    in the afternoon
+завтра после обеда             tomorrow afternoon
+сегодня вечером                tonight
+завтра вечером                 tomorrow night
+ровно в 3 часа                 at 3 o'clock sharp
+около 4-х часов                about 4 o'clock
+к 12-ти часам                  by 12 o'clock
+через 20 минут                 in 20 minutes
+через час                      in an hour
+вовремя                        on time
+без четверти                   a quarter of …
+в течение часа                 within an hour
+каждые 15 минут                every 15 minutes
+круглые сутки                  round the clock

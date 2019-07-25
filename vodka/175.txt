@@ -1,0 +1,55 @@
+175. Автомобиль. Кузов
+капот                         hood
+крыло                         fender
+крыша                         roof
+ветровое стекло               windshield
+зеркало заднего вида          rear-view mirror
+омыватель                     windshield washer
+щетки стеклоочистителя        windshield wipers
+боковое стекло                side window
+стеклоподъёмник               window lift
+антенна                       antenna
+люк                           sun roof
+бампер                        bumper
+багажник                      trunk
+багажник (на крыше)           roof luggage rack
+дверца                        door
+ручка (двери)                 door handle
+замок                           door lock
+номер (авто)                    license plate
+глушитель                       muffler
+бензобак                        gas tank
+выхлопная труба                 tail pipe
+газ                             gas, accelerator
+педаль                          pedal
+педаль газа                     gas pedal
+тормоз                          brake
+педаль тормоза                  brake pedal
+тормозить                       to slow down
+стояночный тормоз               parking brake
+сцепление                       clutch
+педаль сцепления                clutch pedal
+диск сцепления                  clutch plate
+амортизатор                     shock absorber
+колесо                          wheel
+запасное колесо                 spare tire
+покрышка, шина                  tire
+колпак (на колесе)              hubcap
+ведущие колёса                  driving wheels
+переднеприводный                front-wheel drive(adj)
+заднеприводный                  rear-wheel drive(adj)
+полноприводный                  all-wheel drive(adj)
+коробка передач                 gearbox
+автоматический                  automatic (adj)
+механический                    mechanical  (adj)
+рычаг коробки передач           gear shift
+фара                            headlight
+фары (свет)                     headlights
+ближний свет                    low beam
+дальний свет                    high beam
+стоп-сигнал                     brake light
+габаритные огни                 parking lights
+аварийные огни                  hazard lights
+противотуманные фары            fog lights
+указатель поворота              turn signal
+фонарь заднего хода             back-up light

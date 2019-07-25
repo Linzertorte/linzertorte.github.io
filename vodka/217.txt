@@ -1,0 +1,10 @@
+217. Птицы. Пение. Звуки
+петь                           to sing (vi)
+кричать                        to call (vi)
+кукарекать                     to crow (vi)
+кукареку                       cock-a-doodle-doo
+кудахтать                      to cluck (vi)
+каркать                        to caw (vi)
+крякать                        to quack (vi)
+пищать (о птицах)              to cheep (vi)
+чирикать                       to chirp, to twitter

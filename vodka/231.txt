@@ -1,0 +1,53 @@
+231. Цветы. Растения
+цветок                        flower
+букет                         bouquet
+роза                          rose
+тюльпан                       tulip
+гвоздика                      carnation
+гладиолус                     gladiolus
+василёк                       cornflower
+колокольчик                   bluebell
+одуванчик                     dandelion
+ромашка                       camomile
+алоэ                          aloe
+кактус                        cactus
+фикус                         rubber plant
+лилия                         lily
+герань                        geranium
+гиацинт                       hyacinth
+мимоза                        mimosa
+нарцисс                       narcissus
+настурция                      nasturtium
+орхидея                        orchid
+пион                           peony
+фиалка                         violet
+анютины глазки                 pansy
+незабудка                      forget-me-not
+маргаритка                     daisy
+мак                            poppy
+конопля                        hemp
+мята                           mint
+ландыш                         lily of the valley
+подснежник                     snowdrop
+крапива                        nettle
+щавель                         sorrel
+кувшинка                       water lily
+папоротник                     fern
+лишайник                       lichen
+оранжерея                      tropical greenhouse
+газон                          lawn
+клумба                         flowerbed
+растение                       plant
+трава                          grass
+травинка                       blade of grass
+лист (растения)                leaf
+лепесток                       petal
+стебель                        stem
+клубень                        tuber
+росток                         young plant
+шип (растения)                 thorn
+цвести                         to blossom (vi)
+вянуть                         to fade (vi)
+запах                          smell
+срезать                        to cut(vt)
+сорвать (цветок)               to pick(vt)

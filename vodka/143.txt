@@ -1,0 +1,17 @@
+143. Высшее учебное заведение
+академия                       academy
+университет                    university
+факультет                      faculty
+студент                        student
+студентка                      student
+преподаватель                  lecturer
+аудитория (помещение)          lecture hall
+выпускник (вуза)               graduate
+диплом                         diploma
+диссертация                    dissertation
+исследование (научн. труд)     study
+лаборатория                    laboratory
+лекция                         lecture
+однокурсник                    course mate
+стипендия                    scholarship
+учёная степень               academic degree

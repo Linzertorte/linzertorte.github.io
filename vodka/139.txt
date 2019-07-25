@@ -1,0 +1,25 @@
+139. Шахматы
+шахматы (игра)                 chess
+шахматы (фигуры)               chessmen
+шахматист                      chess player
+шахматная доска                chessboard
+фигура (шахм.)                 chessman
+белые                          White
+чёрные                         Black
+пешка                          pawn
+слон                           bishop
+конь                           knight
+ладья                          rook
+ферзь                          queen
+король                         king
+ход                            move
+ходить                         to move (vt)
+пожертвовать (фигуру)          to sacrificevt)
+рокировка (шахм.)              castling
+шах                            check
+мат                            checkmate
+шахматный турнир               chess tournament
+гроссмейстер                   Grand Master
+комбинация                     combination
+партия                         game
+шашки                          checkers

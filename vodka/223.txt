@@ -1,0 +1,25 @@
+223. Животные. Среда обитания
+среда обитания                  habitat
+миграция                        migration
+гора                            mountain
+риф                             reef
+скала                           cliff
+лес                             forest
+джунгли                         jungle
+саванна                         savanna
+тундра                          tundra
+степь                           steppe
+пустыня                         desert
+оазис                           oasis
+море                            sea
+озеро                           lake
+океан                           ocean
+болото                          swamp
+пресноводный                    freshwater  (adj)
+пруд                            pond
+река                            river
+берлога                        den
+гнездо                         nest
+дупло                          hollow
+нора                           burrow
+муравейник                     anthill

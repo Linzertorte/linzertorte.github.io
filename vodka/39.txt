@@ -1,0 +1,23 @@
+39. Аксессуары
+перчатки                       gloves
+варежки                        mittens
+шарф                           scarf
+очки                           glasses
+оправа                         frame
+зонт                           umbrella
+трость                         walking stick
+щётка для волос                hairbrush
+веер                           fan
+галстук                        necktie
+галстук-бабочка                bow tie
+подтяжки                       suspenders
+носовой платок                 handkerchief
+расчёска                       comb
+заколка                        barrette
+шпилька                        hairpin
+пряжка                         buckle
+пояс (ремень)                  belt
+ремень (сумки)                 shoulder strap
+сумка                          bag
+сумочка (женская)              purse
+рюкзак                         backpack

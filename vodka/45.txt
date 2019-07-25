@@ -1,0 +1,43 @@
+45. Напитки
+вода                          water
+питьевая вода                 drinking water
+минеральная вода               mineral water
+без газа                       stilladj)
+газированный                   carbonated  (adj)
+с газом                        sparkling (adj)
+лёд                            ice
+со льдом                       with ice(adj)
+безалкогольный                 non-alcoholic (adj)
+безалкогольный напиток         soft drink
+прохладительный напиток        cool soft drink
+лимонад                        lemonade
+алкогольные напитки            liquor
+вино                           wine
+белое вино                     white wine
+красное вино                   red wine
+ликёр                          liqueur
+шампанское                     champagne
+вермут                         vermouth
+виски                          whisky
+водка                          vodka
+джин                           gin
+коньяк                         cognac
+ром                            rum
+кофе                           coffee
+чёрный кофе                    black coffee
+кофе с молоком                 coffee with milk
+капучино                       cappuccino
+растворимый кофе               instant coffee
+молоко                         milk
+коктейль                       cocktail
+молочный коктейль              milk shake
+сок                            juice
+томатный сок                   tomato juice
+апельсиновый сок               orange juice
+свежевыжатый сок               freshly squeezed juice
+пиво                           beer
+светлое пиво                   light beer
+тёмное пиво                    dark beer
+чай                            tea
+чёрный чай                     black tea
+зелёный чай                    green tea

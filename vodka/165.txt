@@ -1,0 +1,40 @@
+165. Компьютер
+компьютер                      computer
+ноутбук                        notebook, laptop
+включить                       to switch on
+выключить                      to turn off
+клавиатура                     keyboard
+клавиша                        key
+мышь                           mouse
+коврик для мыши                mouse pad
+кнопка                         button
+курсор                         cursor
+монитор                        monitor
+экран                          screen
+жёсткий диск                   hard disk
+объём жесткого диска           hard disk volume
+память                         memory
+оперативная память             random access memory
+файл                           file
+папка (комп.)                  folder
+открыть                        to open (vt)
+закрыть                        to close(vt)
+сохранить                      to save (vt)
+удалить                        to delete(vt)
+скопировать                    to copy (vt)
+сортировать                    to sort(vt)
+программа                      program
+программное обеспечение        software
+программист                    programmer
+программировать                to program (vt)
+хакер                          hacker
+пароль                         password
+вирус                          virus
+обнаружить                      to find, to detect
+байт                            byte
+мегабайт                        megabyte
+данные                          data
+база данных                     database
+кабель                          cable
+отсоединить                     to disconnect (vt)
+подсоединить                    to connect (vt)

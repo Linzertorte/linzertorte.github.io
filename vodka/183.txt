@@ -1,0 +1,46 @@
+183. Война. Люди
+взвод                          platoon
+рота                           company
+полк                           regiment
+армия                          army
+дивизия                        division
+отряд                          detachment
+войско                         host
+солдат                         soldier
+офицер                         officer
+рядовой                        private
+сержант                        sergeant
+лейтенант                      lieutenant
+капитан                        captain
+майор                          major
+полковник                      colonel
+генерал                        general
+моряк                          sailor
+капитан                        captain
+боцман                         boatswain
+артиллерист                    artilleryman
+десантник                      paratrooper
+лётчик                         pilot
+штурман                        navigator
+механик                        mechanic
+сапёр                          pioneer
+парашютист                     parachutist
+разведчик                      scout
+снайпер                        sniper
+патруль                        patrol
+патрулировать                  to patrol(vi, vt)
+часовой (воен.)                sentry, guard
+воин                           warrior
+герой                          hero
+героиня                        heroine
+патриот                        patriot
+предатель                      traitor
+предавать, изменять            to betray(vt)
+дезертир                       deserter
+дезертировать                  to desert (vi)
+наёмник                        mercenary
+новобранец                      recruit
+доброволец                      volunteer
+убитый  (сущ.)                  dead
+раненый  (сущ.)                 wounded
+пленный  (сущ.)                 prisoner of war

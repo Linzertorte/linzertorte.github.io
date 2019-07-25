@@ -1,0 +1,31 @@
+207. Стихия
+гроза                          thunderstorm
+молния                         lightning
+сверкать                       to flash (vi)
+гром                           thunder
+греметь (о громе)              to thunder (vi)
+гремит гром                    it's thundering
+град                           hail
+идёт град                      it's hailing
+затопить (залить водой)        to floodvt)
+наводнение                     flood
+землетрясение                  earthquake
+толчок (подземный)             tremor, quake
+эпицентр                       epicenter
+извержение                     eruption
+лава                           lava
+смерч                          twister
+торнадо                        tornado
+тайфун                         typhoon
+ураган                         hurricane
+буря                           storm
+цунами                         tsunami
+циклон                         cyclone
+непогода                       bad weather
+пожар                          fire
+катастрофа                     disaster
+метеорит                       meteorite
+лавина                         avalanche
+обвал (снежный)                snowslide
+метель                         blizzard
+вьюга                          snowstorm

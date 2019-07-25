@@ -1,0 +1,37 @@
+206. Погода
+погода                          weather
+прогноз погоды                  weather forecast
+температура                     temperature
+термометр                       thermometer
+барометр                        barometer
+влажный                         humid (adj)
+влажность                       humidity
+жара                            heat
+жаркий                          hot, torridadj)
+жарко (о погоде)                it's hot
+тепло (о погоде)                it's warm
+тёплый (день)                   warm  (adj)
+холодно (о погоде)              it's cold
+холодный                        cold (adj)
+солнце                          sun
+светить (о солнце)              to shine (vi)
+солнечный (день)                sunny (adj)
+взойти                          to come up (vi)
+сесть                           to set (vi)
+облако                          cloud
+облачный                        cloudy (adj)
+туча                            rain cloud
+пасмурный                       somber  (adj)
+дождь                           rain
+идёт дождь                      it's raining
+дождливый                       rainy(adj)
+моросить                        to drizzle (vi)
+проливной дождь                 pouring rain
+ливень                          downpour
+сильный (дождь)                 heavy (adj)
+лужа (на улице)                 puddle
+промокнуть                      to get wet
+туман                           mist
+туманный                        misty (adj)
+снег                            snow
+идёт снег                       it's snowing

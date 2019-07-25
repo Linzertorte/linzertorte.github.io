@@ -1,0 +1,38 @@
+169. Самолёт
+самолёт                        airplane
+авиабилет                      air ticket
+авиакомпания                   airline
+аэропорт                       airport
+сверхзвуковой                  supersonic (adj)
+командир корабля               captain
+экипаж                         crew
+пилот                          pilot
+стюардесса                     flight attendant
+штурман                        navigator
+крылья                         wings
+хвост                          tail
+кабина                         cockpit
+двигатель                      engine
+шасси                          undercarriage
+турбина                        turbine
+пропеллер                      propeller
+чёрный ящик                    black box
+штурвал                        control column
+горючее                        fuel
+инструкция по безопасности     safety card
+кислородная маска              oxygen mask
+униформа                       uniform
+спасательный жилет             life vest
+парашют                        parachute
+взлёт                          takeoff
+взлетать                       to take off (vi)
+взлётная полоса                runway
+видимость                      visibility
+полёт                          flight
+высота                         altitude
+воздушная яма                  air pocket
+место                          seat
+наушники                       headphones
+откидной столик                folding tray
+иллюминатор                    window
+проход (между креслами)        aisle

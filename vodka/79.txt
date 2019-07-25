@@ -1,0 +1,56 @@
+79. Городские учреждения
+магазин                        store
+аптека                         drugstore, pharmacy
+оптика                         optical store
+торговый центр                 shopping mall
+супермаркет                    supermarket
+булочная                       bakery
+пекарь                         baker
+кондитерская                   cake store
+бакалея                        grocery store
+мясная лавка                   butcher shop
+овощная лавка                  produce store
+рынок                          market
+кофейня                        coffee house
+ресторан                       restaurant
+пивная                         pub
+пиццерия                       pizzeria
+парикмахерская                 hair salon
+почта                          post office
+химчистка                      dry cleaners
+фотоателье                     photo studio
+обувной магазин                shoe store
+книжный магазин                bookstore
+спортивный магазин             sporting goods store
+ремонт одежды                  clothes repair
+прокат одежды                  formal wear rental
+прокат фильмов                 movie rental store
+цирк                           circus
+зоопарк                        zoo
+кинотеатр                      movie theater
+музей                          museum
+библиотека                     library
+театр                          theater
+опера                          opera
+ночной клуб                    nightclub
+казино                         casino
+мечеть                         mosque
+синагога                       synagogue
+собор                          cathedral
+храм                           temple
+церковь                        church
+институт                       institute
+университет                    university
+школа                          school
+префектура                     prefecture
+мэрия                          city hall
+гостиница                      hotel
+банк                           bank
+посольство                     embassy
+турагентство                   travel agency
+справочное бюро                information office
+обменный пункт                 money exchange
+метро                          subway
+больница                       hospital
+бензозаправка                  gas station
+автостоянка                    parking lot

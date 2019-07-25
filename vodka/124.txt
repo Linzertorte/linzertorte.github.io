@@ -1,0 +1,48 @@
+124. Люди в среде бизнеса
+директор                      director
+управляющий                   manager
+руководитель, шеф             boss
+начальник                     superior
+начальство                    superiors
+президент                     president
+председатель                  chairman
+заместитель                   deputy
+помощник                      assistant
+секретарь                      secretary
+личный секретарь               personal assistant
+бизнесмен                      businessman
+предприниматель                entrepreneur
+основатель                     founder
+основать                       to found(vt)
+учредитель                     incorporator
+партнёр                        partner
+акционер                       stockholder
+миллионер                      millionaire
+миллиардер                     billionaire
+владелец                       owner
+землевладелец                  landowner
+клиент                         client
+постоянный клиент              regular client
+покупатель                     buyer
+посетитель                     visitor
+профессионал                   professional
+эксперт                        expert
+специалист                     specialist
+банкир                         banker
+брокер                         broker
+кассир                         cashier, teller
+бухгалтер                      accountant
+охранник                       security guard
+инвестор                       investor
+должник                        debtor
+кредитор                       creditor
+заёмщик                        borrower
+импортёр                       importer
+экспортёр                      exporter
+производитель                  manufacturer
+дистрибьютор                   distributor
+посредник                      middleman
+консультант                    consultant
+представитель                  representative
+агент                          agent
+страховой агент                insurance agent

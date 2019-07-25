@@ -1,0 +1,30 @@
+156. Гостиница
+гостиница                      hotel
+мотель                         motel
+3 звезды                       three-star(adj)
+5 звёзд                        five-star(adj)
+остановиться (в отеле)         to stay (vi)
+номер (в гостинице)            room
+одноместный номер              single room
+двухместный номер              double room
+бронировать номер              to book a room
+полупансион                    half board
+полный пансион                 full board
+с ванной                       with bath (adj)
+с душем                        with shower
+спутниковое телевидение        satellite television
+кондиционер                    air-conditioner
+полотенце                      towel
+ключ                           key
+администратор                  administrator
+горничная                      chambermaid
+носильщик                      porter, bellboy
+портье                         doorman
+ресторан                       restaurant
+бар                            pub, bar
+завтрак                        breakfast
+ужин                           dinner
+шведский стол                  buffet
+лифт                           elevator
+НЕ БЕСПОКОИТЬ                  DO NOT DISTURB
+НЕ КУРИТЬ!                     NO SMOKING

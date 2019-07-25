@@ -1,0 +1,35 @@
+227. Деревья
+дерево                        tree
+лиственное                    deciduous  (adj)
+хвойное                       coniferous (adj)
+вечнозеленое                  evergreen (adj)
+яблоня                        apple tree
+груша                         pear tree
+черешня                       sweet cherry tree
+вишня                         sour cherry tree
+слива                         plum tree
+берёза                        birch
+дуб                           oak
+липа                          linden tree
+осина                         aspen
+клён                          maple
+ель                           spruce
+сосна                         pine
+лиственница                   larch
+пихта                         fir
+кедр                          cedar
+тополь                        poplar
+рябина                        rowan
+ива                           willow
+ольха                         alder
+бук                           beech
+вяз                           elm
+ясень                         ash
+каштан                        chestnut
+магнолия                      magnolia
+пальма                        palm tree
+кипарис                       cypress
+мангровое дерево              mangrove
+баобаб                        baobab
+эвкалипт                      eucalyptus
+секвойя                       sequoia

@@ -1,0 +1,72 @@
+117. Отрасли и виды бизнеса
+авиакомпания                   airline
+антиквариат                    antiques
+аптека                         drugstore, pharmacy
+ателье                         tailors
+аудиторские услуги             audit services
+банковский бизнес              banks
+бар                            pub, bar
+бассейн                        swimming pool
+бизнес-центр                   business center
+бизнес-школа                   business school
+биржа                          stock exchange
+бухгалтерские услуги           accounting services
+ветеринар                      veterinarian
+вывоз мусора                   waste collection
+газета                         newspaper
+арт-галерея                    art gallery
+гостиница                      hotel
+дизайн                         design
+журнал                         magazine
+издательство                   publishing house
+инвестиции                     investment
+интернет                       Internet
+информационное агентство       news agency
+кадровое агентство             employment agency
+казино                         casino
+кинотеатр                      movie theater
+книжный магазин                bookstore
+кондиционеры                   air-conditioners
+консалтинг                     consulting
+курьерская служба              parcels service
+лёгкая промышленность          light industry
+магазин                        store
+мебель                         furniture
+медицина                       medicine
+мороженое                      ice-cream
+музей                          museum
+недвижимость                   real estate
+нефть                          oil, petroleum
+ночной клуб                    nightclub
+одежда                         garment
+охранное агентство             security agency
+перевозки                      transportation
+пивоварня                      brewery
+полиграфия                     printing
+похоронное бюро                funeral home
+прачечная                      laundry
+продукты питания               food products
+промышленность                 industry
+радио                          radio
+реклама                        advertising
+рекламное агентство            advertising agency
+ресторан                       restaurant
+салон красоты                  beauty parlor
+склад                          warehouse
+спиртные напитки               alcoholic drinks
+спорт                          sports
+стоматология                   dentistry
+страхование                    insurance
+строительство                  construction
+супермаркет                    supermarket
+театр                          theater
+телевидение                    television
+торговля                       trade
+торговля по каталогу           mail-order selling
+туризм                         travel
+фармацевтика                   pharmaceuticals
+финансовые услуги              financial services
+химчистка                      dry cleaners
+ювелир                         jeweler
+ювелирные изделия              jewelry
+юридические услуги             legal advisor

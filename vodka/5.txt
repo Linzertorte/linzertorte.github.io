@@ -1,0 +1,17 @@
+5. Числа от 100
+100 сто                         one hundred
+200 двести                      two hundred
+300 триста                      three hundred
+400 четыреста                   four hundred
+500 пятьсот                     five hundred
+600 шестьсот                    six hundred
+700 семьсот                     seven hundred
+800 восемьсот                   eight hundred
+900 девятьсот                   nine hundred
+1000 тысяча                     one thousand
+2000 две тысячи                 two thousand
+3000 три тысячи                 three thousand
+10000 десять тысяч              ten thousand
+100000 сто тысяч                one hundred thousand
+миллион                         million
+миллиард                        billion

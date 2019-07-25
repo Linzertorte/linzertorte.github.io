@@ -1,0 +1,70 @@
+171. Корабль
+корабль                       ship
+судно                         vessel
+пароход                       steamship
+теплоход                      riverboat
+лайнер                        ocean liner
+крейсер                       cruiser
+яхта                          yacht
+буксир                        tugboat
+баржа                         barge
+паром                         ferry
+парусник                      sailing ship
+бригантина                    brigantine
+ледокол                       ice breaker
+лодка подводная               submarine
+лодка                         boat
+шлюпка                        dinghy
+шлюпка спасательная           lifeboat
+катер                         motorboat
+капитан                       captain
+матрос                        seaman
+моряк                         sailor
+экипаж                        crew
+боцман                        boatswain
+юнга                          ship's boy
+кок                           cook
+судовой врач                  ship's doctor
+палуба                        deck
+мачта                         mast
+парус                         sail
+трюм                          hold
+нос (корабля)                 bow
+корма                         stern
+весло                         oar
+винт                          propeller
+каюта                         cabin
+кают-компания                 wardroom
+машинное отделение             engine room
+капитанский мостик             the bridge
+радиорубка                     radio room
+волна (радио)                  wave
+судовой журнал                 logbook
+подзорная труба                spyglass
+колокол                        bell
+флаг                           flag
+канат                          rope
+узел (завязать ~)              knot
+поручень                       handrail
+трап                           gangway
+якорь                          anchor
+поднять якорь                  to weigh anchor
+бросить якорь                  to drop anchor
+якорная цепь                   anchor chain
+порт                           port
+причал                         wharf, quay
+причаливать                    to berth, to moor
+отчаливать                     to cast off
+путешествие                    trip
+круиз                          cruise
+курс                           course
+маршрут                        route
+фарватер                       fairway
+мель                           shallows
+сесть на мель                  to run aground
+буря                           storm
+сигнал                         signal
+тонуть (о корабле)             to sink (vi)
+Человек за бортом!             Man overboard!
+SOS                            SOS
+спасательный круг              ring buoy

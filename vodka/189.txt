@@ -1,0 +1,33 @@
+189. Правитель. Шеф. Руководитель
+король                          king
+королева                        queen
+королевский                     royal(adj)
+королевство                     kingdom
+принц                           prince
+принцесса                       princess
+президент                       president
+вице-президент                vice-president
+сенатор                       senator
+монарх                        monarch
+правитель                     ruler
+диктатор                      dictator
+тиран                         tyrant
+магнат                        magnate
+директор                      director
+шеф                           chief
+управляющий                   manager
+босс                          boss
+хозяин (владелец)             owner
+вождь, лидер                  leader
+глава (~ делегации)           head
+власти                        authorities
+начальство                    superiors
+губернатор                    governor
+консул                        consul
+дипломат                      diplomat
+мэр                           mayor
+шериф                         sheriff
+император                     emperor
+царь                          tsar
+фараон                        Pharaoh
+хан                           khan

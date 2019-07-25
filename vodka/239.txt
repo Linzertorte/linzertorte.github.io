@@ -1,0 +1,33 @@
+239. Центральная и Южная Америка
+Аргентина                     Argentina
+аргентинец                    Argentinian
+аргентинка                    Argentinian
+аргентинский                  Argentinian (adj)
+Бразилия                      Brazil
+бразилец                      Brazilian
+бразильянка                   Brazilian
+бразильский                   Brazilian(adj)
+Колумбия                      Colombia
+колумбиец                     Colombian
+колумбийка                    Colombian
+колумбийский                  Colombian  (adj)
+Куба                          Cuba
+кубинец                       Cuban
+кубинка                       Cuban
+кубинский                     Cuban  (adj)
+Чили                          Chile
+чилиец                        Chilean
+чилийка                       Chilean
+чилийский                     Chilean (adj)
+Боливия                       Bolivia
+Венесуэла                     Venezuela
+Парагвай                      Paraguay
+Перу                          Peru
+Суринам                       Suriname
+Уругвай                       Uruguay
+Эквадор                       Ecuador
+Багамские острова             The Bahamas
+Гаити                         Haiti
+Доминиканская республика      Dominican Republic
+Панама                        Panama
+Ямайка                        Jamaica

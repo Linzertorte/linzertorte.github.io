@@ -1,0 +1,19 @@
+133. Виды спорта. Разное
+американский футбол            football
+бадминтон                      badminton
+биатлон                        biathlon
+бильярд                        billiards
+бобслей                        bobsled
+бодибилдинг                    bodybuilding
+водное поло                    water polo
+гандбол                        handball
+гольф                          golf
+гребля                         rowing
+дайвинг                        diving
+лыжные гонки                   cross-country skiing
+настольный теннис              ping-pong
+парусный спорт                 sailing
+ралли                          rally
+регби                          rugby
+сноуборд                       snowboarding
+стрельба из лука               archery

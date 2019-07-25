@@ -1,0 +1,27 @@
+57. Женщина. Мужчина
+женщина                         woman
+девушка                         girl, young woman
+невеста                         bride, fiancée
+красивая                        beautiful (adj)
+высокая                         tall(adj)
+стройная                        slender (adj)
+невысокого роста                short (adj)
+блондинка                       blonde
+брюнетка                        brunette
+дамский                         ladies'(adj)
+девственница                    virgin
+беременная                      pregnant  (adj)
+мужчина                         man
+блондин                         blond
+брюнет                          brunet
+высокий                         tall(adj)
+невысокого роста                short (adj)
+грубый                          rude (adj)
+коренастый                      stocky  (adj)
+крепкий                         robust (adj)
+сильный                         strong (adj)
+сила (человека)                 strength
+полный (толстый)                stout, fat(adj)
+смуглый                         swarthy  (adj)
+стройный                        well-built(adj)
+элегантный                      elegant (adj)

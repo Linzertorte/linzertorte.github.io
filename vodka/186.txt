@@ -1,0 +1,52 @@
+186. Оружие
+оружие                        weapons
+огнестрельное оружие          firearm
+холодное оружие               cold weapons
+химическое оружие             chemical weapons
+ядерный                       nuclear (adj)
+ядерное оружие                nuclear weapons
+бомба                         bomb
+атомная бомба                 atomic bomb
+пистолет                      pistol
+ружьё                         rifle
+автомат                       submachine gun
+пулемёт                       machine gun
+дуло                          muzzle
+ствол                         barrel
+калибр                        caliber
+курок (спусковой крючок)      trigger
+прицел                        sight
+магазин (автомата)            magazine
+приклад                       butt
+ручная граната                hand grenade
+взрывчатка                    explosive
+пуля                          bullet
+патрон                        cartridge
+заряд                         charge
+боеприпасы                    ammunition
+бомбардировщик                bomber
+истребитель                   fighter
+вертолёт                      helicopter
+зенитка                       anti-aircraft gun
+танк                          tank
+пушка (на танке)              tank gun
+артиллерия                    artillery
+пушка, орудие                 cannon
+снаряд                        shell
+миномётная мина                mortar bomb
+миномёт                        mortar
+осколок                        splinter
+подводная лодка                submarine
+торпеда                        torpedo
+ракета                         missile
+заряжать (оружие)              to load(vt)
+стрелять                       to shoot (vi)
+целиться (в …)                 to take aim (at …)
+штык                           bayonet
+шпага                          epee
+сабля                          saber
+копьё                          spear
+лук                            bow
+стрела                         arrow
+мушкет                         musket
+арбалет                        crossbow

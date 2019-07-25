@@ -1,0 +1,7 @@
+96. Постельные принадлежности
+постельное бельё              bedclothes
+подушка                       pillow
+наволочка                     pillowcase
+одеяло                        blanket
+простыня                      sheet
+покрывало                     bedspread

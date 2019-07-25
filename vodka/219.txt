@@ -1,0 +1,20 @@
+219. Земноводные. Пресмыкающиеся
+змея                          snake
+ядовитый                      venomous  (adj)
+гадюка                        viper
+кобра                         cobra
+питон                         python
+удав                          boa
+уж                            grass snake
+гремучая змея                 rattle snake
+анаконда                      anaconda
+ящерица                       lizard
+игуана                        iguana
+варан                         monitor lizard
+саламандра                    salamander
+хамелеон                      chameleon
+скорпион                      scorpion
+черепаха                      turtle
+лягушка                       frog
+жаба                          toad
+крокодил                      crocodile

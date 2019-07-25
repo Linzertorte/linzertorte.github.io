@@ -1,0 +1,46 @@
+150. Кино
+актёр                          actor
+актриса                        actress
+кино (вид искусства)           movies
+кино, фильм                    movie
+серия (часть фильма)           episode
+детектив                       detective
+боевик                         action movie
+приключенческий фильм          adventure movie
+фантастический фильм           science fiction movie
+фильм ужасов                   horror movie
+кинокомедия                    comedy movie
+мелодрама                      melodrama
+драма                          drama
+художественный фильм           fictional movie
+документальный фильм           documentary
+мультфильм                     cartoon
+немое кино                     silent movies
+роль                           role
+главная роль                   leading role
+играть (роль)                  to play(vi, vt)
+кинозвезда                     movie star
+известный                      well-known (adj)
+знаменитый                     famous  (adj)
+популярный                     popular (adj)
+сценарий                       script
+сценарист                      scriptwriter
+режиссёр                       movie director
+продюсер                       producer
+ассистент                      assistant
+оператор                       cameraman
+каскадёр                       stuntman
+снимать фильм                  to shoot a movie
+пробы                          audition
+съёмки                         shooting
+съёмочная группа               movie crew
+съёмочная площадка             movie set
+кинокамера                     camera
+кинотеатр                      movie theater
+экран                          screen
+показывать фильм               to show a movie
+звуковая дорожка               soundtrack
+специальные эффекты            special effects
+субтитры                       subtitles
+титры (имена актеров)          credits
+перевод (с другого языка)      translation

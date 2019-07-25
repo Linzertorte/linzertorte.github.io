@@ -1,0 +1,33 @@
+218. Рыбы. Морские животные
+лещ                            bream
+карп                           carp
+окунь                          perch
+сом                            catfish
+щука                           pike
+лосось                         salmon
+осётр                          sturgeon
+сельдь                         herring
+сёмга                          Atlantic salmon
+скумбрия                       mackerel
+камбала                        flatfish
+судак                          pike perch
+треска                         cod
+тунец                          tuna
+форель                         trout
+угорь                          eel
+электрический скат             electric ray
+мурена                         moray eel
+пиранья                        piranha
+акула                          shark
+дельфин                        dolphin
+кит                            whale
+краб                           crab
+медуза                         jellyfish
+осьминог                       octopus
+морская звезда                 starfish
+морской ёж                     sea urchin
+морской конёк                  seahorse
+устрица                        oyster
+креветка                       shrimp
+омар                           lobster
+лангуст                        spiny lobster

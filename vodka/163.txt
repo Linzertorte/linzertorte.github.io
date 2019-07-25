@@ -1,0 +1,30 @@
+163. Фотография
+фотоаппарат                    camera
+фото, фотография               photo, picture
+фотограф                       photographer
+фотостудия                     photo studio
+фотоальбом                     photo album
+объектив                       camera lens
+телеобъектив                   telephoto lens
+фильтр                         filter
+линза                          lens
+оптика                         optics
+диафрагма                      diaphragm, aperture
+выдержка                       exposure time
+видоискатель                   viewfinder
+цифровая камера                digital camera
+штатив                         tripod
+вспышка                        flash
+фотографировать                to photograph  (vt)
+снимать (в фото)               to take pictures
+фокус                          focus
+наводить на резкость           to adjust the focus
+резкий (фото)                  sharp (adj)
+резкость                       sharpness
+контраст                       contrast
+контрастный                    contrasty (adj)
+снимок (фото)                  picture
+негатив                        negative
+фотоплёнка                     film
+кадр                           frame
+печатать                       to print(vt)

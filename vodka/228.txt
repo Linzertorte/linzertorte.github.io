@@ -1,0 +1,14 @@
+228. Кустарники
+куст                          bush
+кустарник                     shrub
+виноград                      grapevine
+виноградник                   vineyard
+малина                        raspberry bush
+красная смородина             redcurrant bush
+крыжовник                     gooseberry bush
+акация                        acacia
+барбарис                      barberry
+жасмин                        jasmine
+можжевельник                  juniper
+розовый куст                  rosebush
+шиповник                      dog rose

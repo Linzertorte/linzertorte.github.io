@@ -1,0 +1,41 @@
+103. Офис. Работа в офисе
+офис                          office
+кабинет (на работе)           office
+секретарь                     secretary
+директор                      director
+менеджер                      manager
+бухгалтер                     accountant
+сотрудник                     employee
+мебель                        furniture
+стол                          desk
+кресло                        desk chair
+тумбочка                      chest of drawers
+вешалка (стойка)              coat stand
+компьютер                     computer
+принтер                       printer
+факс                          fax machine
+копировальный аппарат         photocopier
+бумага                        paper
+канцтовары                    office supplies
+коврик для мыши               mouse pad
+лист (бумаги и т.п.)          sheet (of paper)
+каталог                       catalog
+справочник                    phone book
+документация                  documentation
+брошюра                       brochure
+листовка                      leaflet
+образец                       sample
+тренинг                       training meeting
+совещание                     meeting
+перерыв на обед               lunch time
+делать копию                  to make a copy
+размножить                    to make copies
+получать факс                 to receive a fax
+отправлять факс               to send a fax
+позвонить                       to cal(vt)
+ответить                        to answer (vi, vt)
+соединить (по телефону)         to put through
+назначать (встречу)             to arrange(vt)
+демонстрировать                 to demonstrate (vt)
+отсутствовать                   to be absent
+пропуск (отсутствие)

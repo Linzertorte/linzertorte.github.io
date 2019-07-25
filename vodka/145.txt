@@ -1,0 +1,55 @@
+145. Письмо. Части речи. Орфография
+грамматика                   grammar
+лексика                      vocabulary
+фонетика                     phonetics
+существительное              noun
+прилагательное               adjective
+глагол                       verb
+наречие                      adverb
+местоимение                  pronoun
+междометие                   interjection
+предлог                      preposition
+корень слова                 root
+окончание                    ending
+приставка                    prefix
+слог (часть слова)           syllable
+суффикс                      suffix
+ударение                     stress mark
+апостроф                     apostrophe
+точка                        period, dot
+запятая                      comma
+точка с запятой                semicolon
+двоеточие                      colon
+многоточие                     ellipsis
+вопросительный знак            question mark
+восклицательный знак           exclamation point
+кавычки                        quotation marks
+в кавычках                     in quotation marks
+скобки                         parenthesis
+в скобках                      in parenthesis
+дефис                          hyphen
+тире                           dash
+пробел (между словами)         space
+буква                          letter
+большая буква                  capital letter
+гласный звук                   vowel
+согласный звук                 consonant
+предложение                    sentence
+подлежащее (лингв.)            subject
+сказуемое                      predicate
+строка                         line
+с новой строки                 on a new line
+абзац                          paragraph
+слово                          word
+словосочетание                 word group
+выражение                      expression
+синоним                        synonym
+антоним                        antonym
+правило                        rule
+исключение                     exception
+верный (правильный)            correct(adj)
+спряжение                      conjugation
+падеж                          nominal case
+вопрос                         question
+подчеркнуть                    to underline(vt)
+пунктир                        dotted line

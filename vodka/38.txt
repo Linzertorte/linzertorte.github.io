@@ -1,0 +1,18 @@
+38. Ткани. Материалы
+хлопок                         cotton
+лён                            flax
+шёлк                           silk
+шёлковый                       silk(adj)
+шерсть                         wool
+шерстяной                      woolen  (adj)
+бархат                         velvet
+замша                          suede
+вельвет                        corduroy
+нейлон                         nylon
+из нейлона                     nylon (as adj)
+полиэстер                      polyester
+полиэстровый                   polyester (as adj)
+кожа                           leather
+из кожи                        leather(as adj)
+мех                            fur
+меховой                        fur(as adj)

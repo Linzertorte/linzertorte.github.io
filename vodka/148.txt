@@ -1,0 +1,19 @@
+148. Знаки зодиака
+Овен                          Aries
+Телец                         Taurus
+Близнецы                      Gemini
+Рак                           Cancer
+Лев                           Leo
+Дева                          Virgo
+Весы                          Libra
+Скорпион                      Scorpio
+Стрелец                       Sagittarius
+Козерог                       Capricorn
+Водолей                       Aquarius
+Рыбы                          Pisces
+характер                      character
+черты характера               features of character
+поведение                     behavior
+гадать (о гадалке)            to tell fortunes
+гадалка                       fortune-teller
+гороскоп                      horoscope

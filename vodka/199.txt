@@ -1,0 +1,26 @@
+199. Названия морей и океанов
+Атлантический океан            Atlantic Ocean
+Индийский океан                Indian Ocean
+Тихий океан                    Pacific Ocean
+Северный Ледовитый океан       Arctic Ocean
+Чёрное море                    Black Sea
+Красное море                   Red Sea
+Желтое море                   Yellow Sea
+Белое море                    White Sea
+Каспийское море               Caspian Sea
+Мёртвое море                  Dead Sea
+Средиземное море              Mediterranean Sea
+Эгейское море                 Aegean Sea
+Адриатическое море            Adriatic Sea
+Аравийское море               Arabian Sea
+Японское море                 Sea of Japan
+Берингово море                Bering Sea
+Южно-Китайское море           South China Sea
+Коралловое море               Coral Sea
+Тасманово море                Tasman Sea
+Карибское море                Caribbean Sea
+Баренцево море                Barents Sea
+Карское море                  Kara Sea
+Северное море                 North Sea
+Балтийское море               Baltic Sea
+Норвежское море               Norwegian Sea

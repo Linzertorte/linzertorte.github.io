@@ -1,0 +1,25 @@
+240. Африка
+Египет                        Egypt
+египтянин                     Egyptian
+египтянка                     Egyptian
+египетский                    Egyptian (adj)
+Марокко                       Morocco
+марокканец                    Moroccan
+марокканка                    Moroccan
+марокканский                  Moroccan  (adj)
+Тунис                         Tunisia
+тунисец                       Tunisian
+туниска                       Tunisian
+тунисский                     Tunisian (adj)
+Гана                          Ghana
+Занзибар                      Zanzibar
+Кения                         Kenya
+Ливия                         Libya
+Мадагаскар                    Madagascar
+Намибия                       Namibia
+Сенегал                       Senegal
+Танзания                      Tanzania
+ЮАР                           South Africa
+африканец                     African
+африканка                     African
+африканский                   African (adj)

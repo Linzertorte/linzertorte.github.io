@@ -1,0 +1,13 @@
+93. Квартира
+квартира                       apartment
+комната                        room
+спальня                        bedroom
+столовая (комната)             dining room
+гостиная                       living room
+кабинет                        study
+прихожая                       entry
+ванная комната                 bathroom
+туалет                         half bath
+потолок                        ceiling
+пол                            floor
+угол (комнаты)                 corner

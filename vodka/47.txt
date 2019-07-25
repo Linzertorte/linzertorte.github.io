@@ -1,0 +1,38 @@
+47. Фрукты. Орехи
+фрукт                         fruit
+яблоко                        apple
+груша                         pear
+лимон                         lemon
+апельсин                      orange
+клубника                      strawberry
+мандарин                      mandarin
+слива                         plum
+персик                        peach
+абрикос                       apricot
+малина                        raspberry
+ананас                        pineapple
+банан                         banana
+арбуз                         watermelon
+виноград                      grape
+вишня                         sour cherry
+черешня                       sweet cherry
+дыня                          melon
+грейпфрут                     grapefruit
+авокадо                       avocado
+папайя                        papaya
+манго                         mango
+гранат                        pomegranate
+красная смородина             redcurrant
+чёрная смородина              blackcurrant
+крыжовник                     gooseberry
+черника                       bilberry
+ежевика                       blackberry
+изюм                          raisin
+инжир                         fig
+финик                         date
+арахис                        peanut
+миндаль                       almond
+орех (грецкий)                walnut
+орех (лесной)                 hazelnut
+орех кокосовый                coconut
+фисташки                      pistachios

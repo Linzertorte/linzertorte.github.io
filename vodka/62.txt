@@ -1,0 +1,58 @@
+62. Черты характера. Личность
+характер                       character
+недостаток (характера)         character flaw
+ум                             mind
+разум                          reason
+совесть                        conscience
+привычка                       habit
+способность (к чему-л.)        ability
+уметь                          can (v aux)
+терпеливый                     patient(adj)
+нетерпеливый                   impatient (adj)
+любопытный                     curious (adj)
+любопытство                    curiosity
+скромность                     modesty
+скромный                       modest  (adj)
+нескромный                     immodest  (adj)
+ленивый                        lazy (adj)
+лентяй                         lazy person
+хитрость                       cunning
+хитрый                         cunning  (adj)
+недоверие                      distrust
+недоверчивый                   distrustful(adj)
+щедрость                       generosity
+щедрый                         generous  (adj)
+талантливый                    talented (adj)
+талант                         talent
+смелый                         courageous  (adj)
+смелость                       courage
+честный                        honest (adj)
+честность                      honesty
+осторожный                       careful(adj)
+отважный                         courageous   (adj)
+серьёзный                        serious (adj)
+строгий                          strict(adj)
+решительный                      decisive (adj)
+нерешительный                    indecisive (adj)
+робкий                           shy, timid(adj)
+робость                          shyness, timidity
+доверие                          confidence
+верить (доверять)                to believe, to trust
+доверчивый                       trusting, naïve(adj)
+искренне                         sincerely
+искренний                        sincere (adj)
+искренность                      sincerity
+тихий (спокойный)                calm (adj)
+откровенный                      frank (adj)
+наивный                          naïve, naive (adj)
+рассеянный                       absent-minded
+смешной (забавный)               funny (adj)
+жадность (скупость)              greed
+жадный (скупой)                  greedy (adj)
+злой                             evil(adj)
+упрямый                          stubborn  (adj)
+неприятный                       unpleasant  (adj)
+эгоист                           selfish person
+эгоистичный                      selfish(adj)
+трус                             coward
+трусливый                        cowardly  (adj)

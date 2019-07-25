@@ -1,0 +1,32 @@
+121. Стройка. Строительные работы
+стройка (место)                 construction site
+строить                         to build(vt)
+строитель                       construction worker
+проект                          project
+архитектор                      architect
+рабочий                         worker
+фундамент                       foundation
+крыша                           roof
+свая                            foundation pile
+стена                           wall
+арматура                        reinforcing bars
+строительные леса               scaffolding
+бетон                           concrete
+гранит                          granite
+камень                          stone
+кирпич                          brick
+песок                           sand
+цемент                          cement
+штукатурка                      plaster
+штукатурить                     to plaster(vt)
+краска                         paint
+красить                        to paint(vt)
+бочка                          barrel
+строительный кран              crane
+поднимать                      to liftvt)
+опускать                       to lower (vt)
+бульдозер                      bulldozer
+экскаватор                     excavator
+ковш                           scoop, bucket
+копать (~ котлован)            to dig (vt)
+каска                          hard hat

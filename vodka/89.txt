@@ -1,0 +1,30 @@
+89. Дом. Дверь. Замок
+дверь                          door
+ворота                         vehicle gate
+ручка (дверная)                handle
+отпереть                       to unlock (vt)
+открывать                      to open (vt)
+закрывать                      to close(vt)
+ключ                           key
+связка (ключей)                bunch
+скрипеть                       to creak (vi)
+скрип                          creak
+петля (дверная)                hinge
+коврик                         doormat
+замок (дверной ~)              lock
+замочная скважина              keyhole
+засов                          bolt
+задвижка                       latch
+навесной замок                 padlock
+звонить                        to ringvt)
+звонок (звук)                  ringing
+звонок (прибор)                doorbell
+кнопка (звонка)                button
+стук (в дверь)                 knock
+стучать                        to knock (vi)
+код                            code
+кодовый замок                  code lock
+домофон                        door phone
+номер                          number
+табличка                       doorplate
+глазок                         peephole

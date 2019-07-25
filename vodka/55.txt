@@ -1,0 +1,52 @@
+55. Семья. Родственники
+мать                          mother
+отец                          father
+сын                           son
+дочь                          daughter
+младшая дочь                  younger daughter
+младший сын                   younger son
+старшая дочь                  eldest daughter
+старший сын                   eldest son
+брат                          brother
+сестра                        sister
+двоюродный брат               cousin
+двоюродная сестра             cousin
+мама                          mom
+папа                          dad, daddy
+родители                      parents
+ребёнок                       child
+дети                          children
+бабушка                       grandmother
+дедушка                       grandfather
+внук                          grandson
+внучка                        granddaughter
+внуки                          grandchildren
+дядя                           uncle
+тётя                           aunt
+племянник                      nephew
+племянница                     niece
+тёща                           mother-in-law
+свёкор                         father-in-law
+зять                           son-in-law
+мачеха                         stepmother
+отчим                          stepfather
+грудной ребёнок                infant
+младенец                       baby
+малыш                          little boy
+жена                           wife
+муж                            husband
+женатый                        married (adj)
+замужняя                       married (adj)
+холостой (прил.)               single(adj)
+холостяк                       bachelor
+разведённый                    divorced (adj)
+вдова                          widow
+вдовец                         widower
+родственник                    relative
+близкий родственник            close relative
+дальний родственник            distant relative
+родные (родственники)          relatives
+сирота                         orphan
+опекун                         guardian
+усыновить                      to adopt(vt)
+удочерить                      to adopt(vt)

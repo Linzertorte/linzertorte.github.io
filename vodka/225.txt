@@ -1,0 +1,10 @@
+225. Животные. Разное
+стая (волков)                  pack
+стая (птиц)                    flock
+стая (рыб)                     shoal
+табун                          herd of horses
+самец                          male
+самка                          female
+голодный                       hungry  (adj)
+дикий                          wild (adj)
+опасный                        dangerous  (adj)

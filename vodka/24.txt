@@ -1,0 +1,39 @@
+24. Линии и формы
+квадрат                         square
+квадратный                      square (adj)
+круг                            circle
+круглый                         round (adj)
+треугольник                     triangle
+треугольный                     triangular(adj)
+овал                            oval
+овальный                        oval (adj)
+прямоугольник                   rectangle
+прямоугольный                   rectangular (adj)
+пирамида                        pyramid
+ромб                            rhombus
+трапеция                        trapezoid
+куб                             cube
+призма                          prism
+окружность                      circumference
+сфера                           sphere
+шар (геометр.)                  globe
+диаметр                         diameter
+радиус                          radius
+периметр                        perimeter
+центр                           center
+горизонтальный                  horizontal (adj)
+вертикальный                    vertical(adj)
+параллель                       parallel
+параллельный                    parallel(adj)
+линия                           line
+черта                           stroke
+прямая  (сущ.)                  straight line
+кривая (сущ.)                   curve
+тонкий                          thin(adj)
+контур                          contour
+пересечение                     intersection
+прямой угол                     right angle
+сегмент                       segment
+сектор                        sector
+сторона                       side
+угол                          angle

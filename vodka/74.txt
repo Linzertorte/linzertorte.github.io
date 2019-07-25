@@ -1,0 +1,32 @@
+74. Симптомы болезней. Лечение - 3
+больница                        hospital
+пациент                         patient
+диагноз                         diagnosis
+лечение                         cure
+лечение (больных)               treatment
+лечиться                        to get treatment
+лечить (ухаживать)              to treatvt)
+ухаживать (за больным)          to nurse(vt)
+уход (за больным)               care
+операция (мед.)                 operation, surgery
+перевязать                      to bandage (vt)
+перевязка                       bandaging
+прививка                        vaccination
+делать прививку                 to vaccinate(vt)
+укол (мед.)                     injection, shot
+делать укол (кому-л.)           to give an injection
+приступ, припадок               attack
+ампутация                       amputation
+ампутировать                   to amputate  (vt)
+кома                           coma
+быть в коме                    to be in a coma
+реанимация                     intensive care
+выздоравливать                 to recover (vi)
+состояние (больного)           state
+сознание (мед.)                consciousness
+память                         memory
+удалять (зуб)                  to extract(vt)
+пломба (на зубах)              filling
+пломбировать (зубы)            to fillvt)
+гипноз                         hypnosis
+гипнотизировать                to hypnotize (vt)

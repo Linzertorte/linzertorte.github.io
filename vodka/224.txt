@@ -1,0 +1,21 @@
+224. Уход за животными
+зоопарк                        zoo
+заповедник                     nature preserve
+питомник                       breed club
+вольер                         open-air cage
+клетка                         cage
+конура                         kennel
+голубятня                      dovecot
+аквариум                       aquarium
+дельфинарий                    dolphinarium
+разводить (животных)           to breed (vt)
+потомство                      brood, litter
+приручать                      to tame (vt)
+корм                           feed
+кормить                        to feed(vt)
+дрессировать                   to train(vt)
+зоомагазин                     pet store
+намордник                      muzzle
+ошейник                        collar
+кличка (животн.)               name
+родословная (собаки)           pedigree

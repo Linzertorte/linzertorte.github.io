@@ -1,0 +1,26 @@
+153. Цирк
+цирк                           circus
+цирк-шапито                    big top
+программа                      program
+представление                  performance
+номер (выступление)            act
+арена                          circus ring
+пантомима                      pantomime
+клоун                          clown
+акробат                        acrobat
+акробатика                     acrobatics
+гимнаст                        gymnast
+гимнастика                     gymnastics
+сальто                         somersault
+атлет (силач)                  strongman
+укротитель                     animal-tamer
+наездник                       equestrian
+ассистент                      assistant
+трюк                           stunt
+фокус                          conjuring trick
+фокусник                       magician
+жонглёр                        juggler
+жонглировать                   to juggle(vi, vt)
+дрессировщик                   animal trainer
+дрессировка                    animal training
+дрессировать                   to trainvt)

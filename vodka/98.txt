@@ -1,0 +1,28 @@
+98. Ванная комната
+ванная комната                 bathroom
+вода                           water
+кран                           tap, faucet
+горячая вода                   hot water
+холодная вода                  cold water
+зубная паста                   toothpaste
+чистить зубы                   to brush one's teeth
+бриться                       to shave (vi)
+пена для бритья               shaving foam
+бритва                        razor
+мыть                          to wash (vt)
+мыться                        to take a bath
+душ                           shower
+принимать душ                 to take a shower
+ванна                         bathtub
+унитаз                        toilet
+раковина                      sink, washbasin
+мыло                          soap
+мыльница                      soap dish
+губка                         sponge
+шампунь                       shampoo
+полотенце                     towel
+халат (махровый)              bathrobe
+стирка                        laundry
+стиральная машина             washing machine
+стирать бельё                 to do the laundry
+стиральный порошок            laundry detergent

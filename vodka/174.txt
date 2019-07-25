@@ -1,0 +1,16 @@
+174. Автомобиль. Виды
+автомобиль                    automobile, car
+спортивный автомобиль         sports car
+лимузин                       limousine
+внедорожник, джип             off-road vehicle
+кабриолет                     convertible
+микроавтобус                  minibus
+скорая помощь                 ambulance
+снегоуборочная машина         snowplow
+грузовик                      truck
+бензовоз                      tank truck
+фургон                        van
+тягач                         road tractor
+прицеп                        trailer
+комфортабельный               comfortable (adj)
+подержанный                   second hand  (adj)

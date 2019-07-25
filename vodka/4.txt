@@ -1,0 +1,53 @@
+4. Числа от 1 до 100
+0 ноль                         zero
+1 один                         one
+2 два                          two
+3 три                          three
+4 четыре                       four
+5 пять                         five
+6 шесть                        six
+7 семь                         seven
+8 восемь                       eight
+9 девять                       nine
+10 десять                      ten
+11 одиннадцать                 eleven
+12 двенадцать                  twelve
+13 тринадцать                  thirteen
+14 четырнадцать                fourteen
+15 пятнадцать                  fifteen
+16 шестнадцать                 sixteen
+17 семнадцать                  seventeen
+18 восемнадцать                eighteen
+19 девятнадцать                nineteen
+20 двадцать                    twenty
+21 двадцать один               twenty-one
+22 двадцать два                 twenty-two
+23 двадцать три                 twenty-three
+30 тридцать                     thirty
+31 тридцать один                thirty-one
+32 тридцать два                 thirty-two
+33 тридцать три                 thirty-three
+40 сорок                        forty
+41 сорок один                   forty-one
+42 сорок два                    forty-two
+43 сорок три                    forty-three
+50 пятьдесят                    fifty
+51 пятьдесят один               fifty-one
+52 пятьдесят два                fifty-two
+53 пятьдесят три                fifty-three
+60 шестьдесят                   sixty
+61 шестьдесят один              sixty-one
+62 шестьдесят два               sixty-two
+63 шестьдесят три               sixty-three
+70 семьдесят                    seventy
+71 семьдесят один               seventy-one
+72 семьдесят два                seventy-two
+73 семьдесят три                seventy-three
+80 восемьдесят
+81 восемьдесят один
+82 восемьдесят два
+83 восемьдесят три
+90 девяносто                    ninety
+91 девяносто один               ninety-one
+92 девяносто два                ninety-two
+93 девяносто три                ninety-three

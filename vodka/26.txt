@@ -1,0 +1,32 @@
+26. Ёмкости
+банка (стеклянная)             jar
+банка (жестяная)               can
+ведро                          bucket
+бочка                          barrel
+таз                            basin
+бак                            tank
+фляжка                         hip flask
+канистра                       jerrycan
+цистерна                       cistern
+кружка                         mug
+чашка                          cup
+блюдце                         saucer
+стакан                         glass (tumbler)
+бокал                          glass
+кастрюля                       stew pot
+бутылка                        bottle
+горлышко (бутылки)             neck
+графин                         carafe
+кувшин                         pitcher
+сосуд                          vessel
+горшок                         pot
+ваза                           vase
+флакон                         bottle
+пузырёк                        vial, small bottle
+тюбик                          tube
+мешок (сахара и т.п.)          sack (bag)
+пакет (мешок)                  bag
+пачка (чая, сигарет)           pack
+коробка                        box
+ящик                           box
+корзина                        basket

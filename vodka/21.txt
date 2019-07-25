@@ -1,0 +1,57 @@
+21. Месяцы. Времена года
+январь                         January
+февраль                        February
+март                           March
+апрель                         April
+май                            May
+июнь                           June
+июль                           July
+август                         August
+сентябрь                       September
+октябрь                        October
+ноябрь                         November
+декабрь                        December
+весна                          spring
+весной                         in spring
+весенний                       spring (as adj)
+лето                           summer
+летом                          in summer
+летний                         summer   (as adj)
+осень                          fall
+осенью                         in fall
+осенний                        fall(as adj)
+зима                           winter
+зимой                          in winter
+зимний                         winter (as adj)
+месяц                          month
+в этом месяце                  this month
+в следующем месяце             next month
+в прошлом месяце               last month
+месяц назад                    a month ago
+через месяц                    in a month
+через 2 месяца                 in two months
+весь месяц                     a whole month
+целый месяц                    all month long
+ежемесячный                    monthly  (adj)
+ежемесячно                     monthly
+каждый месяц                   every month
+2 раза в месяц                 twice a month
+год                            year
+в этом году                    this year
+в следующем году               next year
+в прошлом году                 last year
+год назад                      a year ago
+через год                      in a year
+через 2 года                   in two years
+весь год                       a whole year
+целый год                      all year long
+каждый год                     every year
+ежегодный                      annual (adj)
+ежегодно                       annually
+4 раза в год                   4 times a year
+число (день месяца)            date
+дата                           date
+календарь                      calendar
+полгода                        half a year
+полугодие                      six months
+сезон                          season

@@ -1,0 +1,38 @@
+72. Симптомы болезней. Лечение - 1
+симптом                       symptom
+температура                   temperature
+высокая температура           fever
+пульс                         pulse
+головокружение                giddiness
+горячий (напр. лоб)           hot (adj)
+озноб                         shivering
+бледный                       pale (adj)
+кашель                        cough
+кашлять                       to cough (vi)
+чихать                        to sneeze (vi)
+обморок                        faint
+упасть в обморок               to faint (vi)
+синяк                          bruise
+шишка                          bump
+удариться                      to bruise oneself
+ушиб                           bruise
+ушибиться                      to get bruised
+хромать                        to limp (vi)
+вывих                          dislocation
+вывихнуть                      to dislocate(vt)
+перелом                        fracture
+получить перелом               to have а fracture
+порез                          cut
+порезаться                     to cut oneself
+кровотечение                   bleeding
+ожог                           burn
+обжечься                       to burn oneself
+уколоть (поранить)             to prickle(vt)
+уколоться                      to prickle oneself
+повредить (поранить)           to injure(vt)
+повреждение (рана)             injury
+рана                           wound
+травма                         trauma
+бредить (мед.)                 to be delirious
+заикаться                      to stutter (vi)
+солнечный удар                 sunstroke

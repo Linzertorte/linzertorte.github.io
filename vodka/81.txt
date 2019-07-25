@@ -1,0 +1,38 @@
+81. Городской транспорт
+автобус                         bus
+трамвай                         streetcar
+троллейбус                      trolley
+маршрут                         route
+номер (напр. автобуса)          number
+ехать на …                      to go by …
+сесть (в автобус и т.п.)        to get on
+сойти (с автобуса и т.п.)       to get off …
+остановка (~ автобуса)          stop
+следующая остановка             next stop
+конечная остановка              terminus
+расписание                      schedule
+ждать                           to wait(vt)
+билет                           ticket
+стоимость билета                fare
+кассир                          cashier
+контроль (в транспорте)         ticket inspection
+контролёр                       conductor
+опаздывать                      to be late
+спешить (торопиться)            to be in a hurry
+такси                           taxi, cab
+таксист                         taxi driver
+на такси                        by taxi
+стоянка такси                   taxi stand
+вызвать такси                   to call a taxi
+взять такси                     to take a taxi
+уличное движение                traffic
+пробка (на дороге)              traffic jam
+часы пик                        rush hour
+парковаться                     to park (vi)
+парковать (машину)              to park (vt)
+стоянка (авто)                  parking lot
+метро                           subway
+станция                         station
+ехать на метро                  to take the subway
+поезд                           train
+вокзал (ж/д)                    train station

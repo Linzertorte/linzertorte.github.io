@@ -1,0 +1,10 @@
+29. Человек. Общие понятия
+человек                      human being
+мужчина                      man
+женщина                      woman
+ребёнок                      child
+девочка                      girl
+мальчик                      boy
+подросток                    teenager
+старик                       old man
+старая женщина               old woman

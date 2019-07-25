@@ -1,0 +1,91 @@
+252. Глаголы А-Е
+ампутировать                      to amputate  (vt)
+аплодировать                      to applaud  (vi, vt)
+ассистировать                     to assist (vt)
+атаковать                         to attack (vt)
+базироваться (на…)                to be based
+бежать                            to run (vi)
+беспокоить (волновать)            to worry  (vt)
+беспокоить (мешать)               to disturb (vt)
+беспокоиться                      to be worried
+бить (ударять)                    to beat (vt)
+благодарить                       to thank (vt)
+бороться (воевать)                to fight (vi)
+бороться  (спорт.)                to wrestle (vt)
+бояться (чего-л.)                 to be afraid
+брать                             to take (vt)
+бриться                           to shave (vi)
+бронировать (номер и т.п.)        to reserve, to book
+бросать (напр. камень)            to throw  (vt)
+бросать (покидать)                to leave, to abandon
+будить                            to wake sb
+быть                              to be (vi)
+быть должным                      must  (v aux)
+быть похожим                      to look like
+быть причиной …                   to cause …
+быть убежденным (в ...)           to be convinced
+верить (думать)                   to believe (vt)
+веселиться                        to have fun
+весить (иметь вес)                to weigh  (vt)
+вести машину                      to drive a car
+вести переговоры                  to negotiate (vi)
+вести себя                        to behave (vi)
+вешать                            to hang  (vt)
+вздохнуть                         to sigh (vi)
+вздрагивать                       to shudder (vi)
+взлетать (о самолёте)             to take off (vi)
+видеть сны                        to dream (vi)
+включать (напр. радио)             to switch on
+владеть                            to own  (vt)
+влиять                             to influence (vt)
+влюбиться (в …)                    to fall in love
+вмешиваться                        to intervene (vi)
+воевать (вести войну)              to be at war
+возвращаться                       to return (vi)
+возвышаться                        to tower (vi)
+возглавлять                        to head  (vt)
+возмущаться                        to be indignant
+возражать                          to object (vi, vt)
+войти (в комнату и т.п.)           to come in
+волноваться                        to worry (vi)
+воодушевлять                       to inspire (vt)
+восхищаться                        to admire (vi)
+вписывать (в список)               to enter (vt)
+врать                              to lie (vi)
+всплывать (о подвод. лодке)        to surface (vi)
+вспоминать                         to recall(vt)
+вставать (с постели)               to get up
+вставлять                          to put in
+выбирать                           to choose  (vt)
+выздоравливать                     to recover (vi)
+выйти (из дома и т.п.)             to go out
+выйти (о книге)                    to come out
+выразить (словами)                 to express  (vt)
+гарантировать                      to guarantee  (vt)
+гладить (ласкать)                  to stroke (vt)
+гладить (утюгом)                   to iron (vt)
+говорить c …                       to talk to …
+голосовать                         to vote (vi)
+готовить (обед)                    to make, to cook
+грешить                            to sin (vi)
+грузить                            to load (vt)
+датироваться                       to date from
+действовать (поступать)            to act (vi)
+делать                             to do (vt)
+делать заключение                  to draw a conclusion
+делать прививки                    to vaccinate  (vt)
+делить (матем.)                    to divide (vt)
+добавлять                          to add (vt)
+доверять                           to trust (vt)
+доказывать                         to prove  (vt)
+докладывать                        to report (vt)
+доносить (сделать донос)           to denounce   (vt)
+достигать (напр. ~ полюса)         to reach  (vt)
+достигать (результата)             to attain (vt)
+драться (в драке)                  to fight (vi)
+дрессировать                       to train(vt)
+дрожать                            to shiver (vi)
+думать                             to think (vi, vt)
+дуть                               to blow
+дышать                             to breathe (vi)
+ехать                              to go (vi)

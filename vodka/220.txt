@@ -1,0 +1,30 @@
+220. Насекомые. Беспозвоночные
+насекомое                     insect, bug
+бабочка                       butterfly
+муравей                       ant
+муха                          fly
+комар                         mosquito
+жук                           beetle
+оса                           wasp
+пчела                         bee
+шмель                         bumblebee
+овод                          gadfly
+паук                          spider
+паутина                       spider's web
+стрекоза                      dragonfly
+кузнечик                      grasshopper
+мотылёк                       moth
+таракан                       cockroach
+клещ                          tick
+блоха                         flea
+мошка                          midge
+саранча                        locust
+улитка                         snail
+сверчок                        cricket
+светлячок                      lightning bug
+божья коровка                  ladybug
+майский жук                    cockchafer
+пиявка                         leech
+гусеница                       caterpillar
+червь                          earthworm
+червь (личинка)                larva

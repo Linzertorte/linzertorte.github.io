@@ -1,0 +1,24 @@
+221. Животные. Части тела
+клюв                           beak
+крылья                         wings
+лапа (птицы)                   foot
+оперение                       feathering
+перо (птицы)                   feather
+хохолок                        crest
+жабры                          gill
+икра                           spawn
+личинка                        larva
+плавник                        fin
+чешуя                          scales
+клык                           fang
+лапа (напр. собаки)            paw
+морда                          muzzle
+пасть                          mouth
+хвост                          tail
+усы (у животных)               whiskers
+копыто                         hoof
+рог                            horn
+панцирь (черепахи)             carapace
+ракушка                        shell
+шерсть (животного)             hair
+шкура (убитого животного)      pelt

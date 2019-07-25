@@ -1,0 +1,24 @@
+215. Детёныши животных и птиц
+детёныш                       cub
+котёнок                       kitten
+мышонок                       baby mouse
+щенок                         pup, puppy
+зайчонок                      leveret
+крольчонок                    baby rabbit
+волчонок                      wolf cub
+лисёнок                       fox cub
+медвежонок                    bear cub
+львёнок                       lion cub
+тигрёнок                      tiger cub
+слонёнок                      elephant calf
+поросёнок                     piglet
+телёнок                       calf
+козлёнок                      kid
+ягнёнок                       lamb
+оленёнок                      fawn
+верблюжонок                   young camel
+змеёныш                       baby snake
+лягушонок                     baby frog
+птенец                        nestling
+цыплёнок                      chick
+утёнок                        duckling

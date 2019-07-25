@@ -1,0 +1,35 @@
+200. Горы
+гора                          mountain
+горная цепь                   mountain range
+горный хребет                 mountain ridge
+вершина                       summit, top
+пик                           peak
+подножие (горы)               foot
+склон                         slope
+вулкан                        volcano
+действующий вулкан            active
+потухший вулкан               dormant volcano
+извержение                    eruption
+кратер                        crater
+магма                         magma
+лава                          lava
+раскалённый                   molten (adj)
+каньон                        canyon
+ущелье                        gorge
+расщелина                     crevice
+прóпасть, обрыв               precipice
+перевал                       pass, col
+плато                         plateau
+скала                         cliff
+холм                          hill
+ледник                        glacier
+водопад                       waterfall
+гейзер                        geyser
+озеро                         lake
+равнина                       plain
+пейзаж                        landscape
+эхо                           echo
+альпинист                     alpinist
+скалолаз                      rock climber
+покорять                      conquer  (vt)
+восхождение                   climb

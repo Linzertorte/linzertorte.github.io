@@ -1,0 +1,60 @@
+142. Школа
+школа                           school
+директор школы                  headmaster
+ученик                          pupil
+ученица                         pupil
+школьник                        schoolboy
+школьница                       schoolgirl
+учить (об учителе)              to teach(vt)
+учить (что-л.)                  to learn(vt)
+учить наизусть                  to learn by heart
+учиться (чему-л.)               to learn(vt)
+идти в школу                    to go to school
+алфавит                         alphabet
+предмет (дисциплина)            subject
+класс                           classroom
+урок                            lesson
+перемена                        recess
+звонок                          school bell
+парта                           desk
+доска (школьная)                chalkboard
+отметка                         grade
+хорошая отметка                 good grade
+плохая отметка                  bad grade
+ставить отметку                 to give a grade
+ошибка                          mistake
+делать ошибки                   to make mistakes
+исправлять (ошибку)             to correct(vt)
+шпаргалка                       cheat sheet
+домашнее задание                homework
+упражнение                      exercise
+присутствовать                  to be present
+отсутствовать                   to be absent
+пропускать уроки                to miss school
+наказывать                      to punish (vt)
+наказание                       punishment
+поведение                      conduct
+дневник                        report card
+карандаш                       pencil
+ластик                         eraser
+мел                            chalk
+пенал                          pencil case
+портфель                       schoolbag
+ручка                          pen
+тетрадь                        school notebook
+учебник                        textbook
+циркуль                        compasses
+чертить                        to draw (vt)
+чертёж                         technical drawing
+стихотворение                  poem
+наизусть                       by heart
+учить наизусть                 to learn by heart
+каникулы                       school vacation
+быть на каникулах              to be on vacation
+провести каникулы              to spend one's vacation
+контрольная работа             quiz
+сочинение                      essay
+диктант                        dictation
+экзамен                        exam
+сдавать экзамены               to take an exam
+опыт (химический ~)            experiment

@@ -1,0 +1,31 @@
+19. Дни недели
+понедельник                   Monday
+вторник                       Tuesday
+среда                         Wednesday
+четверг                       Thursday
+пятница                       Friday
+суббота                       Saturday
+воскресенье                   Sunday
+сегодня                       today
+завтра                        tomorrow
+послезавтра                   the day after tomorrow
+вчера                         yesterday
+позавчера                     the day before yesterday
+день                          day
+рабочий день                  workday
+праздничный день              public holiday
+выходной день                 day off
+выходные                      weekend
+весь день                     all day long
+на следующий день             next day
+2 дня назад                   two days ago
+накануне                      the day before
+ежедневный                    daily(adj)
+ежедневно                     every day
+неделя                        week
+на прошлой неделе             last week
+на следующей неделе           next week
+еженедельный                  weekly (adj)
+еженедельно                   every week
+2 раза в неделю               twice a week
+каждый вторник                every Tuesday

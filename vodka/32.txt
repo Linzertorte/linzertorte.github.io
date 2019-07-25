@@ -1,0 +1,33 @@
+32. Тело
+кисть                          hand
+рука (вся)                     arm
+палец                          finger
+большой палец                  thumb
+мизинец                        little finger
+ноготь                         nail
+кулак                          fist
+ладонь                         palm
+запястье                       wrist
+предплечье                     forearm
+локоть                         elbow
+плечо                          shoulder
+нога (выше ступни)             leg
+ступня                         foot
+колено                         knee
+икра                           calf
+бедро                          hip
+пятка                          heel
+тело                           body
+живот                          stomach
+грудь                          chest
+грудь (женская)                breast
+бок                            flank
+спина                          back
+поясница                       lower back
+талия                          waist
+пупок                          navel
+ягодицы                        buttocks
+зад                            bottom
+родинка                        beauty mark
+татуировка                     tattoo
+шрам                           scar

@@ -1,0 +1,49 @@
+236. Страны СНГ
+Азербайджан                    Azerbaijan
+азербайджанец                  Azerbaijani
+азербайджанка                  Azerbaijani
+азербайджанский                Azerbaijani(adj)
+Армения                        Armenia
+армянин                        Armenian
+армянка                        Armenian
+армянский                      Armenian  (adj)
+Беларусь                       Belarus
+белорус                        Belarusian
+белоруска                      Belarusian
+белорусский                    Belarusian (adj)
+Грузия                         Georgia
+грузин                         Georgian
+грузинка                       Georgian
+грузинский                     Georgian  (adj)
+Казахстан                      Kazakhstan
+казах                          Kazakh
+казашка                        Kazakh
+казахский                      Kazakh  (adj)
+Кыргызстан                     Kirghizia
+киргиз                         Kirghiz
+киргизка                       Kirghiz
+киргизский                     Kirghiz (adj)
+Молдова                        Moldavia
+молдаванин                     Moldavian
+молдаванка                     Moldavian
+молдавский                     Moldavian  (adj)
+Россия                         Russia
+русский (сущ.)                 Russian
+русская (сущ.)                 Russian
+русский                        Russian  (adj)
+Таджикистан                    Tajikistan
+таджик                         Tajik
+таджичка                       Tajik
+таджикский                     Tajik (adj)
+Туркменистан                   Turkmenistan
+туркмен                        Turkmen
+туркменка                      Turkmen
+туркменский                    Turkmenian   (adj)
+Узбекистан                     Uzbekistan
+узбек                          Uzbek
+узбечка                        Uzbek
+узбекский                      Uzbek  (adj)
+Украина                        Ukraine
+украинец                       Ukrainian
+украинка                       Ukrainian
+украинский                     Ukrainian (adj)

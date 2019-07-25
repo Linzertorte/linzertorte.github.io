@@ -1,0 +1,17 @@
+197. Части света
+север                          north
+на север                       to the north
+на севере                      in the north
+северный                       northern (adj)
+юг                             south
+на юг                          to the south
+на юге                         in the south
+южный                          southern  (adj)
+запад                          west
+на запад                       to the west
+на западе                      in the west
+западный                       western  (adj)
+восток                         east
+на восток                      to the east
+на востоке                     in the east
+восточный                      eastern (adj)

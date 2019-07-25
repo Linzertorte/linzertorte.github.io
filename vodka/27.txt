@@ -1,0 +1,28 @@
+27. Материалы
+материал                       material
+дерево                         wood
+деревянный                      wooden  (adj)
+стекло                          glass
+стеклянный                      glass (as adj)
+камень                          stone
+каменный                        stone (as adj)
+пластик, пластмасса             plastic
+пластмассовый                   plastic(as adj)
+резина                          rubber
+резиновый                       rubber (as adj)
+ткань                           material, fabric
+из ткани                        fabric(as adj)
+бумага                          paper
+бумажный                        paper (as adj)
+картон                          cardboard
+картонный                       cardboard  (as adj)
+полиэтилен                      polythene
+целлофан                        cellophane
+линолеум                        linoleum
+фанера                          plywood
+фарфор                          porcelain
+фарфоровый                      porcelain (as adj)
+глина                           clay
+глиняный (о посуде)             clay (as adj)
+керамика                        ceramics
+керамический                    ceramic (adj)

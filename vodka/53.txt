@@ -1,0 +1,21 @@
+53. Ресторан
+ресторан                       restaurant
+кофейня                        coffee house
+бар                            pub, bar
+чайный салон                   tearoom
+официант                       waiter
+официантка                     waitress
+бармен                         bartender
+меню                           menu
+карта вин                      wine list
+забронировать столик             to book a table
+блюдо (кушанье)                  course, dish
+заказать (блюдо)                 to order(vi, vt)
+сделать заказ                    to make an order
+аперитив                         aperitif
+закуска                          appetizer
+десерт                           dessert
+счёт                             check
+оплатить счёт                    to pay the check
+дать сдачу                       to give change
+чаевые                           tip

@@ -1,0 +1,17 @@
+115. Канцелярские принадлежности
+шариковая ручка                ballpoint pen
+перьевая ручка                 fountain pen
+карандаш                       pencil
+маркер                         highlighter
+фломастер                      felt-tip pen
+блокнот                        notepad
+ежедневник                     datebook
+линейка                        ruler
+калькулятор                    calculator
+ластик                         eraser
+кнопка                         thumbtack
+скрепка                        paper clip
+клей                           glue
+степлер                        stapler
+дырокол                        hole punch
+точилка                        pencil sharpener

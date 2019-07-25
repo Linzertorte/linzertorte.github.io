@@ -1,0 +1,50 @@
+132. Виды спорта. Спортсмены
+спортсмен                     sportsman
+вид спорта                    kind of sports
+баскетбол                     basketball
+баскетболист                  basketball player
+бейсбол                       baseball
+бейсболист                    baseball player
+футбол                        soccer
+футболист                     soccer player
+вратарь                       goalkeeper
+хоккей                        hockey
+хоккеист                      hockey player
+волейбол                      volleyball
+волейболист                   volleyball player
+бокс                          boxing
+боксёр                        boxer
+борьба                        wrestling
+борец                         wrestler
+карате                        karate
+каратист                      karate fighter
+дзюдо                         judo
+дзюдоист                      judo athlete
+теннис                        tennis
+теннисист                     tennis player
+плавание                      swimming
+пловец                        swimmer
+фехтование                    fencing
+фехтовальщик                  fencer
+шахматы                       chess
+шахматист                     chess player
+альпинизм                     alpinism
+альпинист                      alpinist
+бег                            running
+бегун                          runner
+лёгкая атлетика                athletics
+атлет                          athlete
+конный спорт                   horseback riding
+наездник                       horse rider
+фигурное катание               figure skating
+фигурист                       figure skater
+фигуристка                     figure skater
+тяжёлая атлетика               weightlifting
+тяжелоатлет, штангист          weightlifter
+автогонки                      car racing
+гонщик                         racing driver
+велоспорт                      cycling
+велосипедист                   cyclist
+прыжки в длину                 broad jump
+прыжки с шестом                pole vault
+прыгун                         jumper

@@ -1,0 +1,51 @@
+97. Кухня
+кухня (помещение)             kitchen
+газ                           gas
+плита газовая                 gas stove
+плита электрическая           electric stove
+духовка                       oven
+микроволновая печь            microwave oven
+холодильник                   fridge
+морозильник                   freezer
+посудомоечная машина          dishwasher
+мясорубка                     meat grinder
+соковыжималка                 juicer
+тостер                        toaster
+миксер                        mixer
+кофеварка                     coffee maker
+кофейник                      coffee pot
+кофемолка                     coffee grinder
+чайник (для кипятка)          kettle
+чайник (для заварки)           teapot
+крышка (чайника и т.п.)        lid
+ситечко (для чая)              tea strainer
+ложка                          spoon
+чайная ложка                   teaspoon
+столовая ложка                 tablespoon
+вилка                          fork
+нож                            knife
+посуда                         tableware
+тарелка                        plate
+блюдце                         saucer
+рюмка (стопка)                 shot glass
+стакан                         glass
+чашка                          cup
+сахарница                      sugar bowl
+солонка                        salt shaker
+перечница                      pepper shaker
+маслёнка                       butter dish
+кастрюля                       stew pot
+сковородка                     frying pan
+половник                       ladle
+дуршлаг                        colander
+поднос                         tray
+бутылка                        bottle
+банка (стеклянная)             jar
+банка (жестяная)               can
+открывалка (для бутылок)       bottle opener
+открывалка (для консервов)     can opener
+штопор                         corkscrew
+фильтр                         filter
+фильтровать                    to filtervt)
+мусор (отходы)                 trash
+мусорное ведро                 trash can

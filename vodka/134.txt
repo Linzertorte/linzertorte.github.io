@@ -1,0 +1,13 @@
+134. Спортивный зал
+штанга                         barbell
+гантели                        dumbbells
+тренажёр                       training machine
+велотренажёр                   bicycle trainer
+беговая дорожка                treadmill
+перекладина                    horizontal bar
+брусья                         parallel bars
+конь                           vaulting horse
+мат                            mat
+скакалка                       jump rope
+аэробика                       aerobics
+йога                           yoga

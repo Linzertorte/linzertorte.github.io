@@ -1,0 +1,18 @@
+114. Телефон. Мобильный телефон
+мобильный телефон              mobile phone
+дисплей                        display
+кнопка                         button
+SIM-карта                      SIM card
+батарея                        battery
+разрядиться                    to be dead
+зарядное устройство            charger
+меню                           menu
+настройки                      settings
+мелодия                        tune
+выбрать                        to select(vt)
+калькулятор                    calculator
+автоответчик                   answering machine
+будильник                      alarm clock
+телефонная книга               contacts
+SMS-сообщение                  SMS
+абонент                        subscriber

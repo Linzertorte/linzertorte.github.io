@@ -1,0 +1,40 @@
+226. Лошадь
+лошадь, конь                    horse
+порода                          breed
+жеребёнок                       foal
+кобыла                          mare
+мустанг                         mustang
+пони                            pony
+тяжеловоз                       draft horse
+грива                           mane
+хвост                           tail
+копыто                          hoof
+подкова                         horseshoe
+подковать                       to shoe (vt)
+кузнец                          blacksmith
+седло                           saddle
+стремя                          stirrup
+уздечка                         bridle
+вожжи                           reins
+плётка                          whip
+наездник                        rider
+объезжать (лошадь)              to break in
+оседлать                        to saddle(vt)
+сесть в седло                   to mount a horse
+галоп                           gallop
+скакать галопом                 to gallop (vi)
+рысь                            trot
+рысью                           at a trot
+скакать рысью                   to go at a trot
+скаковая лошадь                 racehorse
+скачки                          races
+конюшня                         stable
+кормить                         to feed(vt)
+сено                            hay
+поить                           to water(vt)
+чистить                         to wash (vt)
+стреножить                      to hobble (vt)
+воз, повозка                    horse-drawn cart
+пастись                         to graze (vi)
+ржать                           to neigh (vi)
+лягнуть                         to kick (vi)

@@ -1,0 +1,14 @@
+138. Теннис. Гольф
+гольф                           golf
+гольф-клуб                      golf club
+игрок в гольф                  golfer
+лунка                          hole
+клюшка                         club
+тележка для клюшек             golf trolley
+теннис                         tennis
+корт                           tennis court
+подача                         serve
+подавать                       to serve(vt)
+ракетка                        racket
+сетка                          net
+мяч                            ball

@@ -1,0 +1,22 @@
+161. Казино
+казино                         casino
+рулетка                        roulette
+ставка                         bet, stake
+делать ставки                  to place bets
+красное                        red
+чёрное                         black
+ставить на красное             to bet on red
+ставить на чёрное              to bet on black
+крупье                         croupier
+вращать барабан                to turn the wheel
+правила игры                   rules
+фишка                          chip
+выиграть                       to win (vi, vt)
+выигрыш                        winnings
+проиграть                      to lose (vt)
+проигрыш                       loss
+игрок                          player
+блэк джек                      blackjack
+игра в кости                   game of dice
+кости                          dice
+игральный автомат              slot machine

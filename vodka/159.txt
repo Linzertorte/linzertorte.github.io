@@ -1,0 +1,7 @@
+159. Игры. Бильярд
+бильярд                        billiards
+бильярдная                     billiard room
+бильярдный шар                 ball
+загнать шар                    to pocket a ball
+кий                            cue
+луза                           pocket

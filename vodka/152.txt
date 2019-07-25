@@ -1,0 +1,25 @@
+152. Литература. Поэзия
+литература                     literature
+автор                          author
+псевдоним                      pseudonym
+книга                          book
+том (издания)                  volume
+оглавление                     table of contents
+страница                       page
+главный герой                  main character
+автограф                       autograph
+рассказ                        short story
+повесть                        story
+роман                          novel
+сочинение (литер.)             work
+басня                          fable
+детектив                       detective novel
+стихотворение                  poem, verse
+поэзия                         poetry
+поэма                          poem
+поэт                           poet
+беллетристика                  fiction
+научная фантастика             science fiction
+приключения                    adventures
+учебная литература             educational literature
+детская литература             children's literature

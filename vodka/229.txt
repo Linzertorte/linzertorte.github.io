@@ -1,0 +1,14 @@
+229. Грибы
+гриб                          mushroom
+съедобный гриб                edible mushroom
+ядовитый гриб                 toadstool
+шляпка (гриба)                cap
+ножка (гриба)                 stipe
+белый гриб                    boletus
+подосиновик                   orange-cap boletus
+подберёзовик                  birch bolete
+лисичка                       chanterelle
+сыроежка                      russula
+сморчок                       morel
+мухомор                       fly agaric
+поганка                       death cap

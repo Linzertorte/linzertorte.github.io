@@ -1,0 +1,44 @@
+190. Дорога. Путь
+дорога                        road
+путь                          way
+шоссе                         freeway
+автомагистраль                highway
+национальная дорога           interstate
+главная дорога                main road
+просёлочная дорога            dirt road
+тропа                         pathway
+тропинка                      footpath
+Где?                          Where?
+Куда?                         Where?
+Откуда?                       Where … from?
+направление                   direction
+указать (направление)         to point(vt)
+налево                          to the left
+направо                         to the right
+прямо                           straight ahead
+назад                           back
+поворот (место на дороге)       turn, curve
+поворачивать                    to turn (vi)
+разворачиваться                 to make a U-turn
+виднеться                       to be visible
+показаться (появиться)          to appear (vi)
+остановка (в пути)              stop, halt
+отдохнуть                       to rest, to halt (vi)
+отдых                           rest
+заблудиться                     to lose one's way
+вести к … (о дороге)            to lead to …
+выйти к …                       to arrive at …
+отрезок (пути)                  stretch
+асфальт                         asphalt
+бордюр                          curb
+канава                          ditch
+люк (на дороге)                 manhole
+обочина                         roadside
+яма                             pit, pothole
+идти                            to go (vi)
+обогнать                        to pass (vt)
+шаг                             step
+пешком                          on foot
+перегородить (дорогу)           to block (vt)
+шлагбаум                        boom barrier
+тупик                           dead end

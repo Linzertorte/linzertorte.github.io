@@ -1,0 +1,16 @@
+48. Сладости. Хлеб
+кондитерские изделия          confectionery
+хлеб                          bread
+печенье                       cookies
+шоколад                       chocolate
+шоколадный                    chocolate (as adj)
+конфета                       candy
+пирожное                      cake
+торт                          cake
+пирог                         pie
+начинка                       filling
+варенье                       jam
+мармелад                      marmalade
+вафли                           waffle
+мороженое                       ice-cream
+пудинг                          pudding

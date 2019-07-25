@@ -1,0 +1,59 @@
+211. Дикие животные
+животное                     animal
+зверь                        beast
+белка                        squirrel
+ёж                           hedgehog
+заяц                         hare
+кролик                       rabbit
+барсук                       badger
+енот                         raccoon
+хомяк                        hamster
+сурок                        marmot
+крот                         mole
+мышь                         mouse
+крыса                        rat
+летучая мышь                 bat
+горностай                    ermine
+соболь                       sable
+куница                        marten
+ласка                         weasel
+норка                         mink
+бобр                          beaver
+выдра                         otter
+лошадь                        horse
+лось                          moose
+олень                         deer
+верблюд                       camel
+бизон                         bison
+зубр                          aurochs
+буйвол                        buffalo
+зебра                         zebra
+антилопа                      antelope
+косуля                        roe deer
+лань                          fallow deer
+серна                         chamois
+кабан                         wild boar
+кит                           whale
+тюлень                        seal
+морж                          walrus
+котик                         fur seal
+дельфин                       dolphin
+медведь                       bear
+белый медведь                 polar bear
+панда                         panda
+обезьяна                      monkey
+шимпанзе                      chimpanzee
+орангутанг                    orangutan
+горилла                       gorilla
+макака                        macaque
+гиббон                        gibbon
+слон                          elephant
+носорог                       rhinoceros
+жираф                         giraffe
+бегемот                       hippopotamus
+кенгуру                       kangaroo
+коала                         koala
+мангуст                       mongoose
+шиншилла                      chinchilla
+скунс                         skunk
+дикобраз                      porcupine

@@ -1,0 +1,37 @@
+172. Аэропорт
+аэропорт                       airport
+самолёт                        airplane
+авиакомпания                   airline
+диспетчер                      air-traffic controller
+вылет                          departure
+прилёт                         arrival
+прилететь                      to arrive (vi)
+время вылета                   departure time
+время прилёта                  arrival time
+задерживаться (о рейсе)        to be delayed
+задержка вылета                flight delay
+информационное табло           information board
+информация                     information
+объявлять                      to announce  (vt)
+рейс                           flight
+таможня                        customs
+таможенник                     customs officer
+таможенная декларация          customs declaration
+заполнить (декларацию)         to fill o(vt)
+паспортный контроль            passport control
+багаж                          luggage
+ручная кладь                   hand luggage
+розыск багажа                  LOST-AND-FOUND
+тележка (для багажа)           luggage cart
+посадка                        landing
+посадочная полоса              runway
+садиться (о самолёте)          to land (vi)
+трап (к самолету)              airstairs
+регистрация                    check-in
+стойка регистрации             check-in desk
+зарегистрироваться             to check-in (vi)
+посадочный талон               boarding pass
+выход (на посадку)             departure gate
+транзит                        transit
+ждать                          to wait(vt)
+зал ожидания                   departure lounge

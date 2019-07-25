@@ -1,0 +1,20 @@
+126. Военные профессии. Звания
+рядовой                       private
+сержант                       sergeant
+лейтенант                     lieutenant
+капитан                       captain
+майор                         major
+полковник                     colonel
+генерал                       general
+маршал                        marshal
+адмирал                       admiral
+военный                       military man
+солдат                        soldier
+офицер                        officer
+командир                      commander
+пограничник                   border guard
+радист                        radio operator
+разведчик                     scout
+сапёр                         pioneer
+стрелок                       marksman
+штурман                       navigator

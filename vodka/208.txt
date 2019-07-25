@@ -1,0 +1,30 @@
+208. Шумы. Звуки
+тишина                         quiet, silence
+звук                           sound
+шум                            noise
+шуметь                         to make noise
+шумный                         noisy(adj)
+громко                         loudly
+громкий                        loud (adj)
+постоянный (шум)               constant  (adj)
+крик                           shout
+кричать                        to shout (vi)
+шёпот                          whisper
+шептать                        to whisper (vi, vt)
+лай                            barking
+лаять                          to bark (vi)
+стон                           groan
+стонать                        to groan (vi)
+кашель                         cough
+кашлять                        to cough (vi)
+свист                          whistle
+свистеть                       to whistle (vi)
+стук (в дверь)                 knock
+стучать (в дверь)              to knock (vi)
+трещать (доски, лёд)           to crack (vi)
+треск                          crack
+сирена                         siren
+гудок (фабричный)              whistle
+гудеть (гудок, поезд)          to whistle (vi)
+сигнал (авто)                  honk
+сигналить (гудеть)             to honk (vi)

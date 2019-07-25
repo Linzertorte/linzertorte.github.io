@@ -1,0 +1,56 @@
+106. Производство
+завод                          plant
+фабрика                        factory
+цех                            workshop
+производство (завод и т.п.)    production site
+промышленность                 industry
+промышленный                   industrial(adj)
+тяжелая промышленность         heavy industry
+лёгкая промышленность          light industry
+продукция                      products
+производить                    to produce  (vt)
+сырьё                          raw materials
+бригадир                       foreman
+бригада                        workers team
+рабочий                        worker
+рабочий день                   workday
+остановка (перерыв)            pause, break
+собрание                       meeting
+обсуждать                      to discuss (vt)
+план                           plan
+выполнять план                 to fulfill the plan
+норма выработки                rate of output
+качество                        quality
+контроль (проверка)             checking
+контроль качества               quality control
+безопасность труда              safety of work
+дисциплина                      discipline
+нарушение                       infringement
+нарушать                        to infringe(vt)
+забастовка                      strike
+забастовщик                     striker
+бастовать                       to be on strike
+профсоюз                        labor union
+изобретать                      to invent(vt)
+изобретение                     invention
+исследование (поиск)            research
+улучшать                        to improve (vt)
+технология                      technology
+чертёж                          technical drawing
+груз                            load, cargo
+грузчик                         loader
+грузить                         to load(vt)
+погрузка                        loading
+разгружать                      to unload (vi, vt)
+разгрузка                       unloading
+транспорт                       transportation
+транспортная компания           transportation company
+транспортировать                to transport(vt)
+вагон (товарный)                freight car
+цистерна                        cistern
+грузовик                        truck
+станок                          machine tool
+механизм                        mechanism
+отходы                          industrial waste
+упаковка (действие)             packing
+упаковать                       to pack (vt)

@@ -1,0 +1,19 @@
+180. Знаки дорожные
+правила дорожного               rules of the road
+движения                        movement
+знак                            traffic sign
+обгон                           passing
+поворот                         curve
+разворот                        U-turn
+круговое движение               traffic circle
+въезд запрещён                  No entry
+движение запрещено              No vehicles allowed
+обгон запрещён                  No passing
+стоянка запрещена               No parking
+остановка запрещена             No stopping
+крутой поворот                  dangerous turn
+крутой спуск                    steep descent
+одностороннее движение          one-way traffic
+пешеходный переход              crosswalk
+скользкая дорога                slippery road
+уступи дорогу                   YIELD

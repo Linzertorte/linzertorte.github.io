@@ -1,0 +1,9 @@
+88. Дом. Электричество
+электричество                  electricity
+лампочка                       light bulb
+выключатель                    switch
+пробка (электр.)               fuze, fuse
+провод                         cable, wire
+проводка                       wiring
+электросчётчик                 electricity meter
+показание (счётчика)           readings

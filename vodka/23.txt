@@ -1,0 +1,69 @@
+23. Противоположности
+богатый                          rich(adj)
+бедный                           poor (adj)
+больной                          ill, sic(adj)
+здоровый                         healthy (adj)
+большой                          big (adj)
+маленький                        small (adj)
+быстро                           quickly
+медленно                         slowly
+быстрый                          fast(adj)
+медленный                        slow (adj)
+весёлый                          cheerful (adj)
+грустный                         sad (adj)
+вместе                           together
+отдельно                         separately
+вслух                            aloud
+про себя                         silently
+высокий                          tal(adj)
+низкий                           low (adj)
+глубокий                         deep (adj)
+мелкий                           shallow (adj)
+да                               yes
+нет                              no
+далёкий                          distant(adj)
+близкий                          nearby (adj)
+далеко                           far
+рядом                            nearby
+длинный                           long (adj)
+короткий                          short (adj)
+добрый                            good  (adj)
+злой                              evil(adj)
+женатый                           married (adj)
+холостой                          single (adj)
+запретить                         to forbid(vt)
+разрешить                         to permit (vt)
+конец                             end
+начало                            beginning
+левый                             left(adj)
+правый                            right(adj)
+первый                            firs(adj)
+последний                         last(adj)
+преступление                      crime
+наказание                         punishment
+приказать                         to order (vt)
+подчиниться                       to obey (vi, vt)
+прямой                            straight(adj)
+кривой                            curved (adj)
+рай                               heaven
+ад                                hell
+родиться                          to be born
+умереть                           to die (vi)
+сильный                           strong (adj)
+слабый                            weak  (adj)
+старый                            old (adj)
+молодой                           young  (adj)
+старый                            old (adj)
+новый                             new (adj)
+твёрдый                           hard (adj)
+мягкий                            soft(adj)
+тёплый                            warm  (adj)
+холодный                          cold (adj)
+толстый                           fat(adj)
+худой                             slim (adj)
+узкий                           narrow  (adj)
+широкий                         wide (adj)
+хороший                         good  (adj)
+плохой                          bad (adj)
+храбрый                         brave (adj)
+трусливый                       cowardly  (adj)

@@ -1,0 +1,9 @@
+52. Сервировка стола
+ложка                          spoon
+нож                            knife
+вилка                          fork
+чашка                          cup
+тарелка                        plate
+блюдце                         saucer
+салфетка                       napkin
+зубочистка                     toothpick

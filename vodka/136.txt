@@ -1,0 +1,77 @@
+136. Футбол
+футбол                         soccer
+футболист                      soccer player
+играть в футбол                to play soccer
+высшая лига                    major league
+футбольный клуб                soccer club
+тренер                         coach
+владелец                       owner
+команда                        team
+капитан команды                team captain
+игрок                          player
+запасной игрок                 substitute
+нападающий                     forward
+центральный нападающий         center forward
+бомбардир                      striker, scorer
+защитник                       defender, back
+полузащитник                   halfback
+матч                           match
+встречаться                    to meet (vi, vt)
+финал                          final
+полуфинал                      semi-final
+чемпионат                      championship
+тайм                           period, half
+1-й тайм                       first period
+перерыв                        half-time
+ворота                         goal
+вратарь                        goalkeeper
+штанга                         goalpost
+перекладина (ворот)            crossbar
+сетка (ворот)                  net
+пропустить гол                 to concede a goal
+мяч                            ball
+пас, передача                  pass
+удар                           kick
+нанести удар                   to kick(vt)
+штрафной удар                  free kick
+угловой удар                   corner kick
+атака                          attack
+контратака                     counterattack
+комбинация                     combination
+арбитр                         referee
+свистеть                       to whistle (vi)
+свисток                        whistle
+нарушение                      foul, misconduct
+нарушить                       to commit a foul
+удалить с поля                 to send off
+жёлтая карточка                yellow card
+красная карточка               red card
+дисквалификация                disqualification
+дисквалифицировать             to disqualify(vt)
+пенальти                        penalty kick
+стенка (футб.)                  wall
+забить                          to score (vi, vt)
+гол                             goal
+забить гол                      to score a goal
+замена                          substitution
+заменить (игрока)               to replace (vt)
+правила                         rules
+тактика                         tactics
+стадион                         stadium
+трибуна (стадиона)              stand, bleachers
+фан, болельщик                  fan, supporter
+кричать                         to shout (vi)
+табло                           scoreboard
+счёт (спорт.)                   score
+поражение                       defeat
+проиграть                       to lose (vi)
+ничья                           draw
+сыграть вничью                  to draw (vi)
+победа                          victory
+победить                        to win (vi)
+чемпион                         champion
+лучший                          the best (adj)
+поздравлять                     to congratulate (vt)
+комментатор                     commentator
+комментировать                  to commentate   (vt)
+трансляция                      broadcast

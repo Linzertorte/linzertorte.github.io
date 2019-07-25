@@ -1,0 +1,17 @@
+173. Велосипед. Мотоцикл
+велосипед                      bicycle
+мотороллер                     scooter
+мотоцикл                       motorcycle, bike
+ехать на велосипеде            to go by bicycle
+руль (велосипеда)              handlebars
+педаль                         pedal
+тормоза                        brakes
+седло                          bicycle seat
+насос                          pump
+багажник                     luggage rack
+фонарь                       front lamp
+шлем                         helmet
+колесо                       wheel
+крыло                        fender
+обод                         rim
+спица                        spoke

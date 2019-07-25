@@ -1,0 +1,50 @@
+120. Сельское хозяйство
+сельское хозяйство              agriculture
+крестьянин                      peasant
+крестьянка                      peasant
+фермер                          farmer
+трактор                         tractor
+комбайн                         harvester
+плуг                            plow
+пахать                          to plow (vi, vt)
+пашня                           plowland
+борозда                         furrow
+сеять                           to sow (vi, vt)
+сеялка                          seeder
+посев (действие)                sowing
+коса (орудие)                   scythe
+косить (траву)                  to mow, to scythe
+лопата                          shovel
+копать (вскапывать)             to dig(vt)
+тяпка                           hoe
+полоть                          to hoe, to weed
+сорняк                          weed
+лейка                           watering can
+поливать                        to water(vt)
+полив                           watering
+вилы                            pitchfork
+грабли                          rake
+удобрение (вещество)            fertilizer
+удобрять                        to fertilizet)
+навоз                           manure
+поле                            field
+луг                             meadow
+огород                          vegetable garden
+сад                             orchard
+пасти (скот)                    to pasture(vt)
+пастух                          herdsman
+пастбище                        pastureland
+животноводство                  cattle breeding
+овцеводство                     sheep farming
+плантация                       plantation
+грядка                          row
+парник                          greenhouse
+засуха                          drought
+засушливый (лето, период)       dry(adj)
+зерно, зерновые                 grain
+убирать (урожай)                to harvest(vt)
+мельник                         miller
+мельница                        mill
+молоть (зерно)                  to grind(vt)
+мука                            flour
+солома                          straw

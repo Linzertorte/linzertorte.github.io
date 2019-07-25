@@ -1,0 +1,74 @@
+242. Города
+Амстердам                     Amsterdam
+Анкара                        Ankara
+Афины                         Athens
+Багдад                        Baghdad
+Бангкок                      Bangkok
+Барселона                    Barcelona
+Бейрут                       Beirut
+Берлин                       Berlin
+Бомбей                       Bombay, Mumbai
+Бонн                         Bonn
+Бордо                        Bordeaux
+Братислава                   Bratislava
+Брюссель                     Brussels
+Будапешт                     Budapest
+Бухарест                     Bucharest
+Варшава                      Warsaw
+Вашингтон                    Washington
+Вена                         Vienna
+Венеция                      Venice
+Гаага                        The Hague
+Гавана                       Havana
+Гамбург                      Hamburg
+Гонконг                      Hong Kong
+Дар-эс-Салам                 Dar-es-Salaam
+Дели                         Delhi
+Дубай                        Dubai
+Дублин                       Dublin
+Дюссельдорф                  Düsseldorf
+Женева                       Geneva
+Иерусалим                    Jerusalem
+Каир                         Cairo
+Калькутта                    Calcutta
+Киев                         Kiev
+Копенгаген                   Copenhagen
+Куала-Лумпур                 Kuala Lumpur
+Лион                         Lyons
+Лиссабон                     Lisbon
+Лондон                       London
+Лос-Анджелес                 Los Angeles
+Мадрид                       Madrid
+Майями                       Miami
+Марсель                      Marseille
+Мехико                       Mexico City
+Монреаль                     Montréal
+Москва                       Moscow
+Мюнхен                       Munich
+Найроби                      Nairobi
+Неаполь                      Naples
+Ницца                        Nice
+Нью-Йорк                      New York
+Осло                          Oslo
+Оттава                        Ottawa
+Париж                         Paris
+Пекин                         Beijing
+Прага                         Prague
+Рим                           Rome
+Рио-де-Жанейро                Rio de Janeiro
+Санкт-Петербург               Saint Petersburg
+Сеул                          Seoul
+Сидней                        Sydney
+Сингапур                      Singapore
+Стамбул                       Istanbul
+Стокгольм                     Stockholm
+Тайпей                        Taipei
+Токио                         Tokyo
+Торонто                       Toronto
+Флоренция                     Florence
+Франкфурт                     Frankfurt
+Ханой                         Hanoi
+Хельсинки                     Helsinki
+Хиросима                      Hiroshima
+Чикаго                        Chicago
+Шанхай                        Shanghai

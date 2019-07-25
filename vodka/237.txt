@@ -1,0 +1,78 @@
+237. Азия
+Азия                           Asia
+азиатский                      Asian
+Вьетнам                        Vietnam
+вьетнамец                      Vietnamese
+вьетнамка                      Vietnamese
+вьетнамский                    Vietnamese  (adj)
+Индия                          India
+индиец                         Indian
+индианка                       Indian
+индийский                      Indian (adj)
+Израиль                        Israel
+израильтянин                   Israeli
+израильтянка                   Israeli
+израильский                    Israeli(adj)
+еврей                          Jew
+еврейка                        Jewess
+еврейский                      Jewish (adj)
+Китай                          China
+китаец                         Chinese
+китаянка                       Chinese
+китайский                      Chinese  (adj)
+кореец                         Korean
+кореянка                       Korean
+корейский                      Korean  (adj)
+Ливан                          Lebanon
+ливанец                        Lebanese
+ливанка                        Lebanese
+ливанский                      Lebanese  (adj)
+Монголия                       Mongolia
+монгол                         Mongolian
+монголка                       Mongolian
+монгольский                    Mongolian  (adj)
+Малайзия                       Malaysia
+малаец                         Malaysian
+малайка                        Malaysian
+малайский                      Malaysian (adj)
+Пакистан                       Pakistan
+пакистанец                     Pakistani
+пакистанка                     Pakistani
+пакистанский                   Pakistani (adj)
+Саудовская Аравия              Saudi Arabia
+араб                           Arab
+арабка                         Arab
+арабский                       Arabian (adj)
+Таиланд                        Thailand
+таец                           Thai
+тайка                          Thai
+тайский                        Thai (adj)
+Тайвань                       Taiwan
+тайванец                      Taiwanese
+тайванка                      Taiwanese
+тайванский                    Taiwanese  (adj)
+Турция                        Turkey
+турок                         Turk
+турчанка                      Turk
+турецкий                      Turkish (adj)
+Япония                        Japan
+японец                        Japanese
+японка                        Japanese
+японский                      Japanese  (adj)
+Афганистан                    Afghanistan
+Бангладеш                     Bangladesh
+Индонезия                     Indonesia
+Иордания                      Jordan
+Ирак                          Iraq
+Иран                          Iran
+Камбоджа                      Cambodia
+Кувейт                        Kuwait
+Лаос                          Laos
+Мьянма                        Myanmar
+Непал                         Nepal
+Объединённые                  United Arab Emirates
+Арабские Эмираты
+Сирия                         Syria
+Палестина                     Palestine
+Южная Корея                   South Korea
+Северная Корея                North Korea

@@ -1,0 +1,41 @@
+80. Вывески. Указатели
+вывеска                        store sign
+надпись                        notice
+плакат                     poster
+указатель                  direction sign
+стрелка (указатель)
+предупреждение             warning sign
+предупредить               to warn(vt)
+выходной день              closing day (day off)
+расписание                 timetable
+часы работы                opening hours
+ДОБРО ПОЖАЛОВАТЬ!          WELCOME!
+ВХОД                       ENTRANCE
+ВЫХОД                      EXIT
+ОТ СЕБЯ                    PUSH
+НА СЕБЯ                    PULL
+ОТКРЫТО                    OPEN
+ЗАКРЫТО                    CLOSED
+ДЛЯ ЖЕНЩИН                 WOMEN
+ДЛЯ МУЖЧИН                 MEN
+СКИДКИ                     DISCOUNTS
+РАСПРОДАЖА                 SALE
+НОВИНКА!                   NEW!
+БЕСПЛАТНО                  FREE
+ВНИМАНИЕ!                  ATTENTION!
+МЕСТ НЕТ                   NO VACANCIES
+ЗАРЕЗЕРВИРОВАНО            RESERVED
+АДМИНИСТРАЦИЯ              ADMINISTRATION
+ТОЛЬКО ДЛЯ ПЕРСОНАЛА       STAFF ONLY
+ЗЛАЯ СОБАКА                BEWARE OF THE DOG!
+НЕ КУРИТЬ!                 NO SMOKING
+РУКАМИ НЕ ТРОГАТЬ!         DO NOT TOUCH!
+ОПАСНО                     DANGEROUS
+ОПАСНОСТЬ                  DANGER
+ВЫСОКОЕ НАПРЯЖЕНИЕ         HIGH TENSION
+КУПАТЬСЯ ЗАПРЕЩЕНО         NO SWIMMING!
+НЕ РАБОТАЕТ                OUT OF ORDER
+ОГНЕОПАСНО                 FLAMMABLE
+ЗАПРЕЩЕНО                  FORBIDDEN
+ПРОХОД ЗАПРЕЩЁН            NO TRESPASSING!
+ОКРАШЕНО                   WET PAINT

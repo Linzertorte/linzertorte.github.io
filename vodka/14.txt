@@ -1,0 +1,33 @@
+14. Цвета
+цвет                              color
+оттенок                           shade
+тон                               hue
+радуга                            rainbow
+белый                             white (adj)
+чёрный                            black (adj)
+серый                             gray (adj)
+зелёный                           green (adj)
+жёлтый                            yellow (adj)
+красный                           red (adj)
+синий                             blue (adj)
+голубой                           light blue(adj)
+розовый                           pink (adj)
+оранжевый                         orange  (adj)
+фиолетовый                        violet(adj)
+коричневый                        brown  (adj)
+золотой                           golden (adj)
+серебристый                       silvery(adj)
+бежевый                           beige (adj)
+кремовый                          cream  (adj)
+бирюзовый                         turquoise (adj)
+вишнёвый                          cherry red (adj)
+лиловый                           lilacadj)
+малиновый                         crimson  (adj)
+светлый                           light(adj)
+тёмный                            dark (adj)
+яркий                             bright(adj)
+цветной (карандаш)                colored (adj)
+цветной (фильм)                   color (adj)
+чёрно-белый                   black-and-white(adj)
+одноцветный                   plain(adj)
+разноцветный                  multicolored(adj)

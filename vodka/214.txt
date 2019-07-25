@@ -1,0 +1,17 @@
+214. Звуки, издаваемые животными
+лай                            barking
+лаять                          to bark (vi)
+мяукать                        to meow (vi)
+мурлыкать                      to purr (vi)
+мычать                         to moo (vi)
+реветь                         to bellow (vi)
+рычать                         to growl (vi)
+вой                            howl
+выть                           to howl (vi)
+скулить                        to whine (vi)
+блеять                         to bleat (vi)
+хрюкать                        to grunt (vi)
+визжать                        to squeal (vi)
+квакать                        to croak (vi)
+жужжать                        to buzz (vi)
+стрекотать                     to stridulate (vi)

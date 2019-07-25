@@ -1,0 +1,46 @@
+84. Деньги
+деньги                          money
+обмен                           exchange
+курс (валют)                    exchange rate
+банкомат                        ATM
+монета                          coin
+доллар                          dollar
+евро                            euro
+итальянская лира                lira
+немецкая марка                  Deutschmark
+франк                           franc
+фунт стерлингов                 pound sterling
+йена                            yen
+долг                            debt
+должник                         debtor
+дать в долг                     to lend
+взять в долг                    to borrow (vt)
+банк                            bank
+счёт (в банке)                  account
+положить (на счёт)              to deposit(vt)
+кредитная карта                 credit card
+наличные деньги                 cash
+чек                             check
+выписать чек                    to write a check
+чековая книжка                  checkbook
+бумажник                        wallet
+кошелёк                         change purse
+сейф                           safe
+наследник                      heir
+наследство                     inheritance
+состояние                      fortune
+аренда                         lease, rent
+квартирная плата               rent
+снимать (~ квартиру)           to rent(vt)
+цена                           price
+стоимость                      cost
+сумма                          sum
+расходы                        expenses
+экономить                      to economize  (vi, vt)
+экономный                      thriftyadj)
+платить                        to pay (vi, vt)
+оплата                         payment
+сдача (деньги)                 change
+налог                          tax
+штраф                          fine
+штрафовать                     to fine(vt)

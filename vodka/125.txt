@@ -1,0 +1,33 @@
+125. Профессии в сфере услуг
+повар                         cook
+шеф-повар                     chef
+бармен                        bartender
+официант                      waiter
+официантка                    waitress
+адвокат                       lawyer, attorney
+юрист                         lawyer
+нотариус                      notary
+электрик                      electrician
+сантехник                     plumber
+плотник                       carpenter
+массажист                     masseur
+массажистка                   masseuse
+врач                          doctor
+таксист                       taxi driver
+шофёр                         driver
+курьер                        delivery man
+горничная                     chambermaid
+охранник                      security guard
+стюардесса                    flight attendant
+учитель                       teacher
+библиотекарь                  librarian
+переводчик                    translator
+переводчик (устный)           interpreter
+гид (экскурсовод)             guide
+парикмахер                    hairdresser
+почтальон                     mailman
+продавец                      salesman
+садовник                      gardener
+слуга                         servant
+служанка                      maid
+уборщица                      cleaner

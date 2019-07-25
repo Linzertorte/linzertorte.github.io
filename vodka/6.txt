@@ -1,0 +1,11 @@
+6. Числа. Порядковые числительные
+первый                          first(adj)
+второй                          second   (adj)
+третий                          third (adj)
+четвёртый                       fourth (adj)
+пятый                           fifth(adj)
+шестой                          sixth (adj)
+седьмой                         seventh  (adj)
+восьмой                         eighth (adj)
+девятый                         ninth (adj)
+десятый                         tenth (adj)

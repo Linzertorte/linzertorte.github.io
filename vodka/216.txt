@@ -1,0 +1,51 @@
+216. Птицы
+птица                         bird
+голубь                        pigeon
+воробей                       sparrow
+синица                        tit
+сорока                        magpie
+ворон                         raven
+ворона                        crow
+галка                         jackdaw
+грач                          rook
+утка                          duck
+гусь                          goose
+фазан                         pheasant
+орёл                          eagle
+ястреб                        hawk
+сокол                          falcon
+гриф                           vulture
+кондор                         condor
+лебедь                         swan
+журавль                        crane
+аист                           stork
+попугай                        parrot
+колибри                        hummingbird
+павлин                         peacock
+страус                         ostrich
+цапля                          heron
+фламинго                       flamingo
+пеликан                        pelican
+соловей                        nightingale
+ласточка                       swallow
+дрозд                          thrush
+певчий дрозд                   song thrush
+чёрный дрозд                   blackbird
+стриж                          swift
+жаворонок                      lark
+перепел                        quail
+дятел                          woodpecker
+кукушка                        cuckoo
+сова                           owl
+филин                          eagle owl
+глухарь                        wood grouse
+тетерев                        black grouse
+куропатка                      partridge
+скворец                        starling
+канарейка                      canary
+рябчик                         hazel grouse
+зяблик                         chaffinch
+снегирь                        bullfinch
+чайка                          seagull
+альбатрос                      albatross
+пингвин                        penguin

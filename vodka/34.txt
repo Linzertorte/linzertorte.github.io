@@ -1,0 +1,25 @@
+34. Одежда
+рубашка                       shirt
+брюки                         pants
+джинсы                        jeans
+пиджак                        jacket
+костюм (мужской)              suit
+платье                        dress
+юбка                          skirt
+блузка                        blouse
+кофта (шерстяная)             knitted jacket
+жакет                         jacket
+футболка                      T-shirt
+шорты                         shorts
+спортивный костюм             tracksuit
+халат (махровый)              bathrobe
+пижама                        pajamas
+свитер                        sweater
+пуловер                       pullover
+жилет                         vest
+фрак                          tailcoat
+смокинг                       tuxedo
+форма (униформа)              uniform
+рабочая одежда                workwear
+комбинезон                    overalls
+халат (врача)                 coat

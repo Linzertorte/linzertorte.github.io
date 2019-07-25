@@ -1,0 +1,41 @@
+25. Меры измерения
+вес                           weight
+длина                         length
+ширина                        width
+высота                        height
+глубина                       depth
+объём                         volume
+площадь                       area
+грамм                         gram
+миллиграмм                    milligram
+килограмм                     kilogram
+тонна                         ton
+фунт (мера веса)              pound
+унция                         ounce
+метр                          meter
+миллиметр                     millimeter
+сантиметр                     centimeter
+километр                      kilometer
+миля                          mile
+дюйм                          inch
+фут                           foot
+ярд                           yard
+квадратный метр               square meter
+гектар                        hectare
+литр                          liter
+градус                        degree
+вольт                         volt
+ампер                         ampere
+лошадиная сила                horsepower
+количество                    quantity
+немного …                     a little bit of …
+половина                      half
+дюжина                        dozen
+штука                         piece
+размер (предмета)             size
+масштаб                       scale
+минимальный                   minimum  (adj)
+наименьший                    the smallest(adj)
+средний                        medium  (adj)
+максимальный                   maximum  (adj)
+наибольший                     the largestadj)

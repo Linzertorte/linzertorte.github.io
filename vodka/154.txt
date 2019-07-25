@@ -1,0 +1,46 @@
+154. Музыка. Эстрада
+музыка                         music
+музыкант                       musician
+музыкальный инструмент         musical instrument
+играть на …                    to play …
+гитара                         guitar
+скрипка                        violin
+виолончель                     cello
+контрабас                      double bass
+арфа                           harp
+пианино                       piano
+рояль                         grand piano
+оргáн                         organ
+духовые инструменты           wind instruments
+гобой                         oboe
+саксофон                      saxophone
+кларнет                       clarinet
+флейта                        flute
+труба                         trumpet
+аккордеон                     accordion
+барабан                       drum
+дуэт                          duo
+трио                          trio
+квартет                       quartet
+хор                           choir
+оркестр                       orchestra
+поп-музыка                    pop music
+рок-музыка                    rock music
+рок-группа                    rock group
+джаз                          jazz
+кумир                         idol
+поклонник                     admirer, fan
+концерт                       concert
+симфония                      symphony
+сочинение (муз.)              composition
+сочинить (стихи, песню)       to compose  (vt)
+пение                         singing
+песня                         song
+мелодия                       tune
+ритм                          rhythm
+блюз                          blues
+ноты                          sheet music
+палочка (дирижёрская)         baton
+смычок                        bow
+струна                        string
+футляр                        case

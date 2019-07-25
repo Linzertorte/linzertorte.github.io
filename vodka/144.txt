@@ -1,0 +1,16 @@
+144. Названия наук и дисциплин
+математика                   mathematics
+алгебра                      algebra
+геометрия                    geometry
+астрономия                   astronomy
+биология                     biology
+география                    geography
+геология                     geology
+история                      history
+медицина                     medicine
+педагогика                   pedagogy
+право                        law
+физика                       physics
+химия                        chemistry
+философия                    philosophy
+психология                   psychology

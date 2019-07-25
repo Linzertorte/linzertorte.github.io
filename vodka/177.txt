@@ -1,0 +1,29 @@
+177. Автомобиль. Двигатель
+двигатель                      engine
+мотор                          motor
+дизельный                      diesel(as adj)
+бензиновый                     gasoline (as adj)
+объём двигателя                engine volume
+мощность                       power
+лошадиная сила                 horsepower
+поршень                        piston
+цилиндр                        cylinder
+клапан                         valve
+инжектор                       injector
+генератор                      generator
+карбюратор                     carburetor
+масло моторное                 engine oil
+радиатор                       radiator
+охлаждающая жидкость           coolant
+вентилятор                     cooling fan
+аккумулятор                    battery
+стартер                        starter
+зажигание                      ignition
+свеча зажигания                spark plug
+клемма                         terminal
+плюс                           positive terminal
+минус                          negative terminal
+предохранитель                 fuze, fuse
+воздушный фильтр               air filter
+масляный фильтр                oil filter
+топливный фильтр               fuel filter

@@ -1,0 +1,24 @@
+222. Животные. Действия
+летать                         to fly (vi)
+кружить (о птице)              to make circles
+улететь (о птице)              to fly away
+махать (крыльями)               to flap the wings
+клевать                         to peck (vi)
+высиживать яйца                 to brood  (vt)
+вылупляться                     to hatch out (vi)
+вить гнездо                     to build the nest
+ползать                         to slither, to crawl
+жалить (о насекомом)            to sting, to bite
+кусать (о собаке и т.п.)        to bite(vt)
+нюхать (о животных)             to sniff(vt)
+лаять                           to bark (vi)
+шипеть                          to hiss (vi)
+пугать                          to scare (vt)
+нападать                        to attack (vt)
+грызть                          to gnaw  (vt)
+царапать                        to scratch (vt)
+прятаться                       to hide (vi)
+играть                          to play (vi)
+охотиться                       to hunt (vi, vt)
+быть в спячке                   to hibernate (vi)
+вымереть (динозавры)            to become extinct

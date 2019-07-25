@@ -1,0 +1,57 @@
+130. Профессии различные
+врач                          doctor
+медсестра                     nurse
+психиатр                      psychiatrist
+стоматолог                    stomatologist
+хирург                        surgeon
+астронавт                     astronaut
+астроном                      astronomer
+лётчик, пилот                 pilot
+водитель                      driver
+машинист                      engineer
+механик                       mechanic
+шахтёр                        miner
+рабочий                       worker
+слесарь                       metalworker
+столяр                        joiner, carpenter
+токарь                        turner
+строитель                     construction worker
+сварщик                       welder
+профессор                     professor
+архитектор                    architect
+историк                       historian
+учёный                        scientist
+физик                         physicist
+химик                         chemist
+археолог                      archeologist
+геолог                        geologist
+исследователь                 researcher
+няня                          babysitter
+учитель, педагог              teacher, educator
+редактор                      editor
+главный редактор              editor-in-chief
+корреспондент                 correspondent
+машинистка                    typist
+дизайнер                      designer
+компьютерщик                  computer expert
+программист                   programmer
+инженер                       engineer
+моряк                         sailor
+матрос                        seaman
+спасатель                     rescuer
+пожарный                      fireman
+полицейский                   policeman
+сторож                        watchman
+сыщик                         detective
+таможенник                    customs officer
+телохранитель                 bodyguard
+охранник (в тюрьме)           prison guard
+инспектор                     inspector
+спортсмен                     sportsman
+тренер                        trainer, coach
+мясник                        butcher
+сапожник                      cobbler
+коммерсант                    merchant
+грузчик                       loader
+модельер                      fashion designer
+модель (манекенщица)          model

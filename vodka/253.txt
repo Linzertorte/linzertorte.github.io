@@ -1,0 +1,97 @@
+253. Глаголы Ж-М
+жаловаться                         to complain  (vi, vt)
+ждать                              to wait (vt)
+желать                             to desire (vt)
+жениться                           to get married
+жечь, сжигать                      to burn  (vt)
+жить (проживать)                   to live (vi)
+жить (существовать)                to live (vi)
+забыть                             to forget (vi, vt)
+завидовать                         to be envious
+зависеть (от …)                    to depend on …
+заворачивать (в бумагу)            to wrap  (vt)
+завтракать                         to have breakfast
+задуматься                         to become pensive
+зажечь (костёр, камин)             to light(vt)
+заказывать (в ресторане)           to order (vi, vt)
+заканчивать                        to finish (vt)
+закрывать                          to close (vt)
+замечать (увидеть)                 to notice (vt)
+замолчать                          to stop talking
+занимать (деньги)                  to borrow  (vt)
+записывать                         to write down
+запомнить                          to memorize   (vt)
+запрещать                          to forbid (vt)
+запускать (начинать)               to launch  (vt)
+заразить (~ гриппом)               to infect (vt)
+заразиться чем-л.                  to get infected with …
+заряжать (оружие)                  to load (vt)
+заслуживать                        to deserve  (vt)
+защищать (страну)                  to defend  (vt)
+защищаться                         to defend oneself
+звать (на помощь и т.п.)            to call(vt)
+знакомить (кого-л. с кем-л.)        to introduce  (vt)
+знакомиться (с кем-л.)              to make the acquaintance
+знать (кого-л.)                     to know  (vt)
+значить                             to mean  (vt)
+играть (в игру)                     to play (vi)
+играть (об актёре)                  to play (vi, vt)
+идти                                to go (vi)
+избавиться от …                     to get rid of …
+избегать                            to avoid (vt)
+извинять                            to excuse  (vt)
+извиняться                          to apologize (vi)
+изменить (поменять)                 to change   (vt)
+изобретать                          to invent (vt)
+изолировать                         to isolate (vt)
+изучать                             to study  (vt)
+иметь                               to have  (vt)
+имитировать                         to imitate (vt)
+импортировать                       to import  (vt)
+инструктировать                     to instruct (vt)
+интересовать                        to interest (vt)
+интересоваться                      to be interested in …
+информировать                       to inform  (vt)
+искать …                            to look for …
+исключать (~ из школы)              to exclude, to expel
+испачкаться                         to get dirty (vi)
+исправлять (ошибку)                 to correct (vt)
+исправлять (починить)               to repair (vt)
+исчезнуть                           to disappear (vi)
+касаться                            to touch  (vt)
+класть, положить                    to put (vt)
+компенсировать                      to compensate    (vt)
+компрометировать                    to compromise    (vt)
+конкурировать                       to compete (vi)
+консультироваться c …               to consult  (vt)
+контролировать                      to control (vt)
+концентрироваться                   to concentrate (vi)
+координировать                      to coordinate  (vt)
+кормить                             to feed (vt)
+краснеть (от стыда)                 to blush (vi)
+красть                              to steal (vt)
+кричать                             to shout (vi)
+купать                              to bathe  (vt)
+купаться (в море и т.п.)            to go for a swim
+кушать, есть                        to eat(vi, vt)
+лежать (о предмете)                 to be (vi)
+лежать (о человеке)                 to be lying down
+летать                              to fly (vi)
+лечить (болезнь)                    to treat(vt)
+лишать                              to deprive (vt)
+ловить                              to catch (vt)
+ловить рыбу                         to fish (vi)
+ложиться спать                      to go to bed
+ломать                              to break (vt)
+льстить                             to flatte(vt)
+любить (напр. спорт)                to like(vt)
+любить (человека)                   to love (vt)
+махать (рукой)                      to wave  (vt)
+менять                              to change  (vt)
+мечтать                             to dream (vi)
+молиться                            to pray (vi, vt)
+молчать                             to keep silent
+мочь                                can (v aux)
+мстить                              to avenge  (vt)
+мыть                                to wash  (vt)
+мыться                              to take a bath

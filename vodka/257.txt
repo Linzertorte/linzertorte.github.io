@@ -1,0 +1,53 @@
+257. Глаголы У-Я
+убеждать                            to convince  (vt)
+убивать                             to killvt)
+убирать (наводить порядок)          to clean (vt)
+убирать (спрятать)                  to put away  (vt)
+увеличивать                         to increase (vt)
+увеличиваться                       to increase (vi)
+увидеть (заметить)                  to catch sight
+угрожать                            to threaten (vt)
+удалять (пятно и т.п.)              to remove  (vt)
+удваивать                           to double  (vt)
+удерживать (~ от чего-л.)           to restrain (vt)
+удивлять                            to surprise (vt)
+удивляться                          to be surprised
+удовлетворять                       to satisfy(vt)
+уезжать                             to leave (vi)
+ужинать                             to have dinner
+узнавать (адрес и т.п.)             to inquire (vt)
+узнавать (кого-л.)                  to recognize  (vt)
+указать (направление)               to point (vt)
+украшать (дом и т.п.)               to decorate  (vt)
+укреплять (положение)               to strengthen
+улаживать                           to settle(vt)
+улыбаться                           to smile (vi)
+уменьшать                           to reduce  (vt)
+умножать (матем.)                   to multiply (vt)
+умолять (просить)                   to implore (vt)
+уничтожать (~ улики)                to destroy (vt)
+уносить                             to take away
+упоминать                           to mention  (vt)
+употребить                          to use (vt)
+упрекать                            to reproach  (vt)
+упрощать                            to simplify (vt)
+успокаивать (унять)                 to calm down   (vt)
+уставать                            to get tired
+устраивать (~ вечеринку)            to organize  (vt)
+устранять (препятствие)             to remove  (vt)
+уступать (в чём-л.)                 to give in
+утверждать (настаивать)             to affirm(vt)
+утомлять                            to tire(vt)
+участвовать                         to participate (vi)
+фотографировать                     to take pictures
+хвастаться                          to boast (vi)
+хватать (быть достаточным)          to be enough
+хотеть                              to want (vt)
+хранить (старые письма)             to keep (vt)
+царапать                            to scratch (vt)
+целиться (в …)                      to take aim
+цитировать                          to quote (vt)
+чистить                             to clean (vt)
+читать                              to read (vi, vt)
+чувствовать (опасность)             to sense  (vt)
+шутить                              to joke, to be kidding

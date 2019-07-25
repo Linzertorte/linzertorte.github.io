@@ -1,0 +1,37 @@
+86. Дом. Жилище
+дом                            house
+дома (у себя)                  at home
+двор                           courtyard
+ограда (решётка)               fence
+кирпич                         brick
+кирпичный                      brick (as adj)
+камень                         stone
+каменный                       stone (as adj)
+бетон                          concrete
+бетонный                       concrete  (as adj)
+новый                          new  (adj)
+старый                         old (adj)
+ветхий                         decrepit (adj)
+современный                    modern   (adj)
+многоэтажный                   multistory (adj)
+высокий                        high (adj)
+этаж                           floor, story
+одноэтажный                    single-story (adj)
+нижний этаж                    ground floor
+верхний этаж                   top floor
+крыша                          roof
+труба                          chimney
+черепица                       tiles
+черепичный                     tiled(adj)
+чердак                         loft, attic
+окно                           window
+стекло                         glass
+подоконник                     window ledge
+ставни                         shutters
+стена                          wall
+балкон                         balcony
+водосточная труба              downspout
+наверху                        upstairs
+подниматься                    to go upstairs
+спускаться                     to come down
+переезжать                     to move (vi)

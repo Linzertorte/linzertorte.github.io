@@ -1,0 +1,31 @@
+95. Мебель. Интерьер
+мебель                         furniture
+стол                           table
+стул                           chair
+кровать                        bed
+диван                          couch, sofa
+кресло                         armchair
+шкаф (книжный)                 bookcase
+полка (для книг)               shelf
+этажерка                       set of shelves
+шкаф (для одежды)              wardrobe
+вешалка (на стене)             coat rack
+вешалка (стойка)               coat stand
+комод                          dresser
+журнальный столик              coffee table
+зеркало                        mirror
+ковёр                          carpet
+коврик                        rug, small carpet
+камин                         fireplace
+свеча                         candle
+подсвечник                    candlestick
+шторы                         drapes
+обои                          wallpaper
+жалюзи                        blinds
+настольная лампа              table lamp
+торшер                        floor lamp
+люстра                        chandelier
+ножка (стола, стула)          leg
+подлокотник                   armrest
+спинка (стула и т.п.)         back
+ящик (стола)                  drawer

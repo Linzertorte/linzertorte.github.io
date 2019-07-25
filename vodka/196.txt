@@ -1,0 +1,19 @@
+196. Планета Земля
+Земля                         the Earth
+земной шар                    globe
+планета                       planet
+атмосфера                     atmosphere
+география                     geography
+природа                       nature
+глобус                        globe
+карта                         map
+атлас                         atlas
+Европа                        Europe
+Азия                          Asia
+Африка                        Africa
+Австралия                     Australia
+Америка                       America
+Северная Америка              North America
+Южная Америка                  South America
+Антарктида                     Antarctica
+Арктика                        the Arctic

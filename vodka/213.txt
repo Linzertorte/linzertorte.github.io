@@ -1,0 +1,21 @@
+213. Собака. Породы
+собака                         dog
+овчарка                        sheepdog
+немецкая овчарка               German shepherd dog
+пудель                         poodle
+такса                          dachshund
+бульдог                        bulldog
+боксёр                         boxer
+мастиф                         mastiff
+ротвейлер                      rottweiler
+доберман                       Doberman
+бассет                         basset
+бобтейл                        bobtail
+далматинец                     Dalmatian
+кокер-спаниель                 cocker spaniel
+ньюфаундленд                   Newfoundland
+сенбернар                      Saint Bernard
+хаски                          husky
+чау-чау                        Chow Chow
+шпиц                           spitz
+мопс                           pug

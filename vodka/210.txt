@@ -1,0 +1,16 @@
+210. Млекопитающие. Хищники
+хищник                       predator
+тигр                         tiger
+лев                          lion
+волк                         wolf
+лиса                         fox
+ягуар                        jaguar
+леопард                      leopard
+гепард                       cheetah
+пантера                      black panther
+пума                         puma
+снежный барс                 snow leopard
+рысь                         lynx
+койот                        coyote
+шакал                        jackal
+гиена                        hyena

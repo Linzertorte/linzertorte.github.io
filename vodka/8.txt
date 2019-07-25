@@ -1,0 +1,10 @@
+8. Числа. Математические действия
+вычитание                       subtraction
+вычитать                        to subtract (vi, vt)
+деление                         division
+делить                          to divide (vt)
+сложение                        addition
+сложить (матем.)                to add up  (vt)
+прибавлять                      to add (vi, vt)
+умножение                       multiplication
+умножать                        to multiply (vt)

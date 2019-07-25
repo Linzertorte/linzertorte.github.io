@@ -1,0 +1,53 @@
+235. Центральная и Восточная Европа
+Албания                       Albania
+албанец                       Albanian
+албанка                       Albanian
+албанский                     Albanian (adj)
+Болгария                      Bulgaria
+болгарин                      Bulgarian
+болгарка                      Bulgarian
+болгарский                    Bulgarian (adj)
+Венгрия                       Hungary
+венгр                         Hungarian
+венгерка                      Hungarian
+венгерский                    Hungarian  (adj)
+Латвия                        Latvia
+латыш                         Latvian
+латышка                       Latvian
+латышский                     Latvian (adj)
+Литва                         Lithuania
+литовец                       Lithuanian
+литовка                       Lithuanian
+литовский                     Lithuanian (adj)
+Польша                        Poland
+поляк                         Pole
+полька                        Pole
+польский                      Polish (adj)
+Румыния                       Romania
+румын                         Romanian
+румынка                        Romanian
+румынский                      Romanian  (adj)
+Сербия                         Serbia
+серб                           Serbian
+сербка                         Serbian
+сербский                       Serbian (adj)
+Словакия                       Slovakia
+словак                         Slovak
+словачка                       Slovak
+словацкий                      Slovak (adj)
+Хорватия                       Croatia
+хорват                         Croatian
+хорватка                       Croatian
+хорватский                     Croatian (adj)
+Чехия                          The Czech Republic
+чех                            Czech
+чешка                          Czech
+чешский                        Czech (adj)
+Эстония                        Estonia
+эстонец                        Estonian
+эстонка                        Estonian
+эстонский                      Estonian (adj)
+Босния и Герцеговина           Bosnia-Herzegovina
+Македония                      Macedonia
+Словения                       Slovenia
+Черногория                     Montenegro

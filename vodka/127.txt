@@ -1,0 +1,27 @@
+127. Государственные и религиозные служащие
+король                        king
+королева                      queen
+принц                         prince
+принцесса                     princess
+царь                          tsar
+царица                        czarina
+президент                     President
+министр                       Secretary
+премьер-министр               Prime minister
+сенатор                       Senator
+дипломат                      diplomat
+консул                        consul
+посол                         ambassador
+советник                      advisor
+чиновник                      official
+префект                       prefect
+мэр                           mayor
+судья                         judge
+прокурор                      prosecutor
+миссионер                     missionary
+монах                         monk
+аббат                         abbot
+раввин                        rabbi
+визирь                        vizier
+шах                           shah
+шейх                          sheikh

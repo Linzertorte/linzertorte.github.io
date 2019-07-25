@@ -1,0 +1,12 @@
+54. Анкета. Анкетные данные
+имя                           name, first name
+фамилия                       family name
+дата рождения                 date of birth
+место рождения                place of birth
+национальность                nationality
+место жительства              place of residence
+страна                        country
+профессия                     profession
+пол (муж. или жен.)           gender, sex
+рост                          height
+вес                           weight

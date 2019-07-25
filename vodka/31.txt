@@ -1,0 +1,42 @@
+31. Голова
+голова                        head
+лицо                          face
+нос                           nose
+рот                           mouth
+глаз                          eye
+глаза                         eyes
+зрачок                        pupil
+бровь                         eyebrow
+ресница                       eyelash
+веко                          eyelid
+язык                          tongue
+зуб                           tooth
+губы                          lips
+скулы                         cheekbones
+десна                         gum
+нёбо                          palate
+ноздри                        nostrils
+подбородок                    chin
+челюсть                       jaw
+щека                          cheek
+лоб                           forehead
+висок                         temple
+ухо                           ear
+затылок                       back of the head
+шея                           neck
+горло                         throat
+волосы                        hair
+причёска                      hairstyle
+стрижка (причёска)            haircut
+парик                         wig
+усы                           mustache
+борода                        beard
+носить (усы, бороду)          to have (vt)
+коса                          braid
+бакенбарды                    sideburns
+рыжий (человек)               red-haired (adj)
+седой (о волосах)              gray(adj)
+лысый                          bald(adj)
+лысина                         bald patch
+хвост (причёска)               ponytail
+чёлка                          bangs

@@ -1,0 +1,37 @@
+205. Природные ресурсы
+природные ресурсы              natural resources
+полезные ископаемые            minerals
+залежи                         deposits
+месторождение                  field
+добывать (руду)                to mine (vt)
+добыча                         mining
+руда                           ore
+рудник, шахта                  mine
+шахта (скважина)               mine shaft, pit
+шахтёр                         miner
+газ                            gas
+газопровод                     gas pipeline
+нефть                          oil, petroleum
+нефтепровод                    oil pipeline
+нефтяная скважина              oil rig
+нефтяная вышка                 derrick
+танкер                         tanker
+песок                          sand
+известняк                      limestone
+гравий                         gravel
+торф                           peat
+глина                          clay
+уголь                          coal
+железо                         iron
+золото                         gold
+серебро                        silver
+никель                         nickel
+медь                           copper
+цинк                           zinc
+марганец                       manganese
+ртуть                          mercury
+свинец                         lead
+минерал                        mineral
+кристалл                       crystal
+мрамор                         marble
+уран                           uranium

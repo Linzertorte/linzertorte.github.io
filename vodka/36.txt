@@ -1,0 +1,16 @@
+36. Головной убор
+шапка                         hat
+шляпа                         fedora
+бейсболка                     baseball cap
+кепка                         flatcap
+берет                         beret
+капюшон                       hood
+панамка                       panama
+вязаная шапочка               knitted hat
+платок (головной)             headscarf
+шляпка (женская)              women's hat
+каска                         hard hat
+пилотка (воен.)               garrison cap
+шлем                          helmet
+котелок (шляпа)               derby
+цилиндр                       top hat

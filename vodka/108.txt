@@ -1,0 +1,23 @@
+108. Импорт-Экспорт
+импорт                         import
+импортёр                       importer
+импортировать                  to import (vt)
+импортный                      import (adj)
+экспорт                        export
+экспортёр                      exporter
+экспортировать                 to export(vi, vt)
+экспортный                     export
+товар                          goods
+партия (груза)                 consignment, lot
+вес                            weight
+объём                          volume
+кубический метр                cubic meter
+производитель                  manufacturer
+транспортная компания          transportation company
+контейнер                      container
+граница                        border
+таможня                        customs
+таможенная пошлина             customs duty
+таможенник                     customs officer
+контрабанда (действия)         smuggling
+контрабанда (товары)           contraband

@@ -1,0 +1,18 @@
+203. Названия рек
+Сена                          Seine
+Луара                         Loire
+Темза                         Thames
+Рейн                          Rhine
+Дунай                         Danube
+Волга                         Volga
+Дон                           Don
+Лена                          Lena
+Хуанхэ                        Yellow River
+Янцзы                         Yangtze
+Меконг                        Mekong
+Ганг                          Ganges
+Нил                           Nile River
+Конго                         Congo
+Окаванго                      Okavango
+Замбези                       Zambezi
+Лимпопо                       Limpopo

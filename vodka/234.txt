@@ -1,0 +1,91 @@
+234. Западная Европа
+Европа                        Europe
+Европейский Союз              European Union
+европеец                      European
+европейский                   European (adj)
+Австрия                       Austria
+австриец                      Austrian
+австрийка                     Austrian
+австрийский                   Austrian(adj)
+Великобритания                Great Britain
+Англия                        England
+англичанин                    British
+англичанка                    British
+английский                    English, Britishadj)
+Бельгия                       Belgium
+бельгиец                      Belgian
+бельгийка                     Belgian
+бельгийский                   Belgian(adj)
+Германия                      Germany
+немец                         German
+немка                         German
+немецкий                      German  (adj)
+Нидерланды                    Netherlands
+Голландия                     Holland
+голландец                     Dutchman
+голландка                     Dutchwoman
+голландский                   Dutch (adj)
+Греция                        Greece
+грек                          Greek
+гречанка                      Greek
+греческий                     Greek (adj)
+Дания                         Denmark
+датчанин                      Dane
+датчанка                      Dane
+датский                        Danish (adj)
+Ирландия                       Ireland
+ирландец                       Irishman
+ирландка                       Irishwoman
+ирландский                     Irish(adj)
+Исландия                       Iceland
+исландец                       Icelander
+исландка                       Icelander
+исландский                     Icelandic(adj)
+Испания                        Spain
+испанец                        Spaniard
+испанка                        Spaniard
+испанский                      Spanish (adj)
+Италия                         Italy
+итальянец                      Italian
+итальянка                      Italian
+итальянский                    Italianadj)
+Кипр                           Cyprus
+киприот                        Cypriot
+киприотка                      Cypriot
+кипрский                       Cypriot(adj)
+Мальта                         Malta
+мальтиец                       Maltese
+мальтийка                      Maltese
+мальтийский                    Maltese (adj)
+Норвегия                       Norway
+норвежец                       Norwegian
+норвежка                       Norwegian
+норвежский                     Norwegian  (adj)
+Португалия                     Portugal
+португалец                     Portuguese
+португалка                     Portuguese
+португальский                  Portuguese  (adj)
+Финляндия                      Finland
+финн                           Finn
+финка                          Finn
+финский                        Finnish (adj)
+Франция                        France
+француз                        Frenchman
+француженка                    Frenchwoman
+французский                    French (adj)
+Швеция                         Sweden
+швед                           Swede
+шведка                        Swede
+шведский                      Swedish  (adj)
+Швейцария                     Switzerland
+швейцарец                     Swiss
+швейцарка                     Swiss
+швейцарский                   Swiss (adj)
+Шотландия                     Scotland
+шотландец                     Scottish
+шотландка                     Scottish
+шотландский                   Scottish (adj)
+Ватикан                       Vatican
+Лихтенштейн                   Liechtenstein
+Люксембург                    Luxembourg
+Монако                        Monaco

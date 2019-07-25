@@ -1,0 +1,23 @@
+50. Приправы. Специи
+соль                            salt
+солёный                         salty(adj)
+солить                          to sal(vt)
+чёрный перец                    black pepper
+красный перец                   red pepper
+горчица                         mustard
+хрен                            horseradish
+приправа                        condiment
+пряность                        spice
+соус                            sauce
+уксус                           vinegar
+анис                            anise
+базилик                         basil
+гвоздика                        cloves
+имбирь                          ginger
+кориандр                        coriander
+корица                          cinnamon
+кунжут                          sesame
+лавровый лист                   bay leaf
+паприка                         paprika
+тмин                            caraway
+шафран                          saffron

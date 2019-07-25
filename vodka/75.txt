@@ -1,0 +1,13 @@
+75. Врачи
+врач                           doctor
+медсестра                      nurse
+личный врач                    private physician
+дантист                        dentist
+окулист                        ophthalmologist
+терапевт                       internist
+хирург                         surgeon
+психиатр                       psychiatrist
+педиатр                        pediatrician
+психолог                       psychologist
+гинеколог                      gynecologist
+кардиолог                      cardiologist

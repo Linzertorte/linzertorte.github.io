@@ -1,0 +1,65 @@
+71. Болезни
+болезнь                        sickness
+болеть (быть больным)          to be sick
+здоровье                       health
+насморк                        runny nose
+ангина                         tonsillitis
+простуда                       cold
+простудиться                   to catch a cold
+бронхит                        bronchitis
+воспаление лёгких              pneumonia
+грипп                          flu
+близорукий                     near-sighted (adj)
+дальнозоркий                   far-sighted(adj)
+косоглазие                     strabismus
+косоглазый                     cross-eyed (adj)
+катаракта                      cataract
+глаукома                       glaucoma
+инсульт                        stroke
+инфаркт                        heart attack
+инфаркт миокарда               myocardial infarction
+паралич                        paralysis
+парализовать                   to paralyze(vt)
+аллергия                       allergy
+астма                          asthma
+диабет                         diabetes
+зубная боль                    toothache
+кариес                         caries
+диарея                         diarrhea
+запор                          constipation
+расстройство желудка           stomach upset
+отравление (пищевое)           food poisoning
+артрит                         arthritis
+рахит                          rickets
+ревматизм                      rheumatism
+атеросклероз                   atherosclerosis
+гастрит                        gastritis
+аппендицит                    appendicitis
+холецистит                    cholecystitis
+язва (внутренняя)             ulcer
+корь                          measles
+краснуха                      German measles
+желтуха                       jaundice
+гепатит                       hepatitis
+шизофрения                    schizophrenia
+бешенство                     rabies
+невроз                        neurosis
+сотрясение мозга              concussion
+рак                           cancer
+склероз                       sclerosis
+рассеянный склероз            multiple sclerosis
+алкоголизм                    alcoholism
+алкоголик                     alcoholic
+сифилис                       syphilis
+СПИД                          AIDS
+опухоль (внутренняя)          tumor
+лихорадка                     fever
+малярия                       malaria
+гангрена                      gangrene
+морская болезнь               seasickness
+эпилепсия                     epilepsy
+эпидемия                      epidemic
+тиф                           typhus
+туберкулёз                    tuberculosis
+холера                        cholera
+чума                          plague

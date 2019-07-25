@@ -1,0 +1,31 @@
+112. Банк
+банк                           bank
+отделение                      branch
+консультант                     consultant
+управляющий                     manager
+счёт (в банке)                  banking account
+номер счёта                     account number
+текущий счёт                    checking account
+накопительный счёт              savings account
+открыть счёт                    to open an account
+закрыть счёт                    to close the account
+вклад                           deposit
+сделать вклад                   to make a deposit
+перевод                         wire transfer
+сделать перевод                 to wire, to send
+сумма                           sum
+Сколько? (о деньгах)            How much?
+подпись                         signature
+подписать                       to sign(vt)
+кредитная карта                 credit card
+код                             code
+номер кредитной карты           credit card number
+банкомат                        ATM
+чек                             check
+выписать чек                    to write a check
+чековая книжка                  checkbook
+кредит                          loan (bank ~)
+обращаться за кредитом          to apply for a loan
+брать кредит                    to get a loan
+предоставлять кредит            to give a loan
+гарантия (залог)                guarantee

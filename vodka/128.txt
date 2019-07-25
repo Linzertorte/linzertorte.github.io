@@ -1,0 +1,10 @@
+128. Профессии в сельском хозяйстве
+пчеловод                      beekeeper
+пастух                        herdsman
+агроном                       agronomist
+животновод                    cattle breeder
+ветеринар                     veterinarian
+фермер                        farmer
+винодел                       winemaker
+зоолог                        zoologist
+ковбой                        cowboy

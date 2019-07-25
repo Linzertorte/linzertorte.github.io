@@ -1,0 +1,9 @@
+7. Числа. Дроби
+дробь                           fraction
+одна вторая                     one half
+одна третья                     one third
+одна четвертая                  one quarter
+одна восьмая                    one eighth
+одна десятая                    one tenth
+две третьих                     two thirds
+три четвёртых                   three quarters
