@@ -58,6 +58,7 @@ print head%L
 with open("%d.txt"%L) as f:
     for line in f.readlines():
         line = line.rstrip()
+        line = line.split('.')[0]
         print '''               <tr onclick="m('%s')">'''%(line)
         print '''                  <td>%s</td>'''%line
         print '''               </tr>'''
