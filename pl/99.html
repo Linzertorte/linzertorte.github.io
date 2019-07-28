@@ -1,0 +1,226 @@
+<html>
+   <head>
+      <title>Assimil Polish</title>
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+      <link rel="stylesheet" href="bootstrap.min.css">
+      <script src="jquery.min.js"></script>
+      <script src="popper.min.js"></script>
+      <script src="bootstrap.min.js"></script>
+      <script src="howler.core.min.js"></script>
+      <script src="howler.min.js"></script>
+      <style>
+         body {
+            padding-top: 2em;
+            background-color: #F8F8F8;
+         }
+         table {
+           table-layout: fixed;
+           word-wrap: break-word;
+         }
+         tr {
+            background-color: white;
+         }
+         td {
+            word-break: break-all;
+         }
+      </style>
+   </head>
+   <body>
+      <div class="container">
+         <h3>Lesson 99</h3>
+         <table class="table">
+            <tbody>
+               <tr onclick="m('N99.mp3')">
+                  <td>N99.mp3</td>
+               </tr>
+               <tr onclick="m('S00-TITLE.mp3')">
+                  <td>S00-TITLE.mp3</td>
+               </tr>
+               <tr onclick="m('S01.mp3')">
+                  <td>S01.mp3</td>
+               </tr>
+               <tr onclick="m('S02.mp3')">
+                  <td>S02.mp3</td>
+               </tr>
+               <tr onclick="m('S03.mp3')">
+                  <td>S03.mp3</td>
+               </tr>
+               <tr onclick="m('S04.mp3')">
+                  <td>S04.mp3</td>
+               </tr>
+               <tr onclick="m('S05.mp3')">
+                  <td>S05.mp3</td>
+               </tr>
+               <tr onclick="m('S06.mp3')">
+                  <td>S06.mp3</td>
+               </tr>
+               <tr onclick="m('S07.mp3')">
+                  <td>S07.mp3</td>
+               </tr>
+               <tr onclick="m('S08.mp3')">
+                  <td>S08.mp3</td>
+               </tr>
+               <tr onclick="m('S09.mp3')">
+                  <td>S09.mp3</td>
+               </tr>
+               <tr onclick="m('S10.mp3')">
+                  <td>S10.mp3</td>
+               </tr>
+               <tr onclick="m('S11.mp3')">
+                  <td>S11.mp3</td>
+               </tr>
+               <tr onclick="m('S12.mp3')">
+                  <td>S12.mp3</td>
+               </tr>
+               <tr onclick="m('S13.mp3')">
+                  <td>S13.mp3</td>
+               </tr>
+               <tr onclick="m('S14.mp3')">
+                  <td>S14.mp3</td>
+               </tr>
+               <tr onclick="m('S15.mp3')">
+                  <td>S15.mp3</td>
+               </tr>
+               <tr onclick="m('S16.mp3')">
+                  <td>S16.mp3</td>
+               </tr>
+               <tr onclick="m('T00-TRANSLATE.mp3')">
+                  <td>T00-TRANSLATE.mp3</td>
+               </tr>
+               <tr onclick="m('T01.mp3')">
+                  <td>T01.mp3</td>
+               </tr>
+               <tr onclick="m('T02.mp3')">
+                  <td>T02.mp3</td>
+               </tr>
+               <tr onclick="m('T03.mp3')">
+                  <td>T03.mp3</td>
+               </tr>
+               <tr onclick="m('T04.mp3')">
+                  <td>T04.mp3</td>
+               </tr>
+               <tr onclick="m('T05.mp3')">
+                  <td>T05.mp3</td>
+               </tr>
+            </tbody>
+         </table>
+      </div>
+   </body>
+   <script>
+      var sound = new Howl(
+        {
+          "src": [
+            "pl_099.mp3"
+          ],
+          "sprite": {
+            "N99": [
+              0,
+              3376.938775510204
+            ],
+            "S00-TITLE": [
+              5000,
+              2901.1111111111118
+            ],
+            "S01": [
+              9000,
+              3324.0589569160993
+            ],
+            "S02": [
+              14000,
+              5412.494331065758
+            ],
+            "S03": [
+              21000,
+              3191.8820861678014
+            ],
+            "S04": [
+              26000,
+              3932.0861678004526
+            ],
+            "S05": [
+              31000,
+              4619.410430839004
+            ],
+            "S06": [
+              37000,
+              7318.117913832197
+            ],
+            "S07": [
+              46000,
+              6392.879818594103
+            ],
+            "S08": [
+              54000,
+              6313.56009070295
+            ],
+            "S09": [
+              62000,
+              4011.3832199546523
+            ],
+            "S10": [
+              68000,
+              6313.582766439908
+            ],
+            "S11": [
+              76000,
+              5335.4421768707425
+            ],
+            "S12": [
+              83000,
+              6207.823129251693
+            ],
+            "S13": [
+              91000,
+              5784.852607709752
+            ],
+            "S14": [
+              98000,
+              5253.877551020409
+            ],
+            "S15": [
+              105000,
+              5388.321995464849
+            ],
+            "S16": [
+              112000,
+              8560.612244897953
+            ],
+            "T00-TRANSLATE": [
+              122000,
+              4725.147392290253
+            ],
+            "T01": [
+              128000,
+              4513.673469387754
+            ],
+            "T02": [
+              134000,
+              4407.91383219954
+            ],
+            "T03": [
+              140000,
+              4407.91383219954
+            ],
+            "T04": [
+              146000,
+              4434.376417233551
+            ],
+            "T05": [
+              152000,
+              4804.4444444444425
+            ]
+          }
+        }
+      );
+      function m(p){
+        sound.play(p);
+      }
+      $('table tr').each(function(a,b){
+        $(b).click(function(){
+          $('table tr').css('background','white');
+          $(this).css('background','#E8E8E8');
+        });
+      });
+   </script>
+</html>

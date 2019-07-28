@@ -1,0 +1,163 @@
+<html>
+   <head>
+      <title>Assimil Polish</title>
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+      <link rel="stylesheet" href="bootstrap.min.css">
+      <script src="jquery.min.js"></script>
+      <script src="popper.min.js"></script>
+      <script src="bootstrap.min.js"></script>
+      <script src="howler.core.min.js"></script>
+      <script src="howler.min.js"></script>
+      <style>
+         body {
+            padding-top: 2em;
+            background-color: #F8F8F8;
+         }
+         table {
+           table-layout: fixed;
+           word-wrap: break-word;
+         }
+         tr {
+            background-color: white;
+         }
+         td {
+            word-break: break-all;
+         }
+      </style>
+   </head>
+   <body>
+      <div class="container">
+         <h3>Lesson 84</h3>
+         <table class="table">
+            <tbody>
+               <tr onclick="m('N84.mp3')">
+                  <td>N84.mp3</td>
+               </tr>
+               <tr onclick="m('S00-TITLE.mp3')">
+                  <td>S00-TITLE.mp3</td>
+               </tr>
+               <tr onclick="m('S01.mp3')">
+                  <td>S01.mp3</td>
+               </tr>
+               <tr onclick="m('S02.mp3')">
+                  <td>S02.mp3</td>
+               </tr>
+               <tr onclick="m('S03.mp3')">
+                  <td>S03.mp3</td>
+               </tr>
+               <tr onclick="m('S04.mp3')">
+                  <td>S04.mp3</td>
+               </tr>
+               <tr onclick="m('S05.mp3')">
+                  <td>S05.mp3</td>
+               </tr>
+               <tr onclick="m('S06.mp3')">
+                  <td>S06.mp3</td>
+               </tr>
+               <tr onclick="m('S07.mp3')">
+                  <td>S07.mp3</td>
+               </tr>
+               <tr onclick="m('S08.mp3')">
+                  <td>S08.mp3</td>
+               </tr>
+               <tr onclick="m('S09.mp3')">
+                  <td>S09.mp3</td>
+               </tr>
+               <tr onclick="m('S10.mp3')">
+                  <td>S10.mp3</td>
+               </tr>
+               <tr onclick="m('S11.mp3')">
+                  <td>S11.mp3</td>
+               </tr>
+               <tr onclick="m('S12.mp3')">
+                  <td>S12.mp3</td>
+               </tr>
+               <tr onclick="m('S13.mp3')">
+                  <td>S13.mp3</td>
+               </tr>
+            </tbody>
+         </table>
+      </div>
+   </body>
+   <script>
+      var sound = new Howl(
+        {
+          "src": [
+            "pl_084.mp3"
+          ],
+          "sprite": {
+            "N84": [
+              0,
+              3685.2380952380954
+            ],
+            "S00-TITLE": [
+              5000,
+              3301.85941043084
+            ],
+            "S01": [
+              10000,
+              5218.730158730159
+            ],
+            "S02": [
+              17000,
+              4336.961451247166
+            ],
+            "S03": [
+              23000,
+              3455.2154195011335
+            ],
+            "S04": [
+              28000,
+              5523.809523809526
+            ],
+            "S05": [
+              35000,
+              4145.306122448978
+            ],
+            "S06": [
+              41000,
+              5945.532879818593
+            ],
+            "S07": [
+              48000,
+              5065.374149659867
+            ],
+            "S08": [
+              55000,
+              6137.210884353742
+            ],
+            "S09": [
+              63000,
+              3761.904761904759
+            ],
+            "S10": [
+              68000,
+              6213.900226757374
+            ],
+            "S11": [
+              76000,
+              4030.2721088435333
+            ],
+            "S12": [
+              82000,
+              5142.063492063499
+            ],
+            "S13": [
+              89000,
+              5218.730158730154
+            ]
+          }
+        }
+      );
+      function m(p){
+        sound.play(p);
+      }
+      $('table tr').each(function(a,b){
+        $(b).click(function(){
+          $('table tr').css('background','white');
+          $(this).css('background','#E8E8E8');
+        });
+      });
+   </script>
+</html>

@@ -1,0 +1,184 @@
+<html>
+   <head>
+      <title>Assimil Polish</title>
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+      <link rel="stylesheet" href="bootstrap.min.css">
+      <script src="jquery.min.js"></script>
+      <script src="popper.min.js"></script>
+      <script src="bootstrap.min.js"></script>
+      <script src="howler.core.min.js"></script>
+      <script src="howler.min.js"></script>
+      <style>
+         body {
+            padding-top: 2em;
+            background-color: #F8F8F8;
+         }
+         table {
+           table-layout: fixed;
+           word-wrap: break-word;
+         }
+         tr {
+            background-color: white;
+         }
+         td {
+            word-break: break-all;
+         }
+      </style>
+   </head>
+   <body>
+      <div class="container">
+         <h3>Lesson 27</h3>
+         <table class="table">
+            <tbody>
+               <tr onclick="m('N27.mp3')">
+                  <td>N27.mp3</td>
+               </tr>
+               <tr onclick="m('S00-TITLE.mp3')">
+                  <td>S00-TITLE.mp3</td>
+               </tr>
+               <tr onclick="m('S01.mp3')">
+                  <td>S01.mp3</td>
+               </tr>
+               <tr onclick="m('S02.mp3')">
+                  <td>S02.mp3</td>
+               </tr>
+               <tr onclick="m('S03.mp3')">
+                  <td>S03.mp3</td>
+               </tr>
+               <tr onclick="m('S04.mp3')">
+                  <td>S04.mp3</td>
+               </tr>
+               <tr onclick="m('S05.mp3')">
+                  <td>S05.mp3</td>
+               </tr>
+               <tr onclick="m('S06.mp3')">
+                  <td>S06.mp3</td>
+               </tr>
+               <tr onclick="m('S07.mp3')">
+                  <td>S07.mp3</td>
+               </tr>
+               <tr onclick="m('S08.mp3')">
+                  <td>S08.mp3</td>
+               </tr>
+               <tr onclick="m('S09.mp3')">
+                  <td>S09.mp3</td>
+               </tr>
+               <tr onclick="m('S10.mp3')">
+                  <td>S10.mp3</td>
+               </tr>
+               <tr onclick="m('T00-TRANSLATE.mp3')">
+                  <td>T00-TRANSLATE.mp3</td>
+               </tr>
+               <tr onclick="m('T01.mp3')">
+                  <td>T01.mp3</td>
+               </tr>
+               <tr onclick="m('T02.mp3')">
+                  <td>T02.mp3</td>
+               </tr>
+               <tr onclick="m('T03.mp3')">
+                  <td>T03.mp3</td>
+               </tr>
+               <tr onclick="m('T04.mp3')">
+                  <td>T04.mp3</td>
+               </tr>
+               <tr onclick="m('T05.mp3')">
+                  <td>T05.mp3</td>
+               </tr>
+            </tbody>
+         </table>
+      </div>
+   </body>
+   <script>
+      var sound = new Howl(
+        {
+          "src": [
+            "pl_027.mp3"
+          ],
+          "sprite": {
+            "N27": [
+              0,
+              3162.993197278912
+            ],
+            "S00-TITLE": [
+              5000,
+              2836.3265306122453
+            ],
+            "S01": [
+              9000,
+              3563.8775510204077
+            ],
+            "S02": [
+              14000,
+              3756.8934240362814
+            ],
+            "S03": [
+              19000,
+              2628.458049886621
+            ],
+            "S04": [
+              23000,
+              3212.471655328798
+            ],
+            "S05": [
+              28000,
+              3014.5124716553296
+            ],
+            "S06": [
+              33000,
+              3935.102040816325
+            ],
+            "S07": [
+              38000,
+              4692.3356009070285
+            ],
+            "S08": [
+              44000,
+              5449.569160997733
+            ],
+            "S09": [
+              51000,
+              2658.1405895691573
+            ],
+            "S10": [
+              55000,
+              3831.1337868480705
+            ],
+            "T00-TRANSLATE": [
+              60000,
+              4350.839002267577
+            ],
+            "T01": [
+              66000,
+              3816.2811791383147
+            ],
+            "T02": [
+              71000,
+              3549.0249433106555
+            ],
+            "T03": [
+              76000,
+              3549.0249433106555
+            ],
+            "T04": [
+              81000,
+              4692.312925170071
+            ],
+            "T05": [
+              87000,
+              3875.668934240366
+            ]
+          }
+        }
+      );
+      function m(p){
+        sound.play(p);
+      }
+      $('table tr').each(function(a,b){
+        $(b).click(function(){
+          $('table tr').css('background','white');
+          $(this).css('background','#E8E8E8');
+        });
+      });
+   </script>
+</html>

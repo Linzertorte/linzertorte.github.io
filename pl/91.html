@@ -1,0 +1,156 @@
+<html>
+   <head>
+      <title>Assimil Polish</title>
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+      <link rel="stylesheet" href="bootstrap.min.css">
+      <script src="jquery.min.js"></script>
+      <script src="popper.min.js"></script>
+      <script src="bootstrap.min.js"></script>
+      <script src="howler.core.min.js"></script>
+      <script src="howler.min.js"></script>
+      <style>
+         body {
+            padding-top: 2em;
+            background-color: #F8F8F8;
+         }
+         table {
+           table-layout: fixed;
+           word-wrap: break-word;
+         }
+         tr {
+            background-color: white;
+         }
+         td {
+            word-break: break-all;
+         }
+      </style>
+   </head>
+   <body>
+      <div class="container">
+         <h3>Lesson 91</h3>
+         <table class="table">
+            <tbody>
+               <tr onclick="m('N91.mp3')">
+                  <td>N91.mp3</td>
+               </tr>
+               <tr onclick="m('S00-TITLE.mp3')">
+                  <td>S00-TITLE.mp3</td>
+               </tr>
+               <tr onclick="m('S01.mp3')">
+                  <td>S01.mp3</td>
+               </tr>
+               <tr onclick="m('S02.mp3')">
+                  <td>S02.mp3</td>
+               </tr>
+               <tr onclick="m('S03.mp3')">
+                  <td>S03.mp3</td>
+               </tr>
+               <tr onclick="m('S04.mp3')">
+                  <td>S04.mp3</td>
+               </tr>
+               <tr onclick="m('S05.mp3')">
+                  <td>S05.mp3</td>
+               </tr>
+               <tr onclick="m('S06.mp3')">
+                  <td>S06.mp3</td>
+               </tr>
+               <tr onclick="m('S07.mp3')">
+                  <td>S07.mp3</td>
+               </tr>
+               <tr onclick="m('S08.mp3')">
+                  <td>S08.mp3</td>
+               </tr>
+               <tr onclick="m('S09.mp3')">
+                  <td>S09.mp3</td>
+               </tr>
+               <tr onclick="m('S10.mp3')">
+                  <td>S10.mp3</td>
+               </tr>
+               <tr onclick="m('S11.mp3')">
+                  <td>S11.mp3</td>
+               </tr>
+               <tr onclick="m('S12.mp3')">
+                  <td>S12.mp3</td>
+               </tr>
+            </tbody>
+         </table>
+      </div>
+   </body>
+   <script>
+      var sound = new Howl(
+        {
+          "src": [
+            "pl_091.mp3"
+          ],
+          "sprite": {
+            "N91": [
+              0,
+              3568.820861678005
+            ],
+            "S00-TITLE": [
+              5000,
+              3104.399092970521
+            ],
+            "S01": [
+              10000,
+              5342.108843537414
+            ],
+            "S02": [
+              17000,
+              4202.131519274374
+            ],
+            "S03": [
+              23000,
+              5897.64172335601
+            ],
+            "S04": [
+              30000,
+              5032.108843537415
+            ],
+            "S05": [
+              37000,
+              4750.997732426306
+            ],
+            "S06": [
+              43000,
+              5010.9977324263045
+            ],
+            "S07": [
+              50000,
+              5278.775510204085
+            ],
+            "S08": [
+              57000,
+              5489.886621315193
+            ],
+            "S09": [
+              64000,
+              3589.9546485260744
+            ],
+            "S10": [
+              69000,
+              5257.664399092974
+            ],
+            "S11": [
+              76000,
+              4835.4421768707425
+            ],
+            "S12": [
+              82000,
+              3252.1768707483006
+            ]
+          }
+        }
+      );
+      function m(p){
+        sound.play(p);
+      }
+      $('table tr').each(function(a,b){
+        $(b).click(function(){
+          $('table tr').css('background','white');
+          $(this).css('background','#E8E8E8');
+        });
+      });
+   </script>
+</html>

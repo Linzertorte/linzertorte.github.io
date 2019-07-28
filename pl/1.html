@@ -1,0 +1,149 @@
+<html>
+   <head>
+      <title>Assimil Polish</title>
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+      <link rel="stylesheet" href="bootstrap.min.css">
+      <script src="jquery.min.js"></script>
+      <script src="popper.min.js"></script>
+      <script src="bootstrap.min.js"></script>
+      <script src="howler.core.min.js"></script>
+      <script src="howler.min.js"></script>
+      <style>
+         body {
+            padding-top: 2em;
+            background-color: #F8F8F8;
+         }
+         table {
+           table-layout: fixed;
+           word-wrap: break-word;
+         }
+         tr {
+            background-color: white;
+         }
+         td {
+            word-break: break-all;
+         }
+      </style>
+   </head>
+   <body>
+      <div class="container">
+         <h3>Lesson 1</h3>
+         <table class="table">
+            <tbody>
+               <tr onclick="m('N1.mp3')">
+                  <td>N1.mp3</td>
+               </tr>
+               <tr onclick="m('S00-TITLE.mp3')">
+                  <td>S00-TITLE.mp3</td>
+               </tr>
+               <tr onclick="m('S01.mp3')">
+                  <td>S01.mp3</td>
+               </tr>
+               <tr onclick="m('S02.mp3')">
+                  <td>S02.mp3</td>
+               </tr>
+               <tr onclick="m('S03.mp3')">
+                  <td>S03.mp3</td>
+               </tr>
+               <tr onclick="m('S04.mp3')">
+                  <td>S04.mp3</td>
+               </tr>
+               <tr onclick="m('S05.mp3')">
+                  <td>S05.mp3</td>
+               </tr>
+               <tr onclick="m('S06.mp3')">
+                  <td>S06.mp3</td>
+               </tr>
+               <tr onclick="m('T00-TRANSLATE.mp3')">
+                  <td>T00-TRANSLATE.mp3</td>
+               </tr>
+               <tr onclick="m('T01.mp3')">
+                  <td>T01.mp3</td>
+               </tr>
+               <tr onclick="m('T02.mp3')">
+                  <td>T02.mp3</td>
+               </tr>
+               <tr onclick="m('T03.mp3')">
+                  <td>T03.mp3</td>
+               </tr>
+               <tr onclick="m('T04.mp3')">
+                  <td>T04.mp3</td>
+               </tr>
+            </tbody>
+         </table>
+      </div>
+   </body>
+   <script>
+      var sound = new Howl(
+        {
+          "src": [
+            "pl_001.mp3"
+          ],
+          "sprite": {
+            "N1": [
+              0,
+              2909.546485260771
+            ],
+            "S00-TITLE": [
+              4000,
+              2403.2426303854872
+            ],
+            "S01": [
+              8000,
+              2387.6190476190473
+            ],
+            "S02": [
+              12000,
+              4016.235827664399
+            ],
+            "S03": [
+              18000,
+              3875.2834467120183
+            ],
+            "S04": [
+              23000,
+              2451.0204081632664
+            ],
+            "S05": [
+              27000,
+              2905.8730158730164
+            ],
+            "S06": [
+              31000,
+              2395.8956916099796
+            ],
+            "T00-TRANSLATE": [
+              35000,
+              4821.700680272109
+            ],
+            "T01": [
+              41000,
+              3222.879818594102
+            ],
+            "T02": [
+              46000,
+              2395.8956916099796
+            ],
+            "T03": [
+              50000,
+              2451.0204081632664
+            ],
+            "T04": [
+              54000,
+              2616.4172335600924
+            ]
+          }
+        }
+      );
+      function m(p){
+        sound.play(p);
+      }
+      $('table tr').each(function(a,b){
+        $(b).click(function(){
+          $('table tr').css('background','white');
+          $(this).css('background','#E8E8E8');
+        });
+      });
+   </script>
+</html>
