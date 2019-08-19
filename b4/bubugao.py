@@ -69,4 +69,4 @@ def html(f_name,title,audio):
   o.write(footer)
   o.close()
 
-html("1.srt","Lesson 1","1.mp3")
+html("2.srt","Lesson 2","2.mp3")
