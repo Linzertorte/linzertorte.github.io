@@ -1,0 +1,38 @@
+body {
+padding-top: 2em;
+}
+.speaking {
+color:#30DFF3;
+font-weight: bold;
+}
+.slidecontainer {
+width: 100%;
+}
+tr {
+   background-color: white;
+}
+.slider {
+-webkit-appearance: none;
+width: 80%;
+margin-left: 10%;
+margin-top: 2%;
+height: 1em;
+border-radius: 0.5em;
+background: #d3d3d3;
+outline: none;
+opacity: 0.7;
+-webkit-transition: .2s;
+transition: opacity .2s;
+}
+.slider:hover {
+opacity: 1;
+}
+.slider::-webkit-slider-thumb {
+-webkit-appearance: none;
+appearance: none;
+width: 2em;
+height: 2em;
+border-radius: 50%;
+background: #30DFF3;
+cursor: pointer;
+}

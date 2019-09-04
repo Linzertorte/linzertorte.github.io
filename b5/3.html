@@ -1,0 +1,419 @@
+<html lang="en">
+  <head>
+    <title></title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <link rel="stylesheet" href="bootstrap.css">
+    <link rel="stylesheet" href="bubugao.css">
+    <script src="jquery.js"></script>
+    <script src="bootstrap.js"></script>
+  </head>
+  <body>
+    <div class="container">
+      <h3>Lesson 3</h3>
+      <div class="slidecontainer">
+        <input type="range" min="1" max="20" value="3" class="slider" id="myRange">
+      </div>
+      <div>
+        Repeat <span id="demo"> times.</span>
+      </div>
+      <audio id="audio-player" src="3.mp3" controls="controls"></audio>
+      <div class="slidecontainer">
+        <input type="range" min="10" max="30" value="10" class="slider" id="rate">
+      </div>
+      <div>
+        Speed x<span id="trate"></span>
+      </div>
+      <div>
+        <input type="checkbox" id="nob">
+        <label for="nob">Autoplay</label>
+      </div>
+      <table class="table">
+         <tbody>
+            <tr data-start="0.000" data-end="8.016" id="p1">
+               <td>1</td>
+            </tr>
+            <tr data-start="8.882" data-end="16.480" id="p2">
+               <td>2</td>
+            </tr>
+            <tr data-start="17.137" data-end="22.306" id="p3">
+               <td>3</td>
+            </tr>
+            <tr data-start="22.806" data-end="30.299" id="p4">
+               <td>4</td>
+            </tr>
+            <tr data-start="31.138" data-end="42.603" id="p5">
+               <td>5</td>
+            </tr>
+            <tr data-start="43.233" data-end="48.924" id="p6">
+               <td>6</td>
+            </tr>
+            <tr data-start="49.503" data-end="55.507" id="p7">
+               <td>7</td>
+            </tr>
+            <tr data-start="56.138" data-end="64.389" id="p8">
+               <td>8</td>
+            </tr>
+            <tr data-start="65.228" data-end="73.584" id="p9">
+               <td>9</td>
+            </tr>
+            <tr data-start="74.084" data-end="83.484" id="p10">
+               <td>10</td>
+            </tr>
+            <tr data-start="84.951" data-end="95.579" id="p11">
+               <td>11</td>
+            </tr>
+            <tr data-start="96.392" data-end="108.013" id="p12">
+               <td>12</td>
+            </tr>
+            <tr data-start="108.826" data-end="120.918" id="p13">
+               <td>13</td>
+            </tr>
+            <tr data-start="121.784" data-end="130.818" id="p14">
+               <td>14</td>
+            </tr>
+            <tr data-start="131.554" data-end="136.566" id="p15">
+               <td>15</td>
+            </tr>
+            <tr data-start="137.378" data-end="145.890" id="p16">
+               <td>16</td>
+            </tr>
+            <tr data-start="146.469" data-end="153.414" id="p17">
+               <td>17</td>
+            </tr>
+            <tr data-start="153.941" data-end="162.740" id="p18">
+               <td>18</td>
+            </tr>
+            <tr data-start="163.632" data-end="171.544" id="p19">
+               <td>19</td>
+            </tr>
+            <tr data-start="172.069" data-end="179.771" id="p20">
+               <td>20</td>
+            </tr>
+            <tr data-start="180.586" data-end="186.824" id="p21">
+               <td>21</td>
+            </tr>
+            <tr data-start="187.455" data-end="194.322" id="p22">
+               <td>22</td>
+            </tr>
+            <tr data-start="195.501" data-end="205.085" id="p23">
+               <td>23</td>
+            </tr>
+            <tr data-start="206.055" data-end="211.798" id="p24">
+               <td>24</td>
+            </tr>
+            <tr data-start="212.872" data-end="228.543" id="p25">
+               <td>25</td>
+            </tr>
+            <tr data-start="229.461" data-end="236.066" id="p26">
+               <td>26</td>
+            </tr>
+            <tr data-start="236.669" data-end="250.616" id="p27">
+               <td>27</td>
+            </tr>
+            <tr data-start="251.116" data-end="263.547" id="p28">
+               <td>28</td>
+            </tr>
+            <tr data-start="264.125" data-end="272.976" id="p29">
+               <td>29</td>
+            </tr>
+            <tr data-start="273.817" data-end="280.788" id="p30">
+               <td>30</td>
+            </tr>
+            <tr data-start="281.339" data-end="287.423" id="p31">
+               <td>31</td>
+            </tr>
+            <tr data-start="287.949" data-end="296.173" id="p32">
+               <td>32</td>
+            </tr>
+            <tr data-start="296.673" data-end="304.716" id="p33">
+               <td>33</td>
+            </tr>
+            <tr data-start="305.346" data-end="311.560" id="p34">
+               <td>34</td>
+            </tr>
+            <tr data-start="312.086" data-end="319.291" id="p35">
+               <td>35</td>
+            </tr>
+            <tr data-start="320.680" data-end="326.449" id="p36">
+               <td>36</td>
+            </tr>
+            <tr data-start="327.237" data-end="334.809" id="p37">
+               <td>37</td>
+            </tr>
+            <tr data-start="335.569" data-end="347.374" id="p38">
+               <td>38</td>
+            </tr>
+            <tr data-start="347.951" data-end="355.209" id="p39">
+               <td>39</td>
+            </tr>
+            <tr data-start="356.285" data-end="369.108" id="p40">
+               <td>40</td>
+            </tr>
+            <tr data-start="369.737" data-end="377.153" id="p41">
+               <td>41</td>
+            </tr>
+            <tr data-start="377.862" data-end="383.579" id="p42">
+               <td>42</td>
+            </tr>
+            <tr data-start="384.288" data-end="389.797" id="p43">
+               <td>43</td>
+            </tr>
+            <tr data-start="390.375" data-end="397.555" id="p44">
+               <td>44</td>
+            </tr>
+            <tr data-start="398.185" data-end="410.329" id="p45">
+               <td>45</td>
+            </tr>
+            <tr data-start="411.430" data-end="418.791" id="p46">
+               <td>46</td>
+            </tr>
+            <tr data-start="419.370" data-end="434.100" id="p47">
+               <td>47</td>
+            </tr>
+            <tr data-start="434.783" data-end="441.545" id="p48">
+               <td>48</td>
+            </tr>
+            <tr data-start="442.071" data-end="449.564" id="p49">
+               <td>49</td>
+            </tr>
+            <tr data-start="450.456" data-end="461.423" id="p50">
+               <td>50</td>
+            </tr>
+            <tr data-start="462.132" data-end="468.894" id="p51">
+               <td>51</td>
+            </tr>
+            <tr data-start="469.447" data-end="481.617" id="p52">
+               <td>52</td>
+            </tr>
+            <tr data-start="482.586" data-end="491.307" id="p53">
+               <td>53</td>
+            </tr>
+            <tr data-start="492.826" data-end="500.372" id="p54">
+               <td>54</td>
+            </tr>
+            <tr data-start="501.134" data-end="507.425" id="p55">
+               <td>55</td>
+            </tr>
+            <tr data-start="508.238" data-end="521.923" id="p56">
+               <td>56</td>
+            </tr>
+            <tr data-start="522.606" data-end="530.335" id="p57">
+               <td>57</td>
+            </tr>
+            <tr data-start="530.991" data-end="538.197" id="p58">
+               <td>58</td>
+            </tr>
+            <tr data-start="540.657" data-end="549.248" id="p59">
+               <td>59</td>
+            </tr>
+            <tr data-start="550.061" data-end="556.352" id="p60">
+               <td>60</td>
+            </tr>
+            <tr data-start="556.984" data-end="568.107" id="p61">
+               <td>61</td>
+            </tr>
+            <tr data-start="569.000" data-end="581.274" id="p62">
+               <td>62</td>
+            </tr>
+            <tr data-start="582.452" data-end="590.625" id="p63">
+               <td>63</td>
+            </tr>
+            <tr data-start="591.152" data-end="600.422" id="p64">
+               <td>64</td>
+            </tr>
+            <tr data-start="601.653" data-end="612.385" id="p65">
+               <td>65</td>
+            </tr>
+            <tr data-start="612.912" data-end="623.591" id="p66">
+               <td>66</td>
+            </tr>
+            <tr data-start="624.197" data-end="631.142" id="p67">
+               <td>67</td>
+            </tr>
+            <tr data-start="631.642" data-end="639.214" id="p68">
+               <td>68</td>
+            </tr>
+            <tr data-start="639.844" data-end="648.408" id="p69">
+               <td>69</td>
+            </tr>
+            <tr data-start="649.118" data-end="666.850" id="p70">
+               <td>70</td>
+            </tr>
+            <tr data-start="667.743" data-end="672.912" id="p71">
+               <td>71</td>
+            </tr>
+            <tr data-start="674.613" data-end="681.139" id="p72">
+               <td>72</td>
+            </tr>
+            <tr data-start="681.639" data-end="688.219" id="p73">
+               <td>73</td>
+            </tr>
+            <tr data-start="689.241" data-end="695.951" id="p74">
+               <td>74</td>
+            </tr>
+            <tr data-start="697.052" data-end="703.214" id="p75">
+               <td>75</td>
+            </tr>
+            <tr data-start="704.105" data-end="713.062" id="p76">
+               <td>76</td>
+            </tr>
+            <tr data-start="713.797" data-end="721.552" id="p77">
+               <td>77</td>
+            </tr>
+            <tr data-start="722.207" data-end="727.794" id="p78">
+               <td>78</td>
+            </tr>
+            <tr data-start="728.346" data-end="749.136" id="p79">
+               <td>79</td>
+            </tr>
+            <tr data-start="749.923" data-end="757.991" id="p80">
+               <td>80</td>
+            </tr>
+            <tr data-start="759.172" data-end="766.429" id="p81">
+               <td>81</td>
+            </tr>
+            <tr data-start="767.322" data-end="775.102" id="p82">
+               <td>82</td>
+            </tr>
+            <tr data-start="777.535" data-end="783.174" id="p83">
+               <td>83</td>
+            </tr>
+            <tr data-start="783.856" data-end="790.750" id="p84">
+               <td>84</td>
+            </tr>
+            <tr data-start="791.407" data-end="797.384" id="p85">
+               <td>85</td>
+            </tr>
+            <tr data-start="798.485" data-end="805.666" id="p86">
+               <td>86</td>
+            </tr>
+            <tr data-start="806.166" data-end="820.294" id="p87">
+               <td>87</td>
+            </tr>
+            <tr data-start="821.291" data-end="832.729" id="p88">
+               <td>88</td>
+            </tr>
+            <tr data-start="833.254" data-end="851.144" id="p89">
+               <td>89</td>
+            </tr>
+            <tr data-start="852.140" data-end="864.441" id="p90">
+               <td>90</td>
+            </tr>
+            <tr data-start="865.437" data-end="877.686" id="p91">
+               <td>91</td>
+            </tr>
+            <tr data-start="878.394" data-end="884.711" id="p92">
+               <td>92</td>
+            </tr>
+            <tr data-start="886.336" data-end="891.399" id="p93">
+               <td>93</td>
+            </tr>
+            <tr data-start="892.395" data-end="903.625" id="p94">
+               <td>94</td>
+            </tr>
+            <tr data-start="904.412" data-end="912.272" id="p95">
+               <td>95</td>
+            </tr>
+            <tr data-start="912.798" data-end="923.765" id="p96">
+               <td>96</td>
+            </tr>
+            <tr data-start="924.344" data-end="933.561" id="p97">
+               <td>97</td>
+            </tr>
+            <tr data-start="934.192" data-end="945.655" id="p98">
+               <td>98</td>
+            </tr>
+            <tr data-start="946.287" data-end="955.687" id="p99">
+               <td>99</td>
+            </tr>
+            <tr data-start="956.370" data-end="969.166" id="p100">
+               <td>100</td>
+            </tr>
+            <tr data-start="971.938" data-end="981.260" id="p101">
+               <td>101</td>
+            </tr>
+            <tr data-start="981.943" data-end="990.063" id="p102">
+               <td>102</td>
+            </tr>
+            <tr data-start="990.590" data-end="999.547" id="p103">
+               <td>103</td>
+            </tr>
+            <tr data-start="1000.070" data-end="1010.730" id="p104">
+               <td>104</td>
+            </tr>
+            <tr data-start="1011.669" data-end="1016.740" id="p105">
+               <td>105</td>
+            </tr>
+            <tr data-start="1017.289" data-end="1025.799" id="p106">
+               <td>106</td>
+            </tr>
+            <tr data-start="1026.640" data-end="1032.880" id="p107">
+               <td>107</td>
+            </tr>
+            <tr data-start="1033.509" data-end="1043.480" id="p108">
+               <td>108</td>
+            </tr>
+            <tr data-start="1044.559" data-end="1050.089" id="p109">
+               <td>109</td>
+            </tr>
+            <tr data-start="1050.650" data-end="1058.609" id="p110">
+               <td>110</td>
+            </tr>
+            <tr data-start="1059.140" data-end="1064.250" id="p111">
+               <td>111</td>
+            </tr>
+            <tr data-start="1066.009" data-end="1076.240" id="p112">
+               <td>112</td>
+            </tr>
+            <tr data-start="1077.240" data-end="1082.380" id="p113">
+               <td>113</td>
+            </tr>
+            <tr data-start="1083.190" data-end="1090.980" id="p114">
+               <td>114</td>
+            </tr>
+            <tr data-start="1092.019" data-end="1097.380" id="p115">
+               <td>115</td>
+            </tr>
+            <tr data-start="1097.980" data-end="1105.680" id="p116">
+               <td>116</td>
+            </tr>
+            <tr data-start="1106.210" data-end="1112.599" id="p117">
+               <td>117</td>
+            </tr>
+            <tr data-start="1114.539" data-end="1122.640" id="p118">
+               <td>118</td>
+            </tr>
+            <tr data-start="1123.289" data-end="1129.140" id="p119">
+               <td>119</td>
+            </tr>
+            <tr data-start="1129.849" data-end="1137.579" id="p120">
+               <td>120</td>
+            </tr>
+            <tr data-start="1138.180" data-end="1144.130" id="p121">
+               <td>121</td>
+            </tr>
+            <tr data-start="1144.660" data-end="1153.700" id="p122">
+               <td>122</td>
+            </tr>
+            <tr data-start="1154.480" data-end="1160.700" id="p123">
+               <td>123</td>
+            </tr>
+            <tr data-start="1161.410" data-end="1168.170" id="p124">
+               <td>124</td>
+            </tr>
+            <tr data-start="1168.900" data-end="1177.130" id="p125">
+               <td>125</td>
+            </tr>
+            <tr data-start="1177.630" data-end="1183.920" id="p126">
+               <td>126</td>
+            </tr>
+            <tr data-start="1184.470" data-end="1196.250" id="p127">
+               <td>127</td>
+            </tr>
+        </tbody>
+      </table>
+    </div>
+  </body>
+  <script src="bubugao.js"></script>
+</html>

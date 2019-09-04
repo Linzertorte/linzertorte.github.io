@@ -69,4 +69,8 @@ def html(f_name,title,audio):
   o.write(footer)
   o.close()
 
-html("2.srt","Lesson 2","2.mp3")
+
+#html("2.srt","Lesson 2","2.mp3")
+import sys
+a,b,c = sys.argv[1],sys.argv[2],sys.argv[3]
+html(a,b,c)
