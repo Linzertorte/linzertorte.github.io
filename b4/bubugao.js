@@ -20,9 +20,7 @@ $(document).ready(function() {
         rate_o.innerHTML = frac(this.value);
         player.playbackRate = frac(this.value);
     }
-    $('tr').click(function() {
-        play(player, this.id)
-    });
+
 
     function play(player, id) {
         var tr = $('#' + id);
@@ -55,12 +53,18 @@ $(document).ready(function() {
             }
         };
     }
-    $('#nob').change(function() {
-        if (nob.checked) {
-            on = true;
-            replay(1, 1);
-        } else {
-            on = false;
-        }
-    });
+    player.oncanplay = function() {
+      console.log("can play!");
+      $('tr').click(function() {
+          play(player, this.id)
+      });
+      $('#nob').change(function() {
+          if (nob.checked) {
+              on = true;
+              replay(1, 1);
+          } else {
+              on = false;
+          }
+      });
+    };
 });
