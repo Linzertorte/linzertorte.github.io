@@ -1,26 +1,17 @@
 $(document).ready(function() {
     var player = document.getElementById('audio-player');
     var slider = document.getElementById("myRange");
-    var rate = document.getElementById("rate");
-    var rate_o = document.getElementById("trate");
     var output = document.getElementById("demo");
     var nob = document.getElementById("nob");
     var on = true;
     var total = $('tr').length;
     output.innerHTML = slider.value;
-    function frac(val) {
-        val = parseInt(val);
-        return val/10;
-    }
     slider.oninput = function() {
         output.innerHTML = this.value;
     }
-    rate_o.innerHTML = frac(rate.value)
-    rate.oninput = function () {
-        rate_o.innerHTML = frac(this.value);
-        player.playbackRate = frac(this.value);
-    }
-
+    $('tr').click(function() {
+        play(player, this.id)
+    });
 
     function play(player, id) {
         var tr = $('#' + id);
@@ -53,18 +44,12 @@ $(document).ready(function() {
             }
         };
     }
-    player.oncanplay = function() {
-      console.log("can play!");
-      $('tr').click(function() {
-          play(player, this.id)
-      });
-      $('#nob').change(function() {
-          if (nob.checked) {
-              on = true;
-              replay(1, 1);
-          } else {
-              on = false;
-          }
-      });
-    };
+    $('#nob').change(function() {
+        if (nob.checked) {
+            on = true;
+            replay(1, 1);
+        } else {
+            on = false;
+        }
+    });
 });
