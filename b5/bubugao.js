@@ -53,7 +53,7 @@ $(document).ready(function() {
             }
         };
     }
-    player.oncanplay = function() {
+    player.oncanplaythrough = function() {
       console.log("can play!");
       $('tr').click(function() {
           play(player, this.id)
