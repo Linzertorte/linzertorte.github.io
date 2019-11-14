@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Mary</title>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<style>
+table {
+  width: 90%;
+  margin-left: 10%;
+  margin-top: 10%;
+  height: 90%;
+  font-size: 500%;
+}
+</style>
+</head>
+<body>
+
+  <table>
+    <tr>
+      <td id="c1">A</td>
+      <td id="c2">B</td>
+    </tr>
+    <tr>
+      <td id="c3">C</td>
+      <td id="c4">D</td>
+    </tr>
+  </table>
+
+</body>
+<script>
+function getRandomInt(max) {
+  return Math.floor(Math.random() * Math.floor(max));
+}
+$(document).ready(function(){
+  var randomText = ["milk", "egg", "chocolate"];
+  var clicks = 0;
+  var content = "";
+  $("td").click(function(){
+    if(clicks == 0) {
+      //  record the first choice
+      content = $(this).text();
+      // change cell elements
+      $("#c1").text("1");
+      $("#c2").text("2");
+      $("#c3").text("3");
+      $("#c4").text("4");
+      clicks += 1;
+    }else if(clicks == 1) {
+      // construct the final result
+      content = content + randomText[getRandomInt(3)] + $(this).text();
+      // replace the table with the final result
+      $("table").replaceWith("<table><tr><td>"+content+"</td></tr></table");
+      clicks += 1;
+    }
+  });
+});
+</script>
+</html>
