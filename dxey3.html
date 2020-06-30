@@ -759,19 +759,6 @@
         if (r != null) return unescape(r[2]); return null; //返回参数值
     }
     try{
-        if (/Android|webOS|iPhone|iPod|BlackBerry|UCBroser/i.test(navigator.userAgent)) {
-            var url = window.location.href;
-            var index = url.lastIndexOf("\/");
-            var str = url.substring(index + 1,url.length);
-            var index2 = str.lastIndexOf("\?");
-            var str2 = str.substring(0,index2);
-            var url_id = getUrlParam("id");
-            if(url_id==null || url_id=="" || url_id==undefined){
-                window.location = "http://m.ivying.com/"
-            }else{
-                window.location = "http://m.ivying.com/details/"+url_id+"?vid="+str2+"";
-            }
-        }
     }catch(e){}
     // 视频倍速
     const video = document.getElementById('my-video');
