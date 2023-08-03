@@ -1,0 +1,574 @@
+1
+die Querstraße, -n   横马路
+==
+2
+geradeaus   Adv.笔直地
+==
+3
+der Standort, -e   所在位置
+==
+4
+der Zebrastreifen, -    斑马线
+==
+5
+übernächste    Adj.再下一(个)
+==
+6
+die Kreuzung, -en    十字路口
+==
+7
+der Gehweg, -e    人行道   
+==
+8
+der Fahrradweg, -e    自行车道
+==
+9
+(sich) anmelden    Vr.申报;为…报名
+
+meldet sich an, meldete sich an, hat sich angemeldet
+
+Er meldet sich für einen Sprachkurs an.
+He registers for a language course.
+==
+10
+(sich) erinnern    Vr.回忆
+
+erinnert sich, erinnerte sich, hat sich erinnert
+
+Er kann sich noch gut an seine Kindheit erinnern.
+He can still remember his childhood well.
+==
+11
+(sich) ärgern    Vr.对…气愤
+
+ärgert sich, ärgerte sich, hat sich geärgert
+
+Ich ärgere mich sehr über meine schlechten Noten.
+I am very upset about my bad grades.
+==
+12
+(sich) freuen    Vr.对…感到高兴
+
+freut sich, freute sich, hat sich gefreut
+
+Ich Freue mich sehr über dein Geschenk.
+I am very happy about your gift.
+==
+13
+(sich) langweilen    Vr.使…感到无聊
+
+langweilt sich, langweilte sich, hat sich gelangweilt
+
+Herr Pech ist arbeitslos und langweilt sich zu Hause.
+Mr. Pech is unemployed and bored at home.
+==
+14
+(sich) interessieren    Vr.对…感兴趣
+
+interessiert sich, interessierte sich, hat sich interessiert
+
+Ich interessiere mich sehr für Computerspiele.
+I am very interested in computer games.
+==
+15
+(sich) kämmen    Vr.梳头
+
+kämmt sich, kämmte sich, hat sich gekämmt
+
+Sie hat sich gekämmt und geschminkt.
+She combed her hair and made up.
+==
+16
+(sich) rasieren    Vr.修面;刮胡子
+
+rasiert sich, rasierte sich, hat sich rasiert
+
+Hans rasiert sich nie.
+Hans never shaves.
+==
+17
+sich verspäten    Vr.迟到
+
+verspätet sich, verspätete sich, hat sich verspätet
+
+Er hat sich um zwei Stunden verspätet.
+He's two hours late.
+==
+18
+sich beeilen    Vr.赶紫;赶(时间)
+
+beeilt sich, beeilte sich, hat sich beeilt
+Er muss sich beeilen.
+He has to hurry.
+==
+19
+sich auskennen    Vr.熟识
+
+kennt sich aus, kannte sich aus, hat sich ausgekannt
+
+Thomas kennt sich hier sehr gut aus.
+Thomas knows his way around here very well.
+==
+20
+sich bedanken    Vr.感谢
+
+bedankt sich, bedankte sich, hat sich bedankt
+
+Ich bedanke mich bei Ihnen für Ihre Bemühungen.
+Thank you for your efforts.
+==
+21
+sich bewerben    Vr.申请
+
+bewirbt sich, bewarb sich, hat sich beworben
+
+Er hat sich um ein Stipendium beworben.
+He applied for a scholarship.
+==
+22
+sich erholen    Vr.修养;复元
+
+erholt sich, erholte sich, hat sich erholt
+
+Erholen Sie sich gut!
+Get well soon!
+==
+23
+sich erkundigen    Vr.打听
+
+erkundigt sich, erkundigte sich, hat sich erkundigt
+
+Die Dame erkundigte sich nach dem Weg zum Bahnhof.
+The lady asked for directions to the train station.
+==
+24
+sich umsehen    Vr.环顾
+
+sieht sich um, sah sich um, hat sich umgesehen
+
+Sieh dich ruhig in meinem Zimmer um!
+Take a look around my room!
+==
+25
+sich verabreden    Vr.约会
+
+verabredet sich, verabredete sich, hat sich verabredet
+
+Adam hat sich mit Eva für heute Abend verabredet.
+Adam has arranged to meet Eva tonight.
+==
+26
+sich verlaufen    Vr.迷路
+
+verläuft sich, verlier sich, hat sich verlaufen
+
+Wang Dali hat sich in Aachen verlaufen.
+Wang Dali got lost in Aachen.
+==
+27
+sich verlieben    Vr.倾慕;爱恋
+
+verliebt sich, verliebte sich, hat sich verliebt
+
+Hans hat sich in eine hübsche junge Dame verliebt.
+Hans has fallen in love with a pretty young lady.
+==
+28
+sich streiten    Vr.争吵
+
+streitet sich, stritt sich, hat sich gestritten
+
+Er streitet sich oft mit seiner Freundin.
+He often argues with his girlfriend.
+==
+29
+sich die Zähne putzen    刷牙
+==
+30
+sich vergnügen    Vr.娱乐;过得快活
+
+vergnügt sich, vergnügte sich, hat sich vergnügt
+
+Die Kinder vergnügen sich mit Schneeballwerfen.
+The children have fun throwing snowballs.
+==
+31
+der Dom, -e    大教堂
+==
+32
+der Stadtplan, -e    城市地图
+==
+33
+fremd    Adj.陌生的
+
+==
+34
+das Stadtzentrum    市中心
+==
+35
+dorthin   Adv.往那儿
+==
+36
+die Passantin, -nen    行人(女)
+==
+37
+das Rathaus, -er    市政庁
+==
+38
+sich (D) etw. (A) ansehen    Vr.观看
+
+sieht sich an, sah sich an, hat sich angesehen
+
+Wir haben uns gestern einen Film angesehen.
+We saw a movie yesterday.
+==
+39
+der Bahnhofsplatz    火车站广场
+==
+40
+die Linie, -n    线路
+==
+41
+entlanggehen    Vi.沿着…走
+
+geht entlang, ging entlang, ist entlanggegangen
+
+Gehen Sie die Kaiserstraße entlang!
+Walk down Kaiserstrasse!
+==
+42
+der / das Meter, -    米(计量単位)
+==
+43
+das Spielcasino,-s    赌场
+==
+44
+die Verzeihung, -en    抱歉
+==
+45
+einfach    Adj. 简单的
+==
+46
+die U-Bahnstation, -en    地铁车站
+==
+47
+die S-Bahnstation, -en    轻轨车站
+==
+48
+einsteigen    Vi.上车
+
+steigt ein, stieg ein, ist eingestiegen
+
+Steigen Sie in den Bus 15 ein!
+Get on the 15 bus!
+==
+49
+aussteigen    Vi.下车
+
+steigt aus, stieg aus, ist ausgestiegen
+
+Am Bahnhof steigen Sie aus dem Bus 15 aus.
+Get off bus 15 at the train station.
+==
+50
+umsteigen    Vi.换乘
+
+steigt um, stieg um, ist umgestiegen
+
+Dann steigen Sie in die U2 um!
+Then change to the U2!
+==
+51
+aufhören mit etw. (D)    Vi.停止…
+
+hört auf, hörte auf, hat aufgehört
+
+Hör mal mit dem Rauchen auf!
+Stop smoking!
+==
+52
+sich beschäftigen mit etw. (D)    Vr.忙于…;从事于…
+
+beschäftigt sich, beschäftigte sich, hat sich beschäftigt
+
+Frau Müller beschäftigt sich jetzt mit ihrer Doktorarbeit.
+Ms. Müller is now working on her doctoral thesis.
+==
+53
+sich sehnen nach etw. (D)    Vr.思念…;向往…
+
+sehnt sich, sehnte sich, hat sich gesehnt
+
+In Deutschland sehnt sich Wang Dali oft nach seiner Heimatstadt.
+In Germany, Wang Dali often longs for his hometown.
+==
+54
+sich verabschieden von jm. (D)    Vr.告别…
+
+verabschiedet sich, verabschiedete sich, hat sich verabschiedet
+
+Ich muss mich von dir verabschieden,
+I have to say goodbye to you .
+==
+55
+achten auf etw. (A) / jn. (A)    Vi.注意…
+
+achtet, achtete, hat geachtet
+
+Achten Sie auf die Verkehrsregeln!
+Pay attention to the traffic rules!
+==
+56
+sich freuen auf etw. (A)    Vr.高兴地期待着…
+
+freut sich, freute sich, hat sich gefreut
+
+Wir freuen uns sehr auf ihren Besuch.
+We are looking forward to your visit.
+==
+57
+sich vorbereiten auf etw. (A)    Vr.准备
+
+bereitet sich vor, bereitete sich vor, hat sich vorbereitet
+
+Ihr sollt euch gut auf die Prüfung vorbereiten.
+You should prepare well for the exam.
+==
+58
+sich freuen über etw. (A)    Vr.对…感到高兴
+
+Er freut sich sehr über den Brief von Maria.
+He is very happy about the letter from Maria.
+==
+59
+sich informieren über etw. (A)    Vr.打听;通知
+
+informiert sich, Informierte sich, hat sich informiert
+
+Ich möchte mich über das Studium in Deutschland informieren..
+I would like to find out more about studying in Germany.
+==
+60
+sich unterhalten über etw. (A)    Vr.谈话;聊天
+unterhalt sich, unterhielt sich, hat sich unterhalten
+
+Die deutschen Männer unterhalten sich gern über Fußball.
+The German men like to talk about football.
+==
+61
+sich kümmern um etw. / jn. (A)    Vr.关心;照料
+
+kümmert sich, kümmerte sich, hat sich gekümmert
+
+Die Mutter kümmert sich um ihren Mann und ihre Kinder.
+The mother takes care of her husband and children.
+==
+62
+es geht um etw. (A)    有关…
+
+Es geht in dem Text um Wegbeschreibung in Deutschland.
+The text is about directions in Germany.
+==
+63
+das Weihnachtsgeschenk, -e    圣诞礼物
+==
+64
+das Tischtennis    乒乓
+==
+65
+das Turnier, -e    体育比赛
+==
+66
+teilnehmen an etw. (D)    Vi.参加…
+
+nimmt teil, nahm teil, hat teilgenommen
+
+Er will an dem Deutschkurs teilnehmen.
+He wants to take part in the German course.
+==
+67
+die Abfahrtszeit, -en    发车时间
+==
+68
+die Sporthalle, -n    体育馆
+==
+69
+lachen über etw. / jn . (A)    Vi.嘲笑
+
+lacht, lachte, hat gelacht
+
+Lachen Sie nicht über mich!
+Don't laugh at me!
+==
+70
+nie    Adv.永不;从不
+==
+71
+jemanden    Pron.某人(第四格)
+==
+72
+ein paar    几个
+==
+73
+hoffentlich    Adv.但愿
+==
+74
+der Kiosk, -e    书报亭
+==
+75
+der Fahrkartenautomat, -en    自动售票机
+==
+76
+die Einzelfahrkarte, -n    单程票
+==
+77
+die Streifenkarte, -n    联票
+==
+78
+wählen    Vt.选择，拔(电话)号码
+
+wählt, wählte, hat gewählt
+==
+79
+verschieden    Adj.各式各样的
+
+Sie können zwischen verschiedenen Fahrkarten wählen.
+You can choose between different tickets.
+==
+80
+gültig    Adj.有效的
+==
+81
+gelten    Vi.有效;适用
+
+gilt, galt, hat gegolten
+
+Diese Fahrkarte gilt nur für kurze Strecken.
+This ticket is only valid for short journeys.
+==
+82
+beliebig    Adj.随意的
+==
+83
+der Erwachsene, -n (wie Adj.)    成年人
+==
+84
+unbegrenzt    Adj.无限制的
+==
+85
+mehrmals    Adv.多次地
+==
+86
+entwerten    Vt.检票
+
+entwertet, entwertete, hat entwertet
+
+Fahrkarten muss man unbedingt entwerten.
+Tickets must be validated.
+==
+87
+die Entfernung, -en    距离
+==
+88
+der Entwerter, -    检票机
+==
+89
+beantragen    Vt.申请
+
+beantragt, beantragte, hat beantragt
+
+Wochen- und Monatskarten müssen Sie beantragen.
+You must apply for weekly and monthly passes.
+==
+90
+das Passfoto, -s   证件照
+==
+91
+je nach    视…而定
+==
+92
+die Marke, -n    票证;票
+==
+93
+verbilligt    Adj.打折的;优惠的
+==
+94
+abgeben    Vt.交;递交
+
+gibt ab, gab ab, hat abgegeben
+
+Er hat seine Hausaufgaben schon beim Lehrer abgegeben.
+He has already given his homework to the teacher.
+==
+95
+der Buchladen, -    书店
+==
+96
+erleichtert    P.II als Adj.轻松的
+==
+97
+weder…, noch…    Konj.既不…又不…
+
+Weder Susi noch Klaus kommt aus Darmstadt.
+Neither Susi nor Klaus is from Darmstadt.
+==
+98
+nicht nur..., sondern auch….   Konj.不仅…而且…
+
+Eine Fahrt mit dem Fahrrad ist nicht nur billig sondern auch umweltfreundlich.
+Riding a bike is not only cheap but also environmentally friendly.
+==
+99
+zwar…, aber…    Konj.虽然…但是…
+
+Zwar hat mir die Dame den Weg dreimal beschrieben, aber ich verstehe sie immer noch nicht.
+The lady has described the way to me three times, but I still don't understand her.
+==
+100
+der Schadenersatz    赔偿损失
+==
+101
+umweltfreundlich    Adj.对环保有利的
+==
+102
+per Anhalter    搭车
+==
+103
+die Kontrolleurin, -nen    查票员(女)
+==
+104
+der Fahrschein, -e 车票
+==
+105
+stempeln    Vt.给…盖上检验印记
+
+stempelt, stempelte, hat gestempelt
+
+Der Fahrgast hat seine Fahrkarte nicht stempeln lassen.
+The passenger did not have his ticket stamped.
+==
+106
+sonst    Adv.否则
+==
+107
+die Strate,-n    罚款
+==
+108
+die Zone, -n    区域
+==
+109
+egal    Adv.同样的;随便的
+==
+110
+die Empfehlung, -en    建议;推荐
+==
+111
+sich einschreiben    Vr.注册
+
+schreibt sich ein, schrieb sich ein, hat sich eingeschrieben
+
+Haben Sie sich schon eingeschrieben?
+Have you already registered?
+==
+112
+das Semesterticket, -s    学期乘车票
