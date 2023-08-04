@@ -1,0 +1,356 @@
+1
+das Ausland 外国,国外
+==
+2
+das Inland 本国;内地
+==
+3
+die Weiterbildung, -en 深造
+==
+4
+verschieden Adj.不同的
+==
+5
+das Gedicht, -e 诗
+==
+6
+die Masern Pl. 麻疹
+==
+7
+der Krieg, -e 战争
+==
+8
+der Kummer 苦闷;苦恼
+==
+9
+der Feind, -e 敌人
+==
+10
+der Einflug, -e 人侵
+==
+11
+der Schutt 瓦砾,废墟
+==
+12
+das Oberwasser 优势
+==
+13
+Oberwasser haben 占有优势
+==
+14
+der Wohlstand 富裕
+==
+15
+der Gallenstein, -e 胆结石
+==
+16
+das Ereignis, -se 事件
+==
+17
+das Erlebnis, -se 经历
+==
+18
+wenn Konj.当…时候
+==
+19
+als Konj.当…时候(过去一次)
+==
+20
+während Konj.在…期间
+==
+21
+bevor Konj. 在…之前
+==
+22
+nachdem Konj.在…之后
+==
+23
+meistens Adv. 通常，经常
+==
+24
+der Saal, Säle 大厅,礼堂
+==
+25
+das Schwimmbecken, - 游泳池
+==
+26
+gleichzeitig Adj.同时的
+==
+27
+einziehen Vi. 搬人,迁人
+
+zieht ein, zog ein, ist eingezogen
+
+Unser Lehrer ist in eine neue Wohnung eingezogen.
+Our teacher has moved into a new apartment.
+==
+28
+streichen (streicht, strich, hat gestrichen) Vt. 粉刷,涂漆
+
+Man hat die Tür neu gestrichen.
+The door has been repainted.
+==
+29
+der Schlankheitstee 减肥茶
+==
+30
+naschen (nascht, naschte, hat genascht) Vi / Vt.吃(甜食)
+
+Sie nascht gern beim Fernsehen.
+She likes to snack while watching TV.
+==
+31
+dicht Adv.紧挨着
+==
+32
+die Grenze, -n 边境
+==
+33
+an der Grenze 在边境
+==
+34
+der Lärm 噪音
+==
+35
+hupen (hupt, hupte, hat gehupt) Vi.按喇叭
+
+Im Stadtzentrum darf man nicht hupen.
+You are not allowed to honk your horn in the city center.
+==
+36
+der Sekt 香槟酒
+==
+37
+betrunken Adj.醉了的
+
+Der Abteilungsleiter war gestern betrunken.
+The department head was drunk yesterday.
+==
+38
+seitdem / seit Konj.从…以来
+==
+39
+bis Konj. 直到...
+==
+40
+die Bühne, -n 舞台
+==
+41
+auf die Bühne treten 登上舞台
+
+Ein Schauspieler ist auf die Bühne getreten.
+An actor stepped onto the stage.
+==
+42
+der Beifall 鼓掌
+==
+43
+Beifall klatschen 拍手，鼓掌
+
+In der Konzerthalle klatscht man oft Beifall.
+People often applaud in the concert hall.
+==
+44
+die Sendung, -en 广播;广播节目
+==
+45
+berichten (berichtet, berichtete, hat berichtet) Vt. 报告，告知
+==
+46
+berichten über (A) Vi.报道…
+
+Ein deutscher Tourist berichtet über seine Reise durch China.
+A German tourist reports on his trip through China.
+==
+47
+die Konkurrenz 竞争
+==
+48
+mehrere Indefinitpronomen 若干的
+==
+49
+die Wissenschaft, -en 科学
+==
+50
+der Studiengang, - e 专业，课程
+==
+51
+absolvieren Vt. 毕业，完成学业
+
+Das Studium kann man auf Englisch absolvieren.
+The course can be completed in English.
+==
+52
+die Studiengebühr, -en 学费
+==
+53
+das Exportland, -er 出口国
+==
+54
+die Regierung, -en 政府
+==
+55
+das Jahrhundert, -e 世纪
+==
+56
+sich zusammenschließen 联合;团结
+
+(schließt sich zusammen, schloss sich zusammen, hat sich zusammengeschlossen) Vr.
+
+Die beiden Firmen haben sich zusammengeschlossen.
+The two companies have merged.
+==
+57
+das Bündnis, -se 联盟;同盟
+==
+58
+verbinden (verbindet, verband, hat verbunden) Vt.联结;联合
+
+Man hat die beiden Stadtteile mit einer Brücke verbunden.
+The two parts of the city were connected by a bridge.
+==
+59
+das Reich, -e 帝国
+==
+60
+das Römische Reich 罗马帝国
+==
+61
+das Heilige Römische Reich Deutscher Nation 德意志民族神圣罗马帝国
+==
+62
+der Fürst, -en, -en 诸侯
+==
+63
+die Einheit 统一
+==
+64
+entgegenarbeiten Vi.(D)抵制;阻碍;反对
+
+(arbeitet entgegen, arbeitete entgegen, hat entgegengearbeitet)
+
+Die Einbrecher arbeiten der Sicherheit unserer Gesellschaft entgegen.
+The burglars work against the security of our society.
+==
+65
+Preußen 普魯士
+==
+66
+mächtig Adj.强大的;有威力的
+==
+67
+der Erste Weltkrieg 第一次世界大战
+==
+68
+militärisch Adj. 军事的
+==
+69
+der Zusammenbruch, -e 崩溃
+==
+70
+unmittelbar Adj.直接的
+==
+71
+der Thron, -e 皇位;皇冠
+==
+72
+die Republik, -en 共和国
+==
+73
+die Weimarer Republik  魏玛共和国
+==
+74
+der Kanzler, - 总理;首相
+==
+75
+der Sieger, - 胜利者
+==
+76
+die Sowjetunion 苏联
+==
+77
+die Zone, -n 区域
+==
+78
+einteilen (teilt ein, teilte ein, hat eingeteilt) Vt.把…分为
+
+Der Lehrer teilt die Klasse in 4 Gruppen ein.
+The teacher divides the class into 4 groups.
+==
+79
+marktwirtschaftlich Adj.市场经济的
+==
+80
+das System, -e 体系,制度
+==
+81
+knapp Adj.不足的,(时间)紧迫的
+==
+82
+die Wiedervereinigung, -en  再统一
+==
+83
+der Mitbürger, -  同一个国家的人
+==
+84
+Finnland  芬兰
+==
+85
+Syrien  叙利亚
+==
+86
+die Fachschaft, -en 各专业的学生自治会
+==
+87
+sachlich Adj.就事论事的
+==
+88
+die Erfahrung, -en 经验,体验
+==
+89
+sich fühlen
+
+(fühlt sich, fühlte sich, hat sich gefühlt) Vr.感觉
+
+Er fühlt sich nicht wohl.
+He's not feeling well.
+==
+90
+disziplinär Adj.有纪律的;学科上的
+==
+91
+beachten (beachtet, beachtete, hat beachtet) Vt. 注意
+
+Man muss die Verkehrsregeln beachten.
+You have to obey the traffic rules.
+==
+92
+darüber hinaus  此外
+==
+93
+umweltfreundlich Adj.环保的
+==
+94
+die Umwelt 环境
+==
+95
+achten (achtet, achtete, hat geachtet) Vi. 注意
+
+Sie achten wirklich auf die Umwelt.
+They really care about the environment.
+==
+96
+genießen (genießt, genoss, hat genossen) Vt. 享受
+
+Die Deutschen können ihr Leben gut genießen.
+The Germans can enjoy their lives well.
+==
+97
+integriert PIl als Adj.融入
+
+ich bin hier gut integriert.
+I am well integrated here.
+==
+98
+humorvoll Adj.充满幽默感的
+
