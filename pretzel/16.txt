@@ -1,0 +1,556 @@
+1
+die Sportart, -en    体育运动项目
+==
+2
+treiben    Vt.推动; 从事
+treibt, trieb, hat getrieben
+==
+3
+Sport treiben    体育锻炼
+
+Jeden Morgen treiben viele alte Menschen im Park Sport.
+Every morning, many old people do sports in the park.
+==
+4
+Tennis spielen    打网球
+==
+5
+die Tennisspielerin, -nen    网球运动员(女)
+==
+6
+Basketball spielen   打篮球
+==
+7
+der Basketballspieler, -    篮球运动员
+==
+8
+das Turnen    体操运动
+==
+9
+turnen    Vi.做体操
+
+turnt, turnte, hat / ist geturnt
+
+Der Turner turnt am Barren.
+The gymnast performs on parallel bars.
+==
+10
+die Turnerin, -nen    体操运动员(女)
+==
+11
+die Leichtathletik    田径运动
+==
+12
+der Leichtathlet, -en, -en    田径运动员
+==
+13
+springen    Vi.跳跃
+
+springt, sprang, ist gesprungen
+
+Frau Da kann sehr weit springen.
+Mrs. Da can jump very far.
+==
+14
+die Schwimmerin, -nen    游泳运动员(女)
+==
+15
+beliebt    P.Il 受欢迎;受喜爱的
+
+Er ist ein beliebter Sportler in China.
+He is a popular athlete in China.
+==
+16
+gewinnen    Vt.嬴得;获得
+
+gewinnt, gewann, hat gewonnen
+
+Klasse 1 hat das Fußballspiel gewonnen.
+Class 1 won the soccer game.
+==
+17
+verlieren    Vt.遗失;输掉
+verliert, verlor, hat verloren
+
+Der Junge hat den Hausschlüssel verloren.
+The boy lost the house key.
+
+Die Nationalmannschaft hat gestern das Fußballspiel verloren
+The national team lost the football game yesterday
+==
+18
+das Ergebnis, -se    结果
+==
+19
+TSC = der Tischtennis-Club    乒乓球俱乐部
+==
+20
+der Profi, -s    职业运动员
+==
+21
+die Karriere, -n    职业生涯
+==
+22
+das Training    训练
+==
+23
+entdecken    Vt.发现
+
+entdeckt, entdeckte, hat entdeckt
+
+Wer hat Amerika entdeckt?
+Who discovered America?
+==
+24
+der Wettkampf, -e    比赛
+==
+25
+die Mannschaft, -en    运动队
+==
+26
+die Nationalmannschaft, -en    国家队
+==
+27
+der Erfolg, -e    成就;成果
+==
+28
+ausscheiden    Vi.离开,退出
+
+scheidet aus, schied aus, ist ausgeschieden
+
+Mit 16 ist die Sportlerin ausgeschieden.
+At the age of 16, the athlete retired.
+==
+29
+grundlegend    Adj.根本的,基本的
+==
+30
+der Angriff, -e    进攻
+==
+31
+die Kraft, -e    力量
+==
+32
+die Taktik, -en    战术,策略
+==
+33
+typisch    Adj.典型
+==
+34
+der Schläger, -    球拍
+==
+35
+die Gewohnheit, -en    习惯
+==
+36
+reagieren    Vi.反应
+
+reagiert, reagierte, hat reagiert
+
+Chinesen reagieren beim Tischtennisspiel sehr schnell.
+The Chinese react very quickly when playing table tennis.
+==
+37
+reagieren auf (A)    对…作出反应
+==
+38
+weiterhin    Adv.继续;今后
+==
+39
+dass Konj.(主从复合句连词)
+==
+40
+ob Konj.是否
+==
+41
+die Landschaft  风景,景色
+==
+42
+die Dienstreise, -n  出差
+==
+43
+der Weltmeister, -    世界冠车
+==
+44
+die Handelsstadt, -e    贸易城市
+==
+45
+unglaublich Adj.不可信的，难以置信的
+==
+46
+die Eintrittskarte, -n  人场券,门票
+==
+47
+die Freizeitbeschäftigung, -en  业余活动
+==
+48
+der Verein, -e  协会
+==
+49
+das Mitglied, -er 成员
+==
+50
+der Deutsche Fußball-Bund (DFB)  甲级队联合会
+==
+51
+die Bundesliga    联邦德国足球联赛(甲级)
+==
+52
+Handball spielen    打手球
+==
+53
+populär Adj.普及的;流行的
+==
+54
+das Windsurfen  沖泿
+==
+55
+die Gefahr, -en  危险
+==
+56
+die Spannung, -en  紫张
+==
+57
+körperlich Adj.身体的; 体力的
+==
+58
+nötig Adj.必需的
+==
+59
+die Abwechslung, -en  消遣，调剂(生活情趣)
+==
+60
+sozial Adj.社会的
+==
+61
+die Aktivität, -en    活动
+==
+62
+wirklich Adv.真的
+==
+63
+persönlich Adj.本人的
+==
+64
+das Verkehrszeichen, -   交通标志
+==
+65
+nämlich Konj.即,也就是
+==
+66
+faul Adj.懒惰的
+==
+67
+diesmal Adv.这一次
+==
+68
+jm. (D) Leid tun  使人感到抱歉
+
+Es tut mir Leid.
+I'm sorry.
+==
+69
+übertragen Vt.转播; 传播
+
+überträgt, übertrug, hat übertragen
+
+Der Fernsehsender überträgt heute das Tennisspiel zwischen China und Indonesien.
+The TV station is broadcasting the tennis match between China and Indonesia today.
+==
+70
+gemütlich Adj.舒适的
+==
+71
+das Stadion, ... dien  体育场馆
+==
+72
+spannend Adj.扣人心弦的
+==
+73
+der Jubel欢呼 ; 欢腾
+==
+74
+die Atmosphäre, -n 气筑
+==
+75
+bequem Adj.舒适的;便捷的; 懒散的
+==
+76
+wessen Pron.谁的
+==
+77
+das Einkommen收人
+==
+78
+betragen Vt.总计
+
+beträgt, betrug, hat betragen
+
+Sein monatliches Einkommen beträgt 2000 Yuan.
+His monthly income is 2,000 yuan.
+==
+79
+begeistert P. Il als Adj. 兴奋的
+==
+80
+jubeln Vi.欢呼;喝彩
+
+jubelt, jubelte, hat gejubelt
+
+Im Popkonzert haben alle Zuhörer lange gejubelt.
+At the pop concert, all the listeners cheered for a long time.
+==
+81
+der Club, -s  俱乐部
+==
+82
+der Sieg, -e 胜利
+==
+83
+der Kugelschreiber, - 圆珠笔
+==
+84
+einsam Adj.孤单的;寂寞的
+==
+85
+ausgezeichnet Adj.优秀的
+==
+86
+das Gebäude, -  高楼,大厦
+==
+87
+trotz Präp. (G) 尽管
+==
+88
+wegen Präp. (G) 由于
+==
+89
+während Präp. (G) 在…期间
+==
+90
+statt Präp. (G) 代替
+==
+91
+anstatt Präp. (G) 代替
+==
+92
+der Regen  雨
+==
+93
+der Tourist, -en, -en 旅行者
+==
+94
+verpassen Vt.错过,误了
+
+verpasst, verpasste, hat verpasst
+
+Verpassen Sie bitte den Zug nicht.
+Please don't miss the train.
+==
+95
+der Nachhilfeunterricht    补课
+==
+96
+der Hochleistungssport  职业运动
+==
+97
+das Argument, -e    论点,论据
+==
+98
+die Kommerzialisierung, -en 商业化
+==
+99
+das Produkt, -e 产品
+==
+100
+die Werbung, -en 广告
+==
+101
+kritisieren Vt. 批评
+
+kritisiert, kritisierte, hat kritisiert
+
+Der Lehrer kritisiert die faulen Studenten.
+The teacher criticizes the lazy students.
+==
+102
+die Weise, -n 方式,方法
+==
+103
+auf diese Weise 以此方式
+==
+104
+die Verletzung, -en 受伤
+==
+105
+schaden Vi.损伤,损害
+
+schadet, schadete, hat geschadet
+
+Rauchen schadet der Gesundheit.
+Smoke harms the health.
+==
+106
+zahllos    Adj.无数的
+==
+107
+allgemein    Adj.一般的;普通的
+==
+108
+die Abnutzung   消耗;磨损
+==
+109
+der Abschluss   结束;结业
+==
+110
+die Ausbildung, -en  教育;培养
+==
+111
+vorbei Adv.过去;消失
+==
+112
+die Kneipe, -n    小酒店，酒吧
+==
+113
+der Fluch, -e    咒骂，咒语
+==
+114
+das Jahrzehnt, -e  十年
+==
+115
+der Fan, -s    狂热者，迷
+==
+116
+der Verband, -e    社团;协会
+==
+117
+die Weltmeisterschaft, -en  世界冠军赛
+==
+118
+locken Vt. 吸引
+
+lockt, lockte, hat gelockt
+
+Die schöne Landschaft hat viele Touristen hierher gelockt
+The beautiful landscape has attracted many tourists here
+==
+119
+das Finale, -    比赛
+==
+120
+ca. = circa    大约
+==
+121
+entstehen Vi.产生;形成
+
+entsteht, entstand, ist entstanden
+
+Viele private Schulen sind in Shanghai entstanden.
+Many private schools have sprung up in Shanghai.
+==
+122
+der Strand, - e 海滩,海滨
+==
+123
+die Ausrüstung, -en 装备
+==
+124
+äußere Adj.外面的；外部的
+==
+125
+die Bedingung, -en 条件
+==
+126
+der Erwachsene, -n (wie Adj.) 成人
+==
+127
+der Ausgleich  平衡;弥补
+==
+128
+der Stress  紧张状态
+==
+129
+fördern Vt.促进;推进
+
+fördert, förderte, hat gefördert
+
+Der Staat fördert Wissenschaft und Technik sehr.
+The state promotes science and technology a lot.
+==
+130
+das Verhalten 举止,行为
+==
+131
+verdienen Vt.挣(钱)
+
+verdient, verdiente, hat verdient
+
+Heute verdienen die Kinder mehr als ihre Eltern.
+Today children earn more than their parents.
+==
+132
+sich entwickeln Vr.发展
+
+entwickelt sich, entwickelte sich, hat sich entwickelt
+
+Die Stadt Shanghai hat sich in den letzten Jahren schnell entwickelt
+The city of Shanghai has developed rapidly in recent years
+==
+133
+sogar Adv.甚至(于),乃至(于)
+==
+134
+das Labor, -s 实验室
+==
+135
+die Schulnote, -n 在校成缋
+==
+136
+bald Adv.不久,很快(就)
+==
+137
+der Verfasser, - 作者
+==
+138
+abreisen Vi.动身(去旅行）
+
+reist ab, reiste ab, ist abgereist
+
+Die Krämers sind heute abgereist.
+The Kramers left today.
+==
+139
+das Tier, -e 动物
+==
+140
+der Krimi, -s 侦探小说
+==
+141
+der Liebesroman, -e 爱情小说
+==
+142
+schulpflichtig Adj.应受义务教育的
+==
+143
+selbstverständlich Adj.不言而喻的;当然
+==
+144
+sich verändern Vr.变化;改变
+
+verändert sich, veränderte sich, hat sich verändert
+
+Frau Lou hat sich nach der Scheidung sehr verändert.
+Ms. Lou changed a lot after the divorce.
+==
+145
+der Aufsatz, -e 作文;文章
+==
+146
+die Verspätung, -en  迟到;误点
+==
+147
+der Aufenthalt, -e 逗留、居留(期间
+==
+148
+der Mitbewohner, -  同屋(或室)居住人
+

@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-CNT =  15
+CNT =  16
 HEAD = '''<html>
    <head>
       <title>German Vocabulary</title>
@@ -57,7 +57,7 @@ MIDDLE = '''</td></tr>
       var sound = new Howl(
         {
           "src": [
-            "%d.flac"
+            "%d.webm"
           ],
           html5: true,
           "sprite": {
