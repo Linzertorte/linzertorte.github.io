@@ -16,7 +16,7 @@ for l in fileinput.input():
     red = True
     continue
   if red:
-    print colored("    "+l,"green")
+    print colored("    "+l,"green",attrs=['bold'])
     red = False
     continue
   print "    "+l
