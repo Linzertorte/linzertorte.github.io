@@ -1,0 +1,436 @@
+1
+der Jugendliche, -n (wie Adj. ) 青少年
+==
+2
+schreien (schreit, schrie, hat geschrien) Vi.喊叫
+
+Das Kind schreit sehr laut.
+The child cries very loudly.
+==
+3
+flirten (flirtet, flirtete, hat geflirtet) Vi.调情
+
+Klaus flirtet mit Sabrina.
+Klaus flirts with Sabrina.
+==
+4
+träumen (träumt, träumte, hat geträumt) Vi.梦想;做梦
+
+Gestern Nacht habe ich viel geträumt.
+I dreamed a lot last night.
+==
+5
+sich streiten (streitet sich, stritt sich, hat sich gestritten) Vr争吵
+
+Herr Schmidt hat sich mit seiner Frau gestritten.
+Mr. Schmidt had an argument with his wife.
+==
+6
+die Lehre, -n 学徒的学习期
+==
+7
+eine Lehre machen 当学徒
+==
+8
+das Picknick, -e / -s 野餐
+==
+9
+der Kindergarten, - 幼儿园
+==
+10
+die Popmusik 流行音乐
+==
+11
+das Märchen, - 童话
+==
+12
+chatten (chattet, chattete, hat gechattet) Vi. (网上)聊天
+
+Der Schüler chattet jeden Abend mit seiner Englischlehrerin.
+The student chats with his English teacher every evening.
+==
+13
+DVDs sehen 看DVD
+==
+14
+Actionfilme sehen看动作片
+==
+15
+herunterladen (lädt herunter, lud herunter, hat heruntergeladen) Vt.下载
+
+Die Informatikstudentin lädt viele Informationen aus dem Internet herunter .
+The computer science student downloads a lot of information from the Internet.
+==
+16
+Blog schreiben 写博客
+==
+17
+SMS senden/schicken 发短信
+==
+18
+ins Internetcafé gehen 上网吧
+==
+19
+das Baby, -s 婴儿
+==
+20
+verreisen (verreist, verreiste, ist verreist) Vi.去旅游,出门
+
+Meine Frau ist nicht zu Hause, sie ist verreist.
+My wife is not at home, she is away.
+==
+21
+wahrscheinlich Adj. / Adv. 有可能
+==
+22
+höchstens Adv. 最多，至多
+==
+23
+überhaupt Adv. 究竟，根本
+==
+24
+eigentlich Adj. / Adv.本来，其实
+==
+25
+immerhin Adv.至少,毕竟
+==
+26
+aufhören (hört auf, hörte auf, hat aufgehört) Vi. 停止
+
+Es hört auf zu regnen.
+It stops raining.
+==
+27
+bitten (bittet, bat, hat gebeten) Vt.请求
+
+Darf ich Sie bitten , nicht im Klassenzimmer zu rauchen?
+May I ask you not to smoke in the classroom?
+==
+28
+erlauben (erlaubt, erlaubte, hat erlaubt) Vt.允许
+
+Die Mutter erlaubt der Tochter nicht, in die Disco zu gehen.
+The mother does not allow the daughter to go to the disco.
+==
+29
+raten (rät, riet, hat geraten) Vt.建议
+
+Der Lehrer rät den Studenten, mehr Deutsch zu sprechen.
+The teacher advises the students to speak more German.
+==
+30
+verbieten (verbietet, verbot, hat verboten) Vt. 禁止
+
+Der Vater verbietet dem Sohn auszugehen.
+The father forbids the son to go out.
+==
+31
+versprechen (verspricht, versprach, hat versprochen) Vt.许诺;答应
+
+Die Eltern haben ihrem Kind versprochen, ihm ein Auto zu kaufen.
+The parents promised their child to buy him a car.
+==
+32
+notwendig Adj. 必要的
+==
+33
+üblich Adj.常见的
+==
+34
+empfehlen (empfiehlt, empfahl, hat empfohlen) Vt.建议，推荐
+
+Er empfiehlt mir, ein technisches Buch zu kaufen.
+He recommends that I buy a technical book.
+==
+35
+sich gewöhnen an (A)
+(gewöhnt sich, gewöhnte sich, hat sich gewöhnt) Vr. 习惯于…
+
+Der Student gewöhnt sich daran, früh aufzustehen.
+The student gets used to getting up early.
+==
+36
+Die Hauptaufgabe, -n 主要任务
+==
+37
+ausbilden (bildet aus, bildete aus, hat ausgebildet) Vt.职业培训，培养
+
+Die Berufsschule bildet Lehrlinge aus.
+The vocational school trains apprentices.
+==
+38
+die Königin, -nen 女王
+==
+39
+der Prinz, -en, -en 王子
+==
+40
+erhalten (erhält, erhielt, hat erhalten) Vt.收到
+
+Julia hat einen Brief von ihrem Freund erhalten.
+Julia received a letter from her boyfriend.
+==
+41
+folgend Adj. 下列的，下一个的
+==
+42
+der Laden, 店
+==
+43
+das Schaukelpferd, -e 摇摆木马
+==
+44
+der Wert, -e 价值
+==
+45
+erkennen (erkennt, erkannte, hat erkannt) Vt. 认识,辨认出
+
+Der Experte erkennt sofort, dass die Königin den Brief geschrieben hat.
+The expert immediately recognizes that the queen wrote the letter.
+==
+46
+der Sammler, - 收藏家
+==
+47
+Um…zu… (表示目的)为了
+==
+48
+damit Konj.为了，便于
+==
+49
+das Rotkäppchen 小红帽
+==
+50
+der Wolf, -e 狼
+==
+51
+packen (packt, packte, hat gepackt) Vt.抓住
+
+Der Tiger packt den Hasen.
+The tiger grabs the rabbit.
+==
+52
+das Maul, -er (兽)嘴
+==
+53
+fressen (frisst, fraß, hat gefressen) Vt.(兽)吃
+
+Der Tiger hat den Hasen gefressen.
+The tiger ate the rabbit.
+==
+54
+beobachten (beobachtet, beobachtete, hat beobachtet) Vt.观察
+
+Man kann beobachten , dass die Kursteilnehmer fleißig Deutsch lernen.
+One can observe that the course participants are diligently learning German.
+==
+55
+verplanen (verplant, verplante, hat verplant) Vt.把…列入计划
+
+Viele Eltern verplanen die Freizeit ihrer Kinder .
+Many parents plan their children's free time.
+==
+56
+anschließend P.I 紧接着
+==
+57
+der Experte, -n, -n  专家
+==
+58
+zusätzlich Adj.附加的，补充的
+==
+59
+die Gesellschaft, -en 社会
+==
+60
+herrschen (herrscht, herrschte, hat geherrscht) Vi.统治;流行着
+
+Überall herrscht hoher Leistungsdruck.
+There is high pressure to perform everywhere.
+==
+61
+die Leistung, -en 成绩
+==
+62
+führen zu (D) (führt, führte, hat geführt) Vi.导致
+
+Mehr Leistung führt zu mehr Erfolg.
+More power leads to more success.
+==
+63
+zukünftig Adj.将来的,未来的
+==
+64
+die Kulturrevolution 文化大革命
+==
+65
+aufwachsen (wächst auf, wuchs auf, ist aufgewachsen) Vi.长大,成长
+
+Herr Wang ist in Shanghai aufgewachsen.
+Mr. Wang grew up in Shanghai.
+==
+66
+leiden (leidet, litt, hat gelitten) Vi. 受苦,忍受
+==
+67
+leiden unter (D) 受…的苦
+
+Früher litten viele Frauen sehr unter mangelnden Kenntnissen.
+In the past, many women suffered greatly from a lack of knowledge.
+==
+68
+mangelnd P.I不够的，缺少的
+==
+69
+die Kenntnisse Pl.知识
+==
+70
+umfassend P.I 广博的,广大的
+==
+71
+der Traum, -e 梦;梦想
+==
+72
+verwirklichen (verwirklicht, verwirklichte, hat verwirklicht) Vt.实现
+
+Man kann seinen Traum verwirklichen.
+You can make your dream come true.
+==
+73
+überfordern (überfordert, überforderte, hat überfordert) Vt. 苛求
+
+Unser Lehrer hat uns überfordert.
+Our teacher overwhelmed us.
+==
+74
+ordentlich Adj.整洁的
+==
+75
+sich verhalten
+(verhält sich, verhielt sich, hat sich verhalten) Vr.举止,行为
+
+Die beiden Geschwister verhalten sich ganz anders.
+The two siblings behave very differently.
+==
+76
+etwa Adv. 也许;大约
+==
+77
+sich einmischen
+(mischt sich ein, mischte sich ein, hat sich eingemischt) Vr.干涉
+
+Auch die Eltern sollen sich nicht in die privaten Angelegenheiten ihrer Kinder einmischen.
+Parents should not interfere in their children's private affairs either.
+==
+78
+die Methode, -n 方法,办法
+==
+79
+die Ordnung, -en 秩序，整洁
+==
+80
+der Unsinn 胡说八道
+==
+81
+das Vorbild, -er 榜样
+==
+82
+der Buchladen 书店
+==
+83
+die Leseratte 书迷
+==
+84
+der Rat, -schläge 建议
+==
+85
+überfallen (überfällt, überfiel, hat überfallen) Vt.袭击
+
+Drei Räuber haben gestern eine Bank überfallen.
+Three robbers robbed a bank yesterday.
+==
+86
+das Zelt, -e 帐篷
+==
+87
+der Zelter, - 露宿帐篷者
+==
+88
+ausrauben (raubt aus, raubte aus, hat ausgeraubt) Vt.洗劫
+
+Auf dem Weg nach Hause hat ihn ein kräftiger Mann ausgeraubt.
+On the way home, a strong man robbed him.
+==
+89
+sich prügeln (prügelt sich, prügelte sich, hat sich geprügelt) Vr.扭打,打架
+
+Unser Sohn hat sich mit den Nachbarskindern geprügelt.
+Our son got into fights with the neighbors' children.
+==
+90
+verprügeln (verprügelt, verprügelte, hat verprügelt) Vt.痛打,揍
+
+Die großen Kinder haben die kleinen Kinder verprügelt.
+The big kids beat up the little kids.
+==
+91
+werfen (wirft, warf, hat geworfen) Vt. 扔
+
+Man darf altes Papier nicht aus dem Fenster werfen.
+Don't throw old paper out the window.
+==
+92
+die Kriminalität 犯罪，犯罪率
+==
+93
+zunehmen (nimmt zu, nahm zu, hat zugenommen) Vi.增长，上升;发胖
+
+Die Produktion nimmt ständig zu.
+==
+94
+die Ursache, -n 原因
+==
+95
+das Elternhaus, -er 父母的家;家庭
+==
+96
+arbeitslos Adj.失业的
+==
+97
+die Arbeitslosigkeit 失业
+==
+98
+bewältigen (bewältigt, bewältigte, hat bewältigt) Vt.克服；胜任,掌握
+
+Man muss das Problem bewältigen.
+You have to deal with the problem.
+==
+99
+verantwortlich Adj.负责的，有责任的
+==
+100
+die Verantwortung, -en 责任
+==
+101
+die Fähigkeit, -en 能力
+==
+102
+vermitteln (vermittelt, vermittelte, hat vermittelt) Vt.传授;介绍
+
+Dieser Lehrer vermittelt den Studenten allgemeine Kenntnisse über Atomphysik.
+This teacher provides students with general knowledge of atomic physics.
+==
+103
+erfolgreich Adj.成功的
+==
+104
+die Chance, -n 机会
+==
+105
+schaffen (schafft, schuf, hat geschaffen) Vt. 创造
+
+Die Regierung soll mehr neue Arbeitsplätze schaffen.
+The government should create more new jobs.
+==
+106
+der Ernährer,- 抚养者
