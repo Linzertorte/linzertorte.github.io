@@ -12,7 +12,7 @@ for l in fileinput.input():
   if l == "" or l == "Add to word list":
     continue
   if "●" in l:
-    print colored("    "+l,"red")
+    print colored("    "+l,"red",attrs=['bold'])
     red = True
     continue
   if red:
