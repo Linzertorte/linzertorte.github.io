@@ -20,6 +20,7 @@ for l in fileinput.input():
   l = l.replace('ë','e')
   l = l.replace('ï','i')
   l = l.replace('ü','u')
+  l = l.replace('œ','oe')
   l = l.replace("'","-")
   print 'clear'
   print 'echo '+str(i)
