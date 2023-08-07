@@ -1,0 +1,467 @@
+1
+die Gesundheit 健康
+==
+2
+der Hustensaft, -..e 咳嗽药水
+==
+3
+die Augenbraue, -n 眉毛
+==
+4
+der Hals, -..e 颈
+==
+5
+der Arm, -e 手臂
+==
+6
+der Unterarm, -e  前臂
+==
+7
+der Daumen, - 拇指
+==
+8
+der Finger, - 手指
+==
+9
+der Bauch, -..e 肚子
+==
+10
+die Haut, -..e 皮肤
+==
+11
+das Knie, - 膝盖
+==
+12
+das Bein, -e 腿
+==
+13
+die Schulter, -n 肩
+==
+14
+der Rücken, - 背
+==
+15
+der Hintern, - 臀部
+==
+16
+die Lunge, -n 肺
+==
+17
+der Magen, -.. 胃
+==
+18
+der Oberschenkel, - 大腿
+==
+19
+die Ferse, -n  脚后跟
+==
+20
+der Knochen, - 骨
+==
+21
+das Blut 血液
+==
+22
+der Muskel, -n 肌肉
+==
+23
+die Grippe 流感
+==
+24
+die Lungenentzündung, -en 肺炎
+==
+25
+sich erbrechen
+(erbricht sich, erbrach sich, hat sich erbrochen) Vr. 呕吐
+
+Plötzlich fühlt er sich nicht wohl und erbricht sich.
+Suddenly he doesn't feel well and vomits.
+==
+26
+der Fuß, -..e 脚
+==
+27
+die Zehe, -n 脚趾
+==
+28
+der Schnupfen, - 流涕
+==
+29
+der Bluthochdruck 高血压
+==
+30
+der Durchfall, e 腹泻
+==
+31
+die Verstopfung, -en 便秘
+==
+32
+brechen (bricht, brach, hat gebrochen) Vt.折断
+
+Er hat sich sein linkes Bein gebrochen.
+He broke his left leg.
+==
+33
+der Husten 咳嗽
+==
+34
+der Puls, -e 脉搏
+==
+35
+Puls fühlen 好脉
+
+Die Ärztin fühlt dem Kranken den Puls.
+The doctor feels the patient's pulse.
+==
+36
+abhören (hört ab, hörte ab, hat abgehört) Vt.对…听诊
+
+Der Arzt hört dem Patienten die Lungen ab.
+The doctor listens to the patient's lungs.
+==
+37
+messen (misst, maß, hat gemessen) Vt.测量
+
+Ich messe meine Temperatur
+==
+38
+röntgen (röntgt, röntgte, hat geröntgt) Vt.透视
+
+Der Arzt hat ihr verletztes Bein geröntgt.
+The doctor X-rayed her injured leg.
+==
+39
+verschreiben (verschreibt, verschrieb, hat verschrieben) Vt.开处方,开药
+
+Doktor Müller verschreibt mir ein Medikament gegen Kopfschmerzen.
+Doctor Müller prescribes me a medication for headaches.
+==
+40
+die Tropfen Pl.滴剂
+==
+41
+entzündet P.II发炎的
+
+Sein Hals ist entzündet.
+His throat is sore.
+==
+42
+Untersuchungen durchführen 迸行检查
+==
+43
+der Oberkörper, - 上身
+==
+44
+einatmen (atmet ein, atmete ein, hat eingeatmet) Vt. / Vi. 吸气
+==
+45
+ausatmen (atmet aus, atmete aus, hat ausgeatmet) Vt. / Vi.呼气
+
+Bei der Untersuchung muss der Kranke zuerst tief einatmen und dann ausatmen.
+During the examination, the patient must first inhale deeply and then exhale.
+==
+46
+dienstlich Adj.公务上的
+==
+47
+die Dienstreise, -n 出差
+==
+48
+verschieben (verschiebt, verschob, hat verschoben) Vt.推迟
+
+Wir haben unseren Termin auf nächsten Freitag verschoben.
+We have moved our appointment to next Friday.
+==
+49
+das Rezept, -e 药方
+==
+50
+massieren (massiert, massierte, hat massiert) Vt.按摩
+
+Seine Frau massiert ihn jedes Wochenende.
+His wife massages him every weekend.
+==
+51
+einen Zahn ziehen 拔牙
+
+Aus Versehen hat der Zahnarzt einen gesunden Zahn gezogen.
+The dentist accidentally pulled a healthy tooth.
+==
+52
+die Spritze, -n 注射器;针剂
+==
+53
+jm. (D) eine Spritze geben 给某人打针
+==
+54
+das Uniklinikum, ... Ken 大学医院
+==
+55
+das Segelschiff, -e 帆船
+==
+56
+die Röntgenstrahlen Pl.伦琴线;X射线
+==
+57
+anbieten (bietet an, bot an, hat angeboten) Vt. 提供
+
+Die Gastgeberin bietet ihrem Gast guten Tee an.
+The hostess offers her guest good tea.
+==
+58
+auszeichnen
+(zeichnet aus, zeichnete aus, hat ausgezeichnet) Vt.表扬，称赞
+
+Die Universität hat am Semesterschluss die fleißigsten Studenten ausgezeichnet.
+At the end of the semester, the university honored the most diligent students.
+==
+59
+feststellen (stellt fest, stellte fest, hat festgestellt) Vt.确诊
+
+Der Arzt stellt fest , dass er eine Grippe hat.
+The doctor discovers that he has the flu.
+==
+60
+Blut abnehmen 抽血
+
+Die Laborantin nimmt dem Patienten Blut ab.
+The lab technician takes blood from the patient.
+==
+61
+beschreiben (beschreibt, beschrieb, hat beschrieben) Vt.描写，描绘
+
+Die Kinder müssen im Kunstunterricht ein Bild beschreiben.
+In art class, the children have to describe a picture.
+==
+62
+verbreiten (verbreitet, verbreitete, hat verbreitet) Vt.传播,散布
+
+Man hat diese Nachricht sehr schnell verbreitet.
+The news spread very quickly.
+==
+63
+zerbrechen (zerbricht, zerbrach, hat zerbrochen) Vt.打碎
+
+Aus Eile hat die Putzfrau zwei Gläser zerbrochen.
+In a hurry, the cleaning lady broke two glasses.
+==
+64
+zerreißen (zerreißt, zerriss, hat zerrissen) Vt.撕破，撕碎
+
+Das Kind hat sein langweiliges Bilderbuch zerrissen.
+The child tore up his boring picture book.
+==
+65
+zerstören (zerstört, zerstörte, hat zerstört) Vt.破坏,毁坏
+
+Die Bomben haben die Stadt zerstört.
+The bombs destroyed the city.
+==
+66
+zerschneiden (zerschneidet, zerschnitt, hat zerschnitten) Vt.剪开,剪碎
+
+Der Schneider zerschneidet den Stoff.
+The tailor cuts the fabric.
+==
+67
+die Ernährung 营养;饮食
+==
+68
+die Theorie, -n 理论
+==
+69
+die Kalorie, -n 卡,卡路里(热量单位)
+==
+70
+der Nährwert, -e 营养价值
+==
+71
+der Keks, -e 饼干
+==
+72
+das Eiweiß, -e 蛋白
+==
+73
+das Kohlenhydrat, -e 碳水化合物
+==
+74
+betonen (betont, betonte, hat betont) Vt.强调
+
+Die Experten betonen, dass die Eltern den Kindern mehr Freizeit geben sollten.
+Experts emphasize that parents should give children more free time.
+==
+75
+der Ernährungswissenschaftler, - 营养学家
+==
+76
+fehlen (fehlt, fehlte, hat gefehlt) Vi.丢失;缺席
+
+Der Student hat drei Tage unentschuldigt im Unterricht gefehlt
+The student was absent from class for three days without an excuse.
+==
+77
+das Rezept, -e 菜谱
+==
+78
+die Sojabohnensprosse, -n 豆芽
+==
+79
+die Portion, -en 一份，一客
+==
+80
+reif Adj.成熟的
+==
+81
+die Mango, -s 芒果
+==
+82
+die Walnuss, -..e 核桃
+==
+83
+der Ingwer 姜
+==
+84
+die Salatsoße, -n 色拉酱
+==
+85
+die Knoblauchzehe, -n 蒜瓣
+==
+86
+der Pfeffer 胡椒
+==
+87
+die Sojasoße 酱油
+==
+88
+EL = Esslöffel 调羹
+==
+89
+der Essig, -e 醋
+==
+90
+das Sesamöl, -e 香油
+==
+91
+zubereiten (bereitet zu; bereitete zu, hat zubereitet) Vt.准备;烹调
+
+Vergiss nicht, das Abendessen zuzubereiten!
+Don't forget to prepare dinner!
+==
+92
+schälen (schält, schälte, hat geschält) Vt.削皮
+
+Das Kind lernt, Kartoffeln zu schälen.
+The child learns to peel potatoes.
+==
+93
+hacken (hackt, hackte, hat gehackt) Vt.剁，剁细
+
+Wang Dali hackt das Fleisch, um Fleischfüllung zuzubereiten.
+Wang Dali chops the meat to make meat stuffing.
+==
+94
+die Pfanne, -n 平底锅
+==
+95
+rösten (röstet, röstete, hat geröstet) Vt.焙炒,烘烤
+
+Der Kaffee wird geröstet.
+The coffee is roasted.
+==
+96
+reiben (reibt, rieb, hat gerieben) Vt.磨碎，磨细
+
+Sie reibt einen Knoblauch.
+She grates a garlic.
+==
+97
+vermischen (vermischt, vermischte, hat vermischt) Vt.混合，搀和
+
+Wenn man Gelb und Blau vermischt, erhält man Grün.
+When you mix yellow and blue, you get green.
+==
+98
+auspressen (presst aus, presste aus, hat ausgepresst) Vt.榨取，榨干
+
+Meine Tochter presst gern Orangen aus.
+My daughter likes to squeeze oranges.
+==
+99
+verrühren (verrührt, verrührte, hat verrührt) Vt.拌,搅和
+
+Herr Li verrührt Hackfleisch mit feingeschnittenem Chinakohl .
+Mr. Li mixes ground beef with finely chopped Chinese cabbage.
+==
+100
+hinzugießen (gießt hinzu, goss hinzu, hat hinzugegossen) Vt.浇人;淋人
+
+Zuletzt gießt er Sesamöl hinzu.
+Finally he pours in sesame oil.
+==
+101
+die Zutat, -en 辅料,配料
+==
+102
+durchziehen (zieht durch, zog durch, ist durchgezogen) VI.浸渍
+
+Der Salat muss eine Stunde durchziehen.
+Let the salad sit for an hour.
+==
+103
+einliefern (liefert ein, lieferte ein, hat eingeliefert) Vt.送到
+
+Der Krankenwagen hat den Schwerkranken ins Krankenhaus eingeliefert.
+The ambulance took the seriously ill to the hospital.
+==
+104
+entlassen (entlässt, entließ, hat entlassen) Vt.允许离开(医院/监狱）
+==
+105
+aus dem Krankenhaus entlassen 出院
+
+Der Patient wurde aus dem Krankenhaus entlassen.
+The patient was discharged from the hospital.
+==
+106
+wiedervereinigen
+(vereinigt wieder, vereinigte wieder, hat wiedervereinigt) Vt. 使重新统一
+
+Am 3. Oktober 1990 wurde Deutschland wiedervereinigt.
+Germany was reunified on October 3, 1990.
+==
+107
+"Die Reise nach Westen” 《西游记》
+==
+108
+"Der Traum der Roten Kammer” 《红楼梦》
+==
+109
+"Die Räuber vom Liangshanmoor” 《水浒》
+==
+110
+"Die Drei Reiche” 《三国演义》
+==
+111
+der Allgemeinarzt, -..e 常见病医生
+==
+112
+sich konzentrieren 集中注意力
+(konzentriert sich, konzentrierte sich, hat sich konzentriert)
+==
+113
+sich konzentrieren auf (A) Vr. 集中注意力于…
+
+Die Kursteilnehmer sollen sich auf den Unterricht konzentrieren.
+The students should concentrate on the lesson.
+==
+114
+die Einstellung, -en 态度;观点; 看法
+==
+115
+heutzutage Adv. 现今; 目前
+==
+116
+schädlich Adj. 有害的
+
+Rauchen ist schädlich für die Gesundheit.
+Smoking is harmful to health.
