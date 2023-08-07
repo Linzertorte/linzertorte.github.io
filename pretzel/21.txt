@@ -1,0 +1,408 @@
+1
+schneiden (schneidet, schnitt, hat geschnitten) Vt.理;剪
+==
+2
+frisieren (frisiert, frisierte, hat frisiert) Vt. 给…理发
+==
+3
+die Webseite, -n 网页
+==
+4
+gestalten (gestaltet, gestaltete, hat gestaltet) Vt. 制定;制作
+
+Der Programmierer gestaltet eine Webseite für die Firma.
+==
+5
+wellen (wellt, wellte, hat gewellt) Vt. 卷(发)成波浪型
+==
+6
+locken (lockt, lockte, hat gelockt) Vt.使(头发)卷曲
+
+Der Friseur hat die Haare zuerst gewellt , dann geschnitten. Er kann die Haare auch locken und frisieren.
+The hairdresser first waved the hair, then cut it. He can also curl and style the hair.
+==
+7
+programmieren
+(programmiert, programmierte, hat programmiert) Vt 编写程序，编程
+
+Der Ingenieur programmiert die Maschine.
+The engineer programs the machine.
+==
+8
+das Programm, -e 程序;节目
+==
+9
+das Getreide 粮食
+==
+10
+anbauen (baut an, baute an, hat angebaut) Vt.种植
+
+Man baut in Shanghai immer weniger Getreide an.
+Less and less grain is being grown in Shanghai.
+==
+11
+ernten (erntet, erntete, hat geerntet) Vt.收成,收获
+
+Die Bauern haben in diesem Herbst viel Reis geerntet.
+Farmers harvested a lot of rice this fall.
+==
+12
+züchten (züchtet, züchtete, hat gezüchtet) Vt.饲养
+
+Wie kann man Pandabären besser züchten?
+What's a better way to breed panda bears?
+==
+13
+
+sortieren (sortiert, sortierte, hat sortiert) Vt. 整理;归类
+
+Die Sekretärin sortiert alle Akten sehr ordentlich.
+The secretary sorts all the files very neatly.
+==
+14
+die Umfrage, -n 问卷调查
+==
+15
+Umfragen durchführen 进行问卷调查
+==
+16
+interviewen (interviewt, interviewte, hat interviewt) Vt. (记者的)采访
+
+Der Journalist hat viele Fußgänger interviewt.
+The journalist interviewed many pedestrians.
+==
+17
+der Holzfäller, - 伐木工
+==
+18
+der Baum, -..e 树,树木
+==
+19
+fällen (fällt, fällte, hat gefällt) Vt.砍伐
+
+Der Kleine Mann hat in fünf Minuten viele Bäume gefällt.
+The little man cut down a lot of trees in five minutes.
+==
+20
+scharf Adj.锋利的
+==
+21
+die Axt, -..e 斧子
+==
+22
+blitzschnell Adj.闪电般的
+==
+23
+Überhaupt Adv. 根本，完全
+==
+24
+je... umso (desto) 越…，越…
+==
+25
+so ..., dass / so dass 这样…以至于
+==
+26
+indem / dadurch, dass 通过…方式
+==
+27
+der Briefmarkensammler, - 集邮者
+==
+28
+der Bücherwurm, -..er 书迷，书呆子
+==
+29
+der Briefpartner, - 信友
+==
+30
+der Stau, -s 堵车
+==
+31
+hervorbringen
+(bringt hervor, brachte hervor, hat hervorgebracht) Vt.产生
+
+Die schnelle Entwicklung hat viele Probleme hervorgebracht.
+Rapid development has brought many problems.
+==
+32
+der Fahrradkurier, -e 骑自行车的信使
+==
+33
+das Unternehmen, - 企业
+==
+34
+der Auftrag, - e 任务;定单
+==
+35
+durchschnittlich Adj.平均的
+==
+36
+der Teufel, - 魔鬼
+==
+37
+wie die Teufel fahren 疯狂地骑车
+==
+38
+das Mountain Bike, -s  山地车
+==
+39
+der Radler, - 骑自行车者
+==
+40
+wasserdicht Adj.防水的
+==
+41
+das Funkgerät, -e 无线收发机
+==
+42
+der Fahrradhelm, -e 自行车安全帽
+==
+43
+gewiss Adj.一定的
+==
+44
+ansonsten Adv.此外;否则
+==
+45
+verantwortlich sein für (A) 对…负责
+==
+46
+die Arbeitserlaubnis, -se 工作许可证
+==
+47
+geeignet Adj. 合适的;适宜的
+==
+48
+jährlich Adj.每年的
+==
+49
+jährig Adj. …年的
+==
+50
+die Zeitdauer  持续时间
+==
+51
+der Zeittakt 时间频率
+==
+52
+die Sekunde, -n 秒
+==
+53
+die Minute, -n 分
+==
+54
+jeder (jede, jedes) Pron.每一个
+==
+55
+der Zins, -en 银行利息
+==
+56
+die Konferenz, -en 会议
+==
+57
+erscheinen (erscheint, erschien, ist erschienen) Vi. 出版
+
+Wieder ist ein Buch vom ihm erschienen.
+Another book by him has been published.
+==
+58
+der Kapitän, -e 船长
+==
+59
+der Bergarbeiter, - 矿工
+==
+60
+der Bäcker, - 面包师
+==
+61
+der Pudding, -e / -s 布丁
+==
+62
+die Kohle 煤炭
+==
+63
+schmutzig Adj.脏的
+==
+64
+schimpfen (schimpft, schimpfte, hat geschimpft) Vi.骂,咒骂
+
+Die Mutter schimpft ständig auf den Jungen.
+The mother constantly scolds the boy.
+==
+65
+der Akademiker, - 受过大学教育者
+==
+66
+der Absolvent, -en, -en 毕业生
+==
+67
+sich verdoppeln
+(verdoppelt sich, verdoppelte sich, hat sich verdoppelt) Vr. 加倍
+
+Die Zahl der Absolventen hat sich verdoppelt.
+The number of graduates has doubled.
+==
+68
+der Abiturient, -en, -en 高级中学毕业生
+==
+69
+die Garantie, -n 保障;保修
+==
+70
+der Arbeitslose, -n (wie Adj.) 失业者
+==
+71
+entsprechen (entspricht, entsprach, hat entsprochen) Vi. 符合，相符
+
+Das Studium entspricht der Entwicklung der Wissenschaft nicht mehr.
+Studies no longer correspond to the development of science.
+==
+72
+die Geisteswissenschaft, -en 人文科学
+==
+73
+literaturwissenschaftlich Adj. 文学研究的;文艺学的
+==
+74
+die Philosophie 哲学
+==
+75
+die Sozialwissenschaft, -en 社会科学
+==
+76
+die Soziologie 社会学
+==
+77
+die Psychologie 心理学
+==
+78
+die Pädagogik 教育学
+==
+79
+etc. = et cetera 等等
+==
+80
+die Naturwissenschaft, -en 自然科学
+==
+81
+sich spezialisieren auf (A) 专门从事于…
+==
+82
+bestimmt Adj.某个,某种
+==
+83
+das Gebiet, -e 领域
+==
+84
+möglicherweise  Adv.可能,也许
+==
+85
+konkret Adj.具体的
+==
+86
+der Magister, - 硕土
+==
+87
+befristet P.Il 有期限的
+==
+88
+der Vertrag, -.. e 合同;协定
+==
+89
+klar Adj. 明白的
+==
+90
+die Sicherheit, -en 保障
+==
+91
+pessimistisch Adj.悲观的
+==
+92
+die Generation, -en 世代;辈
+==
+93
+das Gegenteil, -e 相反
+==
+94
+der Hochseefischer, - 远洋渔业者
+==
+95
+die Büchse, -n (金属)小罐;小盒
+==
+96
+sich unterscheiden 不同于，区别于
+(unterscheidet sich, unterschied sich, hat sich unterschieden)
+
+Der Hochseefischer unterscheidet sich von dem normalen Fischer.
+The deep-sea fisherman differs from the normal fisherman.
+==
+97
+die Ostsee 波罗的海
+==
+98
+das Boot, -e 小船
+==
+99
+fangen (fängt, fing, hat gefangen) Vt.捕捉
+
+Die Fischer fangen am frühen Morgen Fische.
+The fishermen catch fish early in the morning.
+==
+100
+der Hafen, -.. 港口
+==
+101
+anlaufen (läuft an, lief an, hat angelaufen) Vt.驶向
+
+Das Schiff läuft einen großen Hafen an.
+The ship calls at a large port.
+==
+102
+egal Adj.无所谓的
+==
+103
+der Wind, -e 风
+==
+104
+der Ozean, -e 海洋
+==
+105
+verarbeiten (verarbeitet, verarbeitete, hat verarbeitet) Vt. 加工
+
+Der Tischler hat Holz zu einem Bücherregal verarbeitet.
+The carpenter processed wood into a bookshelf.
+==
+106
+die Besatzung, -en 这里指：驻船人员
+==
+107
+jobben (jobbt, jobbte, hat gejobbt) Vi.打工,打杂
+
+Viele Studenten jobben in den Ferien.
+==
+108
+der Studentenservice 大学生服务社
+==
+109
+vermitteln (vermittelt, vermittelte, hat vermittelt) Vt. 介绍,中介
+
+Der Studentservice vermittelt Ferienjobs.
+The student service arranges holiday jobs.
+==
+110
+annehmen (nimmt an, nahm an, hat angenommen) Vt. 接受
+
+Den Ferienjob will ich nicht annehmen.
+I don't want to take the summer job.
+==
+111
+ablehnen (lehnt ab, lehnte ab, hat abgelehnt) Vt.拒绝
+
+Ich will den Ferienjob ablehnen.
+I want to turn down the summer job.
+==
+112
+erwerben (erwirbt, erwarb, hat erworben) Vt.获得;赢得
+
+Er hat durch einen Deutschkurs gute Sprachkenntnisse erworben.
+He has acquired good language skills through a German course.
+
