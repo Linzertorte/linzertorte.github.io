@@ -1,0 +1,252 @@
+1
+das Konto, ... ten 账号;账户
+==
+2
+das Sparkonto, . .. ten 储蓄账户
+==
+3
+das Girokonto, ... ten 汇划账户,转账账户
+==
+4
+das Sparbuch, -..er 储蓄存折
+==
+5
+die ec-Karte, -n 磁卡
+==
+6
+die Kreditkarte, -n 信用卡
+==
+7
+die Überweisung, -en 汇,汇兑
+==
+8
+der Dauerauftrag, -..e 长期划付委托
+==
+9
+der Kontoauszug, -..e (自动机)银行结账单
+==
+10
+kündigen (kündigt, kündigte, hat gekündigt) Vt. 注销(账号）
+
+Wie kann man das Konto kündigen?
+How to cancel the account?
+==
+11
+überziehen (überzieht, überzog, hat überzogen) Vt. 透支
+
+Man darf das Konto überziehen.
+You can overdraw the account.
+==
+12
+abheben (hebt ab, hob ab, hat abgehoben) Vt. 取款
+==
+13
+überweisen (überweist, überwies, hat überwiesen) Vt.汇款:汇划
+==
+14
+einzahlen (zahlt ein, zahlte ein, hat eingezahlt) Vt.存款
+
+Auf der Bank kann man Geld abheben, überweisen und einzahlen.
+You can withdraw, transfer and deposit money at the bank.
+==
+15
+auszahlen (zahlt aus, zahlte aus, hat ausgezahlt) Vt. 付给(某人)应得的款项
+
+Der Bankangestellte hat mir zu viel Geld ausgezahlt.
+The bank clerk paid me too much money.
+==
+16
+die Sparkasse, -n 储蓄银行
+==
+17
+der Stipendiat, -en, -en 拿奖学金者
+==
+18
+bargeldlos Adj. 非现金的
+==
+19
+Geld fälschen 造伪币，制假币
+==
+20
+eine Bank überfallen 袭击银行
+==
+21
+einstellen (stellt ein, stellte ein, hat eingestellt) Vt.雇用
+
+Die Deutsche Bank in Shanghai hat einige Chinesen eingestellt.
+Deutsche Bank in Shanghai has hired some Chinese.
+==
+22
+aufstellen (stellt auf, stellte auf, hat aufgestellt) Vt.安置
+
+Man hat in der Uni einige Getränkeautomaten aufgestellt.
+Some vending machines have been set up in the university.
+==
+23
+die Grundlage, -n 前提;基础
+==
+24
+der Lohn, -..e 工资
+==
+25
+grundsätzlich Adj. 基本上;原则上
+==
+26
+der Inhaber, - 持有者
+==
+27
+beantragen (beantragt, beantragte, hat beantragt) Vt. 申请
+==
+28
+benötigen (benötigt, benötigte, hat benötigt) Vt.需要
+
+Wenn man eine Zulassung zum Studium in Deutschland beantragen möchte, benötigt man ausreichende deutsche Sprachkenntnisse.
+If you want to apply for admission to study in Germany, you need sufficient German language skills.
+==
+29
+die Geheimzahl, -en 密码
+==
+30
+eintippen (tippt ein, tippte ein, hat eingetippt) Vt. (键盘)输人
+
+Wenn man diesen Computer bedienen möchte, muss man das Passwort eintippen.
+If you want to operate this computer, you have to type in the password.
+==
+31
+der Kontostand, -..e 账面情况
+==
+32
+die Abwicklung, -en 进行,进展
+==
+33
+der Zahlungsverkehr 支付往来
+==
+34
+das Startkapital 开户资金
+==
+35
+das Prozent, -e 百分比
+==
+36
+bestimmt Adj.一定的
+==
+37
+der Geldbetrag, -..e 金额
+==
+38
+gültig Adj.有效的
+==
+39
+ausziehen (zieht aus, zog aus, ist ausgezogen) Vi.迁出，搬出
+
+Wang Dali ist gestern aus dem Studentenwohnheim ausgezogen.
+Wang Dali moved out of the dormitory yesterday.
+==
+40
+einreisen (reist ein, reiste ein, ist eingereist) Vi.人境
+==
+41
+ausreisen (reist aus, reiste aus, ist ausgereist) Vi. 出境
+
+Seit der Öffnungspolitik reisen immer mehr Leute ein und aus.
+Since the opening policy, more and more people are traveling in and out.
+==
+42
+der Opiumkrieg 鸦片战争
+==
+43
+trennen (trennt, trennte, hat getrennt) Vt.分离
+
+Unsere politischen Ansichten trennen uns.
+Our political views separate us.
+==
+44
+aufteilen (teilt auf, teilte auf, hat aufgeteilt) Vt.分割
+
+Shanghai war 107 Jahre lang aufgeteilt.
+Shanghai was divided for 107 years.
+==
+45
+teilen (teilt, teilte, hat geteilt) Vt. 分开,瓜分
+
+Der Krieg hat Deutschland geteilt.
+The war divided Germany.
+==
+46
+die Soll-Zinsen Pl.透支利率
+==
+47
+überziehen (überzieht, überzog, hat überzogen) Vt.透支
+
+Sie haben Ihr Konto um 203 Euro überzogen.
+You have overdrawn your account by 203 euros.
+==
+48
+sich verrechnen (verrechnet sich, verrechnete sich, hat sich verrechnet) Vr.算错了
+
+Sie haben sich verrechnet.
+You miscalculated.
+==
+49
+die Einzugsermächtigung, -en  收款授权
+==
+50
+das Umbuchen 把…过账,把…转入另账
+==
+51
+jm. einen Auftrag erteilen 委托某人做某事
+==
+52
+die Abrechnung, -en 结账
+==
+53
+der Finanzierungsnachweis, -e 资助证明
+==
+54
+benötigen (benötigt, benötigte, hat benötigt) Vt.需要
+
+Wenn man in ein fremdes Land einreisen möchte, benötigt man normalerweise ein Visum.
+If you want to enter a foreign country, you usually need a visa.
+==
+55
+die Einreise 入境
+==
+56
+gültig Adj. 有效地
+==
+57
+erteilen (erteilt, erteilte, hat erteilt) Vt.给予
+
+Wissen Sie , welche Abteilung das Visum erteilt?
+Do you know which department issues the visa?
+==
+58
+die Verpflichtungserklärung 担保声明
+==
+59
+garantieren (garantiert, garantierte, hat garantiert) Vt.保证
+
+Die Eltern können für ihre Kinder die Studienfinanzierung garantieren.
+Parents can guarantee the financing of their children's studies.
+==
+60
+sichern (sichert, sicherte, hat gesichert) Vt.确认,确保
+
+Wissen Sie , wodurch der Lebensunterhalt in Deutschland gesichert werden kann?
+Do you know how to secure a living in Germany?
+==
+61
+das Sperrkonto 限额提款账号
+==
+62
+sperren (sperrt, sperrte, hat gesperrt)Vt. 冻结，封锁
+
+Leider können Sie kein Geld mehr von Ihrem Konto abheben, denn es ist gesperrt.
+Unfortunately you can no longer withdraw money from your account because it is blocked.
+==
+63
+die Verfügung 支配，便用
+==
+64
+die Voraussetzung, -en 前提，先决条件
+
