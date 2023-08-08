@@ -1,0 +1,279 @@
+1
+das Massenmedium, …dien 大众传媒
+==
+2
+der Rundfunk 广播
+==
+3
+die Presse 报刊
+==
+4
+das Internet 互联网
+==
+5
+die Tageszeitung, -en 日报
+==
+6
+die Lokalzeitung, -en 地方报纸
+==
+7
+der Reporter, - 记者;通讯员
+==
+8
+die Nachricht, -en 新闻;消息
+==
+9
+anschalten (schaltet an, schaltete an, hat angeschaltet) Vt. 打开(电源)
+
+Jeden Tag schaltet er das Radio an und hört Nachrichten.
+Every day he turns on the radio and listens to the news.
+==
+10
+ausschalten (schaltet aus, schaltete aus, hat ausgeschaltet) Vt.关掉(电源）
+
+Bevor sie das Zimmer verlässt, schaltet sie das Licht aus.
+Before leaving the room, she turns off the light.
+==
+11
+abbestellen (bestellt ab, bestellte ab, hat abbestellt) Vt. 取消(预订的东西)
+
+Die Frau möchte die Zeitschrift abbestellen.
+The woman wants to unsubscribe from the magazine.
+==
+12
+senden (sendet, sendete, hat gesendet) Vt.播送;传送
+
+Morgens werden neue Nachrichten an der Uni gesendet.
+New messages are sent at the university in the morning.
+==
+13
+kommentieren (kommentiert, kommentierte, hat kommentiert) Vt.评论
+
+Wer hat diesen Bericht kommentiert?
+Who commented on this report?
+==
+14
+veröffentlichen Vt.发行,出版;发表
+(veröffentlicht, veröffentlichte, hat veröffentlicht)
+
+Das Buch wird im nächsten Monat veröffentlicht.
+The book will be published next month.
+==
+15
+surfen in (D) 网上漫游
+
+Man kann im Internet surfen.
+You can surf the internet.
+==
+16
+die Wettervorhersage, -n 天气预报
+==
+17
+der Gedanke, -ns, -n 思想;想法
+==
+18
+exakt Adj.精确的
+==
+19
+die Formulierung, -en 遣词,造句，表达
+==
+20
+stolz. Adj.自豪的，骄傲的
+==
+21
+beeinflussen (beeinflusst, beeinflusste, hat beeinflusst) Vt.影响
+
+Die Gedanken der Eltern beeinflussen die Kinder.
+Parents' thoughts influence children.
+==
+22
+wahrheitsgemäß Adj.合乎事实，真实的
+==
+23
+Hinzu kommt, dass… 此外...
+==
+24
+scheinen (scheint, schien, hat geschienen) Vi.看来;照射
+
+Es scheint heute zu regnen.
+It seems to be raining today.
+
+Die Sonne scheint.
+The sun is shining.
+==
+25
+mitnehmen (nimmt mit, nahm mit, hat mitgenommen) Vt.带上
+
+Nimm bitte den Regenschirm mit!
+Please take the umbrella with you!
+==
+26
+die Mannschaft, -en (运动)队
+==
+27
+die Weltmeisterschaft, -en 世界冠军赛
+==
+28
+das Lotto, -s 乐透,六合彩
+==
+29
+perfekt Adj.完美的
+==
+30
+glücklich Adj.幸福的，快乐的
+==
+31
+das Schloss, -..er 锁
+==
+32
+verdorben P. II 变质的,腐烂的
+==
+33
+die Walnuss, -..e 核桃
+==
+34
+die Vorbeugung, -en 预防
+==
+35
+der Terrorismus 恐怖主义(行为）
+==
+36
+der Stromausfall 停电，断电
+==
+37
+der Lift, -e 电梯
+==
+38
+die Auswahl 选择,挑选
+==
+39
+das Exemplar, -e 样本;份
+==
+40
+aktuell Adj.现实的;当前的
+==
+41
+die Analyse, -n 分析
+==
+42
+die Reportage, -n 通讯;新闻报道
+==
+43
+einschließlich (G) Präp. 包括，包含的
+==
+44
+die Rundfunkanstalt, -en 无线电广播电台
+==
+45
+zulassen (lässt zu, ließ zu, hat zugelassen) Vt.允许,准许
+
+Die Mutter wird nie zulassen, dass ihre Tochter alleine verreist.
+The mother will never allow her daughter to travel alone.
+==
+46
+hauptsächlich Adj.主要的；根本的
+==
+47
+gering Adj.微小;微不足道的
+==
+48
+ausschließlich Adv.仅仅，只是
+==
+49
+die Dokumentation, -en 文献资料的汇编
+==
+50
+ausstrahlen (strahlt aus, strahlte aus, hat ausgestrahlt) Vt.播送;发送
+
+Das Fußballspiel wird heute ausgestrahlt.
+The football game will be broadcast today.
+==
+51
+regional Adj.地区性;区域性的
+==
+52
+gesamt Adj.总的
+==
+53
+zunächst Adv. 首先
+==
+54
+die Softwareentwicklung, -en 软件开发
+==
+55
+menschlich Adj.人的;有人性的
+==
+56
+die Eigenschaft, -en 特征;性质
+==
+57
+ersetzen (ersetzt, ersetzte, hat ersetzt) Vt. 代替，替代
+
+Diese körperliche Arbeit kann vom Computer ersetzt werden.
+This physical work can be replaced by the computer.
+==
+58
+weltweit Adj. 世界范围的
+==
+59
+das Datennetz, -e 数据网
+==
+60
+der Schnelldienst, -e 快速服务
+==
+61
+der Optimist, -en, -en 乐观者
+==
+62
+der Unfall -..e 车祸
+==
+63
+passieren (passiert, passierte, ist passiert) 发生
+
+In Zukunft werden weniger Unfälle passieren.
+In the future, fewer accidents will happen.
+==
+64
+der Pessimist, -en, -en 悲观者
+==
+65
+das Zeitalter, - 时期;年代
+==
+66
+die Zeitungsdichte 这里指:(每千人中的)报纸拥有量
+==
+67
+ausführlich Adj.详细的，详尽的
+==
+68
+die Region, -en 地方;地区
+==
+69
+die Auflage, -n 印数
+==
+70
+der Einfluss, -..e 影响
+==
+71
+begrenzt P.Il 受限制的
+==
+72
+überregional Adj.跨区域的;跨地方的
+==
+73
+die Führungsschicht, -en 领导阶层
+==
+74
+der Intellektuelle, -n (wie Adj). 知识分子
+==
+75
+die Boulevard-Zeitung, -en (以发在轰动性消息为特点的)马路小报
+==
+76
+der Mord, -e 谋杀
+==
+77
+das Kriegsspiel, -e 战争游戏
+==
+78
+im Unterschied zu(D) 与...不同
