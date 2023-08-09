@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-CNT =  27
+CNT =  28
 HEAD = '''<html>
    <head>
       <title>German Vocabulary</title>
