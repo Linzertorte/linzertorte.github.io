@@ -1,0 +1,43 @@
+a, a:hover, a:visited, a:active {
+	color: blue;
+}
+
+a.current {
+	color: black;
+	font-weight: bold;
+}
+
+span.type-translation {
+	color: blue;
+}
+
+#words {
+	padding-top: 5%;
+	padding-left: 10%;
+	float: left;
+	width: 20%;
+	line-height: 1.3;
+}
+
+#entry {
+	padding-top: 5%;
+	padding-bottom: 5%;
+	width: 70%;
+	float: right;
+}
+
+.grammarBox {
+	display: none;
+}
+
+.title_frequency_container {
+	display: none;
+}
+/*
+div.benedict {
+	display: none;
+}
+*/
+div.cB-w {
+	display: none;
+}
