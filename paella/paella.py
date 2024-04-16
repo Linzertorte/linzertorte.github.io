@@ -24,17 +24,7 @@ tail = '''
   <div id="entry">
   </div>
 </body>
-<script>
-  $("a").on("click", function(e) {
-      e.preventDefault();
-      $("a").removeClass("current");
-      $(this).addClass("current");
-      $.get($(this).attr("href"),function(data,s) {
-        var h = $(data).find("div.dictionary").find("div.cB-def").html();
-        $("#entry").html(h);
-      });
-  });
-</script>
+<script src="script.js"></script>
 </html>
 '''
 col = "https://www.collinsdictionary.com/us/dictionary/spanish-english/"
