@@ -44,21 +44,21 @@ $("#btn").on("click", function (e) {
     while (i>=0 && words[i]=='-'){
         i-=1;
     }
-    var html = "<img style=\"width:50%\" src=\"521847b4-fed0-4c33-932b-6552e94ac54d-"+zeroPad(i,4)+".png\">"
     cur_page = i;
+    var html = "<img style=\"width:50%\" src=\"larousse-"+zeroPad(cur_page + 1512,4)+".png\">"
     $("#page").html(html)
 });
 $("#prev").on("click", function (e) {
     if(cur_page > 0) {
         cur_page -= 1;
-        var html = "<img style=\"width:50%\" src=\"521847b4-fed0-4c33-932b-6552e94ac54d-"+zeroPad(cur_page,4)+".png\">"
+        var html = "<img style=\"width:50%\" src=\"larousse-"+zeroPad(cur_page + 1512,4)+".png\">"
         $("#page").html(html)
     }
 });
 $("#next").on("click", function (e) {
     if(cur_page < words.length - 1){
         cur_page += 1;
-        var html = "<img style=\"width:50%\" src=\"521847b4-fed0-4c33-932b-6552e94ac54d-"+zeroPad(cur_page,4)+".png\">"
+        var html = "<img style=\"width:50%\" src=\"larousse-"+zeroPad(cur_page + 1512,4)+".png\">"
         $("#page").html(html)
     }
 });
