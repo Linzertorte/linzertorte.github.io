@@ -142,20 +142,20 @@ $("#btn").on("click", function (e) {
         i-=1;
     }
     cur_page = i;
-    var html = "<img style=\"width:50%\" src=\"larousse-"+zeroPad(cur_page + 1,4)+".png\">"
+    var html = "<img src=\"larousse-"+zeroPad(cur_page + 1,4)+".png\">"
     $("#page").html(html)
 });
 $("#prev").on("click", function (e) {
     if(cur_page > 0) {
         cur_page -= 1;
-        var html = "<img style=\"width:50%\" src=\"larousse-"+zeroPad(cur_page + 1,4)+".png\">"
+        var html = "<img src=\"larousse-"+zeroPad(cur_page + 1,4)+".png\">"
         $("#page").html(html)
     }
 });
 $("#next").on("click", function (e) {
     if(cur_page < words.length - 1){
         cur_page += 1;
-        var html = "<img style=\"width:50%\" src=\"larousse-"+zeroPad(cur_page + 1,4)+".png\">"
+        var html = "<img src=\"larousse-"+zeroPad(cur_page + 1,4)+".png\">"
         $("#page").html(html)
     }
 });
