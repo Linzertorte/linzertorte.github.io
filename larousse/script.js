@@ -3,6 +3,24 @@ const zeroPad = (num, places) => String(num).padStart(places, '0')
 var cur_page = 0;
 $("#btn").on("click", function (e) {
     var word =  document.getElementById("word").value;
+    word = word.replaceAll("é","e");
+
+    word = word.replaceAll("à","a");
+    word = word.replaceAll("è","e");
+    word = word.replaceAll("ù","u");
+    word = word.replaceAll("ç","c");
+
+    word = word.replaceAll("â","a");
+    word = word.replaceAll("ê","e");
+    word = word.replaceAll("î","i");
+    word = word.replaceAll("ô","o");
+    word = word.replaceAll("û","u");
+
+    word = word.replaceAll("ë","e");
+    word = word.replaceAll("ï","i");
+    word = word.replaceAll("ü","u");
+
+    word = word.replaceAll("’","'");
     var i = 0;
     while(words.length && (words[i]=='-' || words[i]<=word)) {
         i+=1;
@@ -11,7 +29,6 @@ $("#btn").on("click", function (e) {
     while (i>=0 && words[i]=='-'){
         i-=1;
     }
-    console.log(i)
     var html = "<img style=\"width:50%\" src=\"521847b4-fed0-4c33-932b-6552e94ac54d-"+zeroPad(i,4)+".png\">"
     cur_page = i;
     $("#page").html(html)
