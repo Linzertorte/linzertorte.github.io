@@ -17,7 +17,10 @@ function clean_word(word) {
     word = word.replaceAll("ï","i");
     word = word.replaceAll("ü","u");
 
+    word = word.replaceAll("œ","oe");
+
     word = word.replaceAll("’","'");
+    word = word.replaceAll(".","");
     word = word.toLowerCase();
     return word;
 }
@@ -351,7 +354,7 @@ var words = [
     "combien",
     "comblement",
     "commande",
-    "commedia dell'arte",
+    "commedia dell’arte",
     "commentaire",
     "commis",
     "communal",
