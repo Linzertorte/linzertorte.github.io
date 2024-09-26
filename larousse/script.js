@@ -23,6 +23,7 @@ function clean_word(word) {
     word = word.replaceAll("'","");
     word = word.replaceAll(".","");
     word = word.replaceAll("-","");
+    word = word.replaceAll("!","");
     word = word.replaceAll(" ","");
     word = word.toLowerCase();
 
@@ -1088,7 +1089,42 @@ var words = [
     "nouvelliste",
     "nuageux",
     "nullard",
-    "numismate",                        
+    "numismate",
+    "o",
+    "objection",
+    "obligeamment",
+    "Obscurantisme",
+    "observatoire",
+    "obstructionniste",
+    "occasionnel",
+    "occurrence",
+    "odalisque",
+    "œil-de-bœuf",
+    "off",
+    "officieusement",
+    "oh!",
+    "oléiculteur",
+    "ombré",
+    "onctuosité",
+    "onzièmement",
+    "opérer",
+    "opposant",
+    "oppositionnel",
+    "opulence",
+    "orateur",
+    "ordonnance",
+    "ordure",
+    "organigramme",
+    "orgueil",
+    "original",
+    "ornithologie",
+    "oscillation",
+    "ôter",
+    "oublier",
+    "ouï-dire",
+    "outrageant",
+    "ouvrable",
+    "ouvroir",                            
 ]
 const zeroPad = (num, places) => String(num).padStart(places, '0')
 var cur_page = 0;
