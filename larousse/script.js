@@ -1627,7 +1627,12 @@ var words = [
     "trublion",
     "tubercule",
     "tunisien",
-    "tympan", 
+    "tympan",
+    "u",
+    "uniformément",
+    "universalité",
+    "usagé",
+    "usurier",     
 ]
 const zeroPad = (num, places) => String(num).padStart(places, '0')
 var cur_page = 0;
