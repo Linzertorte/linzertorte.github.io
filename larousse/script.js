@@ -23,6 +23,9 @@ function clean_word(word) {
     word = word.replaceAll(".","");
     word = word.replaceAll("-","");
     word = word.toLowerCase();
+
+    word = word.replace(/^\s+|\s+$/g,'')
+    word = word.replace(/^s'|^se /g,'')
     return word;
 }
 
@@ -807,7 +810,36 @@ var words = [
     "grume",
     "guérite",
     "gueux",
-    "guimbarde",    
+    "guimbarde",
+    "h",
+    "habit",
+    "hâbleur",
+    "haler",
+    "handicapé",
+    "hardiesse",
+    "harpie",
+    "haubert",
+    "haut-commissariat",
+    "hébreu",
+    "hémisphérique",
+    "héréditairement",
+    "héroïquement",
+    "heure",
+    "heurté",
+    "hiérarchique",
+    "historicité",
+    "hollandais",
+    "homogénéisation",
+    "honnir",
+    "honteusement",
+    "horrible",
+    "hospitaliser",
+    "houspiller",
+    "hululement",
+    "humide",
+    "hurrah",
+    "hyperbole",
+    "hypotendu",        
 ]
 const zeroPad = (num, places) => String(num).padStart(places, '0')
 var cur_page = 0;
