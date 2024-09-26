@@ -24,11 +24,13 @@ function clean_word(word) {
     word = word.replaceAll(".","");
     word = word.replaceAll("-","");
     word = word.replaceAll("!","");
-    word = word.replaceAll(" ","");
+    
     word = word.toLowerCase();
 
     word = word.replace(/^\s+|\s+$/g,'')
     word = word.replace(/^s'|^se /g,'')
+
+    word = word.replaceAll(" ","");
     return word;
 }
 
