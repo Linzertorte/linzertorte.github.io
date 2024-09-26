@@ -20,8 +20,10 @@ function clean_word(word) {
     word = word.replaceAll("œ","oe");
 
     word = word.replaceAll("’","'");
+    word = word.replaceAll("'","");
     word = word.replaceAll(".","");
     word = word.replaceAll("-","");
+    word = word.replaceAll(" ","");
     word = word.toLowerCase();
 
     word = word.replace(/^\s+|\s+$/g,'')
