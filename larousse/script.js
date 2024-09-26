@@ -1293,7 +1293,19 @@ var words = [
     "puisard",
     "pulluler",
     "pupitreur",
-    "puritain",                        
+    "puritain",
+    "q",
+    "qualitatif",
+    "quantième",
+    "quartier-maître",
+    "québécois",
+    "quelconque",
+    "quelque...que",
+    "question",
+    "queue-de-cheval",
+    "quignon",
+    "quitter",
+    "quorum",                            
 ]
 const zeroPad = (num, places) => String(num).padStart(places, '0')
 var cur_page = 0;
