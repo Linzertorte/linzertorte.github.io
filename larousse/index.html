@@ -11,6 +11,9 @@
     img {
         width:100%;
     }
+    #page_num{
+            display: none;
+    }
     @media only screen and (max-width: 768px) {
         body {
             padding-left:8px;
@@ -19,6 +22,9 @@
         }
         img {
             width:100%;
+        }
+        #page_num{
+            display: inline;
         }
     }
     @media only screen and (min-device-width: 768px) and (max-device-width: 1024px) {
@@ -39,6 +45,7 @@
 <div>
 <button type="button" id="prev">Prev</button>
 <button type="button" id="next">Next</button>
+<span id="page_num"></span>
 </div>
 <div id="page"></div>
 </body>

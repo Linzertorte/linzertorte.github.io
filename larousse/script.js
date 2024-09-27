@@ -1,3 +1,4 @@
+var cur_page = 0;
 function clean_word(word) {
     word = word.replaceAll("é","e");
 
@@ -1693,7 +1694,12 @@ var words = [
     "zona",         
 ]
 const zeroPad = (num, places) => String(num).padStart(places, '0')
-var cur_page = 0;
+
+var pic_prefix = "larousse-";
+if(!$("#page_num").is(":hidden")) {
+    pic_prefix = "m-larousse-";
+}
+
 $("#btn").on("click", function (e) {
     var word =  document.getElementById("word").value;
     word = clean_word(word);
@@ -1710,20 +1716,24 @@ $("#btn").on("click", function (e) {
         i-=1;
     }
     cur_page = i;
-    var html = "<img src=\"larousse-"+zeroPad(cur_page + 1,4)+".png\">"
+    var html = "<img src=\""+pic_prefix+zeroPad(cur_page + 1,4)+".png\">"
     $("#page").html(html)
+    $("#page_num").text(cur_page + 1);
 });
 $("#prev").on("click", function (e) {
     if(cur_page > 0) {
         cur_page -= 1;
-        var html = "<img src=\"larousse-"+zeroPad(cur_page + 1,4)+".png\">"
+        var html = "<img src=\""+pic_prefix+zeroPad(cur_page + 1,4)+".png\">"
         $("#page").html(html)
+        $("#page_num").text(cur_page + 1);
     }
 });
 $("#next").on("click", function (e) {
     if(cur_page < words.length - 1){
         cur_page += 1;
-        var html = "<img src=\"larousse-"+zeroPad(cur_page + 1,4)+".png\">"
+        var html = "<img src=\""+pic_prefix+zeroPad(cur_page + 1,4)+".png\">"
         $("#page").html(html)
+        $("#page_num").text(cur_page + 1);
     }
 });
+
