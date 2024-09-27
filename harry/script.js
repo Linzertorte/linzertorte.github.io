@@ -104,7 +104,7 @@ var words = [
     "alentour",
     "aliénant",
     "aliter",
-    "-",
+    "$",
     "allergie",
     "allonger",
     "allusion",
@@ -709,7 +709,7 @@ var words = [
     "fada",
     "faiblement",
     "faire",
-    "-",
+    "$",
     "faire-part",
     "faiseur",
     "fallacieusement",
@@ -813,7 +813,7 @@ var words = [
     "gouvernante",
     "gracier",
     "graine",
-    "-",
+    "$",
     "grand-angle",
     "grand-rue",
     "grassement",
@@ -1054,7 +1054,7 @@ var words = [
     "mobilité",
     "modération",
     "modiste",
-    "-",
+    "$",
     "moire",
     "molette",
     "momie",
@@ -1170,7 +1170,7 @@ var words = [
     "pascal",
     "passable",
     "passé",
-    "-",
+    "$",
     "passereau",
     "passivement",
     "pâte",
@@ -1237,7 +1237,7 @@ var words = [
     "plus-value",
     "podium",
     "poignant",
-    "-",
+    "$",
     "pointage",
     "point-virgule",
     "polaire",
@@ -1256,7 +1256,7 @@ var words = [
     "postposition",
     "potentialité",
     "pouffer",
-    "-",
+    "$",
     "pourboire",
     "pourrissement",
     "pousse",
@@ -1268,7 +1268,7 @@ var words = [
     "préfabriqué",
     "préjudiciable",
     "première",
-    "-",
+    "$",
     "preneur",
     "préparatifs",
     "présage",
@@ -1513,7 +1513,7 @@ var words = [
     "sonar",
     "sonnerie",
     "sort",
-    "-",
+    "$",
     "S.O.S",
     "soudage",
     "soufflerie",
@@ -1578,7 +1578,7 @@ var words = [
     "tenable",
     "tenace",
     "tendrement",
-    "-",
+    "$",
     "tennis",
     "tente",
     "terminaison",
@@ -1594,12 +1594,12 @@ var words = [
     "tien",
     "timbre-poste",
     "tiraillement",
-    "-",
+    "$",
     "tiret",
     "titillation",
     "toc",
     "tôlée",
-    "-",
+    "$",
     "tombereau",
     "tondu",
     "tonsuré",
@@ -1610,9 +1610,9 @@ var words = [
     "touiller",
     "tourbe",
     "tourmentant",
-    "-",
+    "$",
     "tournesol",
-    "-",
+    "$",
     "tout-à-l'égout",
     "toxicomanie",
     "traditionalisme",
@@ -1709,6 +1709,7 @@ var words = [
 var pic_url = "https://linzertorte.github.io/larousse/larousse-"
 const zeroPad = (num, places) => String(num).padStart(places, '0')
 var cur_page = 0;
+var cur_page = 0;
 $("#btn").on("click", function (e) {
     var word =  document.getElementById("word").value;
     word = clean_word(word);
@@ -1717,11 +1718,11 @@ $("#btn").on("click", function (e) {
         words[i] = clean_word(words[i]);
     }
     i = 0
-    while(words.length && (words[i]=='-' || words[i]<=word)) {
+    while(words.length && (words[i]=='$' || words[i]<=word)) {
         i+=1;
     }
     if(i>0) i-=1;
-    while (i>=0 && words[i]=='-'){
+    while (i>=0 && words[i]=='$'){
         i-=1;
     }
     cur_page = i;
