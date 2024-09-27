@@ -36,7 +36,7 @@ def pic_concat(pics, out_name):
         new_im.paste(im, (max_width-im.size[0],y_offset))
         y_offset += im.size[1]
     new_im = add_margin(new_im)
-    #new_im.show()
+    new_im.show()
     new_im.save(out_name)
 
 def odd_pic(p_name):
@@ -44,8 +44,12 @@ def odd_pic(p_name):
     w,h = im.size 
     top = 60
     right = 53
-    m = (w-right)/2 + w/70
-    
+    top = 68
+    right = 53
+
+    m = (w-right)/2 + w/70 + 10
+    m = (w-right)/2 + w/70 + 14
+
     print(im.size)
     
     im1 = im.crop((0,top,m,h))
@@ -56,9 +60,13 @@ def even_pic(p_name):
     im = Image.open(p_name)
     w,h = im.size 
     top = 60
+    top = 66
+
     left = 55
-    m = (w-left) / 2 + left - w/70
+    left = 69
     
+    m = (w-left) / 2 + left - w/70
+    m = (w-left) / 2 + left - w/70 - 15
     print(im.size)
     
     im1 = im.crop((left,top,m,h))
@@ -73,4 +81,4 @@ def cut(i):
     else:
         even_pic(p_name)
 
-#add_margin(trim(Image.open("L.png"))).show()
+cut(99)
