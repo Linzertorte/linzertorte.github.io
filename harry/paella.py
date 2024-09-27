@@ -21,8 +21,11 @@ s = '''
 '''
 tail = '''
     </ul>
+    <br>
+    <br>
   </div>
   <div id="entry">
+    <span style="font-size:30px;cursor:pointer" id="hamburger">&#9776;</span>
     <h1>Larousse</h1>
     <input type="text" id="word" name="word"><button type="button" id="btn">Search</button>
     <div>
