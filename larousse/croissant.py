@@ -65,7 +65,7 @@ def even_pic(p_name):
     im2 = im.crop((m,top,w,h))
     pic_concat([im1,im2],"m-"+p_name)
 #1657
-for i in range(1,1):
+def cut(i):
     p_name = "larousse-%04d.png"%i
     print(i)
     if i % 2 == 1:
