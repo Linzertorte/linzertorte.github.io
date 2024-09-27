@@ -1709,7 +1709,6 @@ var words = [
 var pic_url = "https://linzertorte.github.io/larousse/larousse-"
 const zeroPad = (num, places) => String(num).padStart(places, '0')
 var cur_page = 0;
-var cur_page = 0;
 $("#btn").on("click", function (e) {
     var word =  document.getElementById("word").value;
     word = clean_word(word);
