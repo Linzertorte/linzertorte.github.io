@@ -36,30 +36,32 @@ def pic_concat(pics, out_name):
         new_im.paste(im, (max_width-im.size[0],y_offset))
         y_offset += im.size[1]
     new_im = add_margin(new_im)
-    #new_im.show()
+    new_im.show()
     new_im.save(out_name)
 
 def odd_pic(p_name):
     im = Image.open(p_name)
     im = trim(im)
+    #im.show()
     w,h = im.size 
-    top = 5
+    top = 10
     while True:
         t = im.crop((0,top,w,h))
         print(t.size)
-        if t.size[1] - trim(t).size[1] > 5:
+        if t.size[1] - trim(t).size[1] > 4:
             break
         top += 1
     print(top)
-
-    right = 30
+    right = 10
     while True:
+        break
         t = im.crop((0,top,w-right,h))
         if t.size[0]-trim(t).size[0] > 5:
             break
         right += 1
-    print(right)
-    
+    print("right",right)
+    right = 62
+    #im.show()
     im = im.crop((0,top,w-right,h))
     w,h = im.size
     m = w/2 + 20
@@ -81,7 +83,7 @@ def even_pic(p_name):
     im = Image.open(p_name)
     im = trim(im)
     w,h = im.size 
-    top = 5
+    top = 30
     while True:
         t = im.crop((0,top,w,h))
         if t.size[1] - trim(t).size[1] > 5:
@@ -111,8 +113,8 @@ def even_pic(p_name):
     
     im1 = im.crop((0,0,m,h))
     im2 = im.crop((m,0,w,h))
-    #pic_concat([im1,im2],"m-"+p_name)
-#1657
+    pic_concat([im1,im2],"m-"+p_name)
+
 def cut(i):
     p_name = "larousse-%04d.png"%i
     print("id=%d"%i)
@@ -121,12 +123,24 @@ def cut(i):
     else:
         even_pic(p_name)
 
-for i in range(10000,1657,2):
-    if i in [68,470,740,846,892,1362]:
-        continue
-    cut(i)
+for i in [68,470,740,846,892,1362]:
+    pass
+    #cut(i)
 
-for i in range(1655,1657,2):
-    if i in [167,263,327,385,617,757,845,861,1261,1431,1447,1459,1479,1507,1527,1531,1535,1575,1591,1625,1629,1639,1655]:
-        continue
-    cut(i)  
+for i in [1261,1431,1447,1459,1479,1507,1527,1531,1535,1575,1591,1625,1629,1639,1655]:
+    break
+    cut(i)
+#cut(1431)
+#cut(1447)
+#cut(1459)
+#cut(1479)
+#cut(1507)
+#cut(1527)
+#cut(1531)
+#cut(1535)
+#cut(1575)
+#cut(1591)
+#cut(1625)
+#cut(1629)
+#cut(1639)
+cut(1655)
