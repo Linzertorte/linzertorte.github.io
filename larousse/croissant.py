@@ -43,10 +43,10 @@ def odd_pic(p_name):
     im = Image.open(p_name)
     w,h = im.size 
     top = 60
-    top = 66
+    top = 77
 
     right = 53
-    right = 55
+    right = 66
 
     m = (w-right)/2 + w/70 + 10
     #m = (w-right)/2 + w/70 + 14
@@ -61,10 +61,10 @@ def even_pic(p_name):
     im = Image.open(p_name)
     w,h = im.size 
     top = 60
-    #top = 66
+    #top = 68
 
     left = 55
-    left = 60
+    left = 75
     
     m = (w-left) / 2 + left - w/70
     #m = (w-left) / 2 + left - w/70 - 8
@@ -82,4 +82,4 @@ def cut(i):
     else:
         even_pic(p_name)
 
-cut(199)
+cut(220)
