@@ -46,6 +46,7 @@ def odd_pic(p_name):
     top = 5
     while True:
         t = im.crop((0,top,w,h))
+        print(t.size)
         if t.size[1] - trim(t).size[1] > 5:
             break
         top += 1
@@ -60,20 +61,14 @@ def odd_pic(p_name):
     print(right)
     
     im = im.crop((0,top,w-right,h))
-    im.show()
     w,h = im.size
-    #im.show()
-    m = w/2 - 30
+    m = w/2 + 20
 
     while True:
-        print(m,w)
-        t = im.crop((m,0,w,h))
-        t.show()
-        trim(t).show()
-        print(t.size,trim(t).size)
-        if w-m-trim(t).size[0] > 4:
+        t = im.crop((0,0,m,h))
+        if t.size[0]-trim(t).size[0] > 4:
             break
-        m += 1
+        m -= 1
     print(m)
     print(im.size)
     
@@ -86,7 +81,7 @@ def even_pic(p_name):
     im = Image.open(p_name)
     im = trim(im)
     w,h = im.size 
-    top = 30
+    top = 5
     while True:
         t = im.crop((0,top,w,h))
         if t.size[1] - trim(t).size[1] > 5:
@@ -102,9 +97,8 @@ def even_pic(p_name):
     print(left)
     
     im = im.crop((left,top,w,h))
-    #im.show()
     w,h = im.size
-    m = w/2 - 40
+    m = w/2 - 10
 
     while True:
         print(m,w)
@@ -117,7 +111,7 @@ def even_pic(p_name):
     
     im1 = im.crop((0,0,m,h))
     im2 = im.crop((m,0,w,h))
-    pic_concat([im1,im2],"m-"+p_name)
+    #pic_concat([im1,im2],"m-"+p_name)
 #1657
 def cut(i):
     p_name = "larousse-%04d.png"%i
@@ -127,11 +121,12 @@ def cut(i):
     else:
         even_pic(p_name)
 
-
-for i in [68,470,740,846,89,1362]:
-    cut(i)
-
 for i in range(10000,1657,2):
-    if i in []:
+    if i in [68,470,740,846,892,1362]:
         continue
     cut(i)
+
+for i in range(1655,1657,2):
+    if i in [167,263,327,385,617,757,845,861,1261,1431,1447,1459,1479,1507,1527,1531,1535,1575,1591,1625,1629,1639,1655]:
+        continue
+    cut(i)  
