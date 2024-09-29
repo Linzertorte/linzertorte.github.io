@@ -26,8 +26,8 @@ def trim1(im):
 
 def add_margin(im):
     w,h = im.size
-    new_im = Image.new('RGB', (w+40, h+40), color="white")
-    new_im.paste(im, (20,20))
+    new_im = Image.new('RGB', (w+100, h+100), color="white")
+    new_im.paste(im, (50,50))
     return new_im
 
 # list of pics names
@@ -122,4 +122,4 @@ def cut(i):
 #    if i in [2,27]:
 #        continue
 #    cut(i)
-cut(33)
+cut(36)
