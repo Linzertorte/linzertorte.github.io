@@ -3,6 +3,8 @@ import os
 from PIL import Image, ImageChops
 import glob
 
+debug = False
+
 def cp(i):
     cmd = "cp langenscheidt-%04d.png m-langenscheidt-%04d.png"%(i,i)
     os.system(cmd)
@@ -41,7 +43,8 @@ def pic_concat(pics, out_name):
         new_im.paste(im, (max_width-im.size[0],y_offset))
         y_offset += im.size[1]
     new_im = add_margin(new_im)
-    new_im.show()
+    if debug:
+        new_im.show()
     new_im.save(out_name)
 
 def cut_top(start, opti, im):
@@ -65,7 +68,7 @@ def cut_top(start, opti, im):
 
 def split(im):
     w,h = im.size
-    m = w/2 #+ 10
+    m = w/2 - 10
     im1 = im.crop((0,0,m,h))
     im2 = im.crop((m,0,w,h))
     return (im1,im2)
@@ -77,11 +80,12 @@ def cut_right(im):
     #im.show()
     while right < 100:
         t = im.crop((0,0,w-right,h))
-        if t.size[0] - trim(t).size[0] > 2:
+        if t.size[0] - trim(t).size[0] > 1:
             break
         right += 1
         #print(right)
-    #right = 34
+    #right = 37
+    right += 1
     print("right = ",right)
     if right == 100:
         exit()
@@ -96,9 +100,10 @@ def cut_left(im):
     #im.show()
     while True:
         t = im.crop((left,0,w,h))
-        if t.size[0] - trim(t).size[0] > 2:
+        if t.size[0] - trim(t).size[0] > 1:
             break
         left += 1
+    left += 1
     print("left = ",left)
     im = trim(im.crop((left,0,w,h)))
     #im.show()
@@ -108,19 +113,31 @@ def cut(i):
     p_name = "langenscheidt-%04d.png"%i
     print("id=%d"%i)
     im = Image.open(p_name)
-    im.show()
+    if debug:
+        im.show()
     if i % 2 == 1:
         im = cut_right(im)
     else:
         im = cut_left(im)
     im = cut_top(1, True, im)
     # initial run must not
-    #im = cut_top(66, False, im)
+    #im = cut_top(18, False, im)
     im1,im2 = split(im)
     pic_concat([im1,im2],"m-"+p_name)
     return
-for i in range(201,301):
-    break
-    if i not in [207,246]:
-        cut(i)
-cut(500)
+for i in range(801, 851):
+    #break
+    cut(i)
+
+
+#cut()
+#cut()
+#cut()
+#cut()
+#cut()
+#cut()
+#cut()
+#cut()
+#cut()
+#cut()
+#cut()
