@@ -673,7 +673,7 @@ var words = [
     "ex aequo",
     "exaucement",
     "excepter",
-    "exitation",
+    "excitation",
     "exclusivement",
     "exécutant",
     "exempt",
