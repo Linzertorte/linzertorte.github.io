@@ -92,7 +92,7 @@ abwärtsgehen
 abwerben
 Abzeichen
 $
-Ach
+Achillesferse
 ächten
 achtziger
 Adebar
@@ -261,6 +261,7 @@ function clean_word(word) {
     word = word.replace(/^\s+|\s+$/g,'');
 
     word = word.replaceAll("-", "");
+    word = word.replaceAll("!", "");
     word = word.replaceAll(" ", "");
     return word;
 }
