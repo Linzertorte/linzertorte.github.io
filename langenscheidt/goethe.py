@@ -57,7 +57,10 @@ def cut_top(start, opti, im):
         if t.size[1] - trim(t).size[1] > 1:
             break
         top += 1
-    print("top = ",top)
+    if top == 1:
+        print("top = 1!")
+    else:
+        print("top = ",top)
     im = im.crop((0,top,w,h))
     im = trim(im)
     w,h = im.size
@@ -66,9 +69,9 @@ def cut_top(start, opti, im):
         im = trim(im)
     return im
 
-def split(im):
+def split(im, m_off = 0):
     w,h = im.size
-    m = w/2 - 10
+    m = w/2  + m_off
     im1 = im.crop((0,0,m,h))
     im2 = im.crop((m,0,w,h))
     return (im1,im2)
@@ -84,7 +87,7 @@ def cut_right(im):
             break
         right += 1
         #print(right)
-    #right = 37
+    right = 37
     right += 1
     print("right = ",right)
     if right == 100:
@@ -109,7 +112,7 @@ def cut_left(im):
     #im.show()
     return im
 
-def cut(i):
+def cut(i, m_off = 0):
     p_name = "langenscheidt-%04d.png"%i
     print("id=%d"%i)
     im = Image.open(p_name)
@@ -122,10 +125,10 @@ def cut(i):
     im = cut_top(1, True, im)
     # initial run must not
     #im = cut_top(18, False, im)
-    im1,im2 = split(im)
+    im1,im2 = split(im, m_off)
     pic_concat([im1,im2],"m-"+p_name)
     return
-for i in range(801, 851):
+for i in range(1301, 1351):
     #break
     cut(i)
 
@@ -135,9 +138,6 @@ for i in range(801, 851):
 #cut()
 #cut()
 #cut()
-#cut()
-#cut()
-#cut()
-#cut()
-#cut()
-#cut()
+#cp()
+#cp()
+
