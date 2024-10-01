@@ -1708,7 +1708,7 @@ $("#btn").on("click", function (e) {
         words[i] = clean_word(words[i]);
     }
     i = 0
-    while(words.length && (words[i]=='$' || words[i]<=word)) {
+    while((i < words.length) && (words[i]=='$' || words[i]<=word)) {
         i+=1;
     }
     if(i>0) i-=1;
