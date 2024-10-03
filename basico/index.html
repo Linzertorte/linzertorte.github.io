@@ -865,8 +865,10 @@ const zeroPad = (num, places) => String(num).padStart(places, '0')
 
 var pic_prefix = "https://langenscheidt.s3.amazonaws.com/basico-";
 
-$("#btn").on("click", function (e) {
-    var word =  document.getElementById("word").value;
+function get_cur_page(words,word) {
+    if(word[0]=="ñ") {
+        return 649;
+    }
     word = clean_word(word);
     var i = 0;
     for(i = 0; i < words.length; i += 1) {
@@ -880,7 +882,13 @@ $("#btn").on("click", function (e) {
     while (i>=0 && words[i]=='$'){
         i-=1;
     }
-    cur_page = i;
+    return i;
+}
+
+$("#btn").on("click", function (e) {
+    var word =  document.getElementById("word").value;
+    
+    cur_page = get_cur_page(words,word);
     var html = "<img src=\""+pic_prefix+zeroPad(cur_page + 15,4)+".png\">"
     $("#page").html(html)
     $("#page_num").text(cur_page + 15);
