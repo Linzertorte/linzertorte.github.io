@@ -1689,7 +1689,7 @@ var words = [
     "vivarium",
     "vivrière",
     "vogue",
-    "volià",
+    "voilà",
     "voire",
     "voisin",
     "volage",
