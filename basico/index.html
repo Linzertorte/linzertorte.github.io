@@ -1,0 +1,332 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Básico</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+<style>
+    body {
+        margin-left:20%;
+        margin-right:20%;
+    }
+    img {
+        width:100%;
+    }
+    #page_num{
+            display: none;
+    }
+    @media only screen and (max-width: 768px) {
+        body {
+            padding-left:8px;
+            margin-left:0%;
+            margin-right:0%;
+        }
+        img {
+            width:100%;
+        }
+        #page_num{
+            display: inline;
+        }
+    }
+    @media only screen and (min-device-width: 768px) and (max-device-width: 1024px) {
+        body {
+            margin-left:10%;
+            margin-right:10%;
+        }
+        img {
+            width:100%;
+        }
+    }
+</style>
+<script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+</head>
+<body>
+<h1>Básico</h1>
+<input type="text" id="word" name="word"><button type="button" id="btn">Search</button>
+<div>
+<button type="button" id="prev">Prev</button>
+<button type="button" id="next">Next</button>
+<span id="page_num"></span>
+</div>
+<div id="page"></div>
+</body>
+<script charset="utf-8">
+word_list = `
+a
+abalanzarse
+abdomen
+$
+abogado
+abotonar
+abrochar
+absorbente
+abundancia
+acaloramiento
+accésit
+acelerón
+acerado
+acertijo
+aclimatación
+acompasar
+acortar
+activar
+acuático
+acumulación
+adelantado
+adhesión
+adiposo
+adjuntar
+adoptivo
+adulador
+advertencia
+afabilidad
+afijo
+afrenta
+ágil
+agrado
+agresor
+aguardar
+ahogado
+aislante
+ajuar
+alazán
+alborozado
+alcoholemia
+alejar
+alfeñique
+alguien
+alinear
+almeriense
+alpargatería
+alteza
+alud
+amalgama
+ambicioso
+ambientar
+amigable
+amoroso
+anacoreta
+ancestral
+andariego
+androceo
+anglicano
+$
+anímico
+ánsar
+antes
+antigás
+antología
+añorar
+apagón
+apariencia
+apelotonarse
+apisonar
+aplicado
+apostata
+aprensión
+aprovechamiento
+aquietar
+arca
+$
+$
+arena
+arma
+aro
+arranque
+arremolinarse
+arribar
+arrullo
+artillería
+ascendiente
+asépalo
+asimilación
+asmático
+aspirador
+astronauta
+atasco
+atiborrar
+átomo
+atrasado
+atronar
+aullido
+aureola
+autodidacto
+autorizado
+ave
+$
+$
+aviejar
+avizor
+azteca
+b
+bachiller
+bajeza
+balancear
+balsa
+bandada
+$
+$
+$
+baobab
+barbotar
+$
+barriada
+basta
+batiburrillo
+beato
+bencina
+benevolencia
+bestialidad
+bieldo
+bigudí
+biografía
+bisectriz
+blanquear
+bobo
+bodega
+bolo
+bonachón
+bordillo
+bostezo
+bóveda
+brasero
+bridge
+bromo
+bucanero
+bufonada
+buñuelo
+buscar
+c
+caballeroso
+cabeza
+cabezada
+cabriola
+cachete
+café
+cafetero
+calabacín
+calcomanía
+$
+caleta
+calleja
+$
+calzada
+camarero
+camión
+campante
+canalé
+candelabro
+canilla
+cantera
+cañí
+capea
+cápsula
+carantoña
+cardias
+carguero
+carné
+carrerilla
+cártel
+cascabel
+casi
+castidad
+catana
+$
+$
+catolicismo
+caverna
+cazadora
+cegato
+céltico
+centella
+centroafricano
+cepillar
+cereal
+cerrazón
+césar
+chalé
+chantillí
+charlatán
+chic
+chinchar
+chiripa
+chocar
+choteo
+chupatintas
+cicatrizar
+cieno
+cilíndrico
+cinematógrafo
+circuncisión
+ciudad
+clarear
+clasificador
+clavija
+cloaca
+cobijar
+cochino
+`
+
+var cur_page = 0;
+function clean_word(word) {
+
+    word = word.toLowerCase();
+    word = word.replaceAll("á","a");
+    word = word.replaceAll("é","e");
+    word = word.replaceAll("í","i");
+    word = word.replaceAll("ñ","n");
+    word = word.replaceAll("ó","o");
+    word = word.replaceAll("ú","u");
+    word = word.replaceAll("ü","u");
+
+    word = word.replace(/^\s+|\s+$/g,'');
+
+    word = word.replaceAll("-", "");
+    word = word.replaceAll("!", "");
+    word = word.replaceAll(" ", "");
+    return word;
+}
+
+var words = word_list.split("\n").filter((word) => word.length > 0);;
+//console.log(words);
+const zeroPad = (num, places) => String(num).padStart(places, '0')
+
+var pic_prefix = "https://langenscheidt.s3.amazonaws.com/basico-";
+
+$("#btn").on("click", function (e) {
+    var word =  document.getElementById("word").value;
+    word = clean_word(word);
+    var i = 0;
+    for(i = 0; i < words.length; i += 1) {
+        words[i] = clean_word(words[i]);
+    }
+    i = 0
+    while(words.length && (words[i]=='$' || words[i]<=word)) {
+        i+=1;
+    }
+    if(i>0) i-=1;
+    while (i>=0 && words[i]=='$'){
+        i-=1;
+    }
+    cur_page = i;
+    var html = "<img src=\""+pic_prefix+zeroPad(cur_page + 15,4)+".png\">"
+    $("#page").html(html)
+    $("#page_num").text(cur_page + 15);
+});
+$("#prev").on("click", function (e) {
+    if(cur_page > 0) {
+        cur_page -= 1;
+        var html = "<img src=\""+pic_prefix+zeroPad(cur_page + 15,4)+".png\">"
+        $("#page").html(html)
+        $("#page_num").text(cur_page + 15);
+    }
+});
+$("#next").on("click", function (e) {
+    if(cur_page < 2178 - 1){
+        cur_page += 1;
+        var html = "<img src=\""+pic_prefix+zeroPad(cur_page + 15,4)+".png\">"
+        $("#page").html(html)
+        $("#page_num").text(cur_page + 15);
+    }
+});
+</script>
+</html>

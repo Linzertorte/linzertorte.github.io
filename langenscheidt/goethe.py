@@ -3,7 +3,7 @@ import os
 from PIL import Image, ImageChops
 import glob
 
-debug = False
+debug = True
 
 def cp(i):
     cmd = "cp langenscheidt-%04d.png m-langenscheidt-%04d.png"%(i,i)
@@ -87,11 +87,10 @@ def cut_right(im):
             break
         right += 1
         #print(right)
-    right = 37
+    if right == 100:
+        right = 38
     right += 1
     print("right = ",right)
-    if right == 100:
-        exit()
     im = trim(im.crop((0,0,w-right,h)))
     #im.show()
     return im
@@ -101,7 +100,7 @@ def cut_left(im):
     left = 20
     w,h = im.size
     #im.show()
-    while True:
+    while left < 100:
         t = im.crop((left,0,w,h))
         if t.size[0] - trim(t).size[0] > 1:
             break
@@ -123,21 +122,13 @@ def cut(i, m_off = 0):
     else:
         im = cut_left(im)
     im = cut_top(1, True, im)
-    # initial run must not
+    # initially must not run
     #im = cut_top(18, False, im)
     im1,im2 = split(im, m_off)
     pic_concat([im1,im2],"m-"+p_name)
     return
-for i in range(1301, 1351):
-    #break
+for i in range(2101, 2179):
+    if debug:
+        break
     cut(i)
-
-
-#cut()
-#cut()
-#cut()
-#cut()
-#cut()
-#cp()
-#cp()
-
+cut(2168,-12)
