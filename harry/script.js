@@ -983,7 +983,7 @@ var words = [
     "location",
     "logiquement",
     "lointain",
-    "1onge",
+    "longe",
     "lorsque",
     "loueur",
     "loustic",
