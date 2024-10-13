@@ -1038,7 +1038,6 @@ function clean_word(word) {
     word = word.replaceAll("á","a");
     word = word.replaceAll("é","e");
     word = word.replaceAll("í","i");
-    word = word.replaceAll("ñ","n");
     word = word.replaceAll("ó","o");
     word = word.replaceAll("ú","u");
     word = word.replaceAll("ü","u");
@@ -1067,7 +1066,7 @@ function get_cur_page(words,word) {
         words[i] = clean_word(words[i]);
     }
     i = 0
-    while(i < words.length && (words[i]=='$' || words[i]<=word)) {
+    while(i < words.length && (words[i]=='$' || words[i].localeCompare(word,"es")<=0)){
         i+=1;
     }
     if(i>0) i-=1;
