@@ -1,0 +1,11 @@
+f = open("sl.txt", "r")
+txt = f.read().split("\n")
+for i in range(0,len(txt), 7):
+    head = txt[i].split(" ")
+    print('frequent-greek-%04d,%s,"'%(int(head[0]),head[1]))
+    print('<div class=""trans"">%s</div>'%" ".join(head[2:]))
+    print(txt[i+1])
+    print('<br>')
+    print(txt[i+4].replace('"','""'))
+    print('<div class=""trans"">%s</div>'%txt[i+5].replace('"','""'))
+    print('"')
