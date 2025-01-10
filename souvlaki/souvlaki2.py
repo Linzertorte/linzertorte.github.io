@@ -1,6 +1,6 @@
 def is_english(word):
     c = word[0].lower()
-    return c>='a' and c<='z'
+    return (c>='a' and c<='z') or (c>='0' and c<='9')
 
 f = open("sl.txt", "r")
 txt = f.read().split("\n")
