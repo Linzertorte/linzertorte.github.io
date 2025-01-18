@@ -1,0 +1,1076 @@
+le               	LE SURVIVANT
+survivre         	LE SURVIVANT
+et               	Mr et Mrs Dursley, qui habitaient au 4, Privet Drive, avaient toujours affirmé avec la plus grande fierté qu’ils étaient parfaitement normaux, merci pour eux.
+qui              	Mr et Mrs Dursley, qui habitaient au 4, Privet Drive, avaient toujours affirmé avec la plus grande fierté qu’ils étaient parfaitement normaux, merci pour eux.
+habiter          	Mr et Mrs Dursley, qui habitaient au 4, Privet Drive, avaient toujours affirmé avec la plus grande fierté qu’ils étaient parfaitement normaux, merci pour eux.
+avoir            	Mr et Mrs Dursley, qui habitaient au 4, Privet Drive, avaient toujours affirmé avec la plus grande fierté qu’ils étaient parfaitement normaux, merci pour eux.
+toujours         	Mr et Mrs Dursley, qui habitaient au 4, Privet Drive, avaient toujours affirmé avec la plus grande fierté qu’ils étaient parfaitement normaux, merci pour eux.
+affirmer         	Mr et Mrs Dursley, qui habitaient au 4, Privet Drive, avaient toujours affirmé avec la plus grande fierté qu’ils étaient parfaitement normaux, merci pour eux.
+avec             	Mr et Mrs Dursley, qui habitaient au 4, Privet Drive, avaient toujours affirmé avec la plus grande fierté qu’ils étaient parfaitement normaux, merci pour eux.
+plus             	Mr et Mrs Dursley, qui habitaient au 4, Privet Drive, avaient toujours affirmé avec la plus grande fierté qu’ils étaient parfaitement normaux, merci pour eux.
+grand            	Mr et Mrs Dursley, qui habitaient au 4, Privet Drive, avaient toujours affirmé avec la plus grande fierté qu’ils étaient parfaitement normaux, merci pour eux.
+fierté           	Mr et Mrs Dursley, qui habitaient au 4, Privet Drive, avaient toujours affirmé avec la plus grande fierté qu’ils étaient parfaitement normaux, merci pour eux.
+il               	Mr et Mrs Dursley, qui habitaient au 4, Privet Drive, avaient toujours affirmé avec la plus grande fierté qu’ils étaient parfaitement normaux, merci pour eux.
+être             	Mr et Mrs Dursley, qui habitaient au 4, Privet Drive, avaient toujours affirmé avec la plus grande fierté qu’ils étaient parfaitement normaux, merci pour eux.
+parfaitement     	Mr et Mrs Dursley, qui habitaient au 4, Privet Drive, avaient toujours affirmé avec la plus grande fierté qu’ils étaient parfaitement normaux, merci pour eux.
+normal           	Mr et Mrs Dursley, qui habitaient au 4, Privet Drive, avaient toujours affirmé avec la plus grande fierté qu’ils étaient parfaitement normaux, merci pour eux.
+merci            	Mr et Mrs Dursley, qui habitaient au 4, Privet Drive, avaient toujours affirmé avec la plus grande fierté qu’ils étaient parfaitement normaux, merci pour eux.
+pour             	Mr et Mrs Dursley, qui habitaient au 4, Privet Drive, avaient toujours affirmé avec la plus grande fierté qu’ils étaient parfaitement normaux, merci pour eux.
+lui              	Mr et Mrs Dursley, qui habitaient au 4, Privet Drive, avaient toujours affirmé avec la plus grande fierté qu’ils étaient parfaitement normaux, merci pour eux.
+jamais           	Jamais quiconque n’aurait imaginé qu’ils puissent se trouver impliqués dans quoi que ce soit d’étrange ou de mystérieux.
+quiconque        	Jamais quiconque n’aurait imaginé qu’ils puissent se trouver impliqués dans quoi que ce soit d’étrange ou de mystérieux.
+imaginer         	Jamais quiconque n’aurait imaginé qu’ils puissent se trouver impliqués dans quoi que ce soit d’étrange ou de mystérieux.
+pouvoir          	Jamais quiconque n’aurait imaginé qu’ils puissent se trouver impliqués dans quoi que ce soit d’étrange ou de mystérieux.
+se               	Jamais quiconque n’aurait imaginé qu’ils puissent se trouver impliqués dans quoi que ce soit d’étrange ou de mystérieux.
+trouver          	Jamais quiconque n’aurait imaginé qu’ils puissent se trouver impliqués dans quoi que ce soit d’étrange ou de mystérieux.
+impliquer        	Jamais quiconque n’aurait imaginé qu’ils puissent se trouver impliqués dans quoi que ce soit d’étrange ou de mystérieux.
+dans             	Jamais quiconque n’aurait imaginé qu’ils puissent se trouver impliqués dans quoi que ce soit d’étrange ou de mystérieux.
+quoi             	Jamais quiconque n’aurait imaginé qu’ils puissent se trouver impliqués dans quoi que ce soit d’étrange ou de mystérieux.
+que              	Jamais quiconque n’aurait imaginé qu’ils puissent se trouver impliqués dans quoi que ce soit d’étrange ou de mystérieux.
+ce               	Jamais quiconque n’aurait imaginé qu’ils puissent se trouver impliqués dans quoi que ce soit d’étrange ou de mystérieux.
+étrange          	Jamais quiconque n’aurait imaginé qu’ils puissent se trouver impliqués dans quoi que ce soit d’étrange ou de mystérieux.
+ou               	Jamais quiconque n’aurait imaginé qu’ils puissent se trouver impliqués dans quoi que ce soit d’étrange ou de mystérieux.
+de               	Jamais quiconque n’aurait imaginé qu’ils puissent se trouver impliqués dans quoi que ce soit d’étrange ou de mystérieux.
+mystérieux       	Jamais quiconque n’aurait imaginé qu’ils puissent se trouver impliqués dans quoi que ce soit d’étrange ou de mystérieux.
+pas              	Ils n’avaient pas de temps à perdre avec des sornettes.
+temps            	Ils n’avaient pas de temps à perdre avec des sornettes.
+à                	Ils n’avaient pas de temps à perdre avec des sornettes.
+perdre           	Ils n’avaient pas de temps à perdre avec des sornettes.
+un               	Ils n’avaient pas de temps à perdre avec des sornettes.
+sornettes        	Ils n’avaient pas de temps à perdre avec des sornettes.
+diriger          	Mr Dursley dirigeait la Grunnings, une entreprise qui fabriquait des perceuses.
+entreprise       	Mr Dursley dirigeait la Grunnings, une entreprise qui fabriquait des perceuses.
+fabriquer        	Mr Dursley dirigeait la Grunnings, une entreprise qui fabriquait des perceuses.
+perceuse         	Mr Dursley dirigeait la Grunnings, une entreprise qui fabriquait des perceuses.
+homme            	C’était un homme grand et massif, qui n’avait pratiquement pas de cou, mais possédait en revanche une moustache de belle taille.
+massif           	C’était un homme grand et massif, qui n’avait pratiquement pas de cou, mais possédait en revanche une moustache de belle taille.
+pratiquement     	C’était un homme grand et massif, qui n’avait pratiquement pas de cou, mais possédait en revanche une moustache de belle taille.
+cou              	C’était un homme grand et massif, qui n’avait pratiquement pas de cou, mais possédait en revanche une moustache de belle taille.
+mais             	C’était un homme grand et massif, qui n’avait pratiquement pas de cou, mais possédait en revanche une moustache de belle taille.
+posséder         	C’était un homme grand et massif, qui n’avait pratiquement pas de cou, mais possédait en revanche une moustache de belle taille.
+en               	C’était un homme grand et massif, qui n’avait pratiquement pas de cou, mais possédait en revanche une moustache de belle taille.
+revanche         	C’était un homme grand et massif, qui n’avait pratiquement pas de cou, mais possédait en revanche une moustache de belle taille.
+moustache        	C’était un homme grand et massif, qui n’avait pratiquement pas de cou, mais possédait en revanche une moustache de belle taille.
+beau             	C’était un homme grand et massif, qui n’avait pratiquement pas de cou, mais possédait en revanche une moustache de belle taille.
+taille           	C’était un homme grand et massif, qui n’avait pratiquement pas de cou, mais possédait en revanche une moustache de belle taille.
+quant à          	Mrs Dursley, quant à elle, était mince et blonde et disposait d’un cou deux fois plus long que la moyenne, ce qui lui était fort utile pour espionner ses voisins en regardant par-dessus les clôtures des jardins.
+mince            	Mrs Dursley, quant à elle, était mince et blonde et disposait d’un cou deux fois plus long que la moyenne, ce qui lui était fort utile pour espionner ses voisins en regardant par-dessus les clôtures des jardins.
+blonde           	Mrs Dursley, quant à elle, était mince et blonde et disposait d’un cou deux fois plus long que la moyenne, ce qui lui était fort utile pour espionner ses voisins en regardant par-dessus les clôtures des jardins.
+disposer         	Mrs Dursley, quant à elle, était mince et blonde et disposait d’un cou deux fois plus long que la moyenne, ce qui lui était fort utile pour espionner ses voisins en regardant par-dessus les clôtures des jardins.
+deux             	Mrs Dursley, quant à elle, était mince et blonde et disposait d’un cou deux fois plus long que la moyenne, ce qui lui était fort utile pour espionner ses voisins en regardant par-dessus les clôtures des jardins.
+fois             	Mrs Dursley, quant à elle, était mince et blonde et disposait d’un cou deux fois plus long que la moyenne, ce qui lui était fort utile pour espionner ses voisins en regardant par-dessus les clôtures des jardins.
+long             	Mrs Dursley, quant à elle, était mince et blonde et disposait d’un cou deux fois plus long que la moyenne, ce qui lui était fort utile pour espionner ses voisins en regardant par-dessus les clôtures des jardins.
+moyenne          	Mrs Dursley, quant à elle, était mince et blonde et disposait d’un cou deux fois plus long que la moyenne, ce qui lui était fort utile pour espionner ses voisins en regardant par-dessus les clôtures des jardins.
+luire            	Mrs Dursley, quant à elle, était mince et blonde et disposait d’un cou deux fois plus long que la moyenne, ce qui lui était fort utile pour espionner ses voisins en regardant par-dessus les clôtures des jardins.
+fort             	Mrs Dursley, quant à elle, était mince et blonde et disposait d’un cou deux fois plus long que la moyenne, ce qui lui était fort utile pour espionner ses voisins en regardant par-dessus les clôtures des jardins.
+utile            	Mrs Dursley, quant à elle, était mince et blonde et disposait d’un cou deux fois plus long que la moyenne, ce qui lui était fort utile pour espionner ses voisins en regardant par-dessus les clôtures des jardins.
+espionner        	Mrs Dursley, quant à elle, était mince et blonde et disposait d’un cou deux fois plus long que la moyenne, ce qui lui était fort utile pour espionner ses voisins en regardant par-dessus les clôtures des jardins.
+son              	Mrs Dursley, quant à elle, était mince et blonde et disposait d’un cou deux fois plus long que la moyenne, ce qui lui était fort utile pour espionner ses voisins en regardant par-dessus les clôtures des jardins.
+voisin           	Mrs Dursley, quant à elle, était mince et blonde et disposait d’un cou deux fois plus long que la moyenne, ce qui lui était fort utile pour espionner ses voisins en regardant par-dessus les clôtures des jardins.
+regarder         	Mrs Dursley, quant à elle, était mince et blonde et disposait d’un cou deux fois plus long que la moyenne, ce qui lui était fort utile pour espionner ses voisins en regardant par-dessus les clôtures des jardins.
+par              	Mrs Dursley, quant à elle, était mince et blonde et disposait d’un cou deux fois plus long que la moyenne, ce qui lui était fort utile pour espionner ses voisins en regardant par-dessus les clôtures des jardins.
+dessus           	Mrs Dursley, quant à elle, était mince et blonde et disposait d’un cou deux fois plus long que la moyenne, ce qui lui était fort utile pour espionner ses voisins en regardant par-dessus les clôtures des jardins.
+clôture          	Mrs Dursley, quant à elle, était mince et blonde et disposait d’un cou deux fois plus long que la moyenne, ce qui lui était fort utile pour espionner ses voisins en regardant par-dessus les clôtures des jardins.
+jardin           	Mrs Dursley, quant à elle, était mince et blonde et disposait d’un cou deux fois plus long que la moyenne, ce qui lui était fort utile pour espionner ses voisins en regardant par-dessus les clôtures des jardins.
+petit            	Les Dursley avaient un petit garçon prénommé Dudley et c’était à leurs yeux le plus bel enfant du monde.
+garçon           	Les Dursley avaient un petit garçon prénommé Dudley et c’était à leurs yeux le plus bel enfant du monde.
+prénommer        	Les Dursley avaient un petit garçon prénommé Dudley et c’était à leurs yeux le plus bel enfant du monde.
+leur             	Les Dursley avaient un petit garçon prénommé Dudley et c’était à leurs yeux le plus bel enfant du monde.
+œil              	Les Dursley avaient un petit garçon prénommé Dudley et c’était à leurs yeux le plus bel enfant du monde.
+enfant           	Les Dursley avaient un petit garçon prénommé Dudley et c’était à leurs yeux le plus bel enfant du monde.
+monde            	Les Dursley avaient un petit garçon prénommé Dudley et c’était à leurs yeux le plus bel enfant du monde.
+tout             	Les Dursley avaient tout ce qu’ils voulaient.
+vouloir          	Les Dursley avaient tout ce qu’ils voulaient.
+seul             	La seule chose indésirable qu’ils possédaient, c’était un secret dont ils craignaient plus que tout qu’on le découvre un jour.
+chose            	La seule chose indésirable qu’ils possédaient, c’était un secret dont ils craignaient plus que tout qu’on le découvre un jour.
+indésirable      	La seule chose indésirable qu’ils possédaient, c’était un secret dont ils craignaient plus que tout qu’on le découvre un jour.
+secret           	La seule chose indésirable qu’ils possédaient, c’était un secret dont ils craignaient plus que tout qu’on le découvre un jour.
+dont             	La seule chose indésirable qu’ils possédaient, c’était un secret dont ils craignaient plus que tout qu’on le découvre un jour.
+craindre         	La seule chose indésirable qu’ils possédaient, c’était un secret dont ils craignaient plus que tout qu’on le découvre un jour.
+on               	La seule chose indésirable qu’ils possédaient, c’était un secret dont ils craignaient plus que tout qu’on le découvre un jour.
+découvrir        	La seule chose indésirable qu’ils possédaient, c’était un secret dont ils craignaient plus que tout qu’on le découvre un jour.
+jour             	La seule chose indésirable qu’ils possédaient, c’était un secret dont ils craignaient plus que tout qu’on le découvre un jour.
+si               	Si jamais quiconque venait à entendre parler des Potter, ils étaient convaincus qu’ils ne s’en remettraient pas.
+venir            	Si jamais quiconque venait à entendre parler des Potter, ils étaient convaincus qu’ils ne s’en remettraient pas.
+entendre         	Si jamais quiconque venait à entendre parler des Potter, ils étaient convaincus qu’ils ne s’en remettraient pas.
+parler           	Si jamais quiconque venait à entendre parler des Potter, ils étaient convaincus qu’ils ne s’en remettraient pas.
+convaincre       	Si jamais quiconque venait à entendre parler des Potter, ils étaient convaincus qu’ils ne s’en remettraient pas.
+ne               	Si jamais quiconque venait à entendre parler des Potter, ils étaient convaincus qu’ils ne s’en remettraient pas.
+remettre         	Si jamais quiconque venait à entendre parler des Potter, ils étaient convaincus qu’ils ne s’en remettraient pas.
+sœur             	Mrs Potter était la sœur de Mrs Dursley, mais toutes deux ne s’étaient plus revues depuis des années.
+revoir           	Mrs Potter était la sœur de Mrs Dursley, mais toutes deux ne s’étaient plus revues depuis des années.
+depuis           	Mrs Potter était la sœur de Mrs Dursley, mais toutes deux ne s’étaient plus revues depuis des années.
+année            	Mrs Potter était la sœur de Mrs Dursley, mais toutes deux ne s’étaient plus revues depuis des années.
+fait             	En fait, Mrs Dursley faisait comme si elle était fille unique, car sa sœur et son bon à rien de mari étaient aussi éloignés que possible de tout ce qui faisait un Dursley.
+faire            	En fait, Mrs Dursley faisait comme si elle était fille unique, car sa sœur et son bon à rien de mari étaient aussi éloignés que possible de tout ce qui faisait un Dursley.
+comme            	En fait, Mrs Dursley faisait comme si elle était fille unique, car sa sœur et son bon à rien de mari étaient aussi éloignés que possible de tout ce qui faisait un Dursley.
+fille            	En fait, Mrs Dursley faisait comme si elle était fille unique, car sa sœur et son bon à rien de mari étaient aussi éloignés que possible de tout ce qui faisait un Dursley.
+unique           	En fait, Mrs Dursley faisait comme si elle était fille unique, car sa sœur et son bon à rien de mari étaient aussi éloignés que possible de tout ce qui faisait un Dursley.
+car              	En fait, Mrs Dursley faisait comme si elle était fille unique, car sa sœur et son bon à rien de mari étaient aussi éloignés que possible de tout ce qui faisait un Dursley.
+bon              	En fait, Mrs Dursley faisait comme si elle était fille unique, car sa sœur et son bon à rien de mari étaient aussi éloignés que possible de tout ce qui faisait un Dursley.
+rien             	En fait, Mrs Dursley faisait comme si elle était fille unique, car sa sœur et son bon à rien de mari étaient aussi éloignés que possible de tout ce qui faisait un Dursley.
+mari             	En fait, Mrs Dursley faisait comme si elle était fille unique, car sa sœur et son bon à rien de mari étaient aussi éloignés que possible de tout ce qui faisait un Dursley.
+aussi            	En fait, Mrs Dursley faisait comme si elle était fille unique, car sa sœur et son bon à rien de mari étaient aussi éloignés que possible de tout ce qui faisait un Dursley.
+éloigné          	En fait, Mrs Dursley faisait comme si elle était fille unique, car sa sœur et son bon à rien de mari étaient aussi éloignés que possible de tout ce qui faisait un Dursley.
+possible         	En fait, Mrs Dursley faisait comme si elle était fille unique, car sa sœur et son bon à rien de mari étaient aussi éloignés que possible de tout ce qui faisait un Dursley.
+trembler         	Les Dursley tremblaient d’épouvante à la pensée de ce que diraient les voisins si par malheur les Potter se montraient dans leur rue.
+épouvante        	Les Dursley tremblaient d’épouvante à la pensée de ce que diraient les voisins si par malheur les Potter se montraient dans leur rue.
+pensée           	Les Dursley tremblaient d’épouvante à la pensée de ce que diraient les voisins si par malheur les Potter se montraient dans leur rue.
+dire             	Les Dursley tremblaient d’épouvante à la pensée de ce que diraient les voisins si par malheur les Potter se montraient dans leur rue.
+malheur          	Les Dursley tremblaient d’épouvante à la pensée de ce que diraient les voisins si par malheur les Potter se montraient dans leur rue.
+montrer          	Les Dursley tremblaient d’épouvante à la pensée de ce que diraient les voisins si par malheur les Potter se montraient dans leur rue.
+rue              	Les Dursley tremblaient d’épouvante à la pensée de ce que diraient les voisins si par malheur les Potter se montraient dans leur rue.
+savoir           	Ils savaient que les Potter, eux aussi, avaient un petit garçon, mais ils ne l’avaient jamais vu.
+voir             	Ils savaient que les Potter, eux aussi, avaient un petit garçon, mais ils ne l’avaient jamais vu.
+existence        	Son existence constituait une raison supplémentaire de tenir les Potter à distance : il n’était pas question que le petit Dudley se mette à fréquenter un enfant comme celui-là.
+constituer       	Son existence constituait une raison supplémentaire de tenir les Potter à distance : il n’était pas question que le petit Dudley se mette à fréquenter un enfant comme celui-là.
+raison           	Son existence constituait une raison supplémentaire de tenir les Potter à distance : il n’était pas question que le petit Dudley se mette à fréquenter un enfant comme celui-là.
+supplémentaire   	Son existence constituait une raison supplémentaire de tenir les Potter à distance : il n’était pas question que le petit Dudley se mette à fréquenter un enfant comme celui-là.
+tenir            	Son existence constituait une raison supplémentaire de tenir les Potter à distance : il n’était pas question que le petit Dudley se mette à fréquenter un enfant comme celui-là.
+distance         	Son existence constituait une raison supplémentaire de tenir les Potter à distance : il n’était pas question que le petit Dudley se mette à fréquenter un enfant comme celui-là.
+question         	Son existence constituait une raison supplémentaire de tenir les Potter à distance : il n’était pas question que le petit Dudley se mette à fréquenter un enfant comme celui-là.
+mettre           	Son existence constituait une raison supplémentaire de tenir les Potter à distance : il n’était pas question que le petit Dudley se mette à fréquenter un enfant comme celui-là.
+fréquenter       	Son existence constituait une raison supplémentaire de tenir les Potter à distance : il n’était pas question que le petit Dudley se mette à fréquenter un enfant comme celui-là.
+celui            	Son existence constituait une raison supplémentaire de tenir les Potter à distance : il n’était pas question que le petit Dudley se mette à fréquenter un enfant comme celui-là.
+lorsque          	Lorsque Mr et Mrs Dursley s’éveillèrent, au matin du mardi où commence cette histoire, il faisait gris et triste et rien dans le ciel nuageux ne laissait prévoir que des choses étranges et mystérieuses allaient bientôt se produire dans tout le pays.
+éveiller         	Lorsque Mr et Mrs Dursley s’éveillèrent, au matin du mardi où commence cette histoire, il faisait gris et triste et rien dans le ciel nuageux ne laissait prévoir que des choses étranges et mystérieuses allaient bientôt se produire dans tout le pays.
+matin            	Lorsque Mr et Mrs Dursley s’éveillèrent, au matin du mardi où commence cette histoire, il faisait gris et triste et rien dans le ciel nuageux ne laissait prévoir que des choses étranges et mystérieuses allaient bientôt se produire dans tout le pays.
+mardi            	Lorsque Mr et Mrs Dursley s’éveillèrent, au matin du mardi où commence cette histoire, il faisait gris et triste et rien dans le ciel nuageux ne laissait prévoir que des choses étranges et mystérieuses allaient bientôt se produire dans tout le pays.
+où               	Lorsque Mr et Mrs Dursley s’éveillèrent, au matin du mardi où commence cette histoire, il faisait gris et triste et rien dans le ciel nuageux ne laissait prévoir que des choses étranges et mystérieuses allaient bientôt se produire dans tout le pays.
+commencer        	Lorsque Mr et Mrs Dursley s’éveillèrent, au matin du mardi où commence cette histoire, il faisait gris et triste et rien dans le ciel nuageux ne laissait prévoir que des choses étranges et mystérieuses allaient bientôt se produire dans tout le pays.
+histoire         	Lorsque Mr et Mrs Dursley s’éveillèrent, au matin du mardi où commence cette histoire, il faisait gris et triste et rien dans le ciel nuageux ne laissait prévoir que des choses étranges et mystérieuses allaient bientôt se produire dans tout le pays.
+gris             	Lorsque Mr et Mrs Dursley s’éveillèrent, au matin du mardi où commence cette histoire, il faisait gris et triste et rien dans le ciel nuageux ne laissait prévoir que des choses étranges et mystérieuses allaient bientôt se produire dans tout le pays.
+triste           	Lorsque Mr et Mrs Dursley s’éveillèrent, au matin du mardi où commence cette histoire, il faisait gris et triste et rien dans le ciel nuageux ne laissait prévoir que des choses étranges et mystérieuses allaient bientôt se produire dans tout le pays.
+ciel             	Lorsque Mr et Mrs Dursley s’éveillèrent, au matin du mardi où commence cette histoire, il faisait gris et triste et rien dans le ciel nuageux ne laissait prévoir que des choses étranges et mystérieuses allaient bientôt se produire dans tout le pays.
+nuageux          	Lorsque Mr et Mrs Dursley s’éveillèrent, au matin du mardi où commence cette histoire, il faisait gris et triste et rien dans le ciel nuageux ne laissait prévoir que des choses étranges et mystérieuses allaient bientôt se produire dans tout le pays.
+laisser          	Lorsque Mr et Mrs Dursley s’éveillèrent, au matin du mardi où commence cette histoire, il faisait gris et triste et rien dans le ciel nuageux ne laissait prévoir que des choses étranges et mystérieuses allaient bientôt se produire dans tout le pays.
+prévoir          	Lorsque Mr et Mrs Dursley s’éveillèrent, au matin du mardi où commence cette histoire, il faisait gris et triste et rien dans le ciel nuageux ne laissait prévoir que des choses étranges et mystérieuses allaient bientôt se produire dans tout le pays.
+aller            	Lorsque Mr et Mrs Dursley s’éveillèrent, au matin du mardi où commence cette histoire, il faisait gris et triste et rien dans le ciel nuageux ne laissait prévoir que des choses étranges et mystérieuses allaient bientôt se produire dans tout le pays.
+bientôt          	Lorsque Mr et Mrs Dursley s’éveillèrent, au matin du mardi où commence cette histoire, il faisait gris et triste et rien dans le ciel nuageux ne laissait prévoir que des choses étranges et mystérieuses allaient bientôt se produire dans tout le pays.
+produire         	Lorsque Mr et Mrs Dursley s’éveillèrent, au matin du mardi où commence cette histoire, il faisait gris et triste et rien dans le ciel nuageux ne laissait prévoir que des choses étranges et mystérieuses allaient bientôt se produire dans tout le pays.
+pays             	Lorsque Mr et Mrs Dursley s’éveillèrent, au matin du mardi où commence cette histoire, il faisait gris et triste et rien dans le ciel nuageux ne laissait prévoir que des choses étranges et mystérieuses allaient bientôt se produire dans tout le pays.
+fredonner        	Mr Dursley fredonnait un air en nouant sa cravate la plus sinistre pour aller travailler et Mrs Dursley racontait d’un ton badin les derniers potins du quartier en s’efforçant d’installer sur sa chaise de bébé le jeune Dudley qui braillait de toute la force de ses poumons.
+air              	Mr Dursley fredonnait un air en nouant sa cravate la plus sinistre pour aller travailler et Mrs Dursley racontait d’un ton badin les derniers potins du quartier en s’efforçant d’installer sur sa chaise de bébé le jeune Dudley qui braillait de toute la force de ses poumons.
+nouer            	Mr Dursley fredonnait un air en nouant sa cravate la plus sinistre pour aller travailler et Mrs Dursley racontait d’un ton badin les derniers potins du quartier en s’efforçant d’installer sur sa chaise de bébé le jeune Dudley qui braillait de toute la force de ses poumons.
+cravate          	Mr Dursley fredonnait un air en nouant sa cravate la plus sinistre pour aller travailler et Mrs Dursley racontait d’un ton badin les derniers potins du quartier en s’efforçant d’installer sur sa chaise de bébé le jeune Dudley qui braillait de toute la force de ses poumons.
+sinistre         	Mr Dursley fredonnait un air en nouant sa cravate la plus sinistre pour aller travailler et Mrs Dursley racontait d’un ton badin les derniers potins du quartier en s’efforçant d’installer sur sa chaise de bébé le jeune Dudley qui braillait de toute la force de ses poumons.
+travailler       	Mr Dursley fredonnait un air en nouant sa cravate la plus sinistre pour aller travailler et Mrs Dursley racontait d’un ton badin les derniers potins du quartier en s’efforçant d’installer sur sa chaise de bébé le jeune Dudley qui braillait de toute la force de ses poumons.
+raconter         	Mr Dursley fredonnait un air en nouant sa cravate la plus sinistre pour aller travailler et Mrs Dursley racontait d’un ton badin les derniers potins du quartier en s’efforçant d’installer sur sa chaise de bébé le jeune Dudley qui braillait de toute la force de ses poumons.
+ton              	Mr Dursley fredonnait un air en nouant sa cravate la plus sinistre pour aller travailler et Mrs Dursley racontait d’un ton badin les derniers potins du quartier en s’efforçant d’installer sur sa chaise de bébé le jeune Dudley qui braillait de toute la force de ses poumons.
+badin            	Mr Dursley fredonnait un air en nouant sa cravate la plus sinistre pour aller travailler et Mrs Dursley racontait d’un ton badin les derniers potins du quartier en s’efforçant d’installer sur sa chaise de bébé le jeune Dudley qui braillait de toute la force de ses poumons.
+dernier          	Mr Dursley fredonnait un air en nouant sa cravate la plus sinistre pour aller travailler et Mrs Dursley racontait d’un ton badin les derniers potins du quartier en s’efforçant d’installer sur sa chaise de bébé le jeune Dudley qui braillait de toute la force de ses poumons.
+potin            	Mr Dursley fredonnait un air en nouant sa cravate la plus sinistre pour aller travailler et Mrs Dursley racontait d’un ton badin les derniers potins du quartier en s’efforçant d’installer sur sa chaise de bébé le jeune Dudley qui braillait de toute la force de ses poumons.
+quartier         	Mr Dursley fredonnait un air en nouant sa cravate la plus sinistre pour aller travailler et Mrs Dursley racontait d’un ton badin les derniers potins du quartier en s’efforçant d’installer sur sa chaise de bébé le jeune Dudley qui braillait de toute la force de ses poumons.
+efforcer         	Mr Dursley fredonnait un air en nouant sa cravate la plus sinistre pour aller travailler et Mrs Dursley racontait d’un ton badin les derniers potins du quartier en s’efforçant d’installer sur sa chaise de bébé le jeune Dudley qui braillait de toute la force de ses poumons.
+installer        	Mr Dursley fredonnait un air en nouant sa cravate la plus sinistre pour aller travailler et Mrs Dursley racontait d’un ton badin les derniers potins du quartier en s’efforçant d’installer sur sa chaise de bébé le jeune Dudley qui braillait de toute la force de ses poumons.
+sur              	Mr Dursley fredonnait un air en nouant sa cravate la plus sinistre pour aller travailler et Mrs Dursley racontait d’un ton badin les derniers potins du quartier en s’efforçant d’installer sur sa chaise de bébé le jeune Dudley qui braillait de toute la force de ses poumons.
+chaise           	Mr Dursley fredonnait un air en nouant sa cravate la plus sinistre pour aller travailler et Mrs Dursley racontait d’un ton badin les derniers potins du quartier en s’efforçant d’installer sur sa chaise de bébé le jeune Dudley qui braillait de toute la force de ses poumons.
+bébé             	Mr Dursley fredonnait un air en nouant sa cravate la plus sinistre pour aller travailler et Mrs Dursley racontait d’un ton badin les derniers potins du quartier en s’efforçant d’installer sur sa chaise de bébé le jeune Dudley qui braillait de toute la force de ses poumons.
+jeune            	Mr Dursley fredonnait un air en nouant sa cravate la plus sinistre pour aller travailler et Mrs Dursley racontait d’un ton badin les derniers potins du quartier en s’efforçant d’installer sur sa chaise de bébé le jeune Dudley qui braillait de toute la force de ses poumons.
+brailler         	Mr Dursley fredonnait un air en nouant sa cravate la plus sinistre pour aller travailler et Mrs Dursley racontait d’un ton badin les derniers potins du quartier en s’efforçant d’installer sur sa chaise de bébé le jeune Dudley qui braillait de toute la force de ses poumons.
+force            	Mr Dursley fredonnait un air en nouant sa cravate la plus sinistre pour aller travailler et Mrs Dursley racontait d’un ton badin les derniers potins du quartier en s’efforçant d’installer sur sa chaise de bébé le jeune Dudley qui braillait de toute la force de ses poumons.
+poumon           	Mr Dursley fredonnait un air en nouant sa cravate la plus sinistre pour aller travailler et Mrs Dursley racontait d’un ton badin les derniers potins du quartier en s’efforçant d’installer sur sa chaise de bébé le jeune Dudley qui braillait de toute la force de ses poumons.
+aucun            	Aucun d’eux ne remarqua la grosse chouette hulotte au plumage mordoré qui voleta devant la fenêtre.
+remarquer        	Aucun d’eux ne remarqua la grosse chouette hulotte au plumage mordoré qui voleta devant la fenêtre.
+gros             	Aucun d’eux ne remarqua la grosse chouette hulotte au plumage mordoré qui voleta devant la fenêtre.
+chouette         	Aucun d’eux ne remarqua la grosse chouette hulotte au plumage mordoré qui voleta devant la fenêtre.
+hulotte          	Aucun d’eux ne remarqua la grosse chouette hulotte au plumage mordoré qui voleta devant la fenêtre.
+plumage          	Aucun d’eux ne remarqua la grosse chouette hulotte au plumage mordoré qui voleta devant la fenêtre.
+mordoré          	Aucun d’eux ne remarqua la grosse chouette hulotte au plumage mordoré qui voleta devant la fenêtre.
+voleter          	Aucun d’eux ne remarqua la grosse chouette hulotte au plumage mordoré qui voleta devant la fenêtre.
+devant           	Aucun d’eux ne remarqua la grosse chouette hulotte au plumage mordoré qui voleta devant la fenêtre.
+fenêtre          	Aucun d’eux ne remarqua la grosse chouette hulotte au plumage mordoré qui voleta devant la fenêtre.
+huit             	À huit heures et demie, Mr Dursley prit son attaché-case, déposa un baiser sur la joue de Mrs Dursley et essaya d’embrasser Dudley, mais sans succès, car celui-ci était en proie à une petite crise de colère et s’appliquait à jeter contre les murs de la pièce le contenu de son assiette de céréales.
+heure            	À huit heures et demie, Mr Dursley prit son attaché-case, déposa un baiser sur la joue de Mrs Dursley et essaya d’embrasser Dudley, mais sans succès, car celui-ci était en proie à une petite crise de colère et s’appliquait à jeter contre les murs de la pièce le contenu de son assiette de céréales.
+demie            	À huit heures et demie, Mr Dursley prit son attaché-case, déposa un baiser sur la joue de Mrs Dursley et essaya d’embrasser Dudley, mais sans succès, car celui-ci était en proie à une petite crise de colère et s’appliquait à jeter contre les murs de la pièce le contenu de son assiette de céréales.
+prendre          	À huit heures et demie, Mr Dursley prit son attaché-case, déposa un baiser sur la joue de Mrs Dursley et essaya d’embrasser Dudley, mais sans succès, car celui-ci était en proie à une petite crise de colère et s’appliquait à jeter contre les murs de la pièce le contenu de son assiette de céréales.
+attaché-case     	À huit heures et demie, Mr Dursley prit son attaché-case, déposa un baiser sur la joue de Mrs Dursley et essaya d’embrasser Dudley, mais sans succès, car celui-ci était en proie à une petite crise de colère et s’appliquait à jeter contre les murs de la pièce le contenu de son assiette de céréales.
+déposer          	À huit heures et demie, Mr Dursley prit son attaché-case, déposa un baiser sur la joue de Mrs Dursley et essaya d’embrasser Dudley, mais sans succès, car celui-ci était en proie à une petite crise de colère et s’appliquait à jeter contre les murs de la pièce le contenu de son assiette de céréales.
+baiser           	À huit heures et demie, Mr Dursley prit son attaché-case, déposa un baiser sur la joue de Mrs Dursley et essaya d’embrasser Dudley, mais sans succès, car celui-ci était en proie à une petite crise de colère et s’appliquait à jeter contre les murs de la pièce le contenu de son assiette de céréales.
+joue             	À huit heures et demie, Mr Dursley prit son attaché-case, déposa un baiser sur la joue de Mrs Dursley et essaya d’embrasser Dudley, mais sans succès, car celui-ci était en proie à une petite crise de colère et s’appliquait à jeter contre les murs de la pièce le contenu de son assiette de céréales.
+essayer          	À huit heures et demie, Mr Dursley prit son attaché-case, déposa un baiser sur la joue de Mrs Dursley et essaya d’embrasser Dudley, mais sans succès, car celui-ci était en proie à une petite crise de colère et s’appliquait à jeter contre les murs de la pièce le contenu de son assiette de céréales.
+embrasser        	À huit heures et demie, Mr Dursley prit son attaché-case, déposa un baiser sur la joue de Mrs Dursley et essaya d’embrasser Dudley, mais sans succès, car celui-ci était en proie à une petite crise de colère et s’appliquait à jeter contre les murs de la pièce le contenu de son assiette de céréales.
+sans             	À huit heures et demie, Mr Dursley prit son attaché-case, déposa un baiser sur la joue de Mrs Dursley et essaya d’embrasser Dudley, mais sans succès, car celui-ci était en proie à une petite crise de colère et s’appliquait à jeter contre les murs de la pièce le contenu de son assiette de céréales.
+succès           	À huit heures et demie, Mr Dursley prit son attaché-case, déposa un baiser sur la joue de Mrs Dursley et essaya d’embrasser Dudley, mais sans succès, car celui-ci était en proie à une petite crise de colère et s’appliquait à jeter contre les murs de la pièce le contenu de son assiette de céréales.
+proie            	À huit heures et demie, Mr Dursley prit son attaché-case, déposa un baiser sur la joue de Mrs Dursley et essaya d’embrasser Dudley, mais sans succès, car celui-ci était en proie à une petite crise de colère et s’appliquait à jeter contre les murs de la pièce le contenu de son assiette de céréales.
+crise            	À huit heures et demie, Mr Dursley prit son attaché-case, déposa un baiser sur la joue de Mrs Dursley et essaya d’embrasser Dudley, mais sans succès, car celui-ci était en proie à une petite crise de colère et s’appliquait à jeter contre les murs de la pièce le contenu de son assiette de céréales.
+colère           	À huit heures et demie, Mr Dursley prit son attaché-case, déposa un baiser sur la joue de Mrs Dursley et essaya d’embrasser Dudley, mais sans succès, car celui-ci était en proie à une petite crise de colère et s’appliquait à jeter contre les murs de la pièce le contenu de son assiette de céréales.
+appliquer        	À huit heures et demie, Mr Dursley prit son attaché-case, déposa un baiser sur la joue de Mrs Dursley et essaya d’embrasser Dudley, mais sans succès, car celui-ci était en proie à une petite crise de colère et s’appliquait à jeter contre les murs de la pièce le contenu de son assiette de céréales.
+jeter            	À huit heures et demie, Mr Dursley prit son attaché-case, déposa un baiser sur la joue de Mrs Dursley et essaya d’embrasser Dudley, mais sans succès, car celui-ci était en proie à une petite crise de colère et s’appliquait à jeter contre les murs de la pièce le contenu de son assiette de céréales.
+contre           	À huit heures et demie, Mr Dursley prit son attaché-case, déposa un baiser sur la joue de Mrs Dursley et essaya d’embrasser Dudley, mais sans succès, car celui-ci était en proie à une petite crise de colère et s’appliquait à jeter contre les murs de la pièce le contenu de son assiette de céréales.
+mur              	À huit heures et demie, Mr Dursley prit son attaché-case, déposa un baiser sur la joue de Mrs Dursley et essaya d’embrasser Dudley, mais sans succès, car celui-ci était en proie à une petite crise de colère et s’appliquait à jeter contre les murs de la pièce le contenu de son assiette de céréales.
+pièce            	À huit heures et demie, Mr Dursley prit son attaché-case, déposa un baiser sur la joue de Mrs Dursley et essaya d’embrasser Dudley, mais sans succès, car celui-ci était en proie à une petite crise de colère et s’appliquait à jeter contre les murs de la pièce le contenu de son assiette de céréales.
+contenu          	À huit heures et demie, Mr Dursley prit son attaché-case, déposa un baiser sur la joue de Mrs Dursley et essaya d’embrasser Dudley, mais sans succès, car celui-ci était en proie à une petite crise de colère et s’appliquait à jeter contre les murs de la pièce le contenu de son assiette de céréales.
+assiette         	À huit heures et demie, Mr Dursley prit son attaché-case, déposa un baiser sur la joue de Mrs Dursley et essaya d’embrasser Dudley, mais sans succès, car celui-ci était en proie à une petite crise de colère et s’appliquait à jeter contre les murs de la pièce le contenu de son assiette de céréales.
+céréale          	À huit heures et demie, Mr Dursley prit son attaché-case, déposa un baiser sur la joue de Mrs Dursley et essaya d’embrasser Dudley, mais sans succès, car celui-ci était en proie à une petite crise de colère et s’appliquait à jeter contre les murs de la pièce le contenu de son assiette de céréales.
+sacré            	Sacré petit bonhomme, gloussa Mr Dursley en quittant la maison.
+bonhomme         	Sacré petit bonhomme, gloussa Mr Dursley en quittant la maison.
+glousser         	Sacré petit bonhomme, gloussa Mr Dursley en quittant la maison.
+quitter          	Sacré petit bonhomme, gloussa Mr Dursley en quittant la maison.
+maison           	Sacré petit bonhomme, gloussa Mr Dursley en quittant la maison.
+monter           	Il monta dans sa voiture et recula le long de l’allée qui menait à sa maison.
+voiture          	Il monta dans sa voiture et recula le long de l’allée qui menait à sa maison.
+reculer          	Il monta dans sa voiture et recula le long de l’allée qui menait à sa maison.
+allée            	Il monta dans sa voiture et recula le long de l’allée qui menait à sa maison.
+mener            	Il monta dans sa voiture et recula le long de l’allée qui menait à sa maison.
+coin             	Ce fut au coin de la rue qu’il remarqua pour la première fois un détail insolite : un chat qui lisait une carte routière.
+premier          	Ce fut au coin de la rue qu’il remarqua pour la première fois un détail insolite : un chat qui lisait une carte routière.
+détail           	Ce fut au coin de la rue qu’il remarqua pour la première fois un détail insolite : un chat qui lisait une carte routière.
+insolite         	Ce fut au coin de la rue qu’il remarqua pour la première fois un détail insolite : un chat qui lisait une carte routière.
+chat             	Ce fut au coin de la rue qu’il remarqua pour la première fois un détail insolite : un chat qui lisait une carte routière.
+lire             	Ce fut au coin de la rue qu’il remarqua pour la première fois un détail insolite : un chat qui lisait une carte routière.
+carte            	Ce fut au coin de la rue qu’il remarqua pour la première fois un détail insolite : un chat qui lisait une carte routière.
+routier          	Ce fut au coin de la rue qu’il remarqua pour la première fois un détail insolite : un chat qui lisait une carte routière.
+pendant          	Pendant un instant, Mr Dursley ne comprit pas très bien ce qu’il venait de voir.
+instant          	Pendant un instant, Mr Dursley ne comprit pas très bien ce qu’il venait de voir.
+comprendre       	Pendant un instant, Mr Dursley ne comprit pas très bien ce qu’il venait de voir.
+très             	Pendant un instant, Mr Dursley ne comprit pas très bien ce qu’il venait de voir.
+bien             	Pendant un instant, Mr Dursley ne comprit pas très bien ce qu’il venait de voir.
+tourner          	Il tourna alors la tête pour regarder une deuxième fois.
+alors            	Il tourna alors la tête pour regarder une deuxième fois.
+tête             	Il tourna alors la tête pour regarder une deuxième fois.
+deuxième         	Il tourna alors la tête pour regarder une deuxième fois.
+y                	Il y avait bien un chat tigré, assis au coin de Privet Drive, mais pas la moindre trace de carte routière.
+tigré            	Il y avait bien un chat tigré, assis au coin de Privet Drive, mais pas la moindre trace de carte routière.
+asseoir          	Il y avait bien un chat tigré, assis au coin de Privet Drive, mais pas la moindre trace de carte routière.
+moindre          	Il y avait bien un chat tigré, assis au coin de Privet Drive, mais pas la moindre trace de carte routière.
+trace            	Il y avait bien un chat tigré, assis au coin de Privet Drive, mais pas la moindre trace de carte routière.
+passer           	Qu’est-ce qui avait bien pu lui passer par la tête ?
+devoir           	Il avait dû se laisser abuser par un reflet du soleil sur le trottoir.
+abuser           	Il avait dû se laisser abuser par un reflet du soleil sur le trottoir.
+reflet           	Il avait dû se laisser abuser par un reflet du soleil sur le trottoir.
+soleil           	Il avait dû se laisser abuser par un reflet du soleil sur le trottoir.
+trottoir         	Il avait dû se laisser abuser par un reflet du soleil sur le trottoir.
+cligner          	Mr Dursley cligna des yeux et regarda fixement le chat.
+fixement         	Mr Dursley cligna des yeux et regarda fixement le chat.
+celui-ci         	Celui-ci soutint son regard.
+soutenir         	Celui-ci soutint son regard.
+regard           	Celui-ci soutint son regard.
+tandis           	Tandis qu’il tournait le coin de la rue et s’engageait sur la route, Mr Dursley continua d’observer le chat dans son rétroviseur.
+engager          	Tandis qu’il tournait le coin de la rue et s’engageait sur la route, Mr Dursley continua d’observer le chat dans son rétroviseur.
+route            	Tandis qu’il tournait le coin de la rue et s’engageait sur la route, Mr Dursley continua d’observer le chat dans son rétroviseur.
+continuer        	Tandis qu’il tournait le coin de la rue et s’engageait sur la route, Mr Dursley continua d’observer le chat dans son rétroviseur.
+observer         	Tandis qu’il tournait le coin de la rue et s’engageait sur la route, Mr Dursley continua d’observer le chat dans son rétroviseur.
+rétroviseur      	Tandis qu’il tournait le coin de la rue et s’engageait sur la route, Mr Dursley continua d’observer le chat dans son rétroviseur.
+animal           	L’animal était en train de lire la plaque qui indiquait « Privet Drive »
+train            	L’animal était en train de lire la plaque qui indiquait « Privet Drive »
+plaque           	L’animal était en train de lire la plaque qui indiquait « Privet Drive »
+indiquer         	L’animal était en train de lire la plaque qui indiquait « Privet Drive »
+non              	– mais non, voyons, il ne lisait pas, il regardait la plaque.
+incapable        	Les chats sont incapables de lire des cartes ou des écriteaux.
+écriteau         	Les chats sont incapables de lire des cartes ou des écriteaux.
+ressaisir        	Mr Dursley se ressaisit et chassa le chat tigré de son esprit.
+chasser          	Mr Dursley se ressaisit et chassa le chat tigré de son esprit.
+tigré            	Mr Dursley se ressaisit et chassa le chat tigré de son esprit.
+esprit           	Mr Dursley se ressaisit et chassa le chat tigré de son esprit.
+durer            	Durant le trajet qui le menait vers la ville, il concentra ses pensées sur la grosse commande de perceuses qu’il espérait obtenir ce jour-là.
+trajet           	Durant le trajet qui le menait vers la ville, il concentra ses pensées sur la grosse commande de perceuses qu’il espérait obtenir ce jour-là.
+vers             	Durant le trajet qui le menait vers la ville, il concentra ses pensées sur la grosse commande de perceuses qu’il espérait obtenir ce jour-là.
+ville            	Durant le trajet qui le menait vers la ville, il concentra ses pensées sur la grosse commande de perceuses qu’il espérait obtenir ce jour-là.
+concentrer       	Durant le trajet qui le menait vers la ville, il concentra ses pensées sur la grosse commande de perceuses qu’il espérait obtenir ce jour-là.
+commande         	Durant le trajet qui le menait vers la ville, il concentra ses pensées sur la grosse commande de perceuses qu’il espérait obtenir ce jour-là.
+espérer          	Durant le trajet qui le menait vers la ville, il concentra ses pensées sur la grosse commande de perceuses qu’il espérait obtenir ce jour-là.
+obtenir          	Durant le trajet qui le menait vers la ville, il concentra ses pensées sur la grosse commande de perceuses qu’il espérait obtenir ce jour-là.
+parvenir         	Mais lorsqu’il parvint aux abords de la ville quelque chose d’autre chassa les perceuses de sa tête.
+abord            	Mais lorsqu’il parvint aux abords de la ville quelque chose d’autre chassa les perceuses de sa tête.
+quelque          	Mais lorsqu’il parvint aux abords de la ville quelque chose d’autre chassa les perceuses de sa tête.
+autre            	Mais lorsqu’il parvint aux abords de la ville quelque chose d’autre chassa les perceuses de sa tête.
+asseoir          	Assis au milieu des habituels embouteillages du matin, il fut bien forcé de remarquer la présence de plusieurs passants vêtus d’une étrange façon : ils portaient des capes.
+milieu           	Assis au milieu des habituels embouteillages du matin, il fut bien forcé de remarquer la présence de plusieurs passants vêtus d’une étrange façon : ils portaient des capes.
+habituel         	Assis au milieu des habituels embouteillages du matin, il fut bien forcé de remarquer la présence de plusieurs passants vêtus d’une étrange façon : ils portaient des capes.
+embouteillage    	Assis au milieu des habituels embouteillages du matin, il fut bien forcé de remarquer la présence de plusieurs passants vêtus d’une étrange façon : ils portaient des capes.
+forcer           	Assis au milieu des habituels embouteillages du matin, il fut bien forcé de remarquer la présence de plusieurs passants vêtus d’une étrange façon : ils portaient des capes.
+présence         	Assis au milieu des habituels embouteillages du matin, il fut bien forcé de remarquer la présence de plusieurs passants vêtus d’une étrange façon : ils portaient des capes.
+plusieurs        	Assis au milieu des habituels embouteillages du matin, il fut bien forcé de remarquer la présence de plusieurs passants vêtus d’une étrange façon : ils portaient des capes.
+passant          	Assis au milieu des habituels embouteillages du matin, il fut bien forcé de remarquer la présence de plusieurs passants vêtus d’une étrange façon : ils portaient des capes.
+vêtir            	Assis au milieu des habituels embouteillages du matin, il fut bien forcé de remarquer la présence de plusieurs passants vêtus d’une étrange façon : ils portaient des capes.
+façon            	Assis au milieu des habituels embouteillages du matin, il fut bien forcé de remarquer la présence de plusieurs passants vêtus d’une étrange façon : ils portaient des capes.
+porter           	Assis au milieu des habituels embouteillages du matin, il fut bien forcé de remarquer la présence de plusieurs passants vêtus d’une étrange façon : ils portaient des capes.
+cape             	Assis au milieu des habituels embouteillages du matin, il fut bien forcé de remarquer la présence de plusieurs passants vêtus d’une étrange façon : ils portaient des capes.
+supporter        	Mr Dursley ne supportait pas les gens qui s’habillaient d’une manière extravagante – les jeunes avaient parfois de ces accoutrements !
+gens             	Mr Dursley ne supportait pas les gens qui s’habillaient d’une manière extravagante – les jeunes avaient parfois de ces accoutrements !
+habiller         	Mr Dursley ne supportait pas les gens qui s’habillaient d’une manière extravagante – les jeunes avaient parfois de ces accoutrements !
+manière          	Mr Dursley ne supportait pas les gens qui s’habillaient d’une manière extravagante – les jeunes avaient parfois de ces accoutrements !
+extravagant      	Mr Dursley ne supportait pas les gens qui s’habillaient d’une manière extravagante – les jeunes avaient parfois de ces accoutrements !
+parfois          	Mr Dursley ne supportait pas les gens qui s’habillaient d’une manière extravagante – les jeunes avaient parfois de ces accoutrements !
+accoutrement     	Mr Dursley ne supportait pas les gens qui s’habillaient d’une manière extravagante – les jeunes avaient parfois de ces accoutrements !
+penser           	Il pensa qu’il s’agissait d’une nouvelle mode particulièrement stupide.
+agir             	Il pensa qu’il s’agissait d’une nouvelle mode particulièrement stupide.
+nouveau          	Il pensa qu’il s’agissait d’une nouvelle mode particulièrement stupide.
+mode             	Il pensa qu’il s’agissait d’une nouvelle mode particulièrement stupide.
+particulièrement 	Il pensa qu’il s’agissait d’une nouvelle mode particulièrement stupide.
+stupide          	Il pensa qu’il s’agissait d’une nouvelle mode particulièrement stupide.
+pianoter         	Il pianota sur le volant de sa voiture et son regard rencontra un groupe de ces olibrius qui se chuchotaient des choses à l’oreille d’un air surexcité.
+volant           	Il pianota sur le volant de sa voiture et son regard rencontra un groupe de ces olibrius qui se chuchotaient des choses à l’oreille d’un air surexcité.
+rencontrer       	Il pianota sur le volant de sa voiture et son regard rencontra un groupe de ces olibrius qui se chuchotaient des choses à l’oreille d’un air surexcité.
+groupe           	Il pianota sur le volant de sa voiture et son regard rencontra un groupe de ces olibrius qui se chuchotaient des choses à l’oreille d’un air surexcité.
+olibrius         	Il pianota sur le volant de sa voiture et son regard rencontra un groupe de ces olibrius qui se chuchotaient des choses à l’oreille d’un air surexcité.
+chuchoter        	Il pianota sur le volant de sa voiture et son regard rencontra un groupe de ces olibrius qui se chuchotaient des choses à l’oreille d’un air surexcité.
+oreille          	Il pianota sur le volant de sa voiture et son regard rencontra un groupe de ces olibrius qui se chuchotaient des choses à l’oreille d’un air surexcité.
+surexciter       	Il pianota sur le volant de sa voiture et son regard rencontra un groupe de ces olibrius qui se chuchotaient des choses à l’oreille d’un air surexcité.
+irriter          	Mr Dursley s’irrita en voyant que deux d’entre eux n’étaient pas jeunes du tout.
+entrer           	Mr Dursley s’irrita en voyant que deux d’entre eux n’étaient pas jeunes du tout.
+là-bas           	Cet homme, là-bas, était sûrement plus âgé que lui, ce qui ne l’empêchait pas de porter une cape vert émeraude !
+sûrement         	Cet homme, là-bas, était sûrement plus âgé que lui, ce qui ne l’empêchait pas de porter une cape vert émeraude !
+âgé              	Cet homme, là-bas, était sûrement plus âgé que lui, ce qui ne l’empêchait pas de porter une cape vert émeraude !
+empêcher         	Cet homme, là-bas, était sûrement plus âgé que lui, ce qui ne l’empêchait pas de porter une cape vert émeraude !
+vert             	Cet homme, là-bas, était sûrement plus âgé que lui, ce qui ne l’empêchait pas de porter une cape vert émeraude !
+émeraude         	Cet homme, là-bas, était sûrement plus âgé que lui, ce qui ne l’empêchait pas de porter une cape vert émeraude !
+quel             	Quelle impudence !
+impudence        	Quelle impudence !
+animation        	Mr Dursley pensa alors qu’il devait y avoir une animation de rue – ces gens étaient probablement là pour collecter de l’argent au profit d’une œuvre quelconque.
+probablement     	Mr Dursley pensa alors qu’il devait y avoir une animation de rue – ces gens étaient probablement là pour collecter de l’argent au profit d’une œuvre quelconque.
+collecter        	Mr Dursley pensa alors qu’il devait y avoir une animation de rue – ces gens étaient probablement là pour collecter de l’argent au profit d’une œuvre quelconque.
+argent           	Mr Dursley pensa alors qu’il devait y avoir une animation de rue – ces gens étaient probablement là pour collecter de l’argent au profit d’une œuvre quelconque.
+profit           	Mr Dursley pensa alors qu’il devait y avoir une animation de rue – ces gens étaient probablement là pour collecter de l’argent au profit d’une œuvre quelconque.
+œuvre            	Mr Dursley pensa alors qu’il devait y avoir une animation de rue – ces gens étaient probablement là pour collecter de l’argent au profit d’une œuvre quelconque.
+quelconque       	Mr Dursley pensa alors qu’il devait y avoir une animation de rue – ces gens étaient probablement là pour collecter de l’argent au profit d’une œuvre quelconque.
+cela             	Ce ne pouvait être que ça.
+file             	La file des voitures se remit en mouvement et quelques minutes plus tard, Mr Dursley se rangea dans le parking de la Grunnings.
+mouvement        	La file des voitures se remit en mouvement et quelques minutes plus tard, Mr Dursley se rangea dans le parking de la Grunnings.
+minute           	La file des voitures se remit en mouvement et quelques minutes plus tard, Mr Dursley se rangea dans le parking de la Grunnings.
+tard             	La file des voitures se remit en mouvement et quelques minutes plus tard, Mr Dursley se rangea dans le parking de la Grunnings.
+ranger           	La file des voitures se remit en mouvement et quelques minutes plus tard, Mr Dursley se rangea dans le parking de la Grunnings.
+parking          	La file des voitures se remit en mouvement et quelques minutes plus tard, Mr Dursley se rangea dans le parking de la Grunnings.
+reprendre        	Les perceuses avaient repris leur place dans ses pensées.
+place            	Les perceuses avaient repris leur place dans ses pensées.
+bureau           	Dans son bureau du neuvième étage, Mr Dursley s’asseyait toujours dos à la fenêtre.
+neuvième         	Dans son bureau du neuvième étage, Mr Dursley s’asseyait toujours dos à la fenêtre.
+étage            	Dans son bureau du neuvième étage, Mr Dursley s’asseyait toujours dos à la fenêtre.
+dos              	Dans son bureau du neuvième étage, Mr Dursley s’asseyait toujours dos à la fenêtre.
+autrement        	S’il en avait été autrement, il aurait sans doute eu un peu plus de mal que d’habitude à se concentrer sur ses perceuses, ce matin-là.
+doute            	S’il en avait été autrement, il aurait sans doute eu un peu plus de mal que d’habitude à se concentrer sur ses perceuses, ce matin-là.
+peu              	S’il en avait été autrement, il aurait sans doute eu un peu plus de mal que d’habitude à se concentrer sur ses perceuses, ce matin-là.
+mal              	S’il en avait été autrement, il aurait sans doute eu un peu plus de mal que d’habitude à se concentrer sur ses perceuses, ce matin-là.
+habitude         	S’il en avait été autrement, il aurait sans doute eu un peu plus de mal que d’habitude à se concentrer sur ses perceuses, ce matin-là.
+hibou            	Il ne vit pas les hiboux qui volaient à tire-d’aile en plein jour.
+voler            	Il ne vit pas les hiboux qui volaient à tire-d’aile en plein jour.
+plein            	Il ne vit pas les hiboux qui volaient à tire-d’aile en plein jour.
+bouche           	Bouche
+bée              	bée, ils pointaient le doigt vers le ciel, tandis que les rapaces filaient au-dessus de leur tête.
+pointer          	bée, ils pointaient le doigt vers le ciel, tandis que les rapaces filaient au-dessus de leur tête.
+doigt            	bée, ils pointaient le doigt vers le ciel, tandis que les rapaces filaient au-dessus de leur tête.
+rapace           	bée, ils pointaient le doigt vers le ciel, tandis que les rapaces filaient au-dessus de leur tête.
+filer            	bée, ils pointaient le doigt vers le ciel, tandis que les rapaces filaient au-dessus de leur tête.
+plupart          	La plupart d’entre eux n’avaient jamais vu de hibou, même la nuit.
+même             	La plupart d’entre eux n’avaient jamais vu de hibou, même la nuit.
+nuit             	La plupart d’entre eux n’avaient jamais vu de hibou, même la nuit.
+cependant        	Mr Dursley, cependant, ne remarqua rien d’anormal et aucun hibou ne vint troubler sa matinée.
+anormal          	Mr Dursley, cependant, ne remarqua rien d’anormal et aucun hibou ne vint troubler sa matinée.
+troubler         	Mr Dursley, cependant, ne remarqua rien d’anormal et aucun hibou ne vint troubler sa matinée.
+matinée          	Mr Dursley, cependant, ne remarqua rien d’anormal et aucun hibou ne vint troubler sa matinée.
+réprimander      	Il réprimanda vertement une demi-douzaine de ses employés, passa plusieurs coups de fil importants et poussa quelques hurlements supplémentaires.
+vertement        	Il réprimanda vertement une demi-douzaine de ses employés, passa plusieurs coups de fil importants et poussa quelques hurlements supplémentaires.
+employé          	Il réprimanda vertement une demi-douzaine de ses employés, passa plusieurs coups de fil importants et poussa quelques hurlements supplémentaires.
+coup             	Il réprimanda vertement une demi-douzaine de ses employés, passa plusieurs coups de fil importants et poussa quelques hurlements supplémentaires.
+fil              	Il réprimanda vertement une demi-douzaine de ses employés, passa plusieurs coups de fil importants et poussa quelques hurlements supplémentaires.
+important        	Il réprimanda vertement une demi-douzaine de ses employés, passa plusieurs coups de fil importants et poussa quelques hurlements supplémentaires.
+pousser          	Il réprimanda vertement une demi-douzaine de ses employés, passa plusieurs coups de fil importants et poussa quelques hurlements supplémentaires.
+hurlement        	Il réprimanda vertement une demi-douzaine de ses employés, passa plusieurs coups de fil importants et poussa quelques hurlements supplémentaires.
+sentir           	Il se sentit d’excellente humeur jusqu’à l’heure du déjeuner où il songea qu’il serait bon de se dégourdir un peu les jambes.
+excellent        	Il se sentit d’excellente humeur jusqu’à l’heure du déjeuner où il songea qu’il serait bon de se dégourdir un peu les jambes.
+humeur           	Il se sentit d’excellente humeur jusqu’à l’heure du déjeuner où il songea qu’il serait bon de se dégourdir un peu les jambes.
+déjeuner         	Il se sentit d’excellente humeur jusqu’à l’heure du déjeuner où il songea qu’il serait bon de se dégourdir un peu les jambes.
+songer           	Il se sentit d’excellente humeur jusqu’à l’heure du déjeuner où il songea qu’il serait bon de se dégourdir un peu les jambes.
+dégourdir        	Il se sentit d’excellente humeur jusqu’à l’heure du déjeuner où il songea qu’il serait bon de se dégourdir un peu les jambes.
+jambe            	Il se sentit d’excellente humeur jusqu’à l’heure du déjeuner où il songea qu’il serait bon de se dégourdir un peu les jambes.
+traverser        	Il traversa alors la rue pour aller s’acheter quelque chose à manger chez le boulanger d’en face.
+acheter          	Il traversa alors la rue pour aller s’acheter quelque chose à manger chez le boulanger d’en face.
+manger           	Il traversa alors la rue pour aller s’acheter quelque chose à manger chez le boulanger d’en face.
+chez             	Il traversa alors la rue pour aller s’acheter quelque chose à manger chez le boulanger d’en face.
+boulanger        	Il traversa alors la rue pour aller s’acheter quelque chose à manger chez le boulanger d’en face.
+face             	Il traversa alors la rue pour aller s’acheter quelque chose à manger chez le boulanger d’en face.
+complètement     	Les passants vêtus de capes lui étaient complètement sortis de la tête, mais lorsqu’il en vit à nouveau quelques-uns à proximité de la boulangerie, il passa devant eux en leur lançant un regard courroucé.
+sortir           	Les passants vêtus de capes lui étaient complètement sortis de la tête, mais lorsqu’il en vit à nouveau quelques-uns à proximité de la boulangerie, il passa devant eux en leur lançant un regard courroucé.
+proximité        	Les passants vêtus de capes lui étaient complètement sortis de la tête, mais lorsqu’il en vit à nouveau quelques-uns à proximité de la boulangerie, il passa devant eux en leur lançant un regard courroucé.
+boulangerie      	Les passants vêtus de capes lui étaient complètement sortis de la tête, mais lorsqu’il en vit à nouveau quelques-uns à proximité de la boulangerie, il passa devant eux en leur lançant un regard courroucé.
+lancer           	Les passants vêtus de capes lui étaient complètement sortis de la tête, mais lorsqu’il en vit à nouveau quelques-uns à proximité de la boulangerie, il passa devant eux en leur lançant un regard courroucé.
+courroucer       	Les passants vêtus de capes lui étaient complètement sortis de la tête, mais lorsqu’il en vit à nouveau quelques-uns à proximité de la boulangerie, il passa devant eux en leur lançant un regard courroucé.
+ignorer          	Il ignorait pourquoi, mais ils le mettaient mal à l’aise.
+pourquoi         	Il ignorait pourquoi, mais ils le mettaient mal à l’aise.
+aise             	Il ignorait pourquoi, mais ils le mettaient mal à l’aise.
+boîte            	Ceux-là aussi chuchotaient d’un air surexcité et il ne vit pas la moindre boîte destinée à récolter de l’argent.
+destiner         	Ceux-là aussi chuchotaient d’un air surexcité et il ne vit pas la moindre boîte destinée à récolter de l’argent.
+récolter         	Ceux-là aussi chuchotaient d’un air surexcité et il ne vit pas la moindre boîte destinée à récolter de l’argent.
+quand            	Quand il sortit de la boutique avec un gros beignet enveloppé dans un sac, il entendit quelques mots de leur conversation.
+boutique         	Quand il sortit de la boutique avec un gros beignet enveloppé dans un sac, il entendit quelques mots de leur conversation.
+beignet          	Quand il sortit de la boutique avec un gros beignet enveloppé dans un sac, il entendit quelques mots de leur conversation.
+envelopper       	Quand il sortit de la boutique avec un gros beignet enveloppé dans un sac, il entendit quelques mots de leur conversation.
+sac              	Quand il sortit de la boutique avec un gros beignet enveloppé dans un sac, il entendit quelques mots de leur conversation.
+mot              	Quand il sortit de la boutique avec un gros beignet enveloppé dans un sac, il entendit quelques mots de leur conversation.
+conversation     	Quand il sortit de la boutique avec un gros beignet enveloppé dans un sac, il entendit quelques mots de leur conversation.
+oui              	– Oui, leur fils, Harry… Mr Dursley s’immobilisa, envahi par une peur soudaine.
+fils             	– Oui, leur fils, Harry… Mr Dursley s’immobilisa, envahi par une peur soudaine.
+immobiliser      	– Oui, leur fils, Harry… Mr Dursley s’immobilisa, envahi par une peur soudaine.
+envahir          	– Oui, leur fils, Harry… Mr Dursley s’immobilisa, envahi par une peur soudaine.
+peur             	– Oui, leur fils, Harry… Mr Dursley s’immobilisa, envahi par une peur soudaine.
+soudain          	– Oui, leur fils, Harry… Mr Dursley s’immobilisa, envahi par une peur soudaine.
+apprêter         	Il tourna la tête vers les gens qui chuchotaient comme s’il s’apprêtait à leur dire quelque chose, mais il se ravisa.
+raviser          	Il tourna la tête vers les gens qui chuchotaient comme s’il s’apprêtait à leur dire quelque chose, mais il se ravisa.
+hâte             	Il traversa la rue en toute hâte, se dépêcha de remonter dans son bureau, ordonna d’un ton sec à sa secrétaire de ne pas le déranger, saisit son téléphone et avait presque fini de composer le numéro de sa maison lorsqu’il changea d’avis.
+dépêcher         	Il traversa la rue en toute hâte, se dépêcha de remonter dans son bureau, ordonna d’un ton sec à sa secrétaire de ne pas le déranger, saisit son téléphone et avait presque fini de composer le numéro de sa maison lorsqu’il changea d’avis.
+remonter         	Il traversa la rue en toute hâte, se dépêcha de remonter dans son bureau, ordonna d’un ton sec à sa secrétaire de ne pas le déranger, saisit son téléphone et avait presque fini de composer le numéro de sa maison lorsqu’il changea d’avis.
+ordonner         	Il traversa la rue en toute hâte, se dépêcha de remonter dans son bureau, ordonna d’un ton sec à sa secrétaire de ne pas le déranger, saisit son téléphone et avait presque fini de composer le numéro de sa maison lorsqu’il changea d’avis.
+sec              	Il traversa la rue en toute hâte, se dépêcha de remonter dans son bureau, ordonna d’un ton sec à sa secrétaire de ne pas le déranger, saisit son téléphone et avait presque fini de composer le numéro de sa maison lorsqu’il changea d’avis.
+secrétaire       	Il traversa la rue en toute hâte, se dépêcha de remonter dans son bureau, ordonna d’un ton sec à sa secrétaire de ne pas le déranger, saisit son téléphone et avait presque fini de composer le numéro de sa maison lorsqu’il changea d’avis.
+déranger         	Il traversa la rue en toute hâte, se dépêcha de remonter dans son bureau, ordonna d’un ton sec à sa secrétaire de ne pas le déranger, saisit son téléphone et avait presque fini de composer le numéro de sa maison lorsqu’il changea d’avis.
+saisir           	Il traversa la rue en toute hâte, se dépêcha de remonter dans son bureau, ordonna d’un ton sec à sa secrétaire de ne pas le déranger, saisit son téléphone et avait presque fini de composer le numéro de sa maison lorsqu’il changea d’avis.
+téléphone        	Il traversa la rue en toute hâte, se dépêcha de remonter dans son bureau, ordonna d’un ton sec à sa secrétaire de ne pas le déranger, saisit son téléphone et avait presque fini de composer le numéro de sa maison lorsqu’il changea d’avis.
+presque          	Il traversa la rue en toute hâte, se dépêcha de remonter dans son bureau, ordonna d’un ton sec à sa secrétaire de ne pas le déranger, saisit son téléphone et avait presque fini de composer le numéro de sa maison lorsqu’il changea d’avis.
+finir            	Il traversa la rue en toute hâte, se dépêcha de remonter dans son bureau, ordonna d’un ton sec à sa secrétaire de ne pas le déranger, saisit son téléphone et avait presque fini de composer le numéro de sa maison lorsqu’il changea d’avis.
+composer         	Il traversa la rue en toute hâte, se dépêcha de remonter dans son bureau, ordonna d’un ton sec à sa secrétaire de ne pas le déranger, saisit son téléphone et avait presque fini de composer le numéro de sa maison lorsqu’il changea d’avis.
+numéro           	Il traversa la rue en toute hâte, se dépêcha de remonter dans son bureau, ordonna d’un ton sec à sa secrétaire de ne pas le déranger, saisit son téléphone et avait presque fini de composer le numéro de sa maison lorsqu’il changea d’avis.
+changer          	Il traversa la rue en toute hâte, se dépêcha de remonter dans son bureau, ordonna d’un ton sec à sa secrétaire de ne pas le déranger, saisit son téléphone et avait presque fini de composer le numéro de sa maison lorsqu’il changea d’avis.
+avis             	Il traversa la rue en toute hâte, se dépêcha de remonter dans son bureau, ordonna d’un ton sec à sa secrétaire de ne pas le déranger, saisit son téléphone et avait presque fini de composer le numéro de sa maison lorsqu’il changea d’avis.
+reposer          	Il reposa le combiné et se caressa la moustache.
+combiné          	Il reposa le combiné et se caressa la moustache.
+caresser         	Il reposa le combiné et se caressa la moustache.
+réfléchir        	Il réfléchissait… non, décidément, il était idiot.
+décidément       	Il réfléchissait… non, décidément, il était idiot.
+idiot            	Il réfléchissait… non, décidément, il était idiot.
+nom              	Potter n’était pas un nom si rare.
+rare             	Potter n’était pas un nom si rare.
+sûr              	On pouvait être sûr qu’un grand nombre de Potter avaient un fils prénommé Harry.
+nombre           	On pouvait être sûr qu’un grand nombre de Potter avaient un fils prénommé Harry.
+repenser         	Et quand il y repensait, il n’était même pas certain que son neveu se prénomme véritablement Harry.
+certain          	Et quand il y repensait, il n’était même pas certain que son neveu se prénomme véritablement Harry.
+neveu            	Et quand il y repensait, il n’était même pas certain que son neveu se prénomme véritablement Harry.
+véritablement    	Et quand il y repensait, il n’était même pas certain que son neveu se prénomme véritablement Harry.
+après            	Après tout, il s’appelait peut-être Harvey.
+appeler          	Après tout, il s’appelait peut-être Harvey.
+inutile          	Il était inutile d’inquiéter Mrs Dursley pour si peu.
+inquiéter        	Il était inutile d’inquiéter Mrs Dursley pour si peu.
+allusion         	Toute allusion à sa sœur la mettait dans un tel état !
+tel              	Toute allusion à sa sœur la mettait dans un tel état !
+état             	Toute allusion à sa sœur la mettait dans un tel état !
+enfin            	Si lui-même avait eu une sœur comme celle-là… mais enfin quand même, tous ces gens vêtus de capes…
+beaucoup         	Cet après-midi-là, il lui fut beaucoup plus difficile de se concentrer sur ses perceuses et lorsqu’il quitta les bureaux à cinq heures, il était encore si préoccupé qu’il heurta quelqu’un juste devant la porte.
+difficile        	Cet après-midi-là, il lui fut beaucoup plus difficile de se concentrer sur ses perceuses et lorsqu’il quitta les bureaux à cinq heures, il était encore si préoccupé qu’il heurta quelqu’un juste devant la porte.
+cinq             	Cet après-midi-là, il lui fut beaucoup plus difficile de se concentrer sur ses perceuses et lorsqu’il quitta les bureaux à cinq heures, il était encore si préoccupé qu’il heurta quelqu’un juste devant la porte.
+encore           	Cet après-midi-là, il lui fut beaucoup plus difficile de se concentrer sur ses perceuses et lorsqu’il quitta les bureaux à cinq heures, il était encore si préoccupé qu’il heurta quelqu’un juste devant la porte.
+préoccuper       	Cet après-midi-là, il lui fut beaucoup plus difficile de se concentrer sur ses perceuses et lorsqu’il quitta les bureaux à cinq heures, il était encore si préoccupé qu’il heurta quelqu’un juste devant la porte.
+heurter          	Cet après-midi-là, il lui fut beaucoup plus difficile de se concentrer sur ses perceuses et lorsqu’il quitta les bureaux à cinq heures, il était encore si préoccupé qu’il heurta quelqu’un juste devant la porte.
+juste            	Cet après-midi-là, il lui fut beaucoup plus difficile de se concentrer sur ses perceuses et lorsqu’il quitta les bureaux à cinq heures, il était encore si préoccupé qu’il heurta quelqu’un juste devant la porte.
+porte            	Cet après-midi-là, il lui fut beaucoup plus difficile de se concentrer sur ses perceuses et lorsqu’il quitta les bureaux à cinq heures, il était encore si préoccupé qu’il heurta quelqu’un juste devant la porte.
+navrer           	– Navré, grommela-t-il au vieil homme minuscule qu’il avait manqué de faire tomber.
+grommeler        	– Navré, grommela-t-il au vieil homme minuscule qu’il avait manqué de faire tomber.
+vieux            	– Navré, grommela-t-il au vieil homme minuscule qu’il avait manqué de faire tomber.
+minuscule        	– Navré, grommela-t-il au vieil homme minuscule qu’il avait manqué de faire tomber.
+manquer          	– Navré, grommela-t-il au vieil homme minuscule qu’il avait manqué de faire tomber.
+tomber           	– Navré, grommela-t-il au vieil homme minuscule qu’il avait manqué de faire tomber.
+seconde          	Il se passa quelques secondes avant que Mr Dursley se rende compte que l’homme portait une cape violette.
+avant            	Il se passa quelques secondes avant que Mr Dursley se rende compte que l’homme portait une cape violette.
+rendre           	Il se passa quelques secondes avant que Mr Dursley se rende compte que l’homme portait une cape violette.
+compte           	Il se passa quelques secondes avant que Mr Dursley se rende compte que l’homme portait une cape violette.
+violette         	Il se passa quelques secondes avant que Mr Dursley se rende compte que l’homme portait une cape violette.
+renverser        	Le fait d’avoir été presque renversé ne semblait pas avoir affecté son humeur.
+sembler          	Le fait d’avoir été presque renversé ne semblait pas avoir affecté son humeur.
+affecter         	Le fait d’avoir été presque renversé ne semblait pas avoir affecté son humeur.
+contraire        	Au contraire, son visage se fendit d’un large sourire tandis qu’il répondait d’une petite voix perçante qui lui attira le regard des passants :
+visage           	Au contraire, son visage se fendit d’un large sourire tandis qu’il répondait d’une petite voix perçante qui lui attira le regard des passants :
+fendre           	Au contraire, son visage se fendit d’un large sourire tandis qu’il répondait d’une petite voix perçante qui lui attira le regard des passants :
+large            	Au contraire, son visage se fendit d’un large sourire tandis qu’il répondait d’une petite voix perçante qui lui attira le regard des passants :
+sourire          	Au contraire, son visage se fendit d’un large sourire tandis qu’il répondait d’une petite voix perçante qui lui attira le regard des passants :
+répondre         	Au contraire, son visage se fendit d’un large sourire tandis qu’il répondait d’une petite voix perçante qui lui attira le regard des passants :
+voix             	Au contraire, son visage se fendit d’un large sourire tandis qu’il répondait d’une petite voix perçante qui lui attira le regard des passants :
+perçant          	Au contraire, son visage se fendit d’un large sourire tandis qu’il répondait d’une petite voix perçante qui lui attira le regard des passants :
+attirer          	Au contraire, son visage se fendit d’un large sourire tandis qu’il répondait d’une petite voix perçante qui lui attira le regard des passants :
+navrer           	– Ne soyez pas navré, mon cher Monsieur.
+mon              	– Ne soyez pas navré, mon cher Monsieur.
+cher             	– Ne soyez pas navré, mon cher Monsieur.
+monsieur         	– Ne soyez pas navré, mon cher Monsieur.
+me               	Rien aujourd’hui ne saurait me mettre en colère.
+réjouir          	Réjouissez-vous, puisque Vous-Savez-Qui a enfin disparu.
+puisque          	Réjouissez-vous, puisque Vous-Savez-Qui a enfin disparu.
+vous             	Réjouissez-vous, puisque Vous-Savez-Qui a enfin disparu.
+savoir           	Réjouissez-vous, puisque Vous-Savez-Qui a enfin disparu.
+disparaître      	Réjouissez-vous, puisque Vous-Savez-Qui a enfin disparu.
+fêter            	Même les Moldus comme vous devraient fêter cet heureux, très heureux jour !
+heureux          	Même les Moldus comme vous devraient fêter cet heureux, très heureux jour !
+serrer           	Le vieil homme prit alors Mr Dursley par la taille et le serra contre lui avant de poursuivre son chemin.
+poursuivre       	Le vieil homme prit alors Mr Dursley par la taille et le serra contre lui avant de poursuivre son chemin.
+chemin           	Le vieil homme prit alors Mr Dursley par la taille et le serra contre lui avant de poursuivre son chemin.
+rester           	Mr Dursley resta cloué sur place.
+clouer           	Mr Dursley resta cloué sur place.
+bras             	Quelqu’un qu’il n’avait jamais vu venait de le prendre dans ses bras.
+sens             	Et l’avait appelé « Moldu », ce qui n’avait aucun sens.
+retourner        	Il en était tout retourné et se dépêcha de remonter dans sa voiture.
+victime          	Il prit alors le chemin de sa maison en espérant qu’il avait été victime de son imagination.
+imagination      	Il prit alors le chemin de sa maison en espérant qu’il avait été victime de son imagination.
+pareil           	C’était bien la première fois qu’il espérait une chose pareille, car il détestait tout ce qui avait trait à l’imagination.
+détester         	C’était bien la première fois qu’il espérait une chose pareille, car il détestait tout ce qui avait trait à l’imagination.
+trait            	C’était bien la première fois qu’il espérait une chose pareille, car il détestait tout ce qui avait trait à l’imagination.
+améliorer        	Lorsqu’il s’engagea dans l’allée du numéro 4 de sa rue, la première chose qu’il vit – et qui n’améliora pas son humeur – ce fut le chat tigré qu’il avait déjà remarqué le matin même.
+déjà             	Lorsqu’il s’engagea dans l’allée du numéro 4 de sa rue, la première chose qu’il vit – et qui n’améliora pas son humeur – ce fut le chat tigré qu’il avait déjà remarqué le matin même.
+présent          	À présent, l’animal était assis sur le mur de son jardin.
+reconnaître      	Il reconnaissait les dessins de son pelage autour des yeux.
+dessin           	Il reconnaissait les dessins de son pelage autour des yeux.
+pelage           	Il reconnaissait les dessins de son pelage autour des yeux.
+autour           	Il reconnaissait les dessins de son pelage autour des yeux.
+aller            	– Allez, ouste !
+ouste            	– Allez, ouste !
+exclamer         	s’exclama Mr Dursley.
+bouger           	Le chat ne bougea pas.
+contenter        	Il se contenta de le regarder d’un air sévère.
+sévère           	Il se contenta de le regarder d’un air sévère.
+demander         	Mr Dursley se demanda si c’était un comportement normal pour un chat.
+comportement     	Mr Dursley se demanda si c’était un comportement normal pour un chat.
+essayer          	Essayant de reprendre contenance, il entra dans sa maison, toujours décidé à ne rien révéler à sa femme.
+contenance       	Essayant de reprendre contenance, il entra dans sa maison, toujours décidé à ne rien révéler à sa femme.
+décider          	Essayant de reprendre contenance, il entra dans sa maison, toujours décidé à ne rien révéler à sa femme.
+révéler          	Essayant de reprendre contenance, il entra dans sa maison, toujours décidé à ne rien révéler à sa femme.
+femme            	Essayant de reprendre contenance, il entra dans sa maison, toujours décidé à ne rien révéler à sa femme.
+journée          	Mrs Dursley avait passé une journée agréable et parfaitement normale.
+agréable         	Mrs Dursley avait passé une journée agréable et parfaitement normale.
+cours            	Au cours du dîner, elle lui raconta tous les problèmes que la voisine d’à côté avait avec sa fille et lui signala également que Dudley avait appris un nouveau mot : « Veux pas ! ».
+dîner            	Au cours du dîner, elle lui raconta tous les problèmes que la voisine d’à côté avait avec sa fille et lui signala également que Dudley avait appris un nouveau mot : « Veux pas ! ».
+problème         	Au cours du dîner, elle lui raconta tous les problèmes que la voisine d’à côté avait avec sa fille et lui signala également que Dudley avait appris un nouveau mot : « Veux pas ! ».
+côté             	Au cours du dîner, elle lui raconta tous les problèmes que la voisine d’à côté avait avec sa fille et lui signala également que Dudley avait appris un nouveau mot : « Veux pas ! ».
+signaler         	Au cours du dîner, elle lui raconta tous les problèmes que la voisine d’à côté avait avec sa fille et lui signala également que Dudley avait appris un nouveau mot : « Veux pas ! ».
+également        	Au cours du dîner, elle lui raconta tous les problèmes que la voisine d’à côté avait avec sa fille et lui signala également que Dudley avait appris un nouveau mot : « Veux pas ! ».
+apprendre        	Au cours du dîner, elle lui raconta tous les problèmes que la voisine d’à côté avait avec sa fille et lui signala également que Dudley avait appris un nouveau mot : « Veux pas ! ».
+vouloir          	Au cours du dîner, elle lui raconta tous les problèmes que la voisine d’à côté avait avec sa fille et lui signala également que Dudley avait appris un nouveau mot : « Veux pas ! ».
+conduire         	Mr Dursley s’efforça de se conduire le plus normalement du monde et après que Dudley eut été mis au lit, il entra juste à temps dans le salon pour voir la fin du journal télévisé :
+normalement      	Mr Dursley s’efforça de se conduire le plus normalement du monde et après que Dudley eut été mis au lit, il entra juste à temps dans le salon pour voir la fin du journal télévisé :
+lit              	Mr Dursley s’efforça de se conduire le plus normalement du monde et après que Dudley eut été mis au lit, il entra juste à temps dans le salon pour voir la fin du journal télévisé :
+salon            	Mr Dursley s’efforça de se conduire le plus normalement du monde et après que Dudley eut été mis au lit, il entra juste à temps dans le salon pour voir la fin du journal télévisé :
+fin              	Mr Dursley s’efforça de se conduire le plus normalement du monde et après que Dudley eut été mis au lit, il entra juste à temps dans le salon pour voir la fin du journal télévisé :
+journal          	Mr Dursley s’efforça de se conduire le plus normalement du monde et après que Dudley eut été mis au lit, il entra juste à temps dans le salon pour voir la fin du journal télévisé :
+téléviser        	Mr Dursley s’efforça de se conduire le plus normalement du monde et après que Dudley eut été mis au lit, il entra juste à temps dans le salon pour voir la fin du journal télévisé :
+témoignage       	– D’après des témoignages venus de diverses régions, il semblerait que les hiboux se soient comportés d’une bien étrange manière au cours de la journée, dit le présentateur.
+divers           	– D’après des témoignages venus de diverses régions, il semblerait que les hiboux se soient comportés d’une bien étrange manière au cours de la journée, dit le présentateur.
+région           	– D’après des témoignages venus de diverses régions, il semblerait que les hiboux se soient comportés d’une bien étrange manière au cours de la journée, dit le présentateur.
+comporter        	– D’après des témoignages venus de diverses régions, il semblerait que les hiboux se soient comportés d’une bien étrange manière au cours de la journée, dit le présentateur.
+présentateur     	– D’après des témoignages venus de diverses régions, il semblerait que les hiboux se soient comportés d’une bien étrange manière au cours de la journée, dit le présentateur.
+nocturne         	Normalement, les hiboux sont des rapaces nocturnes qui attendent la nuit pour chasser leurs proies.
+attendre         	Normalement, les hiboux sont des rapaces nocturnes qui attendent la nuit pour chasser leurs proies.
+or               	Or, aujourd’hui, des centaines de témoins ont vu ces oiseaux voler un peu partout depuis le lever du soleil.
+centaine         	Or, aujourd’hui, des centaines de témoins ont vu ces oiseaux voler un peu partout depuis le lever du soleil.
+témoin           	Or, aujourd’hui, des centaines de témoins ont vu ces oiseaux voler un peu partout depuis le lever du soleil.
+oiseau           	Or, aujourd’hui, des centaines de témoins ont vu ces oiseaux voler un peu partout depuis le lever du soleil.
+partout          	Or, aujourd’hui, des centaines de témoins ont vu ces oiseaux voler un peu partout depuis le lever du soleil.
+lever            	Or, aujourd’hui, des centaines de témoins ont vu ces oiseaux voler un peu partout depuis le lever du soleil.
+expert           	Les experts interrogés ont été incapables d’expliquer les raisons de ce changement de comportement pour le moins étonnant.
+interroger       	Les experts interrogés ont été incapables d’expliquer les raisons de ce changement de comportement pour le moins étonnant.
+expliquer        	Les experts interrogés ont été incapables d’expliquer les raisons de ce changement de comportement pour le moins étonnant.
+changement       	Les experts interrogés ont été incapables d’expliquer les raisons de ce changement de comportement pour le moins étonnant.
+moins            	Les experts interrogés ont été incapables d’expliquer les raisons de ce changement de comportement pour le moins étonnant.
+étonnant         	Les experts interrogés ont été incapables d’expliquer les raisons de ce changement de comportement pour le moins étonnant.
+voilà            	Voilà qui est bien mystérieux, conclut le présentateur en s’autorisant un sourire.
+conclure         	Voilà qui est bien mystérieux, conclut le présentateur en s’autorisant un sourire.
+autoriser        	Voilà qui est bien mystérieux, conclut le présentateur en s’autorisant un sourire.
+maintenant       	Et maintenant, voici venue l’heure de la météo, avec les prévisions de Jim McGuffin.
+voici            	Et maintenant, voici venue l’heure de la météo, avec les prévisions de Jim McGuffin.
+météo            	Et maintenant, voici venue l’heure de la météo, avec les prévisions de Jim McGuffin.
+prévision        	Et maintenant, voici venue l’heure de la météo, avec les prévisions de Jim McGuffin.
+chute            	Alors, Jim, est-ce qu’on doit s’attendre à d’autres chutes de hiboux au cours de la nuit prochaine ?
+prochain         	Alors, Jim, est-ce qu’on doit s’attendre à d’autres chutes de hiboux au cours de la nuit prochaine ?
+ça               	Ça, je serais bien incapable de vous le dire, Ted, répondit l’homme de la météo, mais sachez en tout cas que les hiboux n’ont pas été les seuls à se comporter d’une étrange manière.
+je               	Ça, je serais bien incapable de vous le dire, Ted, répondit l’homme de la météo, mais sachez en tout cas que les hiboux n’ont pas été les seuls à se comporter d’une étrange manière.
+cas              	Ça, je serais bien incapable de vous le dire, Ted, répondit l’homme de la météo, mais sachez en tout cas que les hiboux n’ont pas été les seuls à se comporter d’une étrange manière.
+téléspectateur   	Des téléspectateurs qui habitent dans des régions aussi éloignées les unes des autres que le Kent, le Yorkshire et la côte est de l’Écosse m’ont téléphoné pour me dire qu’au lieu des averses que j’avais prévues pour aujourd’hui, ils ont vu de véritables pluies d’étoiles filantes !
+un               	Des téléspectateurs qui habitent dans des régions aussi éloignées les unes des autres que le Kent, le Yorkshire et la côte est de l’Écosse m’ont téléphoné pour me dire qu’au lieu des averses que j’avais prévues pour aujourd’hui, ils ont vu de véritables pluies d’étoiles filantes !
+côte             	Des téléspectateurs qui habitent dans des régions aussi éloignées les unes des autres que le Kent, le Yorkshire et la côte est de l’Écosse m’ont téléphoné pour me dire qu’au lieu des averses que j’avais prévues pour aujourd’hui, ils ont vu de véritables pluies d’étoiles filantes !
+téléphoner       	Des téléspectateurs qui habitent dans des régions aussi éloignées les unes des autres que le Kent, le Yorkshire et la côte est de l’Écosse m’ont téléphoné pour me dire qu’au lieu des averses que j’avais prévues pour aujourd’hui, ils ont vu de véritables pluies d’étoiles filantes !
+lieu             	Des téléspectateurs qui habitent dans des régions aussi éloignées les unes des autres que le Kent, le Yorkshire et la côte est de l’Écosse m’ont téléphoné pour me dire qu’au lieu des averses que j’avais prévues pour aujourd’hui, ils ont vu de véritables pluies d’étoiles filantes !
+averse           	Des téléspectateurs qui habitent dans des régions aussi éloignées les unes des autres que le Kent, le Yorkshire et la côte est de l’Écosse m’ont téléphoné pour me dire qu’au lieu des averses que j’avais prévues pour aujourd’hui, ils ont vu de véritables pluies d’étoiles filantes !
+véritable        	Des téléspectateurs qui habitent dans des régions aussi éloignées les unes des autres que le Kent, le Yorkshire et la côte est de l’Écosse m’ont téléphoné pour me dire qu’au lieu des averses que j’avais prévues pour aujourd’hui, ils ont vu de véritables pluies d’étoiles filantes !
+pluie            	Des téléspectateurs qui habitent dans des régions aussi éloignées les unes des autres que le Kent, le Yorkshire et la côte est de l’Écosse m’ont téléphoné pour me dire qu’au lieu des averses que j’avais prévues pour aujourd’hui, ils ont vu de véritables pluies d’étoiles filantes !
+étoile           	Des téléspectateurs qui habitent dans des régions aussi éloignées les unes des autres que le Kent, le Yorkshire et la côte est de l’Écosse m’ont téléphoné pour me dire qu’au lieu des averses que j’avais prévues pour aujourd’hui, ils ont vu de véritables pluies d’étoiles filantes !
+filant           	Des téléspectateurs qui habitent dans des régions aussi éloignées les unes des autres que le Kent, le Yorkshire et la côte est de l’Écosse m’ont téléphoné pour me dire qu’au lieu des averses que j’avais prévues pour aujourd’hui, ils ont vu de véritables pluies d’étoiles filantes !
+feu              	Peut-être s’agissait-il des feux de joie de la nuit du 5 novembre, bien que ce ne soit pas encore la saison.
+joie             	Peut-être s’agissait-il des feux de joie de la nuit du 5 novembre, bien que ce ne soit pas encore la saison.
+novembre         	Peut-être s’agissait-il des feux de joie de la nuit du 5 novembre, bien que ce ne soit pas encore la saison.
+saison           	Peut-être s’agissait-il des feux de joie de la nuit du 5 novembre, bien que ce ne soit pas encore la saison.
+humide           	Quoi qu’il en soit, vous pouvez être sûrs que le temps de la nuit prochaine sera très humide.
+figer            	Mr Dursley se figea dans son fauteuil.
+fauteuil         	Mr Dursley se figea dans son fauteuil.
+bizarre          	Des gens bizarres vêtus de capes ?
+murmure          	Et ces murmures, ces murmures sur les Potter…
+tasse            	Mrs Dursley entra dans le salon avec deux tasses de thé.
+thé              	Mrs Dursley entra dans le salon avec deux tasses de thé.
+décidément       	Décidément, il y avait quelque chose qui n’allait pas.
+falloir          	Il fallait lui en parler.
+nerveux          	Mr Dursley, un peu nerveux, s’éclaircit la gorge.
+éclaircir        	Mr Dursley, un peu nerveux, s’éclaircit la gorge.
+gorge            	Mr Dursley, un peu nerveux, s’éclaircit la gorge.
+euh              	– Euh… Pétunia, ma chérie, dit-il, tu n’as pas eu de nouvelles de ta sœur récemment ?
+pétunia          	– Euh… Pétunia, ma chérie, dit-il, tu n’as pas eu de nouvelles de ta sœur récemment ?
+chéri            	– Euh… Pétunia, ma chérie, dit-il, tu n’as pas eu de nouvelles de ta sœur récemment ?
+tu               	– Euh… Pétunia, ma chérie, dit-il, tu n’as pas eu de nouvelles de ta sœur récemment ?
+récemment        	– Euh… Pétunia, ma chérie, dit-il, tu n’as pas eu de nouvelles de ta sœur récemment ?
+épouse           	Comme il s’y attendait, son épouse parut choquée et furieuse.
+paraître         	Comme il s’y attendait, son épouse parut choquée et furieuse.
+choquer          	Comme il s’y attendait, son épouse parut choquée et furieuse.
+furieux          	Comme il s’y attendait, son épouse parut choquée et furieuse.
+sèchement        	Non, répondit-elle sèchement.
+truc             	– Ils ont dit un truc bizarre à la télé, grommela
+télé             	– Ils ont dit un truc bizarre à la télé, grommela
+tas              	Des histoires de hiboux… d’étoiles filantes… et il y avait tout un tas de gens qui avaient un drôle d’air aujourd’hui.
+drôle            	Des histoires de hiboux… d’étoiles filantes… et il y avait tout un tas de gens qui avaient un drôle d’air aujourd’hui.
+rien             	Rien, je me disais que… peut-être… ça avait quelque chose à voir avec… sa bande… Mrs Dursley retroussait les lèvres en buvant son thé à petites gorgées.
+bande            	Rien, je me disais que… peut-être… ça avait quelque chose à voir avec… sa bande… Mrs Dursley retroussait les lèvres en buvant son thé à petites gorgées.
+retrousser       	Rien, je me disais que… peut-être… ça avait quelque chose à voir avec… sa bande… Mrs Dursley retroussait les lèvres en buvant son thé à petites gorgées.
+lèvre            	Rien, je me disais que… peut-être… ça avait quelque chose à voir avec… sa bande… Mrs Dursley retroussait les lèvres en buvant son thé à petites gorgées.
+boire            	Rien, je me disais que… peut-être… ça avait quelque chose à voir avec… sa bande… Mrs Dursley retroussait les lèvres en buvant son thé à petites gorgées.
+gorgée           	Rien, je me disais que… peut-être… ça avait quelque chose à voir avec… sa bande… Mrs Dursley retroussait les lèvres en buvant son thé à petites gorgées.
+oser             	Son mari se demanda s’il allait oser lui raconter qu’il avait entendu prononcer le nom de « Potter ».
+prononcer        	Son mari se demanda s’il allait oser lui raconter qu’il avait entendu prononcer le nom de « Potter ».
+préférer         	Il préféra s’en abstenir.
+abstenir         	Il préféra s’en abstenir.
+détacher         	D’un air aussi détaché que possible, il dit :
+près             	Il a à peu près le même âge que Dudley, non ?
+âge              	Il a à peu près le même âge que Dudley, non ?
+répliquer        	– J’imagine, répliqua Mrs Dursley avec raideur.
+raideur          	– J’imagine, répliqua Mrs Dursley avec raideur.
+comment          	– Comment s’appelle-t-il, déjà ?
+ordinaire        	Un nom très ordinaire, très désagréable, si tu veux mon avis.
+désagréable      	Un nom très ordinaire, très désagréable, si tu veux mon avis.
+ah               	Ah oui, répondit Mr Dursley en sentant son cœur s’arrêter.
+cœur             	Ah oui, répondit Mr Dursley en sentant son cœur s’arrêter.
+arrêter          	Ah oui, répondit Mr Dursley en sentant son cœur s’arrêter.
+accord           	Oui, je suis d’accord avec toi.
+toi              	Oui, je suis d’accord avec toi.
+sujet            	Il ne dit pas un mot de plus à ce sujet tandis qu’ils montaient l’escalier pour aller se coucher.
+escalier         	Il ne dit pas un mot de plus à ce sujet tandis qu’ils montaient l’escalier pour aller se coucher.
+coucher          	Il ne dit pas un mot de plus à ce sujet tandis qu’ils montaient l’escalier pour aller se coucher.
+salle            	Pendant que Mrs Dursley était dans la salle de bains, Mr Dursley se glissa vers la fenêtre de la chambre et jeta un coup d’œil dans le jardin.
+bain             	Pendant que Mrs Dursley était dans la salle de bains, Mr Dursley se glissa vers la fenêtre de la chambre et jeta un coup d’œil dans le jardin.
+glisser          	Pendant que Mrs Dursley était dans la salle de bains, Mr Dursley se glissa vers la fenêtre de la chambre et jeta un coup d’œil dans le jardin.
+chambre          	Pendant que Mrs Dursley était dans la salle de bains, Mr Dursley se glissa vers la fenêtre de la chambre et jeta un coup d’œil dans le jardin.
+œil              	Pendant que Mrs Dursley était dans la salle de bains, Mr Dursley se glissa vers la fenêtre de la chambre et jeta un coup d’œil dans le jardin.
+cela             	Tout cela avait-il un lien avec les Potter ?
+lien             	Tout cela avait-il un lien avec les Potter ?
+avérer           	S’il s’avérait qu’ils étaient parents avec des…
+parent           	S’il s’avérait qu’ils étaient parents avec des…
+endormir         	Mrs Dursley s’endormit très vite mais son mari resta éveillé, retournant dans sa tête les événements de la journée.
+vite             	Mrs Dursley s’endormit très vite mais son mari resta éveillé, retournant dans sa tête les événements de la journée.
+événement        	Mrs Dursley s’endormit très vite mais son mari resta éveillé, retournant dans sa tête les événements de la journée.
+consoler         	La seule pensée qui le consola avant de sombrer enfin dans le sommeil, ce fut que même si les Potter avaient vraiment quelque chose à voir avec ce qui s’était passé, il n’y avait aucune raison pour que lui et sa femme en subissent les conséquences.
+sombrer          	La seule pensée qui le consola avant de sombrer enfin dans le sommeil, ce fut que même si les Potter avaient vraiment quelque chose à voir avec ce qui s’était passé, il n’y avait aucune raison pour que lui et sa femme en subissent les conséquences.
+sommeil          	La seule pensée qui le consola avant de sombrer enfin dans le sommeil, ce fut que même si les Potter avaient vraiment quelque chose à voir avec ce qui s’était passé, il n’y avait aucune raison pour que lui et sa femme en subissent les conséquences.
+vraiment         	La seule pensée qui le consola avant de sombrer enfin dans le sommeil, ce fut que même si les Potter avaient vraiment quelque chose à voir avec ce qui s’était passé, il n’y avait aucune raison pour que lui et sa femme en subissent les conséquences.
+subir            	La seule pensée qui le consola avant de sombrer enfin dans le sommeil, ce fut que même si les Potter avaient vraiment quelque chose à voir avec ce qui s’était passé, il n’y avait aucune raison pour que lui et sa femme en subissent les conséquences.
+conséquence      	La seule pensée qui le consola avant de sombrer enfin dans le sommeil, ce fut que même si les Potter avaient vraiment quelque chose à voir avec ce qui s’était passé, il n’y avait aucune raison pour que lui et sa femme en subissent les conséquences.
+espèce           	Les Potter savaient parfaitement ce que Pétunia et lui pensaient des gens de leur espèce…
+mêler            	Et il ne voyait pas comment tous deux pourraient être mêlés à ces histoires.
+bâiller          	Il bâilla et se retourna.
+tort             	Et il avait grand tort de penser ainsi.
+ainsi            	Et il avait grand tort de penser ainsi.
+emporter         	Tandis que Mr Dursley se laissait emporter dans un sommeil quelque peu agité, le chat sur le mur, lui, ne montrait aucun signe de somnolence.
+agiter           	Tandis que Mr Dursley se laissait emporter dans un sommeil quelque peu agité, le chat sur le mur, lui, ne montrait aucun signe de somnolence.
+signe            	Tandis que Mr Dursley se laissait emporter dans un sommeil quelque peu agité, le chat sur le mur, lui, ne montrait aucun signe de somnolence.
+somnolence       	Tandis que Mr Dursley se laissait emporter dans un sommeil quelque peu agité, le chat sur le mur, lui, ne montrait aucun signe de somnolence.
+immobile         	Il restait assis, immobile comme une statue, fixant de ses yeux grands ouverts le coin de Privet Drive.
+statue           	Il restait assis, immobile comme une statue, fixant de ses yeux grands ouverts le coin de Privet Drive.
+fixer            	Il restait assis, immobile comme une statue, fixant de ses yeux grands ouverts le coin de Privet Drive.
+ouvrir           	Il restait assis, immobile comme une statue, fixant de ses yeux grands ouverts le coin de Privet Drive.
+réaction         	Il n’eut pas la moindre réaction lorsqu’une portière de voiture claqua dans la rue voisine, ni quand deux hiboux passèrent au-dessus de sa tête.
+portière         	Il n’eut pas la moindre réaction lorsqu’une portière de voiture claqua dans la rue voisine, ni quand deux hiboux passèrent au-dessus de sa tête.
+claquer          	Il n’eut pas la moindre réaction lorsqu’une portière de voiture claqua dans la rue voisine, ni quand deux hiboux passèrent au-dessus de sa tête.
+ni               	Il n’eut pas la moindre réaction lorsqu’une portière de voiture claqua dans la rue voisine, ni quand deux hiboux passèrent au-dessus de sa tête.
+minuit           	Il était presque minuit quand il bougea enfin.
+apparaître       	Un homme apparut à l’angle de la rue que le chat avait observé pendant tout ce temps.
+angle            	Un homme apparut à l’angle de la rue que le chat avait observé pendant tout ce temps.
+soudainement     	Il apparut si soudainement et dans un tel silence qu’il semblait avoir jailli du sol.
+silence          	Il apparut si soudainement et dans un tel silence qu’il semblait avoir jailli du sol.
+jaillir          	Il apparut si soudainement et dans un tel silence qu’il semblait avoir jailli du sol.
+sol              	Il apparut si soudainement et dans un tel silence qu’il semblait avoir jailli du sol.
+queue            	La queue du chat frémit, ses yeux se rétrécirent.
+frémir           	La queue du chat frémit, ses yeux se rétrécirent.
+rétrécir         	La queue du chat frémit, ses yeux se rétrécirent.
+ressembler       	On n’avait encore jamais vu dans Privet Drive quelque chose qui ressemblât à cet homme.
+juger            	Il était grand, mince et très vieux, à en juger par la couleur argentée de ses cheveux et de sa barbe qui lui descendaient jusqu’à la taille.
+couleur          	Il était grand, mince et très vieux, à en juger par la couleur argentée de ses cheveux et de sa barbe qui lui descendaient jusqu’à la taille.
+argenté          	Il était grand, mince et très vieux, à en juger par la couleur argentée de ses cheveux et de sa barbe qui lui descendaient jusqu’à la taille.
+cheveu           	Il était grand, mince et très vieux, à en juger par la couleur argentée de ses cheveux et de sa barbe qui lui descendaient jusqu’à la taille.
+barbe            	Il était grand, mince et très vieux, à en juger par la couleur argentée de ses cheveux et de sa barbe qui lui descendaient jusqu’à la taille.
+descendre        	Il était grand, mince et très vieux, à en juger par la couleur argentée de ses cheveux et de sa barbe qui lui descendaient jusqu’à la taille.
+robe             	Il était vêtu d’une longue robe, d’une cape violette qui balayait le sol et chaussé de bottes à hauts talons munies de boucles.
+balayer          	Il était vêtu d’une longue robe, d’une cape violette qui balayait le sol et chaussé de bottes à hauts talons munies de boucles.
+chausser         	Il était vêtu d’une longue robe, d’une cape violette qui balayait le sol et chaussé de bottes à hauts talons munies de boucles.
+botte            	Il était vêtu d’une longue robe, d’une cape violette qui balayait le sol et chaussé de bottes à hauts talons munies de boucles.
+haut             	Il était vêtu d’une longue robe, d’une cape violette qui balayait le sol et chaussé de bottes à hauts talons munies de boucles.
+talon            	Il était vêtu d’une longue robe, d’une cape violette qui balayait le sol et chaussé de bottes à hauts talons munies de boucles.
+munir            	Il était vêtu d’une longue robe, d’une cape violette qui balayait le sol et chaussé de bottes à hauts talons munies de boucles.
+boucle           	Il était vêtu d’une longue robe, d’une cape violette qui balayait le sol et chaussé de bottes à hauts talons munies de boucles.
+bleu             	Ses yeux bleus et brillants étincelaient derrière des lunettes en demi-lune et son long nez crochu donnait l’impression d’avoir été cassé au moins deux fois.
+brillant         	Ses yeux bleus et brillants étincelaient derrière des lunettes en demi-lune et son long nez crochu donnait l’impression d’avoir été cassé au moins deux fois.
+étinceler        	Ses yeux bleus et brillants étincelaient derrière des lunettes en demi-lune et son long nez crochu donnait l’impression d’avoir été cassé au moins deux fois.
+derrière         	Ses yeux bleus et brillants étincelaient derrière des lunettes en demi-lune et son long nez crochu donnait l’impression d’avoir été cassé au moins deux fois.
+lunette          	Ses yeux bleus et brillants étincelaient derrière des lunettes en demi-lune et son long nez crochu donnait l’impression d’avoir été cassé au moins deux fois.
+nez              	Ses yeux bleus et brillants étincelaient derrière des lunettes en demi-lune et son long nez crochu donnait l’impression d’avoir été cassé au moins deux fois.
+crochu           	Ses yeux bleus et brillants étincelaient derrière des lunettes en demi-lune et son long nez crochu donnait l’impression d’avoir été cassé au moins deux fois.
+donner           	Ses yeux bleus et brillants étincelaient derrière des lunettes en demi-lune et son long nez crochu donnait l’impression d’avoir été cassé au moins deux fois.
+impression       	Ses yeux bleus et brillants étincelaient derrière des lunettes en demi-lune et son long nez crochu donnait l’impression d’avoir été cassé au moins deux fois.
+casser           	Ses yeux bleus et brillants étincelaient derrière des lunettes en demi-lune et son long nez crochu donnait l’impression d’avoir été cassé au moins deux fois.
+arriver          	Albus Dumbledore n’avait pas l’air de se rendre compte qu’il venait d’arriver dans une rue où tout en lui, depuis son nom jusqu’à ses bottes, ne pouvait être qu’indésirable.
+occuper          	Il était occupé à chercher quelque chose dans sa longue cape, mais sembla s’apercevoir qu’il était observé, car il leva brusquement les yeux vers le chat qui avait toujours le regard fixé sur lui à l’autre bout de la rue.
+chercher         	Il était occupé à chercher quelque chose dans sa longue cape, mais sembla s’apercevoir qu’il était observé, car il leva brusquement les yeux vers le chat qui avait toujours le regard fixé sur lui à l’autre bout de la rue.
+apercevoir       	Il était occupé à chercher quelque chose dans sa longue cape, mais sembla s’apercevoir qu’il était observé, car il leva brusquement les yeux vers le chat qui avait toujours le regard fixé sur lui à l’autre bout de la rue.
+brusquement      	Il était occupé à chercher quelque chose dans sa longue cape, mais sembla s’apercevoir qu’il était observé, car il leva brusquement les yeux vers le chat qui avait toujours le regard fixé sur lui à l’autre bout de la rue.
+bout             	Il était occupé à chercher quelque chose dans sa longue cape, mais sembla s’apercevoir qu’il était observé, car il leva brusquement les yeux vers le chat qui avait toujours le regard fixé sur lui à l’autre bout de la rue.
+vue              	Pour une raison quelconque, la vue du chat parut l’amuser.
+amuser           	Pour une raison quelconque, la vue du chat parut l’amuser.
+rire             	Il eut un petit rire et marmonna :
+marmonner        	Il eut un petit rire et marmonna :
+douter           	– J’aurais dû m’en douter.
+poche            	Il avait trouvé ce qu’il cherchait dans une poche intérieure.
+intérieur        	Il avait trouvé ce qu’il cherchait dans une poche intérieure.
+apparemment      	Apparemment, il s’agissait d’un briquet en argent.
+briquet          	Apparemment, il s’agissait d’un briquet en argent.
+relever          	Il en releva le capuchon, le tendit au-dessus de sa tête et l’alluma.
+capuchon         	Il en releva le capuchon, le tendit au-dessus de sa tête et l’alluma.
+tendre           	Il en releva le capuchon, le tendit au-dessus de sa tête et l’alluma.
+allumer          	Il en releva le capuchon, le tendit au-dessus de sa tête et l’alluma.
+réverbère        	Le réverbère le plus proche s’éteignit alors avec un petit claquement.
+proche           	Le réverbère le plus proche s’éteignit alors avec un petit claquement.
+éteindre         	Le réverbère le plus proche s’éteignit alors avec un petit claquement.
+claquement       	Le réverbère le plus proche s’éteignit alors avec un petit claquement.
+suivre           	L’homme alluma à nouveau le briquet – le réverbère suivant s’éteignit à son tour.
+tour             	L’homme alluma à nouveau le briquet – le réverbère suivant s’éteignit à son tour.
+douze            	Douze fois, il actionna ainsi l’Éteignoir jusqu’à ce qu’il ne reste plus aucune lumière dans la rue, à part deux points minuscules qui brillaient au loin : c’étaient les yeux du chat, toujours fixés sur lui.
+actionner        	Douze fois, il actionna ainsi l’Éteignoir jusqu’à ce qu’il ne reste plus aucune lumière dans la rue, à part deux points minuscules qui brillaient au loin : c’étaient les yeux du chat, toujours fixés sur lui.
+éteignoir        	Douze fois, il actionna ainsi l’Éteignoir jusqu’à ce qu’il ne reste plus aucune lumière dans la rue, à part deux points minuscules qui brillaient au loin : c’étaient les yeux du chat, toujours fixés sur lui.
+rester           	Douze fois, il actionna ainsi l’Éteignoir jusqu’à ce qu’il ne reste plus aucune lumière dans la rue, à part deux points minuscules qui brillaient au loin : c’étaient les yeux du chat, toujours fixés sur lui.
+lumière          	Douze fois, il actionna ainsi l’Éteignoir jusqu’à ce qu’il ne reste plus aucune lumière dans la rue, à part deux points minuscules qui brillaient au loin : c’étaient les yeux du chat, toujours fixés sur lui.
+part             	Douze fois, il actionna ainsi l’Éteignoir jusqu’à ce qu’il ne reste plus aucune lumière dans la rue, à part deux points minuscules qui brillaient au loin : c’étaient les yeux du chat, toujours fixés sur lui.
+point            	Douze fois, il actionna ainsi l’Éteignoir jusqu’à ce qu’il ne reste plus aucune lumière dans la rue, à part deux points minuscules qui brillaient au loin : c’étaient les yeux du chat, toujours fixés sur lui.
+briller          	Douze fois, il actionna ainsi l’Éteignoir jusqu’à ce qu’il ne reste plus aucune lumière dans la rue, à part deux points minuscules qui brillaient au loin : c’étaient les yeux du chat, toujours fixés sur lui.
+loin             	Douze fois, il actionna ainsi l’Éteignoir jusqu’à ce qu’il ne reste plus aucune lumière dans la rue, à part deux points minuscules qui brillaient au loin : c’étaient les yeux du chat, toujours fixés sur lui.
+quiconque        	Quiconque aurait regardé par une fenêtre en cet instant, même Mrs Dursley et ses petits yeux de fouine, aurait été incapable de voir le moindre détail de ce qui se passait dans la rue.
+fouine           	Quiconque aurait regardé par une fenêtre en cet instant, même Mrs Dursley et ses petits yeux de fouine, aurait été incapable de voir le moindre détail de ce qui se passait dans la rue.
+marcher          	Dumbledore rangea son Éteignoir dans la poche de sa cape et marcha en direction du numéro 4.
+direction        	Dumbledore rangea son Éteignoir dans la poche de sa cape et marcha en direction du numéro 4.
+muret            	Lorsqu’il y fut parvenu, il s’assit sur le muret, à côté du chat.
+accorder         	Il ne lui accorda pas un regard, mais après un moment de silence, il lui parla : – C’est amusant de vous voir ici, professeur McGonagall, dit-il.
+moment           	Il ne lui accorda pas un regard, mais après un moment de silence, il lui parla : – C’est amusant de vous voir ici, professeur McGonagall, dit-il.
+amusant          	Il ne lui accorda pas un regard, mais après un moment de silence, il lui parla : – C’est amusant de vous voir ici, professeur McGonagall, dit-il.
+ici              	Il ne lui accorda pas un regard, mais après un moment de silence, il lui parla : – C’est amusant de vous voir ici, professeur McGonagall, dit-il.
+professeur       	Il ne lui accorda pas un regard, mais après un moment de silence, il lui parla : – C’est amusant de vous voir ici, professeur McGonagall, dit-il.
+adresser         	Il tourna la tête pour adresser un sourire au chat tigré, mais celui-ci avait disparu.
+allure           	Dumbledore souriait à présent à une femme d’allure sévère avec des lunettes carrées qui avaient exactement la même forme que les motifs autour des yeux du chat.
+carré            	Dumbledore souriait à présent à une femme d’allure sévère avec des lunettes carrées qui avaient exactement la même forme que les motifs autour des yeux du chat.
+exactement       	Dumbledore souriait à présent à une femme d’allure sévère avec des lunettes carrées qui avaient exactement la même forme que les motifs autour des yeux du chat.
+forme            	Dumbledore souriait à présent à une femme d’allure sévère avec des lunettes carrées qui avaient exactement la même forme que les motifs autour des yeux du chat.
+motif            	Dumbledore souriait à présent à une femme d’allure sévère avec des lunettes carrées qui avaient exactement la même forme que les motifs autour des yeux du chat.
+tirer            	Ses cheveux étaient tirés en un chignon serré et elle avait l’air singulièrement agacée.
+chignon          	Ses cheveux étaient tirés en un chignon serré et elle avait l’air singulièrement agacée.
+singulièrement   	Ses cheveux étaient tirés en un chignon serré et elle avait l’air singulièrement agacée.
+agacer           	Ses cheveux étaient tirés en un chignon serré et elle avait l’air singulièrement agacée.
+moi              	– Comment avez-vous su que c’était moi ?
+raide            	– Mon cher professeur, je n’ai jamais vu un chat se tenir d’une manière aussi raide.
+brique           	– Vous aussi, vous seriez un peu raide si vous restiez assis toute une journée sur un mur de briques, répondit le professeur McGonagall.
+célébrer         	Alors que vous auriez pu célébrer l’événement avec les autres ?
+douzaine         	En venant ici, j’ai dû voir une bonne douzaine de fêtes et de banquets.
+fête             	En venant ici, j’ai dû voir une bonne douzaine de fêtes et de banquets.
+banquet          	En venant ici, j’ai dû voir une bonne douzaine de fêtes et de banquets.
+renifler         	Le professeur McGonagall renifla d’un air courroucé.
+agacement        	Oui, oui, je sais, tout le monde fait la fête, dit-elle avec agacement.
+prudent          	On aurait pu penser qu’ils seraient plus prudents, mais non, pas du tout !
+plonger          	Elle montra d’un signe de tête la fenêtre du salon des Dursley, plongé dans l’obscurité.
+obscurité        	Elle montra d’un signe de tête la fenêtre du salon des Dursley, plongé dans l’obscurité.
+vol              	Ils ont signalé des vols de hiboux…
+inévitable       	Il était inévitable qu’ils s’en aperçoivent.
+parier           	Je parie que c’est encore un coup de Dedalus Diggle.
+jugeote          	Il n’a jamais eu beaucoup de jugeote.
+douceur          	– On ne peut pas leur en vouloir, dit Dumbledore avec douceur.
+nous             	Nous n’avons pas eu grand-chose à célébrer depuis onze ans.
+onze             	Nous n’avons pas eu grand-chose à célébrer depuis onze ans.
+an               	Nous n’avons pas eu grand-chose à célébrer depuis onze ans.
+imprudence       	Tous ces gens ont été d’une imprudence folle.
+fou              	Tous ces gens ont été d’une imprudence folle.
+promener         	Se promener dans les rues en plein jour, à s’échanger les dernières nouvelles sans même prendre la précaution de s’habiller comme des Moldus !
+échanger         	Se promener dans les rues en plein jour, à s’échanger les dernières nouvelles sans même prendre la précaution de s’habiller comme des Moldus !
+précaution       	Se promener dans les rues en plein jour, à s’échanger les dernières nouvelles sans même prendre la précaution de s’habiller comme des Moldus !
+oblique          	Elle lança un regard oblique et perçant à Dumbledore, comme si elle espérait qu’il allait dire quelque chose, mais il garda le silence.
+percer           	Elle lança un regard oblique et perçant à Dumbledore, comme si elle espérait qu’il allait dire quelque chose, mais il garda le silence.
+garder           	Elle lança un regard oblique et perçant à Dumbledore, comme si elle espérait qu’il allait dire quelque chose, mais il garda le silence.
+beau             	– Nous serions dans de beaux draps, reprit-elle alors, si le jour où Vous-Savez-Qui semble enfin avoir disparu, les Moldus s’apercevaient de notre existence.
+drap             	– Nous serions dans de beaux draps, reprit-elle alors, si le jour où Vous-Savez-Qui semble enfin avoir disparu, les Moldus s’apercevaient de notre existence.
+notre            	– Nous serions dans de beaux draps, reprit-elle alors, si le jour où Vous-Savez-Qui semble enfin avoir disparu, les Moldus s’apercevaient de notre existence.
+effet            	– Il semble qu’il en soit ainsi, en effet, assura Dumbledore.
+assurer          	– Il semble qu’il en soit ainsi, en effet, assura Dumbledore.
+féliciter        	Et nous avons tout lieu de nous en féliciter.
+esquimau         	Que diriez-vous d’un esquimau au citron ?
+citron           	Que diriez-vous d’un esquimau au citron ?
+friandise        	C’est une friandise que fabriquent les Moldus et je dois dire que c’est plutôt bon.
+plutôt           	C’est une friandise que fabriquent les Moldus et je dois dire que c’est plutôt bon.
+froidement       	– Merci, pas pour moi, répondit froidement le professeur McGonagall qui semblait estimer que le moment n’était pas venu de manger des glaces au citron.
+estimer          	– Merci, pas pour moi, répondit froidement le professeur McGonagall qui semblait estimer que le moment n’était pas venu de manger des glaces au citron.
+glace            	– Merci, pas pour moi, répondit froidement le professeur McGonagall qui semblait estimer que le moment n’était pas venu de manger des glaces au citron.
+donc             	Je vous disais donc que même si Vous-Savez-Qui est vraiment parti…
+partir           	Je vous disais donc que même si Vous-Savez-Qui est vraiment parti…
+raisonnable      	– Mon cher professeur, quelqu’un d’aussi raisonnable que vous ne devrait pas hésiter à prononcer son nom, ne croyez-vous pas ?
+hésiter          	– Mon cher professeur, quelqu’un d’aussi raisonnable que vous ne devrait pas hésiter à prononcer son nom, ne croyez-vous pas ?
+croire           	– Mon cher professeur, quelqu’un d’aussi raisonnable que vous ne devrait pas hésiter à prononcer son nom, ne croyez-vous pas ?
+grimace          	Le professeur McGonagall fit une grimace, mais Dumbledore qui avait sorti deux esquimaux au citron ne parut pas le remarquer.
+qui              	– Si nous continuons à dire « Vous-Savez-Qui », nous allons finir par créer la confusion.
+créer            	– Si nous continuons à dire « Vous-Savez-Qui », nous allons finir par créer la confusion.
+confusion        	– Si nous continuons à dire « Vous-Savez-Qui », nous allons finir par créer la confusion.
+moitié           	– Je sais bien que vous n’en voyez pas, répliqua le professeur McGonagall qui semblait moitié exaspérée, moitié admirative.
+exaspérer        	– Je sais bien que vous n’en voyez pas, répliqua le professeur McGonagall qui semblait moitié exaspérée, moitié admirative.
+admiratif        	– Je sais bien que vous n’en voyez pas, répliqua le professeur McGonagall qui semblait moitié exaspérée, moitié admirative.
+différent        	Mais, vous, vous êtes différent des autres.
+flatter          	– Vous me flattez, dit Dumbledore d’une voix tranquille.
+tranquille       	– Vous me flattez, dit Dumbledore d’une voix tranquille.
+simplement       	– C’est simplement parce que vous avez trop de… disons de noblesse pour en faire usage.
+parce que        	– C’est simplement parce que vous avez trop de… disons de noblesse pour en faire usage.
+trop             	– C’est simplement parce que vous avez trop de… disons de noblesse pour en faire usage.
+dire             	– C’est simplement parce que vous avez trop de… disons de noblesse pour en faire usage.
+noblesse         	– C’est simplement parce que vous avez trop de… disons de noblesse pour en faire usage.
+usage            	– C’est simplement parce que vous avez trop de… disons de noblesse pour en faire usage.
+heureusement     	– Heureusement qu’il fait nuit.
+autant           	Je n’ai jamais autant rougi depuis le jour où Madame Pomfresh m’a dit qu’elle trouvait mes nouveaux cache-oreilles ravissants.
+rougir           	Je n’ai jamais autant rougi depuis le jour où Madame Pomfresh m’a dit qu’elle trouvait mes nouveaux cache-oreilles ravissants.
+monsieur         	Je n’ai jamais autant rougi depuis le jour où Madame Pomfresh m’a dit qu’elle trouvait mes nouveaux cache-oreilles ravissants.
+ravissant        	Je n’ai jamais autant rougi depuis le jour où Madame Pomfresh m’a dit qu’elle trouvait mes nouveaux cache-oreilles ravissants.
+comparer         	– Les hiboux, ce n’est rien comparé aux rumeurs qui circulent, déclara-t-elle.
+rumeur           	– Les hiboux, ce n’est rien comparé aux rumeurs qui circulent, déclara-t-elle.
+circuler         	– Les hiboux, ce n’est rien comparé aux rumeurs qui circulent, déclara-t-elle.
+déclarer         	– Les hiboux, ce n’est rien comparé aux rumeurs qui circulent, déclara-t-elle.
+disparition      	Vous savez ce que tout le monde dit sur les raisons de sa disparition ?
+aborder          	Apparemment, le professeur McGonagall venait d’aborder le sujet qui lui tenait le plus à cœur, la véritable raison qui l’avait décidée à attendre toute la journée, assise sur un mur glacial.
+glacial          	Apparemment, le professeur McGonagall venait d’aborder le sujet qui lui tenait le plus à cœur, la véritable raison qui l’avait décidée à attendre toute la journée, assise sur un mur glacial.
+pénétrer         	Car jamais un chat ni une femme n’avait fixé Dumbledore d’un regard aussi pénétrant que celui du professeur en cet instant.
+évidence         	À l’évidence, elle n’avait pas l’intention de croire ce que « tout le monde » disait tant que Dumbledore ne lui aurait pas confirmé qu’il s’agissait bien de la vérité.
+intention        	À l’évidence, elle n’avait pas l’intention de croire ce que « tout le monde » disait tant que Dumbledore ne lui aurait pas confirmé qu’il s’agissait bien de la vérité.
+tant             	À l’évidence, elle n’avait pas l’intention de croire ce que « tout le monde » disait tant que Dumbledore ne lui aurait pas confirmé qu’il s’agissait bien de la vérité.
+confirmer        	À l’évidence, elle n’avait pas l’intention de croire ce que « tout le monde » disait tant que Dumbledore ne lui aurait pas confirmé qu’il s’agissait bien de la vérité.
+vérité           	À l’évidence, elle n’avait pas l’intention de croire ce que « tout le monde » disait tant que Dumbledore ne lui aurait pas confirmé qu’il s’agissait bien de la vérité.
+choisir          	Dumbledore, cependant, était occupé à choisir un autre esquimau et ne lui répondit pas.
+hier             	Ce qu’ils disent, poursuivit le professeur, c’est que Voldemort est venu hier soir à Godric’s Hollow pour y chercher les Potter.
+soir             	Ce qu’ils disent, poursuivit le professeur, c’est que Voldemort est venu hier soir à Godric’s Hollow pour y chercher les Potter.
+mort             	D’après la rumeur, Lily et James Potter sont… enfin, on dit qu’ils sont… morts…
+incliner         	D’après la rumeur, Lily et James Potter sont… enfin, on dit qu’ils sont… morts…
+respiration      	Le professeur McGonagall avait du mal à reprendre sa respiration.
+admettre         	Je ne voulais pas l’admettre…
+oh               	Oh, Albus… Dumbledore tendit la main et lui tapota l’épaule.
+main             	Oh, Albus… Dumbledore tendit la main et lui tapota l’épaule.
+tapoter          	Oh, Albus… Dumbledore tendit la main et lui tapota l’épaule.
+épaule           	Oh, Albus… Dumbledore tendit la main et lui tapota l’épaule.
+gravement        	– Je sais… Je sais… dit-il gravement.
+tremblant        	– Et ce n’est pas tout, reprit le professeur McGonagall d’une voix tremblante.
+tuer             	On dit qu’il a essayé de tuer Harry, le fils des Potter.
+réussir          	Il n’a pas réussi à supprimer ce bambin.
+supprimer        	Il n’a pas réussi à supprimer ce bambin.
+bambin           	Il n’a pas réussi à supprimer ce bambin.
+personne         	Personne ne sait pourquoi ni comment, mais tout le monde raconte que lorsqu’il a essayé de tuer Harry Potter sans y parvenir, le pouvoir de Voldemort s’est brisé, pour ainsi dire – et c’est pour ça qu’il a… disparu.
+briser           	Personne ne sait pourquoi ni comment, mais tout le monde raconte que lorsqu’il a essayé de tuer Harry Potter sans y parvenir, le pouvoir de Voldemort s’est brisé, pour ainsi dire – et c’est pour ça qu’il a… disparu.
+hocher           	Dumbledore hocha la tête d’un air sombre.
+sombre           	Dumbledore hocha la tête d’un air sombre.
+vrai             	– C’est… c’est vrai ?
+bredouiller      	bredouilla le professeur McGonagall.
+stupéfiant       	C’est stupéfiant… rien d’autre n’avait pu l’arrêter… mais, au nom du ciel, comment se fait-il que Harry ait pu survivre ?
+supposition      	– On ne peut faire que des suppositions, répondit Dumbledore.
+mouchoir         	Le professeur McGonagall sortit un mouchoir en dentelle et s’essuya les yeux sous ses lunettes.
+dentelle         	Le professeur McGonagall sortit un mouchoir en dentelle et s’essuya les yeux sous ses lunettes.
+essuyer          	Le professeur McGonagall sortit un mouchoir en dentelle et s’essuya les yeux sous ses lunettes.
+sous             	Le professeur McGonagall sortit un mouchoir en dentelle et s’essuya les yeux sous ses lunettes.
+inspirer         	Dumbledore inspira longuement en prenant dans sa poche une montre en or qu’il consulta.
+longuement       	Dumbledore inspira longuement en prenant dans sa poche une montre en or qu’il consulta.
+montre           	Dumbledore inspira longuement en prenant dans sa poche une montre en or qu’il consulta.
+consulter        	Dumbledore inspira longuement en prenant dans sa poche une montre en or qu’il consulta.
+douze            	Elle avait douze aiguilles, mais pas de chiffres.
+aiguille         	Elle avait douze aiguilles, mais pas de chiffres.
+chiffre          	Elle avait douze aiguilles, mais pas de chiffres.
+planète          	À la place, il y avait de petites planètes qui tournaient au bord du cadran.
+bord             	À la place, il y avait de petites planètes qui tournaient au bord du cadran.
+cadran           	À la place, il y avait de petites planètes qui tournaient au bord du cadran.
+retard           	Tout cela devait avoir un sens pour Dumbledore car il remit la montre dans sa poche en disant : – Hagrid est en retard.
+supposer         	Oui, admit le professeur McGonagall, et je suppose que vous n’avez pas l’intention de me dire pour quelle raison vous êtes venu dans cet endroit précis ?
+quel             	Oui, admit le professeur McGonagall, et je suppose que vous n’avez pas l’intention de me dire pour quelle raison vous êtes venu dans cet endroit précis ?
+endroit          	Oui, admit le professeur McGonagall, et je suppose que vous n’avez pas l’intention de me dire pour quelle raison vous êtes venu dans cet endroit précis ?
+précis           	Oui, admit le professeur McGonagall, et je suppose que vous n’avez pas l’intention de me dire pour quelle raison vous êtes venu dans cet endroit précis ?
+confier          	– Je suis venu confier Harry à sa tante et à son oncle.
+tante            	– Je suis venu confier Harry à sa tante et à son oncle.
+oncle            	– Je suis venu confier Harry à sa tante et à son oncle.
+famille          	C’est la seule famille qui lui reste désormais.
+désormais        	C’est la seule famille qui lui reste désormais.
+écrier           	s’écria le professeur McGonagall en se levant d’un bond, le doigt pointé sur le numéro 4 de la rue.
+bond             	s’écria le professeur McGonagall en se levant d’un bond, le doigt pointé sur le numéro 4 de la rue.
+pied             	je l’ai vu donner des coups de pied à sa mère tout au long de la rue en hurlant pour réclamer des bonbons.
+mère             	je l’ai vu donner des coups de pied à sa mère tout au long de la rue en hurlant pour réclamer des bonbons.
+hurler           	je l’ai vu donner des coups de pied à sa mère tout au long de la rue en hurlant pour réclamer des bonbons.
+réclamer         	je l’ai vu donner des coups de pied à sa mère tout au long de la rue en hurlant pour réclamer des bonbons.
+bonbon           	je l’ai vu donner des coups de pied à sa mère tout au long de la rue en hurlant pour réclamer des bonbons.
+vivre            	, venir vivre ici !
+meilleur         	– C’est le meilleur endroit pour lui, répliqua Dumbledore d’un ton ferme.
+ferme            	– C’est le meilleur endroit pour lui, répliqua Dumbledore d’un ton ferme.
+écrire           	Je leur ai écrit une lettre.
+lettre           	Je leur ai écrit une lettre.
+répéter          	répéta le professeur McGonagall d’une voix éteinte en se rasseyant sur le muret.
+rasseoir         	répéta le professeur McGonagall d’une voix éteinte en se rasseyant sur le muret.
+devenir          	Il va devenir célèbre – une véritable légende vivante
+célèbre          	Il va devenir célèbre – une véritable légende vivante
+légende          	Il va devenir célèbre – une véritable légende vivante
+vivant           	Il va devenir célèbre – une véritable légende vivante
+étonner          	, je ne serais pas étonnée que la date d’aujourd’hui devienne dans l’avenir la fête de Harry Potter.
+date             	, je ne serais pas étonnée que la date d’aujourd’hui devienne dans l’avenir la fête de Harry Potter.
+avenir           	, je ne serais pas étonnée que la date d’aujourd’hui devienne dans l’avenir la fête de Harry Potter.
+livre            	On écrira des livres sur lui.
+connaître        	Tous les enfants de notre monde connaîtront son nom !
+regarder         	– C’est vrai, dit Dumbledore en la regardant d’un air très sérieux par-dessus ses lunettes en demi-lune.
+sérieux          	– C’est vrai, dit Dumbledore en la regardant d’un air très sérieux par-dessus ses lunettes en demi-lune.
+importer         	Il y aurait de quoi tourner la tête de n’importe quel enfant.
+capable          	Célèbre pour quelque chose dont il ne sera même pas capable de se souvenir !
+souvenir         	Célèbre pour quelque chose dont il ne sera même pas capable de se souvenir !
+valoir           	Ne comprenez-vous pas qu’il vaut beaucoup mieux pour lui qu’il grandisse à l’écart de tout cela jusqu’à ce qu’il soit prêt à l’assumer ?
+mieux            	Ne comprenez-vous pas qu’il vaut beaucoup mieux pour lui qu’il grandisse à l’écart de tout cela jusqu’à ce qu’il soit prêt à l’assumer ?
+grandir          	Ne comprenez-vous pas qu’il vaut beaucoup mieux pour lui qu’il grandisse à l’écart de tout cela jusqu’à ce qu’il soit prêt à l’assumer ?
+écart            	Ne comprenez-vous pas qu’il vaut beaucoup mieux pour lui qu’il grandisse à l’écart de tout cela jusqu’à ce qu’il soit prêt à l’assumer ?
+prêt             	Ne comprenez-vous pas qu’il vaut beaucoup mieux pour lui qu’il grandisse à l’écart de tout cela jusqu’à ce qu’il soit prêt à l’assumer ?
+assumer          	Ne comprenez-vous pas qu’il vaut beaucoup mieux pour lui qu’il grandisse à l’écart de tout cela jusqu’à ce qu’il soit prêt à l’assumer ?
+avaler           	Elle parut changer d’avis, avala sa salive et répondit :
+salive           	Elle parut changer d’avis, avala sa salive et répondit :
+répondre         	Elle parut changer d’avis, avala sa salive et répondit :
+cacher           	Elle regarda soudain sa cape comme si elle pensait que Harry était peut-être caché dessous.
+dessous          	Elle regarda soudain sa cape comme si elle pensait que Harry était peut-être caché dessous.
+amener           	– C’est Hagrid qui doit l’amener, dit Dumbledore.
+sage             	– Et vous croyez qu’il est… sage de confier une tâche aussi importante à Hagrid ?
+tâche            	– Et vous croyez qu’il est… sage de confier une tâche aussi importante à Hagrid ?
+propre           	– Je confierais ma propre vie à Hagrid, assura Dumbledore.
+vie              	– Je confierais ma propre vie à Hagrid, assura Dumbledore.
+manquer          	– Je ne dis pas qu’il manque de cœur, répondit le professeur McGonagall avec réticence, mais reconnaissez qu’il est passablement négligent.
+réticence        	– Je ne dis pas qu’il manque de cœur, répondit le professeur McGonagall avec réticence, mais reconnaissez qu’il est passablement négligent.
+passablement     	– Je ne dis pas qu’il manque de cœur, répondit le professeur McGonagall avec réticence, mais reconnaissez qu’il est passablement négligent.
+négliger         	– Je ne dis pas qu’il manque de cœur, répondit le professeur McGonagall avec réticence, mais reconnaissez qu’il est passablement négligent.
+tendance         	Il a tendance à…
+grondement       	Un grondement sourd avait brisé le silence de la nuit.
+sourd            	Un grondement sourd avait brisé le silence de la nuit.
+bruit            	Le bruit augmenta d’intensité tandis qu’ils scrutaient la rue des deux côtés pour essayer d’apercevoir la lueur d’un phare.
+augmenter        	Le bruit augmenta d’intensité tandis qu’ils scrutaient la rue des deux côtés pour essayer d’apercevoir la lueur d’un phare.
+intensité        	Le bruit augmenta d’intensité tandis qu’ils scrutaient la rue des deux côtés pour essayer d’apercevoir la lueur d’un phare.
+scruter          	Le bruit augmenta d’intensité tandis qu’ils scrutaient la rue des deux côtés pour essayer d’apercevoir la lueur d’un phare.
+lueur            	Le bruit augmenta d’intensité tandis qu’ils scrutaient la rue des deux côtés pour essayer d’apercevoir la lueur d’un phare.
+phare            	Le bruit augmenta d’intensité tandis qu’ils scrutaient la rue des deux côtés pour essayer d’apercevoir la lueur d’un phare.
+transformer      	Le grondement se transforma en pétarade au-dessus de leur tête.
+pétarade         	Le grondement se transforma en pétarade au-dessus de leur tête.
+énorme           	Ils levèrent alors les yeux et virent une énorme moto tomber du ciel et atterrir devant eux sur la chaussée.
+moto             	Ils levèrent alors les yeux et virent une énorme moto tomber du ciel et atterrir devant eux sur la chaussée.
+atterrir         	Ils levèrent alors les yeux et virent une énorme moto tomber du ciel et atterrir devant eux sur la chaussée.
+chaussée         	Ils levèrent alors les yeux et virent une énorme moto tomber du ciel et atterrir devant eux sur la chaussée.
+tellement        	Il était même tellement grand qu’on avait peine à le croire.
+peine            	Il était même tellement grand qu’on avait peine à le croire.
+sauvage          	On aurait dit un sauvage, avec ses longs cheveux noirs en broussaille, sa barbe qui cachait presque entièrement son visage, ses mains de la taille d’un couvercle de poubelle et ses pieds chaussés de bottes en cuir qui avaient l’air de bébés dauphins.
+noir             	On aurait dit un sauvage, avec ses longs cheveux noirs en broussaille, sa barbe qui cachait presque entièrement son visage, ses mains de la taille d’un couvercle de poubelle et ses pieds chaussés de bottes en cuir qui avaient l’air de bébés dauphins.
+broussaille      	On aurait dit un sauvage, avec ses longs cheveux noirs en broussaille, sa barbe qui cachait presque entièrement son visage, ses mains de la taille d’un couvercle de poubelle et ses pieds chaussés de bottes en cuir qui avaient l’air de bébés dauphins.
+entièrement      	On aurait dit un sauvage, avec ses longs cheveux noirs en broussaille, sa barbe qui cachait presque entièrement son visage, ses mains de la taille d’un couvercle de poubelle et ses pieds chaussés de bottes en cuir qui avaient l’air de bébés dauphins.
+couvercle        	On aurait dit un sauvage, avec ses longs cheveux noirs en broussaille, sa barbe qui cachait presque entièrement son visage, ses mains de la taille d’un couvercle de poubelle et ses pieds chaussés de bottes en cuir qui avaient l’air de bébés dauphins.
+poubelle         	On aurait dit un sauvage, avec ses longs cheveux noirs en broussaille, sa barbe qui cachait presque entièrement son visage, ses mains de la taille d’un couvercle de poubelle et ses pieds chaussés de bottes en cuir qui avaient l’air de bébés dauphins.
+cuir             	On aurait dit un sauvage, avec ses longs cheveux noirs en broussaille, sa barbe qui cachait presque entièrement son visage, ses mains de la taille d’un couvercle de poubelle et ses pieds chaussés de bottes en cuir qui avaient l’air de bébés dauphins.
+dauphin          	On aurait dit un sauvage, avec ses longs cheveux noirs en broussaille, sa barbe qui cachait presque entièrement son visage, ses mains de la taille d’un couvercle de poubelle et ses pieds chaussés de bottes en cuir qui avaient l’air de bébés dauphins.
+couverture       	L’homme tenait un tas de couvertures dans ses immenses bras musculeux.
+immense          	L’homme tenait un tas de couvertures dans ses immenses bras musculeux.
+soulagement      	– Hagrid, dit Dumbledore avec soulagement.
+dénicher         	Où avez-vous déniché cette moto ?
+emprunter        	– L’ai empruntée, professeur Dumbledore, Monsieur, répondit le géant en descendant avec précaution de la moto.
+géant            	– L’ai empruntée, professeur Dumbledore, Monsieur, répondit le géant en descendant avec précaution de la moto.
+descendre        	– L’ai empruntée, professeur Dumbledore, Monsieur, répondit le géant en descendant avec précaution de la moto.
+prêter           	C’est le jeune Sirius Black qui me l’a prêtée.
+détruire         	La maison était presque entièrement détruite mais je me suis débrouillé pour le sauver de là avant que les Moldus commencent à rappliquer.
+débrouiller      	La maison était presque entièrement détruite mais je me suis débrouillé pour le sauver de là avant que les Moldus commencent à rappliquer.
+sauver           	La maison était presque entièrement détruite mais je me suis débrouillé pour le sauver de là avant que les Moldus commencent à rappliquer.
+rappliquer       	La maison était presque entièrement détruite mais je me suis débrouillé pour le sauver de là avant que les Moldus commencent à rappliquer.
+survoler         	Il s’est endormi quand on a survolé Bristol.
+pencher          	Dumbledore et le professeur McGonagall se penchèrent sur le tas de couvertures.
+peine            	À l’intérieur, à peine visible, un bébé dormait profondément.
+visible          	À l’intérieur, à peine visible, un bébé dormait profondément.
+dormir           	À l’intérieur, à peine visible, un bébé dormait profondément.
+profondément     	À l’intérieur, à peine visible, un bébé dormait profondément.
+touffe           	Sous une touffe de cheveux d’un noir de jais, ils distinguèrent sur son front une étrange coupure en forme d’éclair.
+jais             	Sous une touffe de cheveux d’un noir de jais, ils distinguèrent sur son front une étrange coupure en forme d’éclair.
+distinguer       	Sous une touffe de cheveux d’un noir de jais, ils distinguèrent sur son front une étrange coupure en forme d’éclair.
+front            	Sous une touffe de cheveux d’un noir de jais, ils distinguèrent sur son front une étrange coupure en forme d’éclair.
+coupure          	Sous une touffe de cheveux d’un noir de jais, ils distinguèrent sur son front une étrange coupure en forme d’éclair.
+éclair           	Sous une touffe de cheveux d’un noir de jais, ils distinguèrent sur son front une étrange coupure en forme d’éclair.
+murmurer         	– C’est là que ?… murmura le professeur McGonagall.
+cicatrice        	Il gardera cette cicatrice à tout jamais.
+arranger         	– Vous ne pourriez pas arranger ça, Dumbledore ?
+pouvoir          	– Même si je le pouvais, je ne le ferais pas.
+genou            	-même, j’en ai une au-dessus du genou gauche, qui représente le plan exact du métro de Londres.
+gauche           	-même, j’en ai une au-dessus du genou gauche, qui représente le plan exact du métro de Londres.
+représenter      	-même, j’en ai une au-dessus du genou gauche, qui représente le plan exact du métro de Londres.
+plan             	-même, j’en ai une au-dessus du genou gauche, qui représente le plan exact du métro de Londres.
+exact            	-même, j’en ai une au-dessus du genou gauche, qui représente le plan exact du métro de Londres.
+métro            	-même, j’en ai une au-dessus du genou gauche, qui représente le plan exact du métro de Londres.
+londres          	-même, j’en ai une au-dessus du genou gauche, qui représente le plan exact du métro de Londres.
+être             	– Est-ce que… est-ce que je pourrais lui dire au revoir, Monsieur ? demanda Hagrid.
+revoir           	– Est-ce que… est-ce que je pourrais lui dire au revoir, Monsieur ? demanda Hagrid.
+hirsute          	Il pencha sa grosse tête hirsute vers Harry et lui donna un baiser qui devait être singulièrement piquant et râpeux.
+piquant          	Il pencha sa grosse tête hirsute vers Harry et lui donna un baiser qui devait être singulièrement piquant et râpeux.
+râpeux           	Il pencha sa grosse tête hirsute vers Harry et lui donna un baiser qui devait être singulièrement piquant et râpeux.
+échapper         	Puis, soudain, Hagrid laissa échapper un long hurlement de chien blessé.
+chien            	Puis, soudain, Hagrid laissa échapper un long hurlement de chien blessé.
+blesser          	Puis, soudain, Hagrid laissa échapper un long hurlement de chien blessé.
+chut             	– Chut ! siffla le professeur McGonagall.
+siffler          	– Chut ! siffla le professeur McGonagall.
+réveiller        	Vous allez réveiller les Moldus !
+désolé           	– Dé… désolé, sanglota Hagrid en sortant de sa poche un grand mouchoir à pois dans lequel il enfouit son visage, mais je… je n’arrive pas à m’y faire… Lily et James qui meurent et ce pauvre petit Harry qui va aller vivre avec les Moldus…
+sangloter        	– Dé… désolé, sanglota Hagrid en sortant de sa poche un grand mouchoir à pois dans lequel il enfouit son visage, mais je… je n’arrive pas à m’y faire… Lily et James qui meurent et ce pauvre petit Harry qui va aller vivre avec les Moldus…
+pois             	– Dé… désolé, sanglota Hagrid en sortant de sa poche un grand mouchoir à pois dans lequel il enfouit son visage, mais je… je n’arrive pas à m’y faire… Lily et James qui meurent et ce pauvre petit Harry qui va aller vivre avec les Moldus…
+lequel           	– Dé… désolé, sanglota Hagrid en sortant de sa poche un grand mouchoir à pois dans lequel il enfouit son visage, mais je… je n’arrive pas à m’y faire… Lily et James qui meurent et ce pauvre petit Harry qui va aller vivre avec les Moldus…
+enfouir          	– Dé… désolé, sanglota Hagrid en sortant de sa poche un grand mouchoir à pois dans lequel il enfouit son visage, mais je… je n’arrive pas à m’y faire… Lily et James qui meurent et ce pauvre petit Harry qui va aller vivre avec les Moldus…
+mourir           	– Dé… désolé, sanglota Hagrid en sortant de sa poche un grand mouchoir à pois dans lequel il enfouit son visage, mais je… je n’arrive pas à m’y faire… Lily et James qui meurent et ce pauvre petit Harry qui va aller vivre avec les Moldus…
+pauvre           	– Dé… désolé, sanglota Hagrid en sortant de sa poche un grand mouchoir à pois dans lequel il enfouit son visage, mais je… je n’arrive pas à m’y faire… Lily et James qui meurent et ce pauvre petit Harry qui va aller vivre avec les Moldus…
+sinon            	– Oui, je sais, c’est très triste, mais ressaisissez-vous, Hagrid, sinon, nous allons nous faire repérer, chuchota le professeur McGonagall en tapotant doucement le bras de Hagrid tandis que Dumbledore enjambait le muret du jardin et s’avançait vers l’entrée de la maison.
+repérer          	– Oui, je sais, c’est très triste, mais ressaisissez-vous, Hagrid, sinon, nous allons nous faire repérer, chuchota le professeur McGonagall en tapotant doucement le bras de Hagrid tandis que Dumbledore enjambait le muret du jardin et s’avançait vers l’entrée de la maison.
+doucement        	– Oui, je sais, c’est très triste, mais ressaisissez-vous, Hagrid, sinon, nous allons nous faire repérer, chuchota le professeur McGonagall en tapotant doucement le bras de Hagrid tandis que Dumbledore enjambait le muret du jardin et s’avançait vers l’entrée de la maison.
+enjamber         	– Oui, je sais, c’est très triste, mais ressaisissez-vous, Hagrid, sinon, nous allons nous faire repérer, chuchota le professeur McGonagall en tapotant doucement le bras de Hagrid tandis que Dumbledore enjambait le muret du jardin et s’avançait vers l’entrée de la maison.
+avancer          	– Oui, je sais, c’est très triste, mais ressaisissez-vous, Hagrid, sinon, nous allons nous faire repérer, chuchota le professeur McGonagall en tapotant doucement le bras de Hagrid tandis que Dumbledore enjambait le muret du jardin et s’avançait vers l’entrée de la maison.
+entrée           	– Oui, je sais, c’est très triste, mais ressaisissez-vous, Hagrid, sinon, nous allons nous faire repérer, chuchota le professeur McGonagall en tapotant doucement le bras de Hagrid tandis que Dumbledore enjambait le muret du jardin et s’avançait vers l’entrée de la maison.
+revenir          	Avec précaution, il déposa Harry devant la porte, sortit une lettre de sa cape, la glissa entre les couvertures, puis revint vers les deux autres.
+trois            	Pendant un long moment, tous trois restèrent immobiles, côte à côte, à contempler le petit tas de couvertures.
+contempler       	Pendant un long moment, tous trois restèrent immobiles, côte à côte, à contempler le petit tas de couvertures.
+battre           	Les épaules de Hagrid tremblèrent, le professeur McGonagall battit des paupières avec frénésie et la lueur qui brillait habituellement dans le regard de Dumbledore sembla s’éteindre.
+paupière         	Les épaules de Hagrid tremblèrent, le professeur McGonagall battit des paupières avec frénésie et la lueur qui brillait habituellement dans le regard de Dumbledore sembla s’éteindre.
+frénésie         	Les épaules de Hagrid tremblèrent, le professeur McGonagall battit des paupières avec frénésie et la lueur qui brillait habituellement dans le regard de Dumbledore sembla s’éteindre.
+habituellement   	Les épaules de Hagrid tremblèrent, le professeur McGonagall battit des paupières avec frénésie et la lueur qui brillait habituellement dans le regard de Dumbledore sembla s’éteindre.
+eh               	Eh bien voilà, dit enfin Dumbledore.
+rejoindre        	Autant rejoindre les autres pour faire la fête.
+étouffer         	Oui, dit Hagrid d’une voix étouffée.
+revers           	Essuyant d’un revers de manche ses yeux ruisselants de larmes, Hagrid enfourcha la moto et mit le moteur en route.
+manche           	Essuyant d’un revers de manche ses yeux ruisselants de larmes, Hagrid enfourcha la moto et mit le moteur en route.
+ruisselant       	Essuyant d’un revers de manche ses yeux ruisselants de larmes, Hagrid enfourcha la moto et mit le moteur en route.
+larme            	Essuyant d’un revers de manche ses yeux ruisselants de larmes, Hagrid enfourcha la moto et mit le moteur en route.
+enfourcher       	Essuyant d’un revers de manche ses yeux ruisselants de larmes, Hagrid enfourcha la moto et mit le moteur en route.
+moteur           	Essuyant d’un revers de manche ses yeux ruisselants de larmes, Hagrid enfourcha la moto et mit le moteur en route.
+vrombissement    	Dans un vrombissement, la moto s’éleva dans les airs et disparut dans la nuit.
+élever           	Dans un vrombissement, la moto s’éleva dans les airs et disparut dans la nuit.
+disparaître      	Dans un vrombissement, la moto s’éleva dans les airs et disparut dans la nuit.
+réponse          	Pour toute réponse, le professeur McGonagall se moucha.
+moucher          	Pour toute réponse, le professeur McGonagall se moucha.
+volte-face       	Dumbledore fit volte-face et s’éloigna le long de la rue.
+éloigner         	Dumbledore fit volte-face et s’éloigna le long de la rue.
+actionner         	Il l’actionna une seule fois et une douzaine de boules lumineuses regagnèrent aussitôt les réverbères.
+boule            	Il l’actionna une seule fois et une douzaine de boules lumineuses regagnèrent aussitôt les réverbères.
+lumineux         	Il l’actionna une seule fois et une douzaine de boules lumineuses regagnèrent aussitôt les réverbères.
+regagner         	Il l’actionna une seule fois et une douzaine de boules lumineuses regagnèrent aussitôt les réverbères.
+aussitôt         	Il l’actionna une seule fois et une douzaine de boules lumineuses regagnèrent aussitôt les réverbères.
+baigner          	Privet Drive fut soudain baigné d’une lumière orangée et Dumbledore distingua la silhouette d’un chat tigré qui tournait l’angle de la rue.
+orangé           	Privet Drive fut soudain baigné d’une lumière orangée et Dumbledore distingua la silhouette d’un chat tigré qui tournait l’angle de la rue.
+silhouette       	Privet Drive fut soudain baigné d’une lumière orangée et Dumbledore distingua la silhouette d’un chat tigré qui tournait l’angle de la rue.
+chance           	– Bonne chance, Harry, murmura-t-il.
+bruissement      	Il se retourna et disparut dans un bruissement de cape.
+brise            	Une brise agitait les haies bien taillées de Privet Drive.
+haie             	Une brise agitait les haies bien taillées de Privet Drive.
+tailler          	Une brise agitait les haies bien taillées de Privet Drive.
+silencieux       	La rue était propre et silencieuse sous le ciel d’encre.
+encre            	La rue était propre et silencieuse sous le ciel d’encre.
+extraordinaire   	Jamais on n’aurait imaginé que des événements extraordinaires puissent se dérouler dans un tel endroit.
+dérouler         	Jamais on n’aurait imaginé que des événements extraordinaires puissent se dérouler dans un tel endroit.
+refermer         	Sa petite main se referma sur la lettre posée à côté de lui et il continua de dormir sans savoir qu’il était un être exceptionnel, sans savoir qu’il était déjà célèbre, sans savoir non plus que dans quelques heures, il serait réveillé par le cri de Mrs Dursley qui ouvrirait la porte pour sortir les bouteilles de lait et que pendant des semaines, il serait piqué et pincé par son cousin Dudley…
+poser            	Sa petite main se referma sur la lettre posée à côté de lui et il continua de dormir sans savoir qu’il était un être exceptionnel, sans savoir qu’il était déjà célèbre, sans savoir non plus que dans quelques heures, il serait réveillé par le cri de Mrs Dursley qui ouvrirait la porte pour sortir les bouteilles de lait et que pendant des semaines, il serait piqué et pincé par son cousin Dudley…
+exceptionnel     	Sa petite main se referma sur la lettre posée à côté de lui et il continua de dormir sans savoir qu’il était un être exceptionnel, sans savoir qu’il était déjà célèbre, sans savoir non plus que dans quelques heures, il serait réveillé par le cri de Mrs Dursley qui ouvrirait la porte pour sortir les bouteilles de lait et que pendant des semaines, il serait piqué et pincé par son cousin Dudley…
+cri              	Sa petite main se referma sur la lettre posée à côté de lui et il continua de dormir sans savoir qu’il était un être exceptionnel, sans savoir qu’il était déjà célèbre, sans savoir non plus que dans quelques heures, il serait réveillé par le cri de Mrs Dursley qui ouvrirait la porte pour sortir les bouteilles de lait et que pendant des semaines, il serait piqué et pincé par son cousin Dudley…
+bouteille        	Sa petite main se referma sur la lettre posée à côté de lui et il continua de dormir sans savoir qu’il était un être exceptionnel, sans savoir qu’il était déjà célèbre, sans savoir non plus que dans quelques heures, il serait réveillé par le cri de Mrs Dursley qui ouvrirait la porte pour sortir les bouteilles de lait et que pendant des semaines, il serait piqué et pincé par son cousin Dudley…
+lait             	Sa petite main se referma sur la lettre posée à côté de lui et il continua de dormir sans savoir qu’il était un être exceptionnel, sans savoir qu’il était déjà célèbre, sans savoir non plus que dans quelques heures, il serait réveillé par le cri de Mrs Dursley qui ouvrirait la porte pour sortir les bouteilles de lait et que pendant des semaines, il serait piqué et pincé par son cousin Dudley…
+semaine          	Sa petite main se referma sur la lettre posée à côté de lui et il continua de dormir sans savoir qu’il était un être exceptionnel, sans savoir qu’il était déjà célèbre, sans savoir non plus que dans quelques heures, il serait réveillé par le cri de Mrs Dursley qui ouvrirait la porte pour sortir les bouteilles de lait et que pendant des semaines, il serait piqué et pincé par son cousin Dudley…
+piquer           	Sa petite main se referma sur la lettre posée à côté de lui et il continua de dormir sans savoir qu’il était un être exceptionnel, sans savoir qu’il était déjà célèbre, sans savoir non plus que dans quelques heures, il serait réveillé par le cri de Mrs Dursley qui ouvrirait la porte pour sortir les bouteilles de lait et que pendant des semaines, il serait piqué et pincé par son cousin Dudley…
+pincer           	Sa petite main se referma sur la lettre posée à côté de lui et il continua de dormir sans savoir qu’il était un être exceptionnel, sans savoir qu’il était déjà célèbre, sans savoir non plus que dans quelques heures, il serait réveillé par le cri de Mrs Dursley qui ouvrirait la porte pour sortir les bouteilles de lait et que pendant des semaines, il serait piqué et pincé par son cousin Dudley…
+cousin           	Sa petite main se referma sur la lettre posée à côté de lui et il continua de dormir sans savoir qu’il était un être exceptionnel, sans savoir qu’il était déjà célèbre, sans savoir non plus que dans quelques heures, il serait réveillé par le cri de Mrs Dursley qui ouvrirait la porte pour sortir les bouteilles de lait et que pendant des semaines, il serait piqué et pincé par son cousin Dudley…
+davantage        	Il ne savait pas davantage qu’en ce moment même, des gens s’étaient rassemblés en secret dans tout le pays et qu’ils levaient leur verre en murmurant : « À la santé de Harry Potter. Le survivant ! »
+rassembler       	Il ne savait pas davantage qu’en ce moment même, des gens s’étaient rassemblés en secret dans tout le pays et qu’ils levaient leur verre en murmurant : « À la santé de Harry Potter. Le survivant ! »
+verre            	Il ne savait pas davantage qu’en ce moment même, des gens s’étaient rassemblés en secret dans tout le pays et qu’ils levaient leur verre en murmurant : « À la santé de Harry Potter. Le survivant ! »
+santé            	Il ne savait pas davantage qu’en ce moment même, des gens s’étaient rassemblés en secret dans tout le pays et qu’ils levaient leur verre en murmurant : « À la santé de Harry Potter. Le survivant ! »
+survivant        	Il ne savait pas davantage qu’en ce moment même, des gens s’étaient rassemblés en secret dans tout le pays et qu’ils levaient leur verre en murmurant : « À la santé de Harry Potter. Le survivant ! »

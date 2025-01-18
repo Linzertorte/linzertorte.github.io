@@ -1,0 +1,300 @@
+clé            	LE GARDIEN DES CLÉS
+bêtement       	– C’était un coup de canon ? demanda-t-il bêtement.
+fusil          	Il tenait un fusil à la main.
+contenir       	À présent, ils savaient ce que contenait le long paquet qu’il avait eu sous le bras la veille.
+armer          	Je vous préviens, je suis armé !
+gond           	On cogna sur la porte avec tant de force qu’elle fut arrachée de ses gonds et tomba à plat sur le sol dans un fracas assourdissant.
+fracas         	On cogna sur la porte avec tant de force qu’elle fut arrachée de ses gonds et tomba à plat sur le sol dans un fracas assourdissant.
+encadrement    	Un véritable géant se tenait dans l’encadrement.
+crinière       	Son visage était presque entièrement caché par une longue crinière de cheveux emmêlés et par une grande barbe broussailleuse, mais on voyait distinctement ses yeux qui brillaient comme deux scarabées noirs au milieu de ce foisonnement.
+emmêler        	Son visage était presque entièrement caché par une longue crinière de cheveux emmêlés et par une grande barbe broussailleuse, mais on voyait distinctement ses yeux qui brillaient comme deux scarabées noirs au milieu de ce foisonnement.
+broussailleux  	Son visage était presque entièrement caché par une longue crinière de cheveux emmêlés et par une grande barbe broussailleuse, mais on voyait distinctement ses yeux qui brillaient comme deux scarabées noirs au milieu de ce foisonnement.
+distinctement  	Son visage était presque entièrement caché par une longue crinière de cheveux emmêlés et par une grande barbe broussailleuse, mais on voyait distinctement ses yeux qui brillaient comme deux scarabées noirs au milieu de ce foisonnement.
+scarabée       	Son visage était presque entièrement caché par une longue crinière de cheveux emmêlés et par une grande barbe broussailleuse, mais on voyait distinctement ses yeux qui brillaient comme deux scarabées noirs au milieu de ce foisonnement.
+foisonnement   	Son visage était presque entièrement caché par une longue crinière de cheveux emmêlés et par une grande barbe broussailleuse, mais on voyait distinctement ses yeux qui brillaient comme deux scarabées noirs au milieu de ce foisonnement.
+ramasser       	Il se pencha, ramassa la porte et la remit sans difficulté sur ses gonds.
+difficulté     	Il se pencha, ramassa la porte et la remit sans difficulté sur ses gonds.
+vacarme        	Au-dehors, le vacarme de la tempête s’était un peu atténué.
+atténuer       	Au-dehors, le vacarme de la tempête s’était un peu atténué.
+refus          	Si vous aviez une tasse de thé, ce ne serait pas de refus, dit le géant.
+pétrifier      	Il s’avança vers le canapé où Dudley était resté assis, pétrifié de terreur.
+bouger         	– Bouge-toi un peu, gros tas, dit-il.
+courir         	Dudley poussa un petit cri et courut se réfugier derrière sa mère, tout aussi terrifiée, qui se cachait elle-même derrière l’oncle Vernon.
+réfugier       	Dudley poussa un petit cri et courut se réfugier derrière sa mère, tout aussi terrifiée, qui se cachait elle-même derrière l’oncle Vernon.
+terrifier      	Dudley poussa un petit cri et courut se réfugier derrière sa mère, tout aussi terrifiée, qui se cachait elle-même derrière l’oncle Vernon.
+ride           	Harry leva la tête vers son visage hirsute et vit de petites rides apparaître autour de ses yeux en forme de scarabée : le géant souriait.
+ressembler     	Tu ressembles beaucoup à ton père, mais tu as les yeux de ta maman.
+commettre      	Vous avez commis une violation de domicile avec effraction.
+violation      	Vous avez commis une violation de domicile avec effraction.
+domicile       	Vous avez commis une violation de domicile avec effraction.
+effraction     	Vous avez commis une violation de domicile avec effraction.
+pruneau        	Ah, ça suffit, Dursley, espèce de vieux pruneau ! dit le géant.
+nœud           	Il tendit le bras, arracha le fusil des mains de l’oncle Vernon, fit un nœud avec le canon aussi facilement que s’il avait été en caoutchouc et le jeta dans un coin de la pièce.
+facilement     	Il tendit le bras, arracha le fusil des mains de l’oncle Vernon, fit un nœud avec le canon aussi facilement que s’il avait été en caoutchouc et le jeta dans un coin de la pièce.
+souris         	L’oncle Vernon émit à nouveau un drôle de bruit, comme une souris sur laquelle on aurait marché.
+souhaiter      	– Je te souhaite un bon anniversaire, Harry, dit le géant en tournant le dos aux Dursley.
+carton         	Il tira d’une poche intérieure de son manteau noir une boîte en carton légèrement aplatie.
+légèrement     	Il tira d’une poche intérieure de son manteau noir une boîte en carton légèrement aplatie.
+aplatir        	Il tira d’une poche intérieure de son manteau noir une boîte en carton légèrement aplatie.
+fondre         	Harry l’ouvrit en tremblant et découvrit à l’intérieur un gros gâteau au chocolat un peu fondu sur lequel était écrit avec un glaçage vert : « Joyeux anniversaire Harry ».
+glaçage        	Harry l’ouvrit en tremblant et découvrit à l’intérieur un gros gâteau au chocolat un peu fondu sur lequel était écrit avec un glaçage vert : « Joyeux anniversaire Harry ».
+présenter      	Ah, c’est vrai, je ne me suis pas présenté, dit-il.
+clé            	Rubeus Hagrid, gardien des Clés et des Lieux à Poudlard.
+frotter        	Il faudrait peut-être y penser, dit-il en se frottant les mains.
+calciner       	En voyant les paquets de chips calcinés, il poussa un grognement et se pencha sur l’âtre.
+âtre           	En voyant les paquets de chips calcinés, il poussa un grognement et se pencha sur l’âtre.
+enfer          	Personne ne put voir ce qu’il faisait, mais quand il se releva un instant plus tard, un feu d’enfer ronflait dans la cheminée, projetant des lueurs dansantes dans la cabane humide.
+dansant        	Personne ne put voir ce qu’il faisait, mais quand il se releva un instant plus tard, un feu d’enfer ronflait dans la cheminée, projetant des lueurs dansantes dans la cabane humide.
+chaleur        	Harry sentit la chaleur se répandre autour de lui comme s’il venait de plonger dans un bain chaud.
+poids          	Le géant se rassit sur le canapé qui s’écrasa sous son poids et sortit toutes sortes d’objets des poches de son manteau : une bouilloire en cuivre, un paquet de saucisses ramolli, un tisonnier, une théière, des tasses ébréchées et une bouteille qui contenait un liquide ambré dont il avala une gorgée avant de préparer le thé.
+bouilloire     	Le géant se rassit sur le canapé qui s’écrasa sous son poids et sortit toutes sortes d’objets des poches de son manteau : une bouilloire en cuivre, un paquet de saucisses ramolli, un tisonnier, une théière, des tasses ébréchées et une bouteille qui contenait un liquide ambré dont il avala une gorgée avant de préparer le thé.
+saucisse       	Le géant se rassit sur le canapé qui s’écrasa sous son poids et sortit toutes sortes d’objets des poches de son manteau : une bouilloire en cuivre, un paquet de saucisses ramolli, un tisonnier, une théière, des tasses ébréchées et une bouteille qui contenait un liquide ambré dont il avala une gorgée avant de préparer le thé.
+ramollir       	Le géant se rassit sur le canapé qui s’écrasa sous son poids et sortit toutes sortes d’objets des poches de son manteau : une bouilloire en cuivre, un paquet de saucisses ramolli, un tisonnier, une théière, des tasses ébréchées et une bouteille qui contenait un liquide ambré dont il avala une gorgée avant de préparer le thé.
+tisonnier      	Le géant se rassit sur le canapé qui s’écrasa sous son poids et sortit toutes sortes d’objets des poches de son manteau : une bouilloire en cuivre, un paquet de saucisses ramolli, un tisonnier, une théière, des tasses ébréchées et une bouteille qui contenait un liquide ambré dont il avala une gorgée avant de préparer le thé.
+théière        	Le géant se rassit sur le canapé qui s’écrasa sous son poids et sortit toutes sortes d’objets des poches de son manteau : une bouilloire en cuivre, un paquet de saucisses ramolli, un tisonnier, une théière, des tasses ébréchées et une bouteille qui contenait un liquide ambré dont il avala une gorgée avant de préparer le thé.
+ébrécher       	Le géant se rassit sur le canapé qui s’écrasa sous son poids et sortit toutes sortes d’objets des poches de son manteau : une bouilloire en cuivre, un paquet de saucisses ramolli, un tisonnier, une théière, des tasses ébréchées et une bouteille qui contenait un liquide ambré dont il avala une gorgée avant de préparer le thé.
+liquide        	Le géant se rassit sur le canapé qui s’écrasa sous son poids et sortit toutes sortes d’objets des poches de son manteau : une bouilloire en cuivre, un paquet de saucisses ramolli, un tisonnier, une théière, des tasses ébréchées et une bouteille qui contenait un liquide ambré dont il avala une gorgée avant de préparer le thé.
+ambré          	Le géant se rassit sur le canapé qui s’écrasa sous son poids et sortit toutes sortes d’objets des poches de son manteau : une bouilloire en cuivre, un paquet de saucisses ramolli, un tisonnier, une théière, des tasses ébréchées et une bouteille qui contenait un liquide ambré dont il avala une gorgée avant de préparer le thé.
+griller        	Bientôt, l’odeur des saucisses grillées qu’on entendait grésiller dans la cheminée se répandit dans la cabane.
+grésiller      	Bientôt, l’odeur des saucisses grillées qu’on entendait grésiller dans la cheminée se répandit dans la cabane.
+affairer       	Tout le monde resta immobile et silencieux pendant que le géant s’affairait, mais lorsqu’il fit glisser du tisonnier six grosses saucisses bien juteuses et légèrement brûlées, Dudley commença à frétiller.
+juteux         	Tout le monde resta immobile et silencieux pendant que le géant s’affairait, mais lorsqu’il fit glisser du tisonnier six grosses saucisses bien juteuses et légèrement brûlées, Dudley commença à frétiller.
+brûler         	Tout le monde resta immobile et silencieux pendant que le géant s’affairait, mais lorsqu’il fit glisser du tisonnier six grosses saucisses bien juteuses et légèrement brûlées, Dudley commença à frétiller.
+frétiller      	Tout le monde resta immobile et silencieux pendant que le géant s’affairait, mais lorsqu’il fit glisser du tisonnier six grosses saucisses bien juteuses et légèrement brûlées, Dudley commença à frétiller.
+toucher        	– Dudley, ne touche à rien de ce qu’il te donnera, dit sèchement l’oncle Vernon.
+narquois       	Le géant eut un petit rire narquois.
+votre          	– Votre gros lard de fils n’a pas besoin d’engraisser davantage, Dursley, ne vous inquiétez pas.
+lard           	– Votre gros lard de fils n’a pas besoin d’engraisser davantage, Dursley, ne vous inquiétez pas.
+engraisser     	– Votre gros lard de fils n’a pas besoin d’engraisser davantage, Dursley, ne vous inquiétez pas.
+délicieux      	Il donna les saucisses à Harry qui avait tellement faim que rien ne lui avait jamais paru aussi délicieux, mais il n’arrivait pas à détacher ses yeux du géant.
+explication    	Finalement, comme personne ne semblait décidé à donner la moindre explication, il rompit le silence : – Je suis désolé, dit-il, mais je ne sais toujours pas qui vous êtes.
+scandaliser    	Hagrid parut scandalisé.
+aboyer         	– Désolé ? aboya Hagrid en se tournant vers les Dursley qui se tassèrent sur eux-mêmes en essayant de disparaître dans la pénombre.
+tasser         	– Désolé ? aboya Hagrid en se tournant vers les Dursley qui se tassèrent sur eux-mêmes en essayant de disparaître dans la pénombre.
+pénombre       	– Désolé ? aboya Hagrid en se tournant vers les Dursley qui se tassèrent sur eux-mêmes en essayant de disparaître dans la pénombre.
+quoi           	TOUT ÇA QUOI ? tonna Hagrid.
+tonner         	TOUT ÇA QUOI ? tonna Hagrid.
+espace         	Sa colère était telle qu’il semblait remplir tout l’espace de la cabane.
+recroqueviller 	Les Dursley s’étaient recroquevillés contre le mur.
+rien           	– Vous n’allez pas me dire, rugit Hagrid, que ce garçon – ce garçon ! – ne sait rien sur… sur RIEN ?
+exagérer       	Harry pensa qu’il exagérait.
+note           	Après tout, il était allé à l’école et il avait toujours eu de bonnes notes.
+mathématique   	J’ai fait des mathématiques et tout ça… Mais Hagrid eut un geste dédaigneux de la main.
+dédaigneux     	J’ai fait des mathématiques et tout ça… Mais Hagrid eut un geste dédaigneux de la main.
+livide         	L’oncle Vernon, le teint livide, marmonna quelque chose qui aurait pu vouloir dire : « Maisnonmaisquoimaispasdutout.
+effaré         	Hagrid regarda Harry d’un air effaré.
+parole         	L’oncle Vernon retrouva soudain l’usage de la parole.
+courageux      	Même un homme plus courageux que l’oncle Vernon aurait flanché devant le regard furieux que Hagrid lui adressa.
+flancher       	Même un homme plus courageux que l’oncle Vernon aurait flanché devant le regard furieux que Hagrid lui adressa.
+syllabe        	– Vous ne lui avez jamais rien dit ? reprit-il en détachant chaque syllabe d’une voix tremblante de rage.
+rage           	– Vous ne lui avez jamais rien dit ? reprit-il en détachant chaque syllabe d’une voix tremblante de rage.
+cacher         	– Caché quoi ? dit précipitamment Harry.
+suffire        	– ÇA SUFFIT ! JE VOUS INTERDIS ! s’exclama l’oncle Vernon pris de panique.
+interdire      	– ÇA SUFFIT ! JE VOUS INTERDIS ! s’exclama l’oncle Vernon pris de panique.
+exclamation    	La tante Pétunia eut une exclamation d’horreur.
+pâté           	– Je vais vous transformer en pâté, tous les deux, lança Hagrid.
+sorcier        	Tu es un sorcier.
+abattre        	Un grand silence s’abattit soudain sur la cabane.
+appuyer        	– Un sorcier, bien sûr, dit Hagrid en s’appuyant contre le dossier du canapé qui craqua et s’écrasa un peu plus sous son poids.
+dossier        	– Un sorcier, bien sûr, dit Hagrid en s’appuyant contre le dossier du canapé qui craqua et s’écrasa un peu plus sous son poids.
+craquer        	– Un sorcier, bien sûr, dit Hagrid en s’appuyant contre le dossier du canapé qui craqua et s’écrasa un peu plus sous son poids.
+sacré          	Et tu deviendras un sacré bon sorcier dès que tu auras un peu d’entraînement.
+entraînement   	Et tu deviendras un sacré bon sorcier dès que tu auras un peu d’entraînement.
+tien           	Avec un père et une mère comme les tiens, ça ne peut pas être autrement.
+lire           	Mais il est temps que tu lises ta lettre.
+plancher       	Harry tendit la main et finit par prendre l’enveloppe de parchemin jauni sur laquelle était écrit à l’encre vert émeraude : « Mr H. Potter, sur le plancher de la cabane au sommet du rocher, en pleine mer. »
+sorcellerie    	Il ouvrit l’enveloppe et lut la lettre qu’elle contenait : COLLÈGE POUDLARD, ÉCOLE DE SORCELLERIE
+commandeur     	Directeur : Albus Dumbledore Commandeur du Grand-Ordre de Merlin
+docteur        	Docteur ès Sorcellerie, Enchanteur-en-chef, Manitou suprême de la Confédération internationale des Mages et Sorciers
+sorcellerie    	Docteur ès Sorcellerie, Enchanteur-en-chef, Manitou suprême de la Confédération internationale des Mages et Sorciers
+manitou        	Docteur ès Sorcellerie, Enchanteur-en-chef, Manitou suprême de la Confédération internationale des Mages et Sorciers
+suprême        	Docteur ès Sorcellerie, Enchanteur-en-chef, Manitou suprême de la Confédération internationale des Mages et Sorciers
+confédération  	Docteur ès Sorcellerie, Enchanteur-en-chef, Manitou suprême de la Confédération internationale des Mages et Sorciers
+international  	Docteur ès Sorcellerie, Enchanteur-en-chef, Manitou suprême de la Confédération internationale des Mages et Sorciers
+mage           	Docteur ès Sorcellerie, Enchanteur-en-chef, Manitou suprême de la Confédération internationale des Mages et Sorciers
+cher           	Cher Mr Potter, Nous avons le plaisir de vous informer que vous bénéficiez d’ores et déjà d’une inscription au collège Poudlard.
+plaisir        	Cher Mr Potter, Nous avons le plaisir de vous informer que vous bénéficiez d’ores et déjà d’une inscription au collège Poudlard.
+informer       	Cher Mr Potter, Nous avons le plaisir de vous informer que vous bénéficiez d’ores et déjà d’une inscription au collège Poudlard.
+bénéficier     	Cher Mr Potter, Nous avons le plaisir de vous informer que vous bénéficiez d’ores et déjà d’une inscription au collège Poudlard.
+ores           	Cher Mr Potter, Nous avons le plaisir de vous informer que vous bénéficiez d’ores et déjà d’une inscription au collège Poudlard.
+inscription    	Cher Mr Potter, Nous avons le plaisir de vous informer que vous bénéficiez d’ores et déjà d’une inscription au collège Poudlard.
+joindre        	Vous trouverez ci-joint la liste des ouvrages et équipements nécessaires au bon déroulement de votre scolarité.
+liste          	Vous trouverez ci-joint la liste des ouvrages et équipements nécessaires au bon déroulement de votre scolarité.
+ouvrage        	Vous trouverez ci-joint la liste des ouvrages et équipements nécessaires au bon déroulement de votre scolarité.
+équipement     	Vous trouverez ci-joint la liste des ouvrages et équipements nécessaires au bon déroulement de votre scolarité.
+nécessaire     	Vous trouverez ci-joint la liste des ouvrages et équipements nécessaires au bon déroulement de votre scolarité.
+déroulement    	Vous trouverez ci-joint la liste des ouvrages et équipements nécessaires au bon déroulement de votre scolarité.
+scolarité      	Vous trouverez ci-joint la liste des ouvrages et équipements nécessaires au bon déroulement de votre scolarité.
+expression     	Mr Potter, en l’expression de nos sentiments distingués.
+sentiment      	Mr Potter, en l’expression de nos sentiments distingués.
+directeur      	Directrice-adjointe
+adjoint        	Directrice-adjointe
+artifice       	Harry avait tellement de questions à poser qu’elles explosaient dans sa tête comme un feu d’artifice.
+bredouiller    	– Qu’est-ce que ça veut dire « nous attendons votre hibou » ? bredouilla-t-il.
+mille          	– Mille Gorgones, j’allais oublier ! s’exclama Hagrid en se donnant sur le front une tape de la main qui aurait suffi à renverser un cheval de trait.
+tape           	– Mille Gorgones, j’allais oublier ! s’exclama Hagrid en se donnant sur le front une tape de la main qui aurait suffi à renverser un cheval de trait.
+cheval         	– Mille Gorgones, j’allais oublier ! s’exclama Hagrid en se donnant sur le front une tape de la main qui aurait suffi à renverser un cheval de trait.
+trait          	– Mille Gorgones, j’allais oublier ! s’exclama Hagrid en se donnant sur le front une tape de la main qui aurait suffi à renverser un cheval de trait.
+second         	D’une seconde poche intérieure de son manteau, il tira alors un hibou – un vrai hibou bien vivant qui avait l’air un peu froissé –, une longue plume d’oie et un rouleau de parchemin.
+froisser       	D’une seconde poche intérieure de son manteau, il tira alors un hibou – un vrai hibou bien vivant qui avait l’air un peu froissé –, une longue plume d’oie et un rouleau de parchemin.
+plume          	D’une seconde poche intérieure de son manteau, il tira alors un hibou – un vrai hibou bien vivant qui avait l’air un peu froissé –, une longue plume d’oie et un rouleau de parchemin.
+oie            	D’une seconde poche intérieure de son manteau, il tira alors un hibou – un vrai hibou bien vivant qui avait l’air un peu froissé –, une longue plume d’oie et un rouleau de parchemin.
+rouleau        	D’une seconde poche intérieure de son manteau, il tira alors un hibou – un vrai hibou bien vivant qui avait l’air un peu froissé –, une longue plume d’oie et un rouleau de parchemin.
+langue         	La langue entre les dents, il se mit à griffonner un mot que Harry, face à lui, parvint à lire à l’envers : Monsieur le Directeur, J’ai donné sa lettre à Harry.
+dent           	La langue entre les dents, il se mit à griffonner un mot que Harry, face à lui, parvint à lire à l’envers : Monsieur le Directeur, J’ai donné sa lettre à Harry.
+griffonner     	La langue entre les dents, il se mit à griffonner un mot que Harry, face à lui, parvint à lire à l’envers : Monsieur le Directeur, J’ai donné sa lettre à Harry.
+envers         	La langue entre les dents, il se mit à griffonner un mot que Harry, face à lui, parvint à lire à l’envers : Monsieur le Directeur, J’ai donné sa lettre à Harry.
+demain         	Je l’emmène acheter ses affaires demain.
+affreux        	Le temps est affreux.
+billet         	Hagrid Hagrid roula le billet et le donna au hibou qui le prit dans son bec, puis il alla ouvrir la porte et jeta l’oiseau au-dehors, en pleine tempête.
+bec            	Hagrid Hagrid roula le billet et le donna au hibou qui le prit dans son bec, puis il alla ouvrir la porte et jeta l’oiseau au-dehors, en pleine tempête.
+où             	– Où en étais-je ? dit Hagrid.
+poster         	À ce moment, l’oncle Vernon, le teint toujours grisâtre, mais l’air furieux, vint se poster devant la cheminée.
+aller          	– Il n’est pas question qu’il s’en aille, dit-il.
+aviser         	– J’aimerais bien voir qu’un Moldu dans votre genre s’avise de l’en empêcher, dit-il.
+intéresser     	– Un quoi ? demanda Harry, intéressé.
+magique        	– Un Moldu, dit Hagrid, c’est comme ça que nous appelons les gens qui n’ont pas de pouvoirs magiques.
+incroyable     	Et manque de chance, tu as grandi dans la plus incroyable famille de Moldus que j’aie jamais rencontrée.
+baliverne      	– Quand nous l’avons pris avec nous, nous nous sommes juré d’en finir avec ces balivernes, dit l’oncle Vernon.
+jurer          	Juré qu’on allait le débarrasser de tout ça.
+débarrasser    	Juré qu’on allait le débarrasser de tout ça.
+maudire        	Comment aurait-il pu en être autrement quand on sait ce qu’était ma maudite sœur !
+têtard         	Quand elle revenait à la maison pour les vacances, elle avait les poches pleines de têtards et elle changeait les tasses de thé en rats d’égout.
+égout          	Quand elle revenait à la maison pour les vacances, elle avait les poches pleines de têtards et elle changeait les tasses de thé en rats d’égout.
+monstre        	J’étais la seule à la voir telle qu’elle était : un monstre !
+fier           	Mais avec mon père et ma mère, il n’y en avait que pour elle, c’était Lily par-ci, Lily par-là, ils étaient si fiers d’avoir une sorcière dans la famille !
+sorcière       	Mais avec mon père et ma mère, il n’y en avait que pour elle, c’était Lily par-ci, Lily par-là, ils étaient si fiers d’avoir une sorcière dans la famille !
+interrompre    	Elle s’interrompit pour respirer profondément puis elle reprit sa tirade.
+tirade         	Elle s’interrompit pour respirer profondément puis elle reprit sa tirade.
+marier         	– Et puis, elle a rencontré ce Potter, à l’école, reprit-elle, ils se sont mariés et tu es arrivé.
+hériter        	Et pour finir, quelqu’un l’a fait exploser et on a hérité de toi !
+terrer         	– UN ACCIDENT DE VOITURE ? rugit Hagrid, en sursautant si violemment que les Dursley retournèrent se terrer dans un coin de la cabane.
+insulte        	C’est une insulte !
+scandale       	Un scandale !
+avide          	– Mais pourquoi ? Qu’est-ce qui s’est passé ? demanda Harry, avide de savoir.
+ramener        	Quand Dumbledore m’a prévenu qu’il ne serait peut-être pas facile de te ramener, je ne me doutais pas que tu n’étais au courant de rien.
+courant        	Quand Dumbledore m’a prévenu qu’il ne serait peut-être pas facile de te ramener, je ne me doutais pas que tu n’étais au courant de rien.
+demander       	Ah, Harry, je me demande si c’est moi qui suis le mieux placé pour te révéler tout ça, mais il faut bien que quelqu’un le fasse.
+mystère        	– Je vais essayer de te dire ce que je peux, mais je ne pourrai pas tout dire, il y a de trop grands mystères derrière tout ça…
+récit          	Il se laissa aller contre le dossier du canapé et contempla le feu pendant quelques instants avant de commencer son récit.
+personnage     	– Toute l’histoire commence à cause d’un personnage qui s’appelle… c’est vraiment incroyable que tu n’aies jamais entendu son nom alors que, dans notre monde, chacun connaît…
+gargouille     	– Nom d’une gargouille, Harry !
+bougre         	Ah, bougre de diable, c’est tellement difficile !
+diable         	Ah, bougre de diable, c’est tellement difficile !
+épeler         	Non, je ne peux pas l’épeler… Bon, allons-y, il s’appelait… Voldemort.
+corps          	L’immense corps du géant fut parcouru d’un frisson.
+parcourir      	L’immense corps du géant fut parcouru d’un frisson.
+frisson        	L’immense corps du géant fut parcouru d’un frisson.
+vingtaine      	Il y a une vingtaine d’années, ce… ce sorcier a commencé à chercher des adeptes.
+adepte         	Il y a une vingtaine d’années, ce… ce sorcier a commencé à chercher des adeptes.
+profiter       	Certains l’ont suivi parce qu’ils avaient peur, d’autres voulaient simplement profiter de son pouvoir, parce que, des pouvoirs, il en avait !
+époque         	C’était une sombre époque, Harry.
+lier           	On ne savait plus à qui faire confiance, on n’osait pas se lier d’amitié avec les sorciers ou les sorcières qu’on ne connaissait pas bien…
+amitié         	On ne savait plus à qui faire confiance, on n’osait pas se lier d’amitié avec les sorciers ou les sorcières qu’on ne connaissait pas bien…
+résister       	Oh, bien sûr, il y en avait encore qui lui résistaient… mais il les tuait.
+effroyable     	Et d’une manière effroyable.
+sécurité       	L’un des seuls endroits où on était encore en sécurité, c’était Poudlard.
+savoir         	Je crois bien que Dumbledore était le seul qui arrivait à faire peur à Tu-Sais-Qui.
+attaquer       	Il n’a jamais osé s’attaquer à l’école, pas à ce moment-là, en tout cas.
+étudiant       	Toujours premiers de la classe à Poudlard, à l’époque où ils étaient étudiants !
+camp           	Le mystère, c’est pourquoi Tu-Sais-Qui a attendu si longtemps pour essayer de les amener dans son camp… sans doute parce qu’ils étaient trop proches de Dumbledore pour avoir quelque chose à faire dans le monde des Ténèbres.
+ténèbres       	Le mystère, c’est pourquoi Tu-Sais-Qui a attendu si longtemps pour essayer de les amener dans son camp… sans doute parce qu’ils étaient trop proches de Dumbledore pour avoir quelque chose à faire dans le monde des Ténèbres.
+dizaine        	Tout ce qu’on sait, c’est qu’il y a une dizaine d’années, le jour de Halloween, il s’est rendu dans le village où vous habitiez tous les trois.
+sale           	Il est arrivé devant votre maison et… et… Hagrid sortit soudain un mouchoir à pois très sale et se moucha en faisant un bruit de corne de brume.
+corne          	Il est arrivé devant votre maison et… et… Hagrid sortit soudain un mouchoir à pois très sale et se moucha en faisant un bruit de corne de brume.
+brume          	Il est arrivé devant votre maison et… et… Hagrid sortit soudain un mouchoir à pois très sale et se moucha en faisant un bruit de corne de brume.
+excuser        	– Excuse-moi, dit-il, mais c’est tellement triste…
+charmant       	Je connaissais ton papa et ta maman et c’étaient les gens les plus charmants qu’on puisse imaginer…
+blessure       	Ce n’est pas une blessure ordinaire.
+puissant       	C’est la trace du mauvais sort qu’il a lancé contre toi, un mauvais sort si puissant qu’il a détruit tes parents et leur maison.
+nettement      	À mesure que Hagrid approchait de la fin de son récit, il revoyait l’éclair de lumière verte plus nettement que jamais – et pour la première fois de sa vie, il se rappelait aussi un rire cruel, sonore, glacé.
+cruel          	À mesure que Hagrid approchait de la fin de son récit, il revoyait l’éclair de lumière verte plus nettement que jamais – et pour la première fois de sa vie, il se rappelait aussi un rire cruel, sonore, glacé.
+tristesse      	Hagrid le regarda avec tristesse.
+mission        	– C’est à moi que Dumbledore a confié la mission d’aller te chercher dans la maison en ruine.
+monceau        	– Tout ça n’est qu’un monceau de fariboles, s’exclama l’oncle Vernon.
+faribole       	– Tout ça n’est qu’un monceau de fariboles, s’exclama l’oncle Vernon.
+courage        	L’oncle Vernon semblait avoir retrouvé tout son courage.
+écouter        	– Maintenant, écoute-moi bien, mon garçon, lança-t-il à Harry.
+bizarrerie     	Je veux bien qu’il y ait chez toi quelques bizarreries, mais il suffirait d’une bonne correction pour arranger tout ça.
+correction     	Je veux bien qu’il y ait chez toi quelques bizarreries, mais il suffirait d’une bonne correction pour arranger tout ça.
+magicien       	Ils ont eu ce qu’ils cherchaient, à force de fréquenter ces espèces de magiciens.
+parapluie      	J’étais sûr qu’ils finiraient mal… Hagrid bondit alors du canapé, tira de son manteau un vieux parapluie rose passablement délabré et le pointa sur l’oncle Vernon comme une épée.
+délabrer       	J’étais sûr qu’ils finiraient mal… Hagrid bondit alors du canapé, tira de son manteau un vieux parapluie rose passablement délabré et le pointa sur l’oncle Vernon comme une épée.
+épée           	J’étais sûr qu’ils finiraient mal… Hagrid bondit alors du canapé, tira de son manteau un vieux parapluie rose passablement délabré et le pointa sur l’oncle Vernon comme une épée.
+perspective    	– Je vous préviens, Dursley, rugit-il, je vous préviens… Un mot de plus et… La perspective de se retrouver embroché au bout d’un parapluie par un géant barbu fit perdre tout son courage à l’oncle Vernon.
+embrocher      	– Je vous préviens, Dursley, rugit-il, je vous préviens… Un mot de plus et… La perspective de se retrouver embroché au bout d’un parapluie par un géant barbu fit perdre tout son courage à l’oncle Vernon.
+barbu          	– Je vous préviens, Dursley, rugit-il, je vous préviens… Un mot de plus et… La perspective de se retrouver embroché au bout d’un parapluie par un géant barbu fit perdre tout son courage à l’oncle Vernon.
+foule          	Mais Harry avait encore une foule de questions à poser.
+volatiliser    	Il s’est volatilisé la nuit même où il a essayé de te tuer.
+ajouter        	Ce qui ajoute encore à ta réputation.
+réputation     	Ce qui ajoute encore à ta réputation.
+puissance      	Qu’est-il devenu, lui qui semblait au sommet de sa puissance ?
+calembredaine  	À mon avis, ce sont des calembredaines.
+suffisamment   	Je ne crois pas qu’il ait eu en lui quelque chose de suffisamment humain pour mourir.
+humain         	Je ne crois pas qu’il ait eu en lui quelque chose de suffisamment humain pour mourir.
+rallier        	Ceux qui s’étaient ralliés à lui sont revenus de notre côté.
+revenir        	Ceux qui s’étaient ralliés à lui sont revenus de notre côté.
+transe         	Certains avaient été plongés dans une sorte de transe.
+faible         	Il est trop faible pour continuer.
+phénomène      	Cette nuit-là, il s’est passé un phénomène auquel il ne s’attendait pas.
+respect        	Une lueur de respect et de sympathie brillait dans le regard de Hagrid, mais Harry, au lieu de ressentir de la fierté, avait la certitude que tout cela n’était qu’un terrible malentendu.
+sympathie      	Une lueur de respect et de sympathie brillait dans le regard de Hagrid, mais Harry, au lieu de ressentir de la fierté, avait la certitude que tout cela n’était qu’un terrible malentendu.
+ressentir      	Une lueur de respect et de sympathie brillait dans le regard de Hagrid, mais Harry, au lieu de ressentir de la fierté, avait la certitude que tout cela n’était qu’un terrible malentendu.
+certitude      	Une lueur de respect et de sympathie brillait dans le regard de Hagrid, mais Harry, au lieu de ressentir de la fierté, avait la certitude que tout cela n’était qu’un terrible malentendu.
+malentendu     	Une lueur de respect et de sympathie brillait dans le regard de Hagrid, mais Harry, au lieu de ressentir de la fierté, avait la certitude que tout cela n’était qu’un terrible malentendu.
+brutaliser     	Toute sa vie, il avait été brutalisé par Dudley et malmené par l’oncle Vernon et la tante Pétunia.
+malmener       	Toute sa vie, il avait été brutalisé par Dudley et malmené par l’oncle Vernon et la tante Pétunia.
+crapaud        	S’il était vraiment un sorcier, pourquoi ne les avait-il pas changés en crapauds couverts de verrues chaque fois qu’ils l’enfermaient dans son placard ?
+couvert        	S’il était vraiment un sorcier, pourquoi ne les avait-il pas changés en crapauds couverts de verrues chaque fois qu’ils l’enfermaient dans son placard ?
+verrue         	S’il était vraiment un sorcier, pourquoi ne les avait-il pas changés en crapauds couverts de verrues chaque fois qu’ils l’enfermaient dans son placard ?
+vaincre        	S’il avait été capable de vaincre le plus grand sorcier du monde, comment se faisait-il que Dudley ait pu le traiter comme un ballon de football ?
+football       	S’il avait été capable de vaincre le plus grand sorcier du monde, comment se faisait-il que Dudley ait pu le traiter comme un ballon de football ?
+rappeller      	Rappelle-toi : il ne s’est jamais rien passé quand tu avais peur ou que tu étais en colère ?
+émotion        	Toutes ces choses étranges qui rendaient furieux son oncle et sa tante s’étaient toujours produites lorsqu’il était furieux, ou sous le coup d’une émotion… Poursuivi par la bande de Dudley, il s’était soudain retrouvé hors de leur portée…
+paniquer       	Paniqué à l’idée d’aller à l’école avec sa coupe de cheveux ridicule, il avait réussi à faire repousser sa tignasse…
+ridicule       	Paniqué à l’idée d’aller à l’école avec sa coupe de cheveux ridicule, il avait réussi à faire repousser sa tignasse…
+tignasse       	Paniqué à l’idée d’aller à l’école avec sa coupe de cheveux ridicule, il avait réussi à faire repousser sa tignasse…
+venger         	Et la dernière fois que Dudley l’avait frappé, ne s’était-il pas vengé, sans même s’en rendre compte, en lâchant sur lui le boa constrictor ?
+lâcher         	Et la dernière fois que Dudley l’avait frappé, ne s’était-il pas vengé, sans même s’en rendre compte, en lâchant sur lui le boa constrictor ?
+rayonner       	Il lui sourit et vit que le géant rayonnait.
+abandonner     	Mais l’oncle Vernon ne voulait pas abandonner la partie.
+partie         	Mais l’oncle Vernon ne voulait pas abandonner la partie.
+sottise        	ces lettres et j’ai vu toutes les sottises qu’on l’obligeait à acheter, des grimoires, des baguettes magiques, des…
+grimoire       	ces lettres et j’ai vu toutes les sottises qu’on l’obligeait à acheter, des grimoires, des baguettes magiques, des…
+baguette       	ces lettres et j’ai vu toutes les sottises qu’on l’obligeait à acheter, des grimoires, des baguettes magiques, des…
+grogner        	– S’il a envie d’y aller, ce n’est pas un gros Moldu dans votre genre qui pourra s’y opposer, grogna Hagrid.
+naissance      	Il y est inscrit depuis sa naissance.
+étudier        	Il va étudier dans la meilleure école de sorcellerie du monde.
+sorcellerie    	Il va étudier dans la meilleure école de sorcellerie du monde.
+sept           	Sept ans là-bas et il sera transformé.
+maître         	Pour changer, il aura des camarades qui appartiennent au même monde que lui, et il étudiera avec l’un des plus grands maîtres que le collège Poudlard ait jamais comptés, Albus Dumbled…
+payer          	– JE REFUSE DE PAYER UN SOU POUR QU’UN VIEUX CINGLÉ LUI APPRENNE DES TOURS DE MAGIE !
+cinglé         	– JE REFUSE DE PAYER UN SOU POUR QU’UN VIEUX CINGLÉ LUI APPRENNE DES TOURS DE MAGIE !
+lui            	– JE REFUSE DE PAYER UN SOU POUR QU’UN VIEUX CINGLÉ LUI APPRENNE DES TOURS DE MAGIE !
+apprendre      	– JE REFUSE DE PAYER UN SOU POUR QU’UN VIEUX CINGLÉ LUI APPRENNE DES TOURS DE MAGIE !
+magie          	– JE REFUSE DE PAYER UN SOU POUR QU’UN VIEUX CINGLÉ LUI APPRENNE DES TOURS DE MAGIE !
+empoigner      	Hagrid empoigna son parapluie et le fit tournoyer au-dessus de sa tête.
+tournoyer      	Hagrid empoigna son parapluie et le fit tournoyer au-dessus de sa tête.
+insulter       	– JAMAIS PLUS… INSULTER… ALBUS DUMBLEDORE… DEVANT… MOI… tonna-t-il.
+tonner         	– JAMAIS PLUS… INSULTER… ALBUS DUMBLEDORE… DEVANT… MOI… tonna-t-il.
+pointer        	Il abattit le parapluie dans un sifflement et le pointa sur Dudley.
+détonation     	Il y eut un éclair violet, une détonation comme un pétard qui explose et un petit cri aigu.
+pétard         	Il y eut un éclair violet, une détonation comme un pétard qui explose et un petit cri aigu.
+aigu           	Il y eut un éclair violet, une détonation comme un pétard qui explose et un petit cri aigu.
+danser         	Un instant plus tard, Dudley dansait sur place en hurlant de douleur, les mains plaquées sur son volumineux postérieur.
+douleur        	Un instant plus tard, Dudley dansait sur place en hurlant de douleur, les mains plaquées sur son volumineux postérieur.
+plaquer        	Un instant plus tard, Dudley dansait sur place en hurlant de douleur, les mains plaquées sur son volumineux postérieur.
+volumineux     	Un instant plus tard, Dudley dansait sur place en hurlant de douleur, les mains plaquées sur son volumineux postérieur.
+postérieur     	Un instant plus tard, Dudley dansait sur place en hurlant de douleur, les mains plaquées sur son volumineux postérieur.
+rugissement    	L’oncle Vernon laissa échapper un véritable rugissement.
+regret         	– Je n’aurais pas dû m’énerver comme ça, dit-il d’un ton de regret.
+sourcil        	Il lança un regard oblique à Harry sous ses sourcils broussailleux.
+censé          	Normalement, je ne suis pas censé faire de la magie.
+magie          	Normalement, je ne suis pas censé faire de la magie.
+autorisation   	On m’a simplement donné l’autorisation de m’en servir un peu pour te retrouver et t’apporter tes lettres.
+renvoyer       	– Disons que… moi aussi, j’ai été élève à Poudlard, mais, euh… pour dire la vérité, on m’a renvoyé…
+troisième      	J’étais en troisième année.
+permettre      	Ils ont cassé ma baguette magique en deux et tout ça… Mais Dumbledore m’a permis de rester comme garde-chasse.
+ôter           	Il ôta son grand manteau noir et le jeta à Harry.
+remuer         	Ne t’inquiète pas s’il remue un peu.
+loir           	Il doit y avoir un ou deux loirs dans une des poches.

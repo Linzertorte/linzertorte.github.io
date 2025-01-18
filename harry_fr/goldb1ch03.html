@@ -1,0 +1,418 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+
+<title>goldb1ch03</title>
+
+<script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+  <div id="words">
+    <ul>
+
+      <li><a href="" data-sent="LES LETTRES DE NULLE PART">nulle              </a></li>
+      <li><a href="" data-sent="LES LETTRES DE NULLE PART">part               </a></li>
+      <li><a href="" data-sent="La fuite du boa brésilien valut à Harry la plus longue punition qu’il eût jamais reçue.">fuite              </a></li>
+      <li><a href="" data-sent="La fuite du boa brésilien valut à Harry la plus longue punition qu’il eût jamais reçue.">brésilien          </a></li>
+      <li><a href="" data-sent="Lorsqu’il fut enfin autorisé à ressortir de son placard, les vacances d’été avaient déjà commencé et Dudley avait eu le temps de casser son nouveau caméscope, d’écraser au sol son avion radio-commandé et d’étrenner son vélo de course en renversant Mrs Figg qui traversait Privet Drive avec ses béquilles.">ressortir          </a></li>
+      <li><a href="" data-sent="Lorsqu’il fut enfin autorisé à ressortir de son placard, les vacances d’été avaient déjà commencé et Dudley avait eu le temps de casser son nouveau caméscope, d’écraser au sol son avion radio-commandé et d’étrenner son vélo de course en renversant Mrs Figg qui traversait Privet Drive avec ses béquilles.">écraser            </a></li>
+      <li><a href="" data-sent="Lorsqu’il fut enfin autorisé à ressortir de son placard, les vacances d’été avaient déjà commencé et Dudley avait eu le temps de casser son nouveau caméscope, d’écraser au sol son avion radio-commandé et d’étrenner son vélo de course en renversant Mrs Figg qui traversait Privet Drive avec ses béquilles.">étrenner           </a></li>
+      <li><a href="" data-sent="Lorsqu’il fut enfin autorisé à ressortir de son placard, les vacances d’été avaient déjà commencé et Dudley avait eu le temps de casser son nouveau caméscope, d’écraser au sol son avion radio-commandé et d’étrenner son vélo de course en renversant Mrs Figg qui traversait Privet Drive avec ses béquilles.">béquille           </a></li>
+      <li><a href="" data-sent="Harry était content que l’école ait pris fin, mais il n’arrivait pas à échapper à la bande de Dudley qui venait chaque jour à la maison.">content            </a></li>
+      <li><a href="" data-sent="Piers, Dennis, Malcolm et Gordon étaient tous grands et stupides, mais comme Dudley était encore plus grand et plus bête qu’eux, c’était lui qui était le chef.">bête               </a></li>
+      <li><a href="" data-sent="Piers, Dennis, Malcolm et Gordon étaient tous grands et stupides, mais comme Dudley était encore plus grand et plus bête qu’eux, c’était lui qui était le chef.">chef               </a></li>
+      <li><a href="" data-sent="Et les autres étaient ravis de pratiquer le sport préféré de Dudley : la chasse au Harry.">ravir              </a></li>
+      <li><a href="" data-sent="Et les autres étaient ravis de pratiquer le sport préféré de Dudley : la chasse au Harry.">pratiquer          </a></li>
+      <li><a href="" data-sent="Et les autres étaient ravis de pratiquer le sport préféré de Dudley : la chasse au Harry.">chasse             </a></li>
+      <li><a href="" data-sent="Car en septembre, il entrerait au collège et, pour la première fois de sa vie, il ne serait plus dans la même école que Dudley.">septembre          </a></li>
+      <li><a href="" data-sent="Car en septembre, il entrerait au collège et, pour la première fois de sa vie, il ne serait plus dans la même école que Dudley.">collège            </a></li>
+      <li><a href="" data-sent="Dudley irait à Smelting, un collège privé où l’oncle Vernon avait fait ses études.">privé              </a></li>
+      <li><a href="" data-sent="Dudley irait à Smelting, un collège privé où l’oncle Vernon avait fait ses études.">étude              </a></li>
+      <li><a href="" data-sent="Piers Polkiss y était inscrit, lui aussi.">inscrire           </a></li>
+      <li><a href="" data-sent="– Là où tu vas, on met la tête des nouveaux dans le trou des toilettes, dit-il à Harry.">trou               </a></li>
+      <li><a href="" data-sent="– Là où tu vas, on met la tête des nouveaux dans le trou des toilettes, dit-il à Harry.">toilette           </a></li>
+      <li><a href="" data-sent="Si tu veux t’entraîner, monte avec moi dans la salle de bains.">entraîner          </a></li>
+      <li><a href="" data-sent="Si tu veux t’entraîner, monte avec moi dans la salle de bains.">monter             </a></li>
+      <li><a href="" data-sent="Non, merci, répondit Harry, ces pauvres toilettes n’ont jamais vu quelque chose d’aussi atroce que ta tête, ça les rendrait malades.">atroce             </a></li>
+      <li><a href="" data-sent="Un jour de juillet, la tante Pétunia emmena Dudley à Londres pour lui acheter l’uniforme de sa nouvelle école.">juillet            </a></li>
+      <li><a href="" data-sent="Un jour de juillet, la tante Pétunia emmena Dudley à Londres pour lui acheter l’uniforme de sa nouvelle école.">uniforme           </a></li>
+      <li><a href="" data-sent="Elle déposa Harry chez Mrs Figg qui fut moins pénible qu’à l’ordinaire car elle s’était cassé la jambe en trébuchant sur un de ses chats, ce qui avait quelque peu refroidi la passion qu’elle leur portait habituellement.">pénible            </a></li>
+      <li><a href="" data-sent="Elle déposa Harry chez Mrs Figg qui fut moins pénible qu’à l’ordinaire car elle s’était cassé la jambe en trébuchant sur un de ses chats, ce qui avait quelque peu refroidi la passion qu’elle leur portait habituellement.">trébucher          </a></li>
+      <li><a href="" data-sent="Elle déposa Harry chez Mrs Figg qui fut moins pénible qu’à l’ordinaire car elle s’était cassé la jambe en trébuchant sur un de ses chats, ce qui avait quelque peu refroidi la passion qu’elle leur portait habituellement.">refroidir          </a></li>
+      <li><a href="" data-sent="Elle déposa Harry chez Mrs Figg qui fut moins pénible qu’à l’ordinaire car elle s’était cassé la jambe en trébuchant sur un de ses chats, ce qui avait quelque peu refroidi la passion qu’elle leur portait habituellement.">passion            </a></li>
+      <li><a href="" data-sent="Harry fut même autorisé à regarder la télévision en mangeant un gâteau au chocolat qui avait dû séjourner quelques années au fond d’un placard.">gâteau             </a></li>
+      <li><a href="" data-sent="Harry fut même autorisé à regarder la télévision en mangeant un gâteau au chocolat qui avait dû séjourner quelques années au fond d’un placard.">séjourner          </a></li>
+      <li><a href="" data-sent="Harry fut même autorisé à regarder la télévision en mangeant un gâteau au chocolat qui avait dû séjourner quelques années au fond d’un placard.">fond               </a></li>
+      <li><a href="" data-sent="Le soir, Dudley parada dans le salon pour montrer à toute la famille ses habits flambant neufs : un frac marron à queue-de-pie, un pantalon de golf orange et un canotier.">parader            </a></li>
+      <li><a href="" data-sent="Le soir, Dudley parada dans le salon pour montrer à toute la famille ses habits flambant neufs : un frac marron à queue-de-pie, un pantalon de golf orange et un canotier.">habit              </a></li>
+      <li><a href="" data-sent="Le soir, Dudley parada dans le salon pour montrer à toute la famille ses habits flambant neufs : un frac marron à queue-de-pie, un pantalon de golf orange et un canotier.">flamber            </a></li>
+      <li><a href="" data-sent="Le soir, Dudley parada dans le salon pour montrer à toute la famille ses habits flambant neufs : un frac marron à queue-de-pie, un pantalon de golf orange et un canotier.">frac               </a></li>
+      <li><a href="" data-sent="Le soir, Dudley parada dans le salon pour montrer à toute la famille ses habits flambant neufs : un frac marron à queue-de-pie, un pantalon de golf orange et un canotier.">pantalon           </a></li>
+      <li><a href="" data-sent="Le soir, Dudley parada dans le salon pour montrer à toute la famille ses habits flambant neufs : un frac marron à queue-de-pie, un pantalon de golf orange et un canotier.">golf               </a></li>
+      <li><a href="" data-sent="Le soir, Dudley parada dans le salon pour montrer à toute la famille ses habits flambant neufs : un frac marron à queue-de-pie, un pantalon de golf orange et un canotier.">canotier           </a></li>
+      <li><a href="" data-sent="Les élèves de Smelting avaient également une canne dont ils se servaient pour se taper dessus quand les professeurs ne les voyaient pas.">élève              </a></li>
+      <li><a href="" data-sent="Les élèves de Smelting avaient également une canne dont ils se servaient pour se taper dessus quand les professeurs ne les voyaient pas.">canne              </a></li>
+      <li><a href="" data-sent="Les élèves de Smelting avaient également une canne dont ils se servaient pour se taper dessus quand les professeurs ne les voyaient pas.">servir             </a></li>
+      <li><a href="" data-sent="C’était, paraît-il, une façon de se forger le caractère.">forger             </a></li>
+      <li><a href="" data-sent="C’était, paraît-il, une façon de se forger le caractère.">caractère          </a></li>
+      <li><a href="" data-sent="En contemplant son fils ainsi accoutré, l’oncle Vernon déclara que c’était le plus beau jour de sa vie et la tante Pétunia éclata en sanglots en disant qu’elle n’arrivait pas à croire que ce garçon si grand, si élégant était son petit Dudlinouchet adoré.">accoutrer          </a></li>
+      <li><a href="" data-sent="En contemplant son fils ainsi accoutré, l’oncle Vernon déclara que c’était le plus beau jour de sa vie et la tante Pétunia éclata en sanglots en disant qu’elle n’arrivait pas à croire que ce garçon si grand, si élégant était son petit Dudlinouchet adoré.">éclater            </a></li>
+      <li><a href="" data-sent="En contemplant son fils ainsi accoutré, l’oncle Vernon déclara que c’était le plus beau jour de sa vie et la tante Pétunia éclata en sanglots en disant qu’elle n’arrivait pas à croire que ce garçon si grand, si élégant était son petit Dudlinouchet adoré.">élégant            </a></li>
+      <li><a href="" data-sent="Il avait l’impression de s’être déjà fêlé deux côtes à force de réprimer son fou rire.">fêler              </a></li>
+      <li><a href="" data-sent="Il avait l’impression de s’être déjà fêlé deux côtes à force de réprimer son fou rire.">réprimer           </a></li>
+      <li><a href="" data-sent="Le lendemain matin, au petit déjeuner, une odeur pestilentielle se dégageait d’une grande bassine posée dans l’évier de la cuisine.">pestilentiel       </a></li>
+      <li><a href="" data-sent="Le lendemain matin, au petit déjeuner, une odeur pestilentielle se dégageait d’une grande bassine posée dans l’évier de la cuisine.">dégager            </a></li>
+      <li><a href="" data-sent="Le lendemain matin, au petit déjeuner, une odeur pestilentielle se dégageait d’une grande bassine posée dans l’évier de la cuisine.">bassine            </a></li>
+      <li><a href="" data-sent="Le lendemain matin, au petit déjeuner, une odeur pestilentielle se dégageait d’une grande bassine posée dans l’évier de la cuisine.">évier              </a></li>
+      <li><a href="" data-sent="Harry s’approcha et vit de vieilles guenilles qui flottaient dans une eau grisâtre.">guenille           </a></li>
+      <li><a href="" data-sent="Harry s’approcha et vit de vieilles guenilles qui flottaient dans une eau grisâtre.">flotter            </a></li>
+      <li><a href="" data-sent="Harry s’approcha et vit de vieilles guenilles qui flottaient dans une eau grisâtre.">eau                </a></li>
+      <li><a href="" data-sent="Harry s’approcha et vit de vieilles guenilles qui flottaient dans une eau grisâtre.">grisâtre           </a></li>
+      <li><a href="" data-sent="Elle pinça les lèvres, choquée qu’il ait l’audace de poser la question.">audace             </a></li>
+      <li><a href="" data-sent="Je ne savais pas qu’il fallait le faire tremper dans l’eau.">tremper            </a></li>
+      <li><a href="" data-sent="J’ai teint en gris des vieilles affaires de Dudley.">teindre            </a></li>
+      <li><a href="" data-sent="J’ai teint en gris des vieilles affaires de Dudley.">affaire            </a></li>
+      <li><a href="" data-sent="Ça te suffira bien comme uniforme, il ne sera guère différent des autres.">suffire            </a></li>
+      <li><a href="" data-sent="Ça te suffira bien comme uniforme, il ne sera guère différent des autres.">guère              </a></li>
+      <li><a href="" data-sent="Harry en doutait, mais il était inutile de discuter.">discuter           </a></li>
+      <li><a href="" data-sent="Il se demanda à quoi il ressemblerait, là-dedans, le jour de la rentrée.">rentrée            </a></li>
+      <li><a href="" data-sent="On aurait dit des morceaux de peau arrachés à un vieil éléphant.">peau               </a></li>
+      <li><a href="" data-sent="On aurait dit des morceaux de peau arrachés à un vieil éléphant.">éléphant           </a></li>
+      <li><a href="" data-sent="Dudley et l’oncle Vernon entrèrent dans la cuisine en fronçant le nez à cause de l’odeur que répandait la bassine.">froncer            </a></li>
+      <li><a href="" data-sent="Dudley et l’oncle Vernon entrèrent dans la cuisine en fronçant le nez à cause de l’odeur que répandait la bassine.">répandre           </a></li>
+      <li><a href="" data-sent="L’oncle Vernon ouvrit son journal comme à l’ordinaire et Dudley donna sur la table un coup de sa canne dont il ne se séparait plus.">séparer            </a></li>
+      <li><a href="" data-sent="Ils entendirent alors le facteur glisser le courrier dans la boîte aux lettres de la porte d’entrée.">facteur            </a></li>
+      <li><a href="" data-sent="Ils entendirent alors le facteur glisser le courrier dans la boîte aux lettres de la porte d’entrée.">courrier           </a></li>
+      <li><a href="" data-sent="– Donne-lui un coup de canne, Dudley.">donner             </a></li>
+      <li><a href="" data-sent="Il y avait trois lettres : une carte postale de Marge, la sœur de l’oncle Vernon, qui était en vacances à l’île de Wight, une enveloppe de papier kraft qui devait être une facture et… une lettre pour Harry !">postal             </a></li>
+      <li><a href="" data-sent="Il y avait trois lettres : une carte postale de Marge, la sœur de l’oncle Vernon, qui était en vacances à l’île de Wight, une enveloppe de papier kraft qui devait être une facture et… une lettre pour Harry !">île                </a></li>
+      <li><a href="" data-sent="Il y avait trois lettres : une carte postale de Marge, la sœur de l’oncle Vernon, qui était en vacances à l’île de Wight, une enveloppe de papier kraft qui devait être une facture et… une lettre pour Harry !">enveloppe          </a></li>
+      <li><a href="" data-sent="Il y avait trois lettres : une carte postale de Marge, la sœur de l’oncle Vernon, qui était en vacances à l’île de Wight, une enveloppe de papier kraft qui devait être une facture et… une lettre pour Harry !">kraft              </a></li>
+      <li><a href="" data-sent="Il y avait trois lettres : une carte postale de Marge, la sœur de l’oncle Vernon, qui était en vacances à l’île de Wight, une enveloppe de papier kraft qui devait être une facture et… une lettre pour Harry !">facture            </a></li>
+      <li><a href="" data-sent="Son cœur faisait de grands bonds dans sa poitrine, comme une balle en caoutchouc.">poitrine           </a></li>
+      <li><a href="" data-sent="Son cœur faisait de grands bonds dans sa poitrine, comme une balle en caoutchouc.">balle              </a></li>
+      <li><a href="" data-sent="Son cœur faisait de grands bonds dans sa poitrine, comme une balle en caoutchouc.">caoutchouc         </a></li>
+      <li><a href="" data-sent="Il n’avait pas d’amis, pas de parents autres que son oncle et sa tante, il n’était même pas inscrit à la bibliothèque, ce qui lui évitait de recevoir des mots désagréables exigeant le retour de livres empruntés.">bibliothèque       </a></li>
+      <li><a href="" data-sent="Il n’avait pas d’amis, pas de parents autres que son oncle et sa tante, il n’était même pas inscrit à la bibliothèque, ce qui lui évitait de recevoir des mots désagréables exigeant le retour de livres empruntés.">exiger             </a></li>
+      <li><a href="" data-sent="Il n’avait pas d’amis, pas de parents autres que son oncle et sa tante, il n’était même pas inscrit à la bibliothèque, ce qui lui évitait de recevoir des mots désagréables exigeant le retour de livres empruntés.">retour             </a></li>
+      <li><a href="" data-sent="Et pourtant, il avait entre les mains une lettre dont l’adresse ne pouvait prêter à confusion : Mr H. Potter Dans le placard sous l’escalier 4, Privet Drive Little Whinging Surrey L’enveloppe, lourde et épaisse, était faite d’un parchemin jauni et l’adresse était écrite à l’encre vert émeraude.">adresse            </a></li>
+      <li><a href="" data-sent="Et pourtant, il avait entre les mains une lettre dont l’adresse ne pouvait prêter à confusion : Mr H. Potter Dans le placard sous l’escalier 4, Privet Drive Little Whinging Surrey L’enveloppe, lourde et épaisse, était faite d’un parchemin jauni et l’adresse était écrite à l’encre vert émeraude.">lourd              </a></li>
+      <li><a href="" data-sent="Et pourtant, il avait entre les mains une lettre dont l’adresse ne pouvait prêter à confusion : Mr H. Potter Dans le placard sous l’escalier 4, Privet Drive Little Whinging Surrey L’enveloppe, lourde et épaisse, était faite d’un parchemin jauni et l’adresse était écrite à l’encre vert émeraude.">épais              </a></li>
+      <li><a href="" data-sent="Et pourtant, il avait entre les mains une lettre dont l’adresse ne pouvait prêter à confusion : Mr H. Potter Dans le placard sous l’escalier 4, Privet Drive Little Whinging Surrey L’enveloppe, lourde et épaisse, était faite d’un parchemin jauni et l’adresse était écrite à l’encre vert émeraude.">parchemin          </a></li>
+      <li><a href="" data-sent="Et pourtant, il avait entre les mains une lettre dont l’adresse ne pouvait prêter à confusion : Mr H. Potter Dans le placard sous l’escalier 4, Privet Drive Little Whinging Surrey L’enveloppe, lourde et épaisse, était faite d’un parchemin jauni et l’adresse était écrite à l’encre vert émeraude.">jaunir             </a></li>
+      <li><a href="" data-sent="Il n’y avait pas de timbre.">timbre             </a></li>
+      <li><a href="" data-sent="En retournant l’enveloppe, les mains tremblantes, Harry vit un sceau de cire frappé d’un écusson qui représentait un aigle, un lion, un blaireau et un serpent entourant la lettre « P ».">sceau              </a></li>
+      <li><a href="" data-sent="En retournant l’enveloppe, les mains tremblantes, Harry vit un sceau de cire frappé d’un écusson qui représentait un aigle, un lion, un blaireau et un serpent entourant la lettre « P ».">cire               </a></li>
+      <li><a href="" data-sent="En retournant l’enveloppe, les mains tremblantes, Harry vit un sceau de cire frappé d’un écusson qui représentait un aigle, un lion, un blaireau et un serpent entourant la lettre « P ».">frapper            </a></li>
+      <li><a href="" data-sent="En retournant l’enveloppe, les mains tremblantes, Harry vit un sceau de cire frappé d’un écusson qui représentait un aigle, un lion, un blaireau et un serpent entourant la lettre « P ».">écusson            </a></li>
+      <li><a href="" data-sent="En retournant l’enveloppe, les mains tremblantes, Harry vit un sceau de cire frappé d’un écusson qui représentait un aigle, un lion, un blaireau et un serpent entourant la lettre « P ».">aigle              </a></li>
+      <li><a href="" data-sent="En retournant l’enveloppe, les mains tremblantes, Harry vit un sceau de cire frappé d’un écusson qui représentait un aigle, un lion, un blaireau et un serpent entourant la lettre « P ».">lion               </a></li>
+      <li><a href="" data-sent="En retournant l’enveloppe, les mains tremblantes, Harry vit un sceau de cire frappé d’un écusson qui représentait un aigle, un lion, un blaireau et un serpent entourant la lettre « P ».">blaireau           </a></li>
+      <li><a href="" data-sent="En retournant l’enveloppe, les mains tremblantes, Harry vit un sceau de cire frappé d’un écusson qui représentait un aigle, un lion, un blaireau et un serpent entourant la lettre « P ».">entourer           </a></li>
+      <li><a href="" data-sent="Tu regardes s’il n’y a pas de lettre piégée ?">piéger             </a></li>
+      <li><a href="" data-sent="Sa plaisanterie le fit éclater de rire.">plaisanterie       </a></li>
+      <li><a href="" data-sent="Il donna à l’oncle Vernon la carte postale et la facture puis il s’assit et entreprit de décacheter l’enveloppe jaune.">entreprendre       </a></li>
+      <li><a href="" data-sent="Il donna à l’oncle Vernon la carte postale et la facture puis il s’assit et entreprit de décacheter l’enveloppe jaune.">décacheter         </a></li>
+      <li><a href="" data-sent="Il donna à l’oncle Vernon la carte postale et la facture puis il s’assit et entreprit de décacheter l’enveloppe jaune.">jaune              </a></li>
+      <li><a href="" data-sent="L’oncle Vernon poussa un grognement dégoûté en ouvrant l’enveloppe de la facture et lut ce qui était écrit au dos de la carte postale.">dégoûter           </a></li>
+      <li><a href="" data-sent="Elle a mangé un drôle de coquillage.">coquillage         </a></li>
+      <li><a href="" data-sent="– Papa !">papa               </a></li>
+      <li><a href="" data-sent="Harry était sur le point de déplier sa lettre, écrite sur un parchemin semblable à celui de l’enveloppe, lorsque l’oncle Vernon la lui arracha des mains.">déplier            </a></li>
+      <li><a href="" data-sent="protesta Harry en essayant de la reprendre.">protester          </a></li>
+      <li><a href="" data-sent="dit l’oncle Vernon d’un ton plein de mépris.">mépris             </a></li>
+      <li><a href="" data-sent="Son teint passa alors du rouge au vert plus vite qu’un feu de signalisation.">signalisation      </a></li>
+      <li><a href="" data-sent="En quelques secondes, il était devenu d’un gris pâle de vieux porridge.">pâle               </a></li>
+      <li><a href="" data-sent="En quelques secondes, il était devenu d’un gris pâle de vieux porridge.">porridge           </a></li>
+      <li><a href="" data-sent="– P…P…Pétunia ! balbutia l’oncle Vernon.">balbutier          </a></li>
+      <li><a href="" data-sent="Dudley essaya de s’emparer de la lettre, mais l’oncle Vernon la tenait hors de portée.">emparer            </a></li>
+      <li><a href="" data-sent="Dudley essaya de s’emparer de la lettre, mais l’oncle Vernon la tenait hors de portée.">portée             </a></li>
+      <li><a href="" data-sent="Il la donna à la tante Pétunia qui en lut la première ligne d’un air intrigué.">ligne              </a></li>
+      <li><a href="" data-sent="Il la donna à la tante Pétunia qui en lut la première ligne d’un air intrigué.">intriguer          </a></li>
+      <li><a href="" data-sent="Pendant un instant, elle sembla sur le point de s’évanouir et porta la main à sa gorge d’où s’échappa un borborygme étouffé.">évanouir           </a></li>
+      <li><a href="" data-sent="Pendant un instant, elle sembla sur le point de s’évanouir et porta la main à sa gorge d’où s’échappa un borborygme étouffé.">borborygme         </a></li>
+      <li><a href="" data-sent="Oh, mon Dieu, Vernon !">oh                 </a></li>
+      <li><a href="" data-sent="Dudley n’avait pas l’habitude qu’on lui manifeste une telle indifférence et il donna un coup sec de sa canne sur la tête de son père.">manifester         </a></li>
+      <li><a href="" data-sent="Dudley n’avait pas l’habitude qu’on lui manifeste une telle indifférence et il donna un coup sec de sa canne sur la tête de son père.">indifférence       </a></li>
+      <li><a href="" data-sent="– Sortez d’ici, tous les deux, dit l’oncle Vernon d’une voix grinçante en remettant la lettre dans l’enveloppe.">grinçant           </a></li>
+      <li><a href="" data-sent="– DEHORS ! rugit l’oncle Vernon.">rugir              </a></li>
+      <li><a href="" data-sent="Harry et Dudley engagèrent aussitôt un combat féroce mais silencieux pour savoir qui écouterait au trou de la serrure ce qui allait se dire dans la cuisine.">combat             </a></li>
+      <li><a href="" data-sent="Harry et Dudley engagèrent aussitôt un combat féroce mais silencieux pour savoir qui écouterait au trou de la serrure ce qui allait se dire dans la cuisine.">féroce             </a></li>
+      <li><a href="" data-sent="Harry et Dudley engagèrent aussitôt un combat féroce mais silencieux pour savoir qui écouterait au trou de la serrure ce qui allait se dire dans la cuisine.">serrure            </a></li>
+      <li><a href="" data-sent="Harry, les lunettes en bataille, s’allongea alors à plat ventre pour écouter par l’interstice entre le bas de la porte et le sol.">bataille           </a></li>
+      <li><a href="" data-sent="Harry, les lunettes en bataille, s’allongea alors à plat ventre pour écouter par l’interstice entre le bas de la porte et le sol.">ventre             </a></li>
+      <li><a href="" data-sent="Harry, les lunettes en bataille, s’allongea alors à plat ventre pour écouter par l’interstice entre le bas de la porte et le sol.">interstice         </a></li>
+      <li><a href="" data-sent="Comment ont-ils pu savoir où il couche ?">coucher            </a></li>
+      <li><a href="" data-sent="Tu crois qu’ils surveillent la maison ?">surveiller         </a></li>
+      <li><a href="" data-sent="– Ils nous surveillent, ils nous espionnent, peut-être même qu’ils nous suivent, marmonna furieusement l’oncle Vernon.">furieusement       </a></li>
+      <li><a href="" data-sent="Leur dire que nous ne voulons pas… Harry apercevait les chaussures noires bien cirées de l’oncle Vernon qui faisait les cent pas dans la cuisine.">chaussure          </a></li>
+      <li><a href="" data-sent="Leur dire que nous ne voulons pas… Harry apercevait les chaussures noires bien cirées de l’oncle Vernon qui faisait les cent pas dans la cuisine.">cirer              </a></li>
+      <li><a href="" data-sent="Leur dire que nous ne voulons pas… Harry apercevait les chaussures noires bien cirées de l’oncle Vernon qui faisait les cent pas dans la cuisine.">cent               </a></li>
+      <li><a href="" data-sent="On ne va pas y faire attention.">attention          </a></li>
+      <li><a href="" data-sent="Souviens-toi, quand nous l’avons pris avec nous, nous nous sommes juré de refuser toutes ces idioties.">souvenir           </a></li>
+      <li><a href="" data-sent="Souviens-toi, quand nous l’avons pris avec nous, nous nous sommes juré de refuser toutes ces idioties.">jurer              </a></li>
+      <li><a href="" data-sent="Souviens-toi, quand nous l’avons pris avec nous, nous nous sommes juré de refuser toutes ces idioties.">idiotie            </a></li>
+      <li><a href="" data-sent="Le soir, en revenant du travail, l’oncle Vernon fit quelque chose qu’il n’avait encore jamais fait : il alla voir Harry dans son placard.">travail            </a></li>
+      <li><a href="" data-sent="demanda Harry au moment même où l’oncle Vernon se faufilait dans le placard.">faufiler           </a></li>
+      <li><a href="" data-sent="La lettre t’a été adressée par erreur, répondit l’oncle Vernon.">erreur             </a></li>
+      <li><a href="" data-sent="Il respira profondément à plusieurs reprises puis il se força à sourire, d’un sourire qui avait l’air singulièrement douloureux.">respirer           </a></li>
+      <li><a href="" data-sent="Il respira profondément à plusieurs reprises puis il se força à sourire, d’un sourire qui avait l’air singulièrement douloureux.">reprise            </a></li>
+      <li><a href="" data-sent="– Justement, Harry… au sujet de ce placard.">justement          </a></li>
+      <li><a href="" data-sent="Tu commences à devenir un peu trop grand pour rester ici… Nous avons pensé qu’il serait peut-être préférable que tu déménages dans la deuxième chambre de Dudley.">commencer          </a></li>
+      <li><a href="" data-sent="Tu commences à devenir un peu trop grand pour rester ici… Nous avons pensé qu’il serait peut-être préférable que tu déménages dans la deuxième chambre de Dudley.">préférable         </a></li>
+      <li><a href="" data-sent="Tu commences à devenir un peu trop grand pour rester ici… Nous avons pensé qu’il serait peut-être préférable que tu déménages dans la deuxième chambre de Dudley.">déménager          </a></li>
+      <li><a href="" data-sent="Prends tes affaires et monte là-haut.">prendre            </a></li>
+      <li><a href="" data-sent="Il y avait quatre chambres dans la maison des Dursley : une pour l’oncle Vernon et la tante Pétunia, une chambre d’amis (qui servait généralement à Marge, la sœur de Vernon), une où Dudley dormait et une autre où Dudley mettait ses jouets et tout ce qui n’entrait pas dans la première.">généralement       </a></li>
+      <li><a href="" data-sent="Il y avait quatre chambres dans la maison des Dursley : une pour l’oncle Vernon et la tante Pétunia, une chambre d’amis (qui servait généralement à Marge, la sœur de Vernon), une où Dudley dormait et une autre où Dudley mettait ses jouets et tout ce qui n’entrait pas dans la première.">jouet              </a></li>
+      <li><a href="" data-sent="Un seul voyage suffit à Harry pour transporter toutes ses affaires dans la chambre.">voyage             </a></li>
+      <li><a href="" data-sent="Un seul voyage suffit à Harry pour transporter toutes ses affaires dans la chambre.">transporter        </a></li>
+      <li><a href="" data-sent="Le caméscope était posé sur un petit char d’assaut qui fonctionnait toujours, avec lequel Dudley avait écrasé le chien du voisin ; dans un coin, il y avait la première télévision de Dudley qu’il avait éventrée d’un coup de pied un jour où son émission préférée avait été annulée ; il y avait aussi une grande cage dans laquelle avait vécu autrefois un perroquet que Dudley avait échangé à l’école contre une carabine à air comprimé.">char               </a></li>
+      <li><a href="" data-sent="Le caméscope était posé sur un petit char d’assaut qui fonctionnait toujours, avec lequel Dudley avait écrasé le chien du voisin ; dans un coin, il y avait la première télévision de Dudley qu’il avait éventrée d’un coup de pied un jour où son émission préférée avait été annulée ; il y avait aussi une grande cage dans laquelle avait vécu autrefois un perroquet que Dudley avait échangé à l’école contre une carabine à air comprimé.">assaut             </a></li>
+      <li><a href="" data-sent="Le caméscope était posé sur un petit char d’assaut qui fonctionnait toujours, avec lequel Dudley avait écrasé le chien du voisin ; dans un coin, il y avait la première télévision de Dudley qu’il avait éventrée d’un coup de pied un jour où son émission préférée avait été annulée ; il y avait aussi une grande cage dans laquelle avait vécu autrefois un perroquet que Dudley avait échangé à l’école contre une carabine à air comprimé.">fonctionner        </a></li>
+      <li><a href="" data-sent="Le caméscope était posé sur un petit char d’assaut qui fonctionnait toujours, avec lequel Dudley avait écrasé le chien du voisin ; dans un coin, il y avait la première télévision de Dudley qu’il avait éventrée d’un coup de pied un jour où son émission préférée avait été annulée ; il y avait aussi une grande cage dans laquelle avait vécu autrefois un perroquet que Dudley avait échangé à l’école contre une carabine à air comprimé.">éventrer           </a></li>
+      <li><a href="" data-sent="Le caméscope était posé sur un petit char d’assaut qui fonctionnait toujours, avec lequel Dudley avait écrasé le chien du voisin ; dans un coin, il y avait la première télévision de Dudley qu’il avait éventrée d’un coup de pied un jour où son émission préférée avait été annulée ; il y avait aussi une grande cage dans laquelle avait vécu autrefois un perroquet que Dudley avait échangé à l’école contre une carabine à air comprimé.">émission           </a></li>
+      <li><a href="" data-sent="Le caméscope était posé sur un petit char d’assaut qui fonctionnait toujours, avec lequel Dudley avait écrasé le chien du voisin ; dans un coin, il y avait la première télévision de Dudley qu’il avait éventrée d’un coup de pied un jour où son émission préférée avait été annulée ; il y avait aussi une grande cage dans laquelle avait vécu autrefois un perroquet que Dudley avait échangé à l’école contre une carabine à air comprimé.">annuler            </a></li>
+      <li><a href="" data-sent="Le caméscope était posé sur un petit char d’assaut qui fonctionnait toujours, avec lequel Dudley avait écrasé le chien du voisin ; dans un coin, il y avait la première télévision de Dudley qu’il avait éventrée d’un coup de pied un jour où son émission préférée avait été annulée ; il y avait aussi une grande cage dans laquelle avait vécu autrefois un perroquet que Dudley avait échangé à l’école contre une carabine à air comprimé.">autrefois          </a></li>
+      <li><a href="" data-sent="Le caméscope était posé sur un petit char d’assaut qui fonctionnait toujours, avec lequel Dudley avait écrasé le chien du voisin ; dans un coin, il y avait la première télévision de Dudley qu’il avait éventrée d’un coup de pied un jour où son émission préférée avait été annulée ; il y avait aussi une grande cage dans laquelle avait vécu autrefois un perroquet que Dudley avait échangé à l’école contre une carabine à air comprimé.">perroquet          </a></li>
+      <li><a href="" data-sent="Le caméscope était posé sur un petit char d’assaut qui fonctionnait toujours, avec lequel Dudley avait écrasé le chien du voisin ; dans un coin, il y avait la première télévision de Dudley qu’il avait éventrée d’un coup de pied un jour où son émission préférée avait été annulée ; il y avait aussi une grande cage dans laquelle avait vécu autrefois un perroquet que Dudley avait échangé à l’école contre une carabine à air comprimé.">carabine           </a></li>
+      <li><a href="" data-sent="Le caméscope était posé sur un petit char d’assaut qui fonctionnait toujours, avec lequel Dudley avait écrasé le chien du voisin ; dans un coin, il y avait la première télévision de Dudley qu’il avait éventrée d’un coup de pied un jour où son émission préférée avait été annulée ; il y avait aussi une grande cage dans laquelle avait vécu autrefois un perroquet que Dudley avait échangé à l’école contre une carabine à air comprimé.">comprimer          </a></li>
+      <li><a href="" data-sent="La carabine, posée sur une étagère, était complètement tordue depuis le jour où Dudley s’était assis dessus.">étagère            </a></li>
+      <li><a href="" data-sent="C’étaient les seules choses auxquelles il semblait n’avoir jamais touché.">toucher            </a></li>
+      <li><a href="" data-sent="Harry soupira et s’étendit sur le lit.">soupirer           </a></li>
+      <li><a href="" data-sent="Harry soupira et s’étendit sur le lit.">étendre            </a></li>
+      <li><a href="" data-sent="La veille, il aurait donné n’importe quoi pour avoir cette chambre.">veille             </a></li>
+      <li><a href="" data-sent="Il s’était égosillé, avait frappé son père avec sa canne, s’était fait vomir exprès, avait donné des coups de pied à sa mère et jeté sa tortue à travers le toit de la serre, sans parvenir à récupérer sa chambre.">égosiller          </a></li>
+      <li><a href="" data-sent="Il s’était égosillé, avait frappé son père avec sa canne, s’était fait vomir exprès, avait donné des coups de pied à sa mère et jeté sa tortue à travers le toit de la serre, sans parvenir à récupérer sa chambre.">vomir              </a></li>
+      <li><a href="" data-sent="Il s’était égosillé, avait frappé son père avec sa canne, s’était fait vomir exprès, avait donné des coups de pied à sa mère et jeté sa tortue à travers le toit de la serre, sans parvenir à récupérer sa chambre.">exprès             </a></li>
+      <li><a href="" data-sent="Il s’était égosillé, avait frappé son père avec sa canne, s’était fait vomir exprès, avait donné des coups de pied à sa mère et jeté sa tortue à travers le toit de la serre, sans parvenir à récupérer sa chambre.">tortue             </a></li>
+      <li><a href="" data-sent="Il s’était égosillé, avait frappé son père avec sa canne, s’était fait vomir exprès, avait donné des coups de pied à sa mère et jeté sa tortue à travers le toit de la serre, sans parvenir à récupérer sa chambre.">serre              </a></li>
+      <li><a href="" data-sent="Il s’était égosillé, avait frappé son père avec sa canne, s’était fait vomir exprès, avait donné des coups de pied à sa mère et jeté sa tortue à travers le toit de la serre, sans parvenir à récupérer sa chambre.">récupérer          </a></li>
+      <li><a href="" data-sent="Harry repensait à ce qui s’était passé la veille à la même heure et il regrettait amèrement de n’avoir pas ouvert sa lettre pendant qu’il était encore dans le hall d’entrée.">amèrement          </a></li>
+      <li><a href="" data-sent="Harry repensait à ce qui s’était passé la veille à la même heure et il regrettait amèrement de n’avoir pas ouvert sa lettre pendant qu’il était encore dans le hall d’entrée.">ouvrir             </a></li>
+      <li><a href="" data-sent="Harry repensait à ce qui s’était passé la veille à la même heure et il regrettait amèrement de n’avoir pas ouvert sa lettre pendant qu’il était encore dans le hall d’entrée.">hall               </a></li>
+      <li><a href="" data-sent="Lorsque le courrier arriva, l’oncle Vernon, qui s’était efforcé de se montrer aimable avec Harry, envoya Dudley le chercher.">aimable            </a></li>
+      <li><a href="" data-sent="Lorsque le courrier arriva, l’oncle Vernon, qui s’était efforcé de se montrer aimable avec Harry, envoya Dudley le chercher.">envoyer            </a></li>
+      <li><a href="" data-sent="Mr H. Potter, dans la plus petite chambre du 4, Privet Drive… L’oncle Vernon poussa un cri étranglé et se précipita dans le hall d’entrée, Harry sur ses talons.">étranglé           </a></li>
+      <li><a href="" data-sent="L’oncle Vernon dut se battre avec Dudley et le faire tomber par terre pour essayer de lui arracher la lettre, ce qui était d’autant plus difficile que Harry avait attrapé l’oncle Vernon par-derrière en lui serrant le cou.">terre              </a></li>
+      <li><a href="" data-sent="Après quelques instants d’un furieux combat au cours duquel chacun prit de nombreux coups de canne, l’oncle Vernon se releva, le souffle court, la main crispée sur la lettre destinée à Harry.">chacun             </a></li>
+      <li><a href="" data-sent="Après quelques instants d’un furieux combat au cours duquel chacun prit de nombreux coups de canne, l’oncle Vernon se releva, le souffle court, la main crispée sur la lettre destinée à Harry.">crisper            </a></li>
+      <li><a href="" data-sent="Je veux dire, dans ta chambre, dit-il à Harry d’une voix rauque.">rauque             </a></li>
+      <li><a href="" data-sent="Inlassablement, Harry faisait les cent pas autour de sa chambre.">inlassablement     </a></li>
+      <li><a href="" data-sent="Quelqu’un savait qu’il avait déménagé de son placard et semblait également savoir qu’il n’avait pas reçu la première lettre.">déménager          </a></li>
+      <li><a href="" data-sent="Cela signifiait sûrement qu’il essaierait encore.">signifier          </a></li>
+      <li><a href="" data-sent="Le lendemain matin, le vieux réveil rafistolé sonna à six heures.">réveil             </a></li>
+      <li><a href="" data-sent="Le lendemain matin, le vieux réveil rafistolé sonna à six heures.">six                </a></li>
+      <li><a href="" data-sent="Harry arrêta aussitôt la sonnerie et s’habilla en silence pour ne pas réveiller les Dursley.">sonnerie           </a></li>
+      <li><a href="" data-sent="Il venait de marcher sur une grosse chose molle étalée devant la porte, une chose vivante !">mou                </a></li>
+      <li><a href="" data-sent="Des lumières s’allumèrent au premier étage et il se rendit compte avec horreur que la grosse chose molle était en réalité la tête de son oncle.">réalité            </a></li>
+      <li><a href="" data-sent="L’oncle Vernon avait passé la nuit devant la porte, dans un sac de couchage, pour empêcher Harry de réussir ce qu’il avait tenté de faire.">couchage           </a></li>
+      <li><a href="" data-sent="Après l’avoir traité de tous les noms pendant près d’une demi-heure, l’oncle Vernon ordonna à Harry d’aller lui préparer une tasse de thé.">traiter            </a></li>
+      <li><a href="" data-sent="Après l’avoir traité de tous les noms pendant près d’une demi-heure, l’oncle Vernon ordonna à Harry d’aller lui préparer une tasse de thé.">préparer           </a></li>
+      <li><a href="" data-sent="Découragé, Harry s’en alla dans la cuisine en traînant des pieds, et lorsqu’il revint, le courrier était déjà entre les mains de son oncle.">décourager         </a></li>
+      <li><a href="" data-sent="Il resta à la maison et cloua une planche devant la boîte aux lettres.">planche            </a></li>
+      <li><a href="" data-sent="– S’ils n’arrivent pas à nous les faire parvenir, ils finiront par laisser tomber, dit-il à la tante Pétunia, la bouche pleine de clous.">clou               </a></li>
+      <li><a href="" data-sent="– Pétunia, ces gens-là sont très différents de nous, ils ne raisonnent pas comme toi et moi, répliqua-t-il en essayant de planter un clou avec le morceau de cake que la tante Pétunia venait de lui apporter.">raisonner          </a></li>
+      <li><a href="" data-sent="– Pétunia, ces gens-là sont très différents de nous, ils ne raisonnent pas comme toi et moi, répliqua-t-il en essayant de planter un clou avec le morceau de cake que la tante Pétunia venait de lui apporter.">planter            </a></li>
+      <li><a href="" data-sent="– Pétunia, ces gens-là sont très différents de nous, ils ne raisonnent pas comme toi et moi, répliqua-t-il en essayant de planter un clou avec le morceau de cake que la tante Pétunia venait de lui apporter.">cake               </a></li>
+      <li><a href="" data-sent="– Pétunia, ces gens-là sont très différents de nous, ils ne raisonnent pas comme toi et moi, répliqua-t-il en essayant de planter un clou avec le morceau de cake que la tante Pétunia venait de lui apporter.">apporter           </a></li>
+      <li><a href="" data-sent="Le vendredi, douze lettres pour Harry arrivèrent.">vendredi           </a></li>
+      <li><a href="" data-sent="Comme la boîte aux lettres était inutilisable, elles avaient été glissées tout autour de la porte et l’une d’elles avait même été introduite à travers un vasistas dans les toilettes du rez-de-chaussée.">inutilisable       </a></li>
+      <li><a href="" data-sent="Comme la boîte aux lettres était inutilisable, elles avaient été glissées tout autour de la porte et l’une d’elles avait même été introduite à travers un vasistas dans les toilettes du rez-de-chaussée.">introduire         </a></li>
+      <li><a href="" data-sent="Comme la boîte aux lettres était inutilisable, elles avaient été glissées tout autour de la porte et l’une d’elles avait même été introduite à travers un vasistas dans les toilettes du rez-de-chaussée.">vasistas           </a></li>
+      <li><a href="" data-sent="Après avoir brûlé toutes les lettres, il reprit son marteau et ses clous et boucha à l’aide de planches tous les interstices autour des portes de devant et de derrière, si bien que personne ne pouvait plus entrer ni sortir.">marteau            </a></li>
+      <li><a href="" data-sent="Après avoir brûlé toutes les lettres, il reprit son marteau et ses clous et boucha à l’aide de planches tous les interstices autour des portes de devant et de derrière, si bien que personne ne pouvait plus entrer ni sortir.">boucher            </a></li>
+      <li><a href="" data-sent="Après avoir brûlé toutes les lettres, il reprit son marteau et ses clous et boucha à l’aide de planches tous les interstices autour des portes de devant et de derrière, si bien que personne ne pouvait plus entrer ni sortir.">aide               </a></li>
+      <li><a href="" data-sent="Le samedi, la situation devint incontrôlable.">incontrôlable      </a></li>
+      <li><a href="" data-sent="Vingt-quatre lettres destinées à Harry furent introduites à l’intérieur de la maison : elles avaient été roulées et dissimulées à l’intérieur des deux douzaines d’œufs que le livreur, passablement déconcerté, leur avait passées par la fenêtre du salon.">rouler             </a></li>
+      <li><a href="" data-sent="Vingt-quatre lettres destinées à Harry furent introduites à l’intérieur de la maison : elles avaient été roulées et dissimulées à l’intérieur des deux douzaines d’œufs que le livreur, passablement déconcerté, leur avait passées par la fenêtre du salon.">dissimuler         </a></li>
+      <li><a href="" data-sent="Vingt-quatre lettres destinées à Harry furent introduites à l’intérieur de la maison : elles avaient été roulées et dissimulées à l’intérieur des deux douzaines d’œufs que le livreur, passablement déconcerté, leur avait passées par la fenêtre du salon.">livreur            </a></li>
+      <li><a href="" data-sent="Vingt-quatre lettres destinées à Harry furent introduites à l’intérieur de la maison : elles avaient été roulées et dissimulées à l’intérieur des deux douzaines d’œufs que le livreur, passablement déconcerté, leur avait passées par la fenêtre du salon.">déconcerter        </a></li>
+      <li><a href="" data-sent="Pendant que l’oncle Vernon donnait des coups de téléphone furieux au bureau de poste et au crémier pour essayer de trouver un responsable auprès de qui protester, la tante Pétunia réduisit les lettres en bouillie dans son mixer.">poste              </a></li>
+      <li><a href="" data-sent="Pendant que l’oncle Vernon donnait des coups de téléphone furieux au bureau de poste et au crémier pour essayer de trouver un responsable auprès de qui protester, la tante Pétunia réduisit les lettres en bouillie dans son mixer.">crémier            </a></li>
+      <li><a href="" data-sent="Pendant que l’oncle Vernon donnait des coups de téléphone furieux au bureau de poste et au crémier pour essayer de trouver un responsable auprès de qui protester, la tante Pétunia réduisit les lettres en bouillie dans son mixer.">auprès             </a></li>
+      <li><a href="" data-sent="Pendant que l’oncle Vernon donnait des coups de téléphone furieux au bureau de poste et au crémier pour essayer de trouver un responsable auprès de qui protester, la tante Pétunia réduisit les lettres en bouillie dans son mixer.">bouillie           </a></li>
+      <li><a href="" data-sent="– Mais qui peut bien avoir envie de t’écrire à ce point ? demanda Dudley abasourdi.">abasourdir         </a></li>
+      <li><a href="" data-sent="Le dimanche matin, l’oncle Vernon avait l’air fatigué et malade lorsqu’il s’assit à la table du petit déjeuner, mais il paraissait heureux malgré tout.">dimanche           </a></li>
+      <li><a href="" data-sent="Le dimanche matin, l’oncle Vernon avait l’air fatigué et malade lorsqu’il s’assit à la table du petit déjeuner, mais il paraissait heureux malgré tout.">fatigué            </a></li>
+      <li><a href="" data-sent="– La poste ne fonctionne pas le dimanche, dit-il d’un ton joyeux en étalant consciencieusement de la marmelade sur son journal.">joyeux             </a></li>
+      <li><a href="" data-sent="– La poste ne fonctionne pas le dimanche, dit-il d’un ton joyeux en étalant consciencieusement de la marmelade sur son journal.">consciencieusement </a></li>
+      <li><a href="" data-sent="– La poste ne fonctionne pas le dimanche, dit-il d’un ton joyeux en étalant consciencieusement de la marmelade sur son journal.">marmelade          </a></li>
+      <li><a href="" data-sent="Aujourd’hui, pas de ces fichues lettres.">fichu              </a></li>
+      <li><a href="" data-sent="Au même moment, quelque chose tomba dans le conduit de la cheminée avec un sifflement sonore et il sentit un coup derrière la tête.">conduit            </a></li>
+      <li><a href="" data-sent="Au même moment, quelque chose tomba dans le conduit de la cheminée avec un sifflement sonore et il sentit un coup derrière la tête.">sifflement         </a></li>
+      <li><a href="" data-sent="Au même moment, quelque chose tomba dans le conduit de la cheminée avec un sifflement sonore et il sentit un coup derrière la tête.">sonore             </a></li>
+      <li><a href="" data-sent="Un paquet venait d’exploser dans le foyer de la cheminée en projetant une quarantaine de lettres qui volaient dans la cuisine comme des boulets de canon.">exploser           </a></li>
+      <li><a href="" data-sent="Un paquet venait d’exploser dans le foyer de la cheminée en projetant une quarantaine de lettres qui volaient dans la cuisine comme des boulets de canon.">foyer              </a></li>
+      <li><a href="" data-sent="Un paquet venait d’exploser dans le foyer de la cheminée en projetant une quarantaine de lettres qui volaient dans la cuisine comme des boulets de canon.">projeter           </a></li>
+      <li><a href="" data-sent="Un paquet venait d’exploser dans le foyer de la cheminée en projetant une quarantaine de lettres qui volaient dans la cuisine comme des boulets de canon.">quarantaine        </a></li>
+      <li><a href="" data-sent="Un paquet venait d’exploser dans le foyer de la cheminée en projetant une quarantaine de lettres qui volaient dans la cuisine comme des boulets de canon.">boulet             </a></li>
+      <li><a href="" data-sent="Un paquet venait d’exploser dans le foyer de la cheminée en projetant une quarantaine de lettres qui volaient dans la cuisine comme des boulets de canon.">canon              </a></li>
+      <li><a href="" data-sent="Les Dursley se baissèrent pour éviter les projectiles tandis que Harry essayait d’en attraper un au vol.">baisser            </a></li>
+      <li><a href="" data-sent="Les Dursley se baissèrent pour éviter les projectiles tandis que Harry essayait d’en attraper un au vol.">projectile         </a></li>
+      <li><a href="" data-sent="– Dehors ! DEHORS !">dehors             </a></li>
+      <li><a href="" data-sent="L’oncle Vernon saisit Harry par la taille et le projeta dans le hall d’entrée, puis, dès que Dudley et la tante Pétunia eurent pris la fuite en se protégeant le visage de leurs bras, il claqua la porte de la cuisine.">projeter           </a></li>
+      <li><a href="" data-sent="L’oncle Vernon saisit Harry par la taille et le projeta dans le hall d’entrée, puis, dès que Dudley et la tante Pétunia eurent pris la fuite en se protégeant le visage de leurs bras, il claqua la porte de la cuisine.">protéger           </a></li>
+      <li><a href="" data-sent="Derrière le panneau, on entendait les lettres qui continuaient de voler en rebondissant contre les murs et le carrelage.">panneau            </a></li>
+      <li><a href="" data-sent="Derrière le panneau, on entendait les lettres qui continuaient de voler en rebondissant contre les murs et le carrelage.">rebondir           </a></li>
+      <li><a href="" data-sent="Derrière le panneau, on entendait les lettres qui continuaient de voler en rebondissant contre les murs et le carrelage.">carrelage          </a></li>
+      <li><a href="" data-sent="– Cette fois-ci, ça suffit, déclara l’oncle Vernon qui s’efforçait de parler d’une voix calme tout en arrachant des touffes de poils de sa moustache.">calme              </a></li>
+      <li><a href="" data-sent="– Cette fois-ci, ça suffit, déclara l’oncle Vernon qui s’efforçait de parler d’une voix calme tout en arrachant des touffes de poils de sa moustache.">poil               </a></li>
+      <li><a href="" data-sent="Emportez simplement quelques vêtements, et pas de discussion !">discussion         </a></li>
+      <li><a href="" data-sent="Il paraissait tellement menaçant, avec sa moustache dégarnie, que personne n’osa plus faire un geste.">menaçant           </a></li>
+      <li><a href="" data-sent="Il paraissait tellement menaçant, avec sa moustache dégarnie, que personne n’osa plus faire un geste.">dégarnir           </a></li>
+      <li><a href="" data-sent="Il paraissait tellement menaçant, avec sa moustache dégarnie, que personne n’osa plus faire un geste.">geste              </a></li>
+      <li><a href="" data-sent="Dix minutes plus tard, après avoir arraché les planches qui condamnaient la porte, ils montèrent dans la voiture qui fonça vers l’autoroute.">condamner          </a></li>
+      <li><a href="" data-sent="Dix minutes plus tard, après avoir arraché les planches qui condamnaient la porte, ils montèrent dans la voiture qui fonça vers l’autoroute.">foncer             </a></li>
+      <li><a href="" data-sent="Dix minutes plus tard, après avoir arraché les planches qui condamnaient la porte, ils montèrent dans la voiture qui fonça vers l’autoroute.">autoroute          </a></li>
+      <li><a href="" data-sent="Dudley pleurnichait à l’arrière, à cause du coup que son père lui avait donné sur la tête pour les avoir retardés en voulant à tout prix emporter sa télévision, son magnétoscope et son ordinateur dans son sac de sport.">pleurnicher        </a></li>
+      <li><a href="" data-sent="Dudley pleurnichait à l’arrière, à cause du coup que son père lui avait donné sur la tête pour les avoir retardés en voulant à tout prix emporter sa télévision, son magnétoscope et son ordinateur dans son sac de sport.">retarder           </a></li>
+      <li><a href="" data-sent="Dudley pleurnichait à l’arrière, à cause du coup que son père lui avait donné sur la tête pour les avoir retardés en voulant à tout prix emporter sa télévision, son magnétoscope et son ordinateur dans son sac de sport.">prix               </a></li>
+      <li><a href="" data-sent="De temps à autre, l’oncle Vernon faisait demi-tour et repartait dans la direction opposée.">opposer            </a></li>
+      <li><a href="" data-sent="– On va les semer, on va les semer, marmonnait-il.">semer              </a></li>
+      <li><a href="" data-sent="À la tombée du jour, Dudley poussa de longs hurlements.">tombée             </a></li>
+      <li><a href="" data-sent="Il avait faim, il avait raté cinq émissions de télévision qu’il tenait absolument à voir et il n’avait jamais passé autant de temps sans pulvériser un extraterrestre sur son ordinateur.">faim               </a></li>
+      <li><a href="" data-sent="Il avait faim, il avait raté cinq émissions de télévision qu’il tenait absolument à voir et il n’avait jamais passé autant de temps sans pulvériser un extraterrestre sur son ordinateur.">rater              </a></li>
+      <li><a href="" data-sent="Il avait faim, il avait raté cinq émissions de télévision qu’il tenait absolument à voir et il n’avait jamais passé autant de temps sans pulvériser un extraterrestre sur son ordinateur.">pulvériser         </a></li>
+      <li><a href="" data-sent="Il avait faim, il avait raté cinq émissions de télévision qu’il tenait absolument à voir et il n’avait jamais passé autant de temps sans pulvériser un extraterrestre sur son ordinateur.">extraterrestre     </a></li>
+      <li><a href="" data-sent="L’oncle Vernon arrêta enfin la voiture devant un hôtel sinistre, dans la banlieue d’une grande ville.">hôtel              </a></li>
+      <li><a href="" data-sent="L’oncle Vernon arrêta enfin la voiture devant un hôtel sinistre, dans la banlieue d’une grande ville.">banlieue           </a></li>
+      <li><a href="" data-sent="Dudley et Harry partagèrent une chambre avec des lits jumeaux et des draps humides qui sentaient le moisi.">partager           </a></li>
+      <li><a href="" data-sent="Dudley et Harry partagèrent une chambre avec des lits jumeaux et des draps humides qui sentaient le moisi.">jumeau             </a></li>
+      <li><a href="" data-sent="Dudley et Harry partagèrent une chambre avec des lits jumeaux et des draps humides qui sentaient le moisi.">moisi              </a></li>
+      <li><a href="" data-sent="Dudley passa la nuit à ronfler, tandis que Harry, assis sur le rebord de la fenêtre, regardait les phares des voitures qui passaient dans la rue.">ronfler            </a></li>
+      <li><a href="" data-sent="Dudley passa la nuit à ronfler, tandis que Harry, assis sur le rebord de la fenêtre, regardait les phares des voitures qui passaient dans la rue.">rebord             </a></li>
+      <li><a href="" data-sent="Au matin, on leur servit des corn flakes rassis et des toasts recouverts de tomates froides en boîte.">servir             </a></li>
+      <li><a href="" data-sent="Au matin, on leur servit des corn flakes rassis et des toasts recouverts de tomates froides en boîte.">rassir             </a></li>
+      <li><a href="" data-sent="Au matin, on leur servit des corn flakes rassis et des toasts recouverts de tomates froides en boîte.">toast              </a></li>
+      <li><a href="" data-sent="Au matin, on leur servit des corn flakes rassis et des toasts recouverts de tomates froides en boîte.">recouvrir          </a></li>
+      <li><a href="" data-sent="Au matin, on leur servit des corn flakes rassis et des toasts recouverts de tomates froides en boîte.">tomate             </a></li>
+      <li><a href="" data-sent="Au matin, on leur servit des corn flakes rassis et des toasts recouverts de tomates froides en boîte.">froid              </a></li>
+      <li><a href="" data-sent="La patronne de l’hôtel s’approcha alors de leur table.">patron             </a></li>
+      <li><a href="" data-sent="– ’Mande pardon, est-ce qu’il y aurait un Mr Potter parmi vous ?">mander             </a></li>
+      <li><a href="" data-sent="– ’Mande pardon, est-ce qu’il y aurait un Mr Potter parmi vous ?">pardon             </a></li>
+      <li><a href="" data-sent="– ’Mande pardon, est-ce qu’il y aurait un Mr Potter parmi vous ?">parmi              </a></li>
+      <li><a href="" data-sent="Parce que j’en ai une centaine comme ça à la réception.">réception          </a></li>
+      <li><a href="" data-sent="Hôtel du Rail Carbone-les-Mines">rail               </a></li>
+      <li><a href="" data-sent="– Je m’en occupe, dit l’oncle Vernon en se levant immédiatement et en suivant l’hôtelière hors de la salle à manger.">hôtelier           </a></li>
+      <li><a href="" data-sent="– Et si nous rentrions à la maison ? suggéra timidement la tante Pétunia, quelques heures plus tard.">timidement         </a></li>
+      <li><a href="" data-sent="Il les conduisit au milieu d’une forêt, sortit de la voiture, inspecta les alentours, hocha la tête, puis remonta dans la voiture et ils repartirent.">forêt              </a></li>
+      <li><a href="" data-sent="Il les conduisit au milieu d’une forêt, sortit de la voiture, inspecta les alentours, hocha la tête, puis remonta dans la voiture et ils repartirent.">inspecter          </a></li>
+      <li><a href="" data-sent="Il les conduisit au milieu d’une forêt, sortit de la voiture, inspecta les alentours, hocha la tête, puis remonta dans la voiture et ils repartirent.">alentours          </a></li>
+      <li><a href="" data-sent="Il recommença ensuite le même manège au beau milieu d’un champ labouré, à mi-chemin sur un pont suspendu, puis au sommet d’un parking à étages.">recommencer        </a></li>
+      <li><a href="" data-sent="Il recommença ensuite le même manège au beau milieu d’un champ labouré, à mi-chemin sur un pont suspendu, puis au sommet d’un parking à étages.">champ              </a></li>
+      <li><a href="" data-sent="Il recommença ensuite le même manège au beau milieu d’un champ labouré, à mi-chemin sur un pont suspendu, puis au sommet d’un parking à étages.">labourer           </a></li>
+      <li><a href="" data-sent="Il recommença ensuite le même manège au beau milieu d’un champ labouré, à mi-chemin sur un pont suspendu, puis au sommet d’un parking à étages.">pont               </a></li>
+      <li><a href="" data-sent="Il recommença ensuite le même manège au beau milieu d’un champ labouré, à mi-chemin sur un pont suspendu, puis au sommet d’un parking à étages.">suspendre          </a></li>
+      <li><a href="" data-sent="Vers la fin de l’après-midi, l’oncle Vernon s’arrêta dans un village du bord de mer, enferma tout le monde dans la voiture et s’en alla.">village            </a></li>
+      <li><a href="" data-sent="Vers la fin de l’après-midi, l’oncle Vernon s’arrêta dans un village du bord de mer, enferma tout le monde dans la voiture et s’en alla.">mer                </a></li>
+      <li><a href="" data-sent="Vers la fin de l’après-midi, l’oncle Vernon s’arrêta dans un village du bord de mer, enferma tout le monde dans la voiture et s’en alla.">enfermer           </a></li>
+      <li><a href="" data-sent="– Papa est devenu fou ? demanda Dudley, d’un ton morne, à la tante Pétunia.">morne              </a></li>
+      <li><a href="" data-sent="De grosses gouttes martelaient le toit de la voiture.">goutte             </a></li>
+      <li><a href="" data-sent="De grosses gouttes martelaient le toit de la voiture.">marteler           </a></li>
+      <li><a href="" data-sent="– C’est lundi, dit-il à sa mère.">lundi              </a></li>
+      <li><a href="" data-sent="– on pouvait faire confiance à Dudley, il ne se trompait jamais dans les dates, à cause des programmes de télévision.">confiance          </a></li>
+      <li><a href="" data-sent="– on pouvait faire confiance à Dudley, il ne se trompait jamais dans les dates, à cause des programmes de télévision.">tromper            </a></li>
+      <li><a href="" data-sent="– on pouvait faire confiance à Dudley, il ne se trompait jamais dans les dates, à cause des programmes de télévision.">programme          </a></li>
+      <li><a href="" data-sent="Harry se souvint tout à coup que le mardi suivant, c’est-à-dire le lendemain, serait le jour de son onzième anniversaire !">souvenir           </a></li>
+      <li><a href="" data-sent="Harry se souvint tout à coup que le mardi suivant, c’est-à-dire le lendemain, serait le jour de son onzième anniversaire !">onzième            </a></li>
+      <li><a href="" data-sent="Oh, bien sûr, ses anniversaires n’avaient rien de bien réjouissant – l’année précédente, les Dursley lui avaient offert un cintre et une paire de vieilles chaussettes qui avaient appartenu à l’oncle Vernon –, mais quand même : on n’avait pas onze ans tous les jours !">réjouissant        </a></li>
+      <li><a href="" data-sent="Oh, bien sûr, ses anniversaires n’avaient rien de bien réjouissant – l’année précédente, les Dursley lui avaient offert un cintre et une paire de vieilles chaussettes qui avaient appartenu à l’oncle Vernon –, mais quand même : on n’avait pas onze ans tous les jours !">précédent          </a></li>
+      <li><a href="" data-sent="Oh, bien sûr, ses anniversaires n’avaient rien de bien réjouissant – l’année précédente, les Dursley lui avaient offert un cintre et une paire de vieilles chaussettes qui avaient appartenu à l’oncle Vernon –, mais quand même : on n’avait pas onze ans tous les jours !">cintre             </a></li>
+      <li><a href="" data-sent="Oh, bien sûr, ses anniversaires n’avaient rien de bien réjouissant – l’année précédente, les Dursley lui avaient offert un cintre et une paire de vieilles chaussettes qui avaient appartenu à l’oncle Vernon –, mais quand même : on n’avait pas onze ans tous les jours !">appartenir         </a></li>
+      <li><a href="" data-sent="– J’ai trouvé l’endroit idéal, dit-il.">idéal              </a></li>
+      <li><a href="" data-sent="L’oncle Vernon montra du doigt un gros rocher qui émergeait à bonne distance de la côte.">rocher             </a></li>
+      <li><a href="" data-sent="Au sommet du rocher, on distinguait une cabane misérable, à moitié en ruine.">cabane             </a></li>
+      <li><a href="" data-sent="Au sommet du rocher, on distinguait une cabane misérable, à moitié en ruine.">misérable          </a></li>
+      <li><a href="" data-sent="– On prévoit une tempête pour cette nuit, dit l’oncle Vernon d’un ton joyeux, et en frappant des mains.">tempête            </a></li>
+      <li><a href="" data-sent="Et monsieur a été assez aimable pour nous prêter son bateau !">bateau             </a></li>
+      <li><a href="" data-sent="Un vieil homme édenté s’approcha d’eux d’un pas raide.">édenté             </a></li>
+      <li><a href="" data-sent="Avec un sourire à faire froid dans le dos, il montra d’un geste de la main une vieille barque qui se balançait à la surface de la mer d’un gris métallique.">barque             </a></li>
+      <li><a href="" data-sent="Avec un sourire à faire froid dans le dos, il montra d’un geste de la main une vieille barque qui se balançait à la surface de la mer d’un gris métallique.">balancer           </a></li>
+      <li><a href="" data-sent="Avec un sourire à faire froid dans le dos, il montra d’un geste de la main une vieille barque qui se balançait à la surface de la mer d’un gris métallique.">surface            </a></li>
+      <li><a href="" data-sent="Avec un sourire à faire froid dans le dos, il montra d’un geste de la main une vieille barque qui se balançait à la surface de la mer d’un gris métallique.">métallique         </a></li>
+      <li><a href="" data-sent="– J’ai déjà acheté des provisions, dit l’oncle Vernon.">provision          </a></li>
+      <li><a href="" data-sent="Il ne reste plus qu’à embarquer.">embarquer          </a></li>
+      <li><a href="" data-sent="Il faisait un froid polaire à bord de la barque.">polaire            </a></li>
+      <li><a href="" data-sent="La pluie et les embruns s’insinuaient dans leur cou et un vent glacé leur fouettait le visage.">embruns            </a></li>
+      <li><a href="" data-sent="La pluie et les embruns s’insinuaient dans leur cou et un vent glacé leur fouettait le visage.">insinuer           </a></li>
+      <li><a href="" data-sent="La pluie et les embruns s’insinuaient dans leur cou et un vent glacé leur fouettait le visage.">glacer             </a></li>
+      <li><a href="" data-sent="La pluie et les embruns s’insinuaient dans leur cou et un vent glacé leur fouettait le visage.">fouetter           </a></li>
+      <li><a href="" data-sent="Il sembla s’écouler des heures avant qu’ils atteignent enfin le rocher.">atteindre          </a></li>
+      <li><a href="" data-sent="Glissant à chaque pas sur la pierre humide, l’oncle Vernon les conduisit à la masure.">masure             </a></li>
+      <li><a href="" data-sent="L’endroit était épouvantable : il régnait une terrible odeur d’algues, le vent sifflait à travers les fissures des murs en planches et la cheminée humide ne comportait pas la moindre bûche.">épouvantable       </a></li>
+      <li><a href="" data-sent="L’endroit était épouvantable : il régnait une terrible odeur d’algues, le vent sifflait à travers les fissures des murs en planches et la cheminée humide ne comportait pas la moindre bûche.">régner             </a></li>
+      <li><a href="" data-sent="L’endroit était épouvantable : il régnait une terrible odeur d’algues, le vent sifflait à travers les fissures des murs en planches et la cheminée humide ne comportait pas la moindre bûche.">terrible           </a></li>
+      <li><a href="" data-sent="L’endroit était épouvantable : il régnait une terrible odeur d’algues, le vent sifflait à travers les fissures des murs en planches et la cheminée humide ne comportait pas la moindre bûche.">algue              </a></li>
+      <li><a href="" data-sent="L’endroit était épouvantable : il régnait une terrible odeur d’algues, le vent sifflait à travers les fissures des murs en planches et la cheminée humide ne comportait pas la moindre bûche.">fissure            </a></li>
+      <li><a href="" data-sent="L’endroit était épouvantable : il régnait une terrible odeur d’algues, le vent sifflait à travers les fissures des murs en planches et la cheminée humide ne comportait pas la moindre bûche.">bûche              </a></li>
+      <li><a href="" data-sent="Les provisions de l’oncle Vernon étaient plutôt maigres : un paquet de chips pour chacun et quatre bananes.">chips              </a></li>
+      <li><a href="" data-sent="Les provisions de l’oncle Vernon étaient plutôt maigres : un paquet de chips pour chacun et quatre bananes.">banane             </a></li>
+      <li><a href="" data-sent="Il essaya de faire un feu, mais les emballages de chips vides se consumèrent en ne parvenant à produire qu’un peu de fumée.">emballage          </a></li>
+      <li><a href="" data-sent="Il essaya de faire un feu, mais les emballages de chips vides se consumèrent en ne parvenant à produire qu’un peu de fumée.">vide               </a></li>
+      <li><a href="" data-sent="Il essaya de faire un feu, mais les emballages de chips vides se consumèrent en ne parvenant à produire qu’un peu de fumée.">consumer           </a></li>
+      <li><a href="" data-sent="Il essaya de faire un feu, mais les emballages de chips vides se consumèrent en ne parvenant à produire qu’un peu de fumée.">fumée              </a></li>
+      <li><a href="" data-sent="dit joyeusement l’oncle Vernon.">joyeusement        </a></li>
+      <li><a href="" data-sent="De toute évidence, il était convaincu que personne ne parviendrait à braver la tempête pour leur apporter du courrier dans cet endroit.">braver             </a></li>
+      <li><a href="" data-sent="Lorsque la nuit tomba, la tempête annoncée se mit à souffler autour d’eux.">annoncer           </a></li>
+      <li><a href="" data-sent="Lorsque la nuit tomba, la tempête annoncée se mit à souffler autour d’eux.">souffler           </a></li>
+      <li><a href="" data-sent="L’écume des vagues qui se fracassaient contre le rocher inondait les murs de la cabane et un vent féroce faisait trembler les fenêtres crasseuses.">écume              </a></li>
+      <li><a href="" data-sent="L’écume des vagues qui se fracassaient contre le rocher inondait les murs de la cabane et un vent féroce faisait trembler les fenêtres crasseuses.">vague              </a></li>
+      <li><a href="" data-sent="L’écume des vagues qui se fracassaient contre le rocher inondait les murs de la cabane et un vent féroce faisait trembler les fenêtres crasseuses.">fracasser          </a></li>
+      <li><a href="" data-sent="L’écume des vagues qui se fracassaient contre le rocher inondait les murs de la cabane et un vent féroce faisait trembler les fenêtres crasseuses.">inonder            </a></li>
+      <li><a href="" data-sent="L’écume des vagues qui se fracassaient contre le rocher inondait les murs de la cabane et un vent féroce faisait trembler les fenêtres crasseuses.">crasseux           </a></li>
+      <li><a href="" data-sent="La tante Pétunia dénicha quelques couvertures moisies dans l’autre pièce et fit un lit à Dudley sur le canapé rongé aux mites.">moisi             </a></li>
+      <li><a href="" data-sent="La tante Pétunia dénicha quelques couvertures moisies dans l’autre pièce et fit un lit à Dudley sur le canapé rongé aux mites.">canapé             </a></li>
+      <li><a href="" data-sent="La tante Pétunia dénicha quelques couvertures moisies dans l’autre pièce et fit un lit à Dudley sur le canapé rongé aux mites.">ronger             </a></li>
+      <li><a href="" data-sent="La tante Pétunia dénicha quelques couvertures moisies dans l’autre pièce et fit un lit à Dudley sur le canapé rongé aux mites.">mite               </a></li>
+      <li><a href="" data-sent="Elle s’installa avec l’oncle Vernon dans un lit défoncé de la pièce voisine et Harry dut s’efforcer de trouver un endroit où le sol n’était pas trop dur.">défoncer           </a></li>
+      <li><a href="" data-sent="Elle s’installa avec l’oncle Vernon dans un lit défoncé de la pièce voisine et Harry dut s’efforcer de trouver un endroit où le sol n’était pas trop dur.">dur                </a></li>
+      <li><a href="" data-sent="La tempête devenait de plus en plus violente à mesure que la nuit avançait.">violent            </a></li>
+      <li><a href="" data-sent="La tempête devenait de plus en plus violente à mesure que la nuit avançait.">mesure             </a></li>
+      <li><a href="" data-sent="Il frissonnait en se tournant et se retournant pour essayer de trouver une position qui ne soit pas trop inconfortable.">frissonner         </a></li>
+      <li><a href="" data-sent="Il frissonnait en se tournant et se retournant pour essayer de trouver une position qui ne soit pas trop inconfortable.">position           </a></li>
+      <li><a href="" data-sent="Il frissonnait en se tournant et se retournant pour essayer de trouver une position qui ne soit pas trop inconfortable.">inconfortable      </a></li>
+      <li><a href="" data-sent="Son ventre vide criait famine.">famine             </a></li>
+      <li><a href="" data-sent="Les profonds coups de tonnerre qui avaient commencé à retentir autour de minuit étouffaient les ronflements de Dudley qui dormait dans le canapé.">profond            </a></li>
+      <li><a href="" data-sent="Les profonds coups de tonnerre qui avaient commencé à retentir autour de minuit étouffaient les ronflements de Dudley qui dormait dans le canapé.">tonnerre           </a></li>
+      <li><a href="" data-sent="Les profonds coups de tonnerre qui avaient commencé à retentir autour de minuit étouffaient les ronflements de Dudley qui dormait dans le canapé.">ronflement         </a></li>
+      <li><a href="" data-sent="Son bras pendait par-dessus l’accoudoir et Harry apercevait le cadran phosphorescent de sa montre sur son poignet gras.">pendre             </a></li>
+      <li><a href="" data-sent="Son bras pendait par-dessus l’accoudoir et Harry apercevait le cadran phosphorescent de sa montre sur son poignet gras.">accoudoir          </a></li>
+      <li><a href="" data-sent="Son bras pendait par-dessus l’accoudoir et Harry apercevait le cadran phosphorescent de sa montre sur son poignet gras.">phosphorescent     </a></li>
+      <li><a href="" data-sent="Son bras pendait par-dessus l’accoudoir et Harry apercevait le cadran phosphorescent de sa montre sur son poignet gras.">poignet            </a></li>
+      <li><a href="" data-sent="Il se demandait également où se trouvait l’auteur des lettres en cet instant.">auteur             </a></li>
+      <li><a href="" data-sent="Il espérait que le toit n’allait pas s’effondrer même s’il aurait alors plus chaud.">chaud              </a></li>
+      <li><a href="" data-sent="Trois minutes.">trois              </a></li>
+      <li><a href="" data-sent="Était-ce la mer qui cognait aussi violemment contre le rocher ?">cogner             </a></li>
+      <li><a href="" data-sent="Était-ce la mer qui cognait aussi violemment contre le rocher ?">violemment         </a></li>
+      <li><a href="" data-sent="Et ce drôle de craquement, qu’est-ce que c’était ?">craquement         </a></li>
+      <li><a href="" data-sent="Le rocher menaçait-il de s’effondrer ?">menacer            </a></li>
+      <li><a href="" data-sent="Trente secondes… vingt… dix… neuf…">trente             </a></li>
+      <li><a href="" data-sent="Trente secondes… vingt… dix… neuf…">vingt              </a></li>
+      <li><a href="" data-sent="Et s’il réveillait Dudley, rien que pour l’énerver ?">énerver            </a></li>
+      <li><a href="" data-sent="Trois… deux… un… BOUM !">boum               </a></li>
+
+    </ul>
+    <br>
+    <br>
+  </div>
+  <div id="entry">
+    <span style="font-size:30px;cursor:pointer" id="hamburger">&#9776;</span>
+    <h1>Larousse</h1>
+    <div id="sent">
+    Sentence
+    </div>
+    <br>
+    <input type="text" id="word" name="word"><button type="button" id="btn">Search</button>
+    <div>
+      <button type="button" id="prev">Prev</button>
+      <button type="button" id="next">Next</button>
+    </div>
+    <div id="page"></div>
+  </div>
+</body>
+<script src="script.js"></script>
+</html>
+

@@ -1,0 +1,379 @@
+nulle              	LES LETTRES DE NULLE PART
+part               	LES LETTRES DE NULLE PART
+fuite              	La fuite du boa brésilien valut à Harry la plus longue punition qu’il eût jamais reçue.
+brésilien          	La fuite du boa brésilien valut à Harry la plus longue punition qu’il eût jamais reçue.
+ressortir          	Lorsqu’il fut enfin autorisé à ressortir de son placard, les vacances d’été avaient déjà commencé et Dudley avait eu le temps de casser son nouveau caméscope, d’écraser au sol son avion radio-commandé et d’étrenner son vélo de course en renversant Mrs Figg qui traversait Privet Drive avec ses béquilles.
+écraser            	Lorsqu’il fut enfin autorisé à ressortir de son placard, les vacances d’été avaient déjà commencé et Dudley avait eu le temps de casser son nouveau caméscope, d’écraser au sol son avion radio-commandé et d’étrenner son vélo de course en renversant Mrs Figg qui traversait Privet Drive avec ses béquilles.
+étrenner           	Lorsqu’il fut enfin autorisé à ressortir de son placard, les vacances d’été avaient déjà commencé et Dudley avait eu le temps de casser son nouveau caméscope, d’écraser au sol son avion radio-commandé et d’étrenner son vélo de course en renversant Mrs Figg qui traversait Privet Drive avec ses béquilles.
+béquille           	Lorsqu’il fut enfin autorisé à ressortir de son placard, les vacances d’été avaient déjà commencé et Dudley avait eu le temps de casser son nouveau caméscope, d’écraser au sol son avion radio-commandé et d’étrenner son vélo de course en renversant Mrs Figg qui traversait Privet Drive avec ses béquilles.
+content            	Harry était content que l’école ait pris fin, mais il n’arrivait pas à échapper à la bande de Dudley qui venait chaque jour à la maison.
+bête               	Piers, Dennis, Malcolm et Gordon étaient tous grands et stupides, mais comme Dudley était encore plus grand et plus bête qu’eux, c’était lui qui était le chef.
+chef               	Piers, Dennis, Malcolm et Gordon étaient tous grands et stupides, mais comme Dudley était encore plus grand et plus bête qu’eux, c’était lui qui était le chef.
+ravir              	Et les autres étaient ravis de pratiquer le sport préféré de Dudley : la chasse au Harry.
+pratiquer          	Et les autres étaient ravis de pratiquer le sport préféré de Dudley : la chasse au Harry.
+chasse             	Et les autres étaient ravis de pratiquer le sport préféré de Dudley : la chasse au Harry.
+septembre          	Car en septembre, il entrerait au collège et, pour la première fois de sa vie, il ne serait plus dans la même école que Dudley.
+collège            	Car en septembre, il entrerait au collège et, pour la première fois de sa vie, il ne serait plus dans la même école que Dudley.
+privé              	Dudley irait à Smelting, un collège privé où l’oncle Vernon avait fait ses études.
+étude              	Dudley irait à Smelting, un collège privé où l’oncle Vernon avait fait ses études.
+inscrire           	Piers Polkiss y était inscrit, lui aussi.
+trou               	– Là où tu vas, on met la tête des nouveaux dans le trou des toilettes, dit-il à Harry.
+toilette           	– Là où tu vas, on met la tête des nouveaux dans le trou des toilettes, dit-il à Harry.
+entraîner          	Si tu veux t’entraîner, monte avec moi dans la salle de bains.
+monter             	Si tu veux t’entraîner, monte avec moi dans la salle de bains.
+atroce             	Non, merci, répondit Harry, ces pauvres toilettes n’ont jamais vu quelque chose d’aussi atroce que ta tête, ça les rendrait malades.
+juillet            	Un jour de juillet, la tante Pétunia emmena Dudley à Londres pour lui acheter l’uniforme de sa nouvelle école.
+uniforme           	Un jour de juillet, la tante Pétunia emmena Dudley à Londres pour lui acheter l’uniforme de sa nouvelle école.
+pénible            	Elle déposa Harry chez Mrs Figg qui fut moins pénible qu’à l’ordinaire car elle s’était cassé la jambe en trébuchant sur un de ses chats, ce qui avait quelque peu refroidi la passion qu’elle leur portait habituellement.
+trébucher          	Elle déposa Harry chez Mrs Figg qui fut moins pénible qu’à l’ordinaire car elle s’était cassé la jambe en trébuchant sur un de ses chats, ce qui avait quelque peu refroidi la passion qu’elle leur portait habituellement.
+refroidir          	Elle déposa Harry chez Mrs Figg qui fut moins pénible qu’à l’ordinaire car elle s’était cassé la jambe en trébuchant sur un de ses chats, ce qui avait quelque peu refroidi la passion qu’elle leur portait habituellement.
+passion            	Elle déposa Harry chez Mrs Figg qui fut moins pénible qu’à l’ordinaire car elle s’était cassé la jambe en trébuchant sur un de ses chats, ce qui avait quelque peu refroidi la passion qu’elle leur portait habituellement.
+gâteau             	Harry fut même autorisé à regarder la télévision en mangeant un gâteau au chocolat qui avait dû séjourner quelques années au fond d’un placard.
+séjourner          	Harry fut même autorisé à regarder la télévision en mangeant un gâteau au chocolat qui avait dû séjourner quelques années au fond d’un placard.
+fond               	Harry fut même autorisé à regarder la télévision en mangeant un gâteau au chocolat qui avait dû séjourner quelques années au fond d’un placard.
+parader            	Le soir, Dudley parada dans le salon pour montrer à toute la famille ses habits flambant neufs : un frac marron à queue-de-pie, un pantalon de golf orange et un canotier.
+habit              	Le soir, Dudley parada dans le salon pour montrer à toute la famille ses habits flambant neufs : un frac marron à queue-de-pie, un pantalon de golf orange et un canotier.
+flamber            	Le soir, Dudley parada dans le salon pour montrer à toute la famille ses habits flambant neufs : un frac marron à queue-de-pie, un pantalon de golf orange et un canotier.
+frac               	Le soir, Dudley parada dans le salon pour montrer à toute la famille ses habits flambant neufs : un frac marron à queue-de-pie, un pantalon de golf orange et un canotier.
+pantalon           	Le soir, Dudley parada dans le salon pour montrer à toute la famille ses habits flambant neufs : un frac marron à queue-de-pie, un pantalon de golf orange et un canotier.
+golf               	Le soir, Dudley parada dans le salon pour montrer à toute la famille ses habits flambant neufs : un frac marron à queue-de-pie, un pantalon de golf orange et un canotier.
+canotier           	Le soir, Dudley parada dans le salon pour montrer à toute la famille ses habits flambant neufs : un frac marron à queue-de-pie, un pantalon de golf orange et un canotier.
+élève              	Les élèves de Smelting avaient également une canne dont ils se servaient pour se taper dessus quand les professeurs ne les voyaient pas.
+canne              	Les élèves de Smelting avaient également une canne dont ils se servaient pour se taper dessus quand les professeurs ne les voyaient pas.
+servir             	Les élèves de Smelting avaient également une canne dont ils se servaient pour se taper dessus quand les professeurs ne les voyaient pas.
+forger             	C’était, paraît-il, une façon de se forger le caractère.
+caractère          	C’était, paraît-il, une façon de se forger le caractère.
+accoutrer          	En contemplant son fils ainsi accoutré, l’oncle Vernon déclara que c’était le plus beau jour de sa vie et la tante Pétunia éclata en sanglots en disant qu’elle n’arrivait pas à croire que ce garçon si grand, si élégant était son petit Dudlinouchet adoré.
+éclater            	En contemplant son fils ainsi accoutré, l’oncle Vernon déclara que c’était le plus beau jour de sa vie et la tante Pétunia éclata en sanglots en disant qu’elle n’arrivait pas à croire que ce garçon si grand, si élégant était son petit Dudlinouchet adoré.
+élégant            	En contemplant son fils ainsi accoutré, l’oncle Vernon déclara que c’était le plus beau jour de sa vie et la tante Pétunia éclata en sanglots en disant qu’elle n’arrivait pas à croire que ce garçon si grand, si élégant était son petit Dudlinouchet adoré.
+fêler              	Il avait l’impression de s’être déjà fêlé deux côtes à force de réprimer son fou rire.
+réprimer           	Il avait l’impression de s’être déjà fêlé deux côtes à force de réprimer son fou rire.
+pestilentiel       	Le lendemain matin, au petit déjeuner, une odeur pestilentielle se dégageait d’une grande bassine posée dans l’évier de la cuisine.
+dégager            	Le lendemain matin, au petit déjeuner, une odeur pestilentielle se dégageait d’une grande bassine posée dans l’évier de la cuisine.
+bassine            	Le lendemain matin, au petit déjeuner, une odeur pestilentielle se dégageait d’une grande bassine posée dans l’évier de la cuisine.
+évier              	Le lendemain matin, au petit déjeuner, une odeur pestilentielle se dégageait d’une grande bassine posée dans l’évier de la cuisine.
+guenille           	Harry s’approcha et vit de vieilles guenilles qui flottaient dans une eau grisâtre.
+flotter            	Harry s’approcha et vit de vieilles guenilles qui flottaient dans une eau grisâtre.
+eau                	Harry s’approcha et vit de vieilles guenilles qui flottaient dans une eau grisâtre.
+grisâtre           	Harry s’approcha et vit de vieilles guenilles qui flottaient dans une eau grisâtre.
+audace             	Elle pinça les lèvres, choquée qu’il ait l’audace de poser la question.
+tremper            	Je ne savais pas qu’il fallait le faire tremper dans l’eau.
+teindre            	J’ai teint en gris des vieilles affaires de Dudley.
+affaire            	J’ai teint en gris des vieilles affaires de Dudley.
+suffire            	Ça te suffira bien comme uniforme, il ne sera guère différent des autres.
+guère              	Ça te suffira bien comme uniforme, il ne sera guère différent des autres.
+discuter           	Harry en doutait, mais il était inutile de discuter.
+rentrée            	Il se demanda à quoi il ressemblerait, là-dedans, le jour de la rentrée.
+peau               	On aurait dit des morceaux de peau arrachés à un vieil éléphant.
+éléphant           	On aurait dit des morceaux de peau arrachés à un vieil éléphant.
+froncer            	Dudley et l’oncle Vernon entrèrent dans la cuisine en fronçant le nez à cause de l’odeur que répandait la bassine.
+répandre           	Dudley et l’oncle Vernon entrèrent dans la cuisine en fronçant le nez à cause de l’odeur que répandait la bassine.
+séparer            	L’oncle Vernon ouvrit son journal comme à l’ordinaire et Dudley donna sur la table un coup de sa canne dont il ne se séparait plus.
+facteur            	Ils entendirent alors le facteur glisser le courrier dans la boîte aux lettres de la porte d’entrée.
+courrier           	Ils entendirent alors le facteur glisser le courrier dans la boîte aux lettres de la porte d’entrée.
+donner             	– Donne-lui un coup de canne, Dudley.
+postal             	Il y avait trois lettres : une carte postale de Marge, la sœur de l’oncle Vernon, qui était en vacances à l’île de Wight, une enveloppe de papier kraft qui devait être une facture et… une lettre pour Harry !
+île                	Il y avait trois lettres : une carte postale de Marge, la sœur de l’oncle Vernon, qui était en vacances à l’île de Wight, une enveloppe de papier kraft qui devait être une facture et… une lettre pour Harry !
+enveloppe          	Il y avait trois lettres : une carte postale de Marge, la sœur de l’oncle Vernon, qui était en vacances à l’île de Wight, une enveloppe de papier kraft qui devait être une facture et… une lettre pour Harry !
+kraft              	Il y avait trois lettres : une carte postale de Marge, la sœur de l’oncle Vernon, qui était en vacances à l’île de Wight, une enveloppe de papier kraft qui devait être une facture et… une lettre pour Harry !
+facture            	Il y avait trois lettres : une carte postale de Marge, la sœur de l’oncle Vernon, qui était en vacances à l’île de Wight, une enveloppe de papier kraft qui devait être une facture et… une lettre pour Harry !
+poitrine           	Son cœur faisait de grands bonds dans sa poitrine, comme une balle en caoutchouc.
+balle              	Son cœur faisait de grands bonds dans sa poitrine, comme une balle en caoutchouc.
+caoutchouc         	Son cœur faisait de grands bonds dans sa poitrine, comme une balle en caoutchouc.
+bibliothèque       	Il n’avait pas d’amis, pas de parents autres que son oncle et sa tante, il n’était même pas inscrit à la bibliothèque, ce qui lui évitait de recevoir des mots désagréables exigeant le retour de livres empruntés.
+exiger             	Il n’avait pas d’amis, pas de parents autres que son oncle et sa tante, il n’était même pas inscrit à la bibliothèque, ce qui lui évitait de recevoir des mots désagréables exigeant le retour de livres empruntés.
+retour             	Il n’avait pas d’amis, pas de parents autres que son oncle et sa tante, il n’était même pas inscrit à la bibliothèque, ce qui lui évitait de recevoir des mots désagréables exigeant le retour de livres empruntés.
+adresse            	Et pourtant, il avait entre les mains une lettre dont l’adresse ne pouvait prêter à confusion : Mr H. Potter Dans le placard sous l’escalier 4, Privet Drive Little Whinging Surrey L’enveloppe, lourde et épaisse, était faite d’un parchemin jauni et l’adresse était écrite à l’encre vert émeraude.
+lourd              	Et pourtant, il avait entre les mains une lettre dont l’adresse ne pouvait prêter à confusion : Mr H. Potter Dans le placard sous l’escalier 4, Privet Drive Little Whinging Surrey L’enveloppe, lourde et épaisse, était faite d’un parchemin jauni et l’adresse était écrite à l’encre vert émeraude.
+épais              	Et pourtant, il avait entre les mains une lettre dont l’adresse ne pouvait prêter à confusion : Mr H. Potter Dans le placard sous l’escalier 4, Privet Drive Little Whinging Surrey L’enveloppe, lourde et épaisse, était faite d’un parchemin jauni et l’adresse était écrite à l’encre vert émeraude.
+parchemin          	Et pourtant, il avait entre les mains une lettre dont l’adresse ne pouvait prêter à confusion : Mr H. Potter Dans le placard sous l’escalier 4, Privet Drive Little Whinging Surrey L’enveloppe, lourde et épaisse, était faite d’un parchemin jauni et l’adresse était écrite à l’encre vert émeraude.
+jaunir             	Et pourtant, il avait entre les mains une lettre dont l’adresse ne pouvait prêter à confusion : Mr H. Potter Dans le placard sous l’escalier 4, Privet Drive Little Whinging Surrey L’enveloppe, lourde et épaisse, était faite d’un parchemin jauni et l’adresse était écrite à l’encre vert émeraude.
+timbre             	Il n’y avait pas de timbre.
+sceau              	En retournant l’enveloppe, les mains tremblantes, Harry vit un sceau de cire frappé d’un écusson qui représentait un aigle, un lion, un blaireau et un serpent entourant la lettre « P ».
+cire               	En retournant l’enveloppe, les mains tremblantes, Harry vit un sceau de cire frappé d’un écusson qui représentait un aigle, un lion, un blaireau et un serpent entourant la lettre « P ».
+frapper            	En retournant l’enveloppe, les mains tremblantes, Harry vit un sceau de cire frappé d’un écusson qui représentait un aigle, un lion, un blaireau et un serpent entourant la lettre « P ».
+écusson            	En retournant l’enveloppe, les mains tremblantes, Harry vit un sceau de cire frappé d’un écusson qui représentait un aigle, un lion, un blaireau et un serpent entourant la lettre « P ».
+aigle              	En retournant l’enveloppe, les mains tremblantes, Harry vit un sceau de cire frappé d’un écusson qui représentait un aigle, un lion, un blaireau et un serpent entourant la lettre « P ».
+lion               	En retournant l’enveloppe, les mains tremblantes, Harry vit un sceau de cire frappé d’un écusson qui représentait un aigle, un lion, un blaireau et un serpent entourant la lettre « P ».
+blaireau           	En retournant l’enveloppe, les mains tremblantes, Harry vit un sceau de cire frappé d’un écusson qui représentait un aigle, un lion, un blaireau et un serpent entourant la lettre « P ».
+entourer           	En retournant l’enveloppe, les mains tremblantes, Harry vit un sceau de cire frappé d’un écusson qui représentait un aigle, un lion, un blaireau et un serpent entourant la lettre « P ».
+piéger             	Tu regardes s’il n’y a pas de lettre piégée ?
+plaisanterie       	Sa plaisanterie le fit éclater de rire.
+entreprendre       	Il donna à l’oncle Vernon la carte postale et la facture puis il s’assit et entreprit de décacheter l’enveloppe jaune.
+décacheter         	Il donna à l’oncle Vernon la carte postale et la facture puis il s’assit et entreprit de décacheter l’enveloppe jaune.
+jaune              	Il donna à l’oncle Vernon la carte postale et la facture puis il s’assit et entreprit de décacheter l’enveloppe jaune.
+dégoûter           	L’oncle Vernon poussa un grognement dégoûté en ouvrant l’enveloppe de la facture et lut ce qui était écrit au dos de la carte postale.
+coquillage         	Elle a mangé un drôle de coquillage.
+papa               	– Papa !
+déplier            	Harry était sur le point de déplier sa lettre, écrite sur un parchemin semblable à celui de l’enveloppe, lorsque l’oncle Vernon la lui arracha des mains.
+protester          	protesta Harry en essayant de la reprendre.
+mépris             	dit l’oncle Vernon d’un ton plein de mépris.
+signalisation      	Son teint passa alors du rouge au vert plus vite qu’un feu de signalisation.
+pâle               	En quelques secondes, il était devenu d’un gris pâle de vieux porridge.
+porridge           	En quelques secondes, il était devenu d’un gris pâle de vieux porridge.
+balbutier          	– P…P…Pétunia ! balbutia l’oncle Vernon.
+emparer            	Dudley essaya de s’emparer de la lettre, mais l’oncle Vernon la tenait hors de portée.
+portée             	Dudley essaya de s’emparer de la lettre, mais l’oncle Vernon la tenait hors de portée.
+ligne              	Il la donna à la tante Pétunia qui en lut la première ligne d’un air intrigué.
+intriguer          	Il la donna à la tante Pétunia qui en lut la première ligne d’un air intrigué.
+évanouir           	Pendant un instant, elle sembla sur le point de s’évanouir et porta la main à sa gorge d’où s’échappa un borborygme étouffé.
+borborygme         	Pendant un instant, elle sembla sur le point de s’évanouir et porta la main à sa gorge d’où s’échappa un borborygme étouffé.
+oh                 	Oh, mon Dieu, Vernon !
+manifester         	Dudley n’avait pas l’habitude qu’on lui manifeste une telle indifférence et il donna un coup sec de sa canne sur la tête de son père.
+indifférence       	Dudley n’avait pas l’habitude qu’on lui manifeste une telle indifférence et il donna un coup sec de sa canne sur la tête de son père.
+grinçant           	– Sortez d’ici, tous les deux, dit l’oncle Vernon d’une voix grinçante en remettant la lettre dans l’enveloppe.
+rugir              	– DEHORS ! rugit l’oncle Vernon.
+combat             	Harry et Dudley engagèrent aussitôt un combat féroce mais silencieux pour savoir qui écouterait au trou de la serrure ce qui allait se dire dans la cuisine.
+féroce             	Harry et Dudley engagèrent aussitôt un combat féroce mais silencieux pour savoir qui écouterait au trou de la serrure ce qui allait se dire dans la cuisine.
+serrure            	Harry et Dudley engagèrent aussitôt un combat féroce mais silencieux pour savoir qui écouterait au trou de la serrure ce qui allait se dire dans la cuisine.
+bataille           	Harry, les lunettes en bataille, s’allongea alors à plat ventre pour écouter par l’interstice entre le bas de la porte et le sol.
+ventre             	Harry, les lunettes en bataille, s’allongea alors à plat ventre pour écouter par l’interstice entre le bas de la porte et le sol.
+interstice         	Harry, les lunettes en bataille, s’allongea alors à plat ventre pour écouter par l’interstice entre le bas de la porte et le sol.
+coucher            	Comment ont-ils pu savoir où il couche ?
+surveiller         	Tu crois qu’ils surveillent la maison ?
+furieusement       	– Ils nous surveillent, ils nous espionnent, peut-être même qu’ils nous suivent, marmonna furieusement l’oncle Vernon.
+chaussure          	Leur dire que nous ne voulons pas… Harry apercevait les chaussures noires bien cirées de l’oncle Vernon qui faisait les cent pas dans la cuisine.
+cirer              	Leur dire que nous ne voulons pas… Harry apercevait les chaussures noires bien cirées de l’oncle Vernon qui faisait les cent pas dans la cuisine.
+cent               	Leur dire que nous ne voulons pas… Harry apercevait les chaussures noires bien cirées de l’oncle Vernon qui faisait les cent pas dans la cuisine.
+attention          	On ne va pas y faire attention.
+souvenir           	Souviens-toi, quand nous l’avons pris avec nous, nous nous sommes juré de refuser toutes ces idioties.
+jurer              	Souviens-toi, quand nous l’avons pris avec nous, nous nous sommes juré de refuser toutes ces idioties.
+idiotie            	Souviens-toi, quand nous l’avons pris avec nous, nous nous sommes juré de refuser toutes ces idioties.
+travail            	Le soir, en revenant du travail, l’oncle Vernon fit quelque chose qu’il n’avait encore jamais fait : il alla voir Harry dans son placard.
+faufiler           	demanda Harry au moment même où l’oncle Vernon se faufilait dans le placard.
+erreur             	La lettre t’a été adressée par erreur, répondit l’oncle Vernon.
+respirer           	Il respira profondément à plusieurs reprises puis il se força à sourire, d’un sourire qui avait l’air singulièrement douloureux.
+reprise            	Il respira profondément à plusieurs reprises puis il se força à sourire, d’un sourire qui avait l’air singulièrement douloureux.
+justement          	– Justement, Harry… au sujet de ce placard.
+commencer          	Tu commences à devenir un peu trop grand pour rester ici… Nous avons pensé qu’il serait peut-être préférable que tu déménages dans la deuxième chambre de Dudley.
+préférable         	Tu commences à devenir un peu trop grand pour rester ici… Nous avons pensé qu’il serait peut-être préférable que tu déménages dans la deuxième chambre de Dudley.
+déménager          	Tu commences à devenir un peu trop grand pour rester ici… Nous avons pensé qu’il serait peut-être préférable que tu déménages dans la deuxième chambre de Dudley.
+prendre            	Prends tes affaires et monte là-haut.
+généralement       	Il y avait quatre chambres dans la maison des Dursley : une pour l’oncle Vernon et la tante Pétunia, une chambre d’amis (qui servait généralement à Marge, la sœur de Vernon), une où Dudley dormait et une autre où Dudley mettait ses jouets et tout ce qui n’entrait pas dans la première.
+jouet              	Il y avait quatre chambres dans la maison des Dursley : une pour l’oncle Vernon et la tante Pétunia, une chambre d’amis (qui servait généralement à Marge, la sœur de Vernon), une où Dudley dormait et une autre où Dudley mettait ses jouets et tout ce qui n’entrait pas dans la première.
+voyage             	Un seul voyage suffit à Harry pour transporter toutes ses affaires dans la chambre.
+transporter        	Un seul voyage suffit à Harry pour transporter toutes ses affaires dans la chambre.
+char               	Le caméscope était posé sur un petit char d’assaut qui fonctionnait toujours, avec lequel Dudley avait écrasé le chien du voisin ; dans un coin, il y avait la première télévision de Dudley qu’il avait éventrée d’un coup de pied un jour où son émission préférée avait été annulée ; il y avait aussi une grande cage dans laquelle avait vécu autrefois un perroquet que Dudley avait échangé à l’école contre une carabine à air comprimé.
+assaut             	Le caméscope était posé sur un petit char d’assaut qui fonctionnait toujours, avec lequel Dudley avait écrasé le chien du voisin ; dans un coin, il y avait la première télévision de Dudley qu’il avait éventrée d’un coup de pied un jour où son émission préférée avait été annulée ; il y avait aussi une grande cage dans laquelle avait vécu autrefois un perroquet que Dudley avait échangé à l’école contre une carabine à air comprimé.
+fonctionner        	Le caméscope était posé sur un petit char d’assaut qui fonctionnait toujours, avec lequel Dudley avait écrasé le chien du voisin ; dans un coin, il y avait la première télévision de Dudley qu’il avait éventrée d’un coup de pied un jour où son émission préférée avait été annulée ; il y avait aussi une grande cage dans laquelle avait vécu autrefois un perroquet que Dudley avait échangé à l’école contre une carabine à air comprimé.
+éventrer           	Le caméscope était posé sur un petit char d’assaut qui fonctionnait toujours, avec lequel Dudley avait écrasé le chien du voisin ; dans un coin, il y avait la première télévision de Dudley qu’il avait éventrée d’un coup de pied un jour où son émission préférée avait été annulée ; il y avait aussi une grande cage dans laquelle avait vécu autrefois un perroquet que Dudley avait échangé à l’école contre une carabine à air comprimé.
+émission           	Le caméscope était posé sur un petit char d’assaut qui fonctionnait toujours, avec lequel Dudley avait écrasé le chien du voisin ; dans un coin, il y avait la première télévision de Dudley qu’il avait éventrée d’un coup de pied un jour où son émission préférée avait été annulée ; il y avait aussi une grande cage dans laquelle avait vécu autrefois un perroquet que Dudley avait échangé à l’école contre une carabine à air comprimé.
+annuler            	Le caméscope était posé sur un petit char d’assaut qui fonctionnait toujours, avec lequel Dudley avait écrasé le chien du voisin ; dans un coin, il y avait la première télévision de Dudley qu’il avait éventrée d’un coup de pied un jour où son émission préférée avait été annulée ; il y avait aussi une grande cage dans laquelle avait vécu autrefois un perroquet que Dudley avait échangé à l’école contre une carabine à air comprimé.
+autrefois          	Le caméscope était posé sur un petit char d’assaut qui fonctionnait toujours, avec lequel Dudley avait écrasé le chien du voisin ; dans un coin, il y avait la première télévision de Dudley qu’il avait éventrée d’un coup de pied un jour où son émission préférée avait été annulée ; il y avait aussi une grande cage dans laquelle avait vécu autrefois un perroquet que Dudley avait échangé à l’école contre une carabine à air comprimé.
+perroquet          	Le caméscope était posé sur un petit char d’assaut qui fonctionnait toujours, avec lequel Dudley avait écrasé le chien du voisin ; dans un coin, il y avait la première télévision de Dudley qu’il avait éventrée d’un coup de pied un jour où son émission préférée avait été annulée ; il y avait aussi une grande cage dans laquelle avait vécu autrefois un perroquet que Dudley avait échangé à l’école contre une carabine à air comprimé.
+carabine           	Le caméscope était posé sur un petit char d’assaut qui fonctionnait toujours, avec lequel Dudley avait écrasé le chien du voisin ; dans un coin, il y avait la première télévision de Dudley qu’il avait éventrée d’un coup de pied un jour où son émission préférée avait été annulée ; il y avait aussi une grande cage dans laquelle avait vécu autrefois un perroquet que Dudley avait échangé à l’école contre une carabine à air comprimé.
+comprimer          	Le caméscope était posé sur un petit char d’assaut qui fonctionnait toujours, avec lequel Dudley avait écrasé le chien du voisin ; dans un coin, il y avait la première télévision de Dudley qu’il avait éventrée d’un coup de pied un jour où son émission préférée avait été annulée ; il y avait aussi une grande cage dans laquelle avait vécu autrefois un perroquet que Dudley avait échangé à l’école contre une carabine à air comprimé.
+étagère            	La carabine, posée sur une étagère, était complètement tordue depuis le jour où Dudley s’était assis dessus.
+toucher            	C’étaient les seules choses auxquelles il semblait n’avoir jamais touché.
+soupirer           	Harry soupira et s’étendit sur le lit.
+étendre            	Harry soupira et s’étendit sur le lit.
+veille             	La veille, il aurait donné n’importe quoi pour avoir cette chambre.
+égosiller          	Il s’était égosillé, avait frappé son père avec sa canne, s’était fait vomir exprès, avait donné des coups de pied à sa mère et jeté sa tortue à travers le toit de la serre, sans parvenir à récupérer sa chambre.
+vomir              	Il s’était égosillé, avait frappé son père avec sa canne, s’était fait vomir exprès, avait donné des coups de pied à sa mère et jeté sa tortue à travers le toit de la serre, sans parvenir à récupérer sa chambre.
+exprès             	Il s’était égosillé, avait frappé son père avec sa canne, s’était fait vomir exprès, avait donné des coups de pied à sa mère et jeté sa tortue à travers le toit de la serre, sans parvenir à récupérer sa chambre.
+tortue             	Il s’était égosillé, avait frappé son père avec sa canne, s’était fait vomir exprès, avait donné des coups de pied à sa mère et jeté sa tortue à travers le toit de la serre, sans parvenir à récupérer sa chambre.
+serre              	Il s’était égosillé, avait frappé son père avec sa canne, s’était fait vomir exprès, avait donné des coups de pied à sa mère et jeté sa tortue à travers le toit de la serre, sans parvenir à récupérer sa chambre.
+récupérer          	Il s’était égosillé, avait frappé son père avec sa canne, s’était fait vomir exprès, avait donné des coups de pied à sa mère et jeté sa tortue à travers le toit de la serre, sans parvenir à récupérer sa chambre.
+amèrement          	Harry repensait à ce qui s’était passé la veille à la même heure et il regrettait amèrement de n’avoir pas ouvert sa lettre pendant qu’il était encore dans le hall d’entrée.
+ouvrir             	Harry repensait à ce qui s’était passé la veille à la même heure et il regrettait amèrement de n’avoir pas ouvert sa lettre pendant qu’il était encore dans le hall d’entrée.
+hall               	Harry repensait à ce qui s’était passé la veille à la même heure et il regrettait amèrement de n’avoir pas ouvert sa lettre pendant qu’il était encore dans le hall d’entrée.
+aimable            	Lorsque le courrier arriva, l’oncle Vernon, qui s’était efforcé de se montrer aimable avec Harry, envoya Dudley le chercher.
+envoyer            	Lorsque le courrier arriva, l’oncle Vernon, qui s’était efforcé de se montrer aimable avec Harry, envoya Dudley le chercher.
+étranglé           	Mr H. Potter, dans la plus petite chambre du 4, Privet Drive… L’oncle Vernon poussa un cri étranglé et se précipita dans le hall d’entrée, Harry sur ses talons.
+terre              	L’oncle Vernon dut se battre avec Dudley et le faire tomber par terre pour essayer de lui arracher la lettre, ce qui était d’autant plus difficile que Harry avait attrapé l’oncle Vernon par-derrière en lui serrant le cou.
+chacun             	Après quelques instants d’un furieux combat au cours duquel chacun prit de nombreux coups de canne, l’oncle Vernon se releva, le souffle court, la main crispée sur la lettre destinée à Harry.
+crisper            	Après quelques instants d’un furieux combat au cours duquel chacun prit de nombreux coups de canne, l’oncle Vernon se releva, le souffle court, la main crispée sur la lettre destinée à Harry.
+rauque             	Je veux dire, dans ta chambre, dit-il à Harry d’une voix rauque.
+inlassablement     	Inlassablement, Harry faisait les cent pas autour de sa chambre.
+déménager          	Quelqu’un savait qu’il avait déménagé de son placard et semblait également savoir qu’il n’avait pas reçu la première lettre.
+signifier          	Cela signifiait sûrement qu’il essaierait encore.
+réveil             	Le lendemain matin, le vieux réveil rafistolé sonna à six heures.
+six                	Le lendemain matin, le vieux réveil rafistolé sonna à six heures.
+sonnerie           	Harry arrêta aussitôt la sonnerie et s’habilla en silence pour ne pas réveiller les Dursley.
+mou                	Il venait de marcher sur une grosse chose molle étalée devant la porte, une chose vivante !
+réalité            	Des lumières s’allumèrent au premier étage et il se rendit compte avec horreur que la grosse chose molle était en réalité la tête de son oncle.
+couchage           	L’oncle Vernon avait passé la nuit devant la porte, dans un sac de couchage, pour empêcher Harry de réussir ce qu’il avait tenté de faire.
+traiter            	Après l’avoir traité de tous les noms pendant près d’une demi-heure, l’oncle Vernon ordonna à Harry d’aller lui préparer une tasse de thé.
+préparer           	Après l’avoir traité de tous les noms pendant près d’une demi-heure, l’oncle Vernon ordonna à Harry d’aller lui préparer une tasse de thé.
+décourager         	Découragé, Harry s’en alla dans la cuisine en traînant des pieds, et lorsqu’il revint, le courrier était déjà entre les mains de son oncle.
+planche            	Il resta à la maison et cloua une planche devant la boîte aux lettres.
+clou               	– S’ils n’arrivent pas à nous les faire parvenir, ils finiront par laisser tomber, dit-il à la tante Pétunia, la bouche pleine de clous.
+raisonner          	– Pétunia, ces gens-là sont très différents de nous, ils ne raisonnent pas comme toi et moi, répliqua-t-il en essayant de planter un clou avec le morceau de cake que la tante Pétunia venait de lui apporter.
+planter            	– Pétunia, ces gens-là sont très différents de nous, ils ne raisonnent pas comme toi et moi, répliqua-t-il en essayant de planter un clou avec le morceau de cake que la tante Pétunia venait de lui apporter.
+cake               	– Pétunia, ces gens-là sont très différents de nous, ils ne raisonnent pas comme toi et moi, répliqua-t-il en essayant de planter un clou avec le morceau de cake que la tante Pétunia venait de lui apporter.
+apporter           	– Pétunia, ces gens-là sont très différents de nous, ils ne raisonnent pas comme toi et moi, répliqua-t-il en essayant de planter un clou avec le morceau de cake que la tante Pétunia venait de lui apporter.
+vendredi           	Le vendredi, douze lettres pour Harry arrivèrent.
+inutilisable       	Comme la boîte aux lettres était inutilisable, elles avaient été glissées tout autour de la porte et l’une d’elles avait même été introduite à travers un vasistas dans les toilettes du rez-de-chaussée.
+introduire         	Comme la boîte aux lettres était inutilisable, elles avaient été glissées tout autour de la porte et l’une d’elles avait même été introduite à travers un vasistas dans les toilettes du rez-de-chaussée.
+vasistas           	Comme la boîte aux lettres était inutilisable, elles avaient été glissées tout autour de la porte et l’une d’elles avait même été introduite à travers un vasistas dans les toilettes du rez-de-chaussée.
+marteau            	Après avoir brûlé toutes les lettres, il reprit son marteau et ses clous et boucha à l’aide de planches tous les interstices autour des portes de devant et de derrière, si bien que personne ne pouvait plus entrer ni sortir.
+boucher            	Après avoir brûlé toutes les lettres, il reprit son marteau et ses clous et boucha à l’aide de planches tous les interstices autour des portes de devant et de derrière, si bien que personne ne pouvait plus entrer ni sortir.
+aide               	Après avoir brûlé toutes les lettres, il reprit son marteau et ses clous et boucha à l’aide de planches tous les interstices autour des portes de devant et de derrière, si bien que personne ne pouvait plus entrer ni sortir.
+incontrôlable      	Le samedi, la situation devint incontrôlable.
+rouler             	Vingt-quatre lettres destinées à Harry furent introduites à l’intérieur de la maison : elles avaient été roulées et dissimulées à l’intérieur des deux douzaines d’œufs que le livreur, passablement déconcerté, leur avait passées par la fenêtre du salon.
+dissimuler         	Vingt-quatre lettres destinées à Harry furent introduites à l’intérieur de la maison : elles avaient été roulées et dissimulées à l’intérieur des deux douzaines d’œufs que le livreur, passablement déconcerté, leur avait passées par la fenêtre du salon.
+livreur            	Vingt-quatre lettres destinées à Harry furent introduites à l’intérieur de la maison : elles avaient été roulées et dissimulées à l’intérieur des deux douzaines d’œufs que le livreur, passablement déconcerté, leur avait passées par la fenêtre du salon.
+déconcerter        	Vingt-quatre lettres destinées à Harry furent introduites à l’intérieur de la maison : elles avaient été roulées et dissimulées à l’intérieur des deux douzaines d’œufs que le livreur, passablement déconcerté, leur avait passées par la fenêtre du salon.
+poste              	Pendant que l’oncle Vernon donnait des coups de téléphone furieux au bureau de poste et au crémier pour essayer de trouver un responsable auprès de qui protester, la tante Pétunia réduisit les lettres en bouillie dans son mixer.
+crémier            	Pendant que l’oncle Vernon donnait des coups de téléphone furieux au bureau de poste et au crémier pour essayer de trouver un responsable auprès de qui protester, la tante Pétunia réduisit les lettres en bouillie dans son mixer.
+auprès             	Pendant que l’oncle Vernon donnait des coups de téléphone furieux au bureau de poste et au crémier pour essayer de trouver un responsable auprès de qui protester, la tante Pétunia réduisit les lettres en bouillie dans son mixer.
+bouillie           	Pendant que l’oncle Vernon donnait des coups de téléphone furieux au bureau de poste et au crémier pour essayer de trouver un responsable auprès de qui protester, la tante Pétunia réduisit les lettres en bouillie dans son mixer.
+abasourdir         	– Mais qui peut bien avoir envie de t’écrire à ce point ? demanda Dudley abasourdi.
+dimanche           	Le dimanche matin, l’oncle Vernon avait l’air fatigué et malade lorsqu’il s’assit à la table du petit déjeuner, mais il paraissait heureux malgré tout.
+fatigué            	Le dimanche matin, l’oncle Vernon avait l’air fatigué et malade lorsqu’il s’assit à la table du petit déjeuner, mais il paraissait heureux malgré tout.
+joyeux             	– La poste ne fonctionne pas le dimanche, dit-il d’un ton joyeux en étalant consciencieusement de la marmelade sur son journal.
+consciencieusement 	– La poste ne fonctionne pas le dimanche, dit-il d’un ton joyeux en étalant consciencieusement de la marmelade sur son journal.
+marmelade          	– La poste ne fonctionne pas le dimanche, dit-il d’un ton joyeux en étalant consciencieusement de la marmelade sur son journal.
+fichu              	Aujourd’hui, pas de ces fichues lettres.
+conduit            	Au même moment, quelque chose tomba dans le conduit de la cheminée avec un sifflement sonore et il sentit un coup derrière la tête.
+sifflement         	Au même moment, quelque chose tomba dans le conduit de la cheminée avec un sifflement sonore et il sentit un coup derrière la tête.
+sonore             	Au même moment, quelque chose tomba dans le conduit de la cheminée avec un sifflement sonore et il sentit un coup derrière la tête.
+exploser           	Un paquet venait d’exploser dans le foyer de la cheminée en projetant une quarantaine de lettres qui volaient dans la cuisine comme des boulets de canon.
+foyer              	Un paquet venait d’exploser dans le foyer de la cheminée en projetant une quarantaine de lettres qui volaient dans la cuisine comme des boulets de canon.
+projeter           	Un paquet venait d’exploser dans le foyer de la cheminée en projetant une quarantaine de lettres qui volaient dans la cuisine comme des boulets de canon.
+quarantaine        	Un paquet venait d’exploser dans le foyer de la cheminée en projetant une quarantaine de lettres qui volaient dans la cuisine comme des boulets de canon.
+boulet             	Un paquet venait d’exploser dans le foyer de la cheminée en projetant une quarantaine de lettres qui volaient dans la cuisine comme des boulets de canon.
+canon              	Un paquet venait d’exploser dans le foyer de la cheminée en projetant une quarantaine de lettres qui volaient dans la cuisine comme des boulets de canon.
+baisser            	Les Dursley se baissèrent pour éviter les projectiles tandis que Harry essayait d’en attraper un au vol.
+projectile         	Les Dursley se baissèrent pour éviter les projectiles tandis que Harry essayait d’en attraper un au vol.
+dehors             	– Dehors ! DEHORS !
+projeter           	L’oncle Vernon saisit Harry par la taille et le projeta dans le hall d’entrée, puis, dès que Dudley et la tante Pétunia eurent pris la fuite en se protégeant le visage de leurs bras, il claqua la porte de la cuisine.
+protéger           	L’oncle Vernon saisit Harry par la taille et le projeta dans le hall d’entrée, puis, dès que Dudley et la tante Pétunia eurent pris la fuite en se protégeant le visage de leurs bras, il claqua la porte de la cuisine.
+panneau            	Derrière le panneau, on entendait les lettres qui continuaient de voler en rebondissant contre les murs et le carrelage.
+rebondir           	Derrière le panneau, on entendait les lettres qui continuaient de voler en rebondissant contre les murs et le carrelage.
+carrelage          	Derrière le panneau, on entendait les lettres qui continuaient de voler en rebondissant contre les murs et le carrelage.
+calme              	– Cette fois-ci, ça suffit, déclara l’oncle Vernon qui s’efforçait de parler d’une voix calme tout en arrachant des touffes de poils de sa moustache.
+poil               	– Cette fois-ci, ça suffit, déclara l’oncle Vernon qui s’efforçait de parler d’une voix calme tout en arrachant des touffes de poils de sa moustache.
+discussion         	Emportez simplement quelques vêtements, et pas de discussion !
+menaçant           	Il paraissait tellement menaçant, avec sa moustache dégarnie, que personne n’osa plus faire un geste.
+dégarnir           	Il paraissait tellement menaçant, avec sa moustache dégarnie, que personne n’osa plus faire un geste.
+geste              	Il paraissait tellement menaçant, avec sa moustache dégarnie, que personne n’osa plus faire un geste.
+condamner          	Dix minutes plus tard, après avoir arraché les planches qui condamnaient la porte, ils montèrent dans la voiture qui fonça vers l’autoroute.
+foncer             	Dix minutes plus tard, après avoir arraché les planches qui condamnaient la porte, ils montèrent dans la voiture qui fonça vers l’autoroute.
+autoroute          	Dix minutes plus tard, après avoir arraché les planches qui condamnaient la porte, ils montèrent dans la voiture qui fonça vers l’autoroute.
+pleurnicher        	Dudley pleurnichait à l’arrière, à cause du coup que son père lui avait donné sur la tête pour les avoir retardés en voulant à tout prix emporter sa télévision, son magnétoscope et son ordinateur dans son sac de sport.
+retarder           	Dudley pleurnichait à l’arrière, à cause du coup que son père lui avait donné sur la tête pour les avoir retardés en voulant à tout prix emporter sa télévision, son magnétoscope et son ordinateur dans son sac de sport.
+prix               	Dudley pleurnichait à l’arrière, à cause du coup que son père lui avait donné sur la tête pour les avoir retardés en voulant à tout prix emporter sa télévision, son magnétoscope et son ordinateur dans son sac de sport.
+opposer            	De temps à autre, l’oncle Vernon faisait demi-tour et repartait dans la direction opposée.
+semer              	– On va les semer, on va les semer, marmonnait-il.
+tombée             	À la tombée du jour, Dudley poussa de longs hurlements.
+faim               	Il avait faim, il avait raté cinq émissions de télévision qu’il tenait absolument à voir et il n’avait jamais passé autant de temps sans pulvériser un extraterrestre sur son ordinateur.
+rater              	Il avait faim, il avait raté cinq émissions de télévision qu’il tenait absolument à voir et il n’avait jamais passé autant de temps sans pulvériser un extraterrestre sur son ordinateur.
+pulvériser         	Il avait faim, il avait raté cinq émissions de télévision qu’il tenait absolument à voir et il n’avait jamais passé autant de temps sans pulvériser un extraterrestre sur son ordinateur.
+extraterrestre     	Il avait faim, il avait raté cinq émissions de télévision qu’il tenait absolument à voir et il n’avait jamais passé autant de temps sans pulvériser un extraterrestre sur son ordinateur.
+hôtel              	L’oncle Vernon arrêta enfin la voiture devant un hôtel sinistre, dans la banlieue d’une grande ville.
+banlieue           	L’oncle Vernon arrêta enfin la voiture devant un hôtel sinistre, dans la banlieue d’une grande ville.
+partager           	Dudley et Harry partagèrent une chambre avec des lits jumeaux et des draps humides qui sentaient le moisi.
+jumeau             	Dudley et Harry partagèrent une chambre avec des lits jumeaux et des draps humides qui sentaient le moisi.
+moisi              	Dudley et Harry partagèrent une chambre avec des lits jumeaux et des draps humides qui sentaient le moisi.
+ronfler            	Dudley passa la nuit à ronfler, tandis que Harry, assis sur le rebord de la fenêtre, regardait les phares des voitures qui passaient dans la rue.
+rebord             	Dudley passa la nuit à ronfler, tandis que Harry, assis sur le rebord de la fenêtre, regardait les phares des voitures qui passaient dans la rue.
+servir             	Au matin, on leur servit des corn flakes rassis et des toasts recouverts de tomates froides en boîte.
+rassir             	Au matin, on leur servit des corn flakes rassis et des toasts recouverts de tomates froides en boîte.
+toast              	Au matin, on leur servit des corn flakes rassis et des toasts recouverts de tomates froides en boîte.
+recouvrir          	Au matin, on leur servit des corn flakes rassis et des toasts recouverts de tomates froides en boîte.
+tomate             	Au matin, on leur servit des corn flakes rassis et des toasts recouverts de tomates froides en boîte.
+froid              	Au matin, on leur servit des corn flakes rassis et des toasts recouverts de tomates froides en boîte.
+patron             	La patronne de l’hôtel s’approcha alors de leur table.
+mander             	– ’Mande pardon, est-ce qu’il y aurait un Mr Potter parmi vous ?
+pardon             	– ’Mande pardon, est-ce qu’il y aurait un Mr Potter parmi vous ?
+parmi              	– ’Mande pardon, est-ce qu’il y aurait un Mr Potter parmi vous ?
+réception          	Parce que j’en ai une centaine comme ça à la réception.
+rail               	Hôtel du Rail Carbone-les-Mines
+hôtelier           	– Je m’en occupe, dit l’oncle Vernon en se levant immédiatement et en suivant l’hôtelière hors de la salle à manger.
+timidement         	– Et si nous rentrions à la maison ? suggéra timidement la tante Pétunia, quelques heures plus tard.
+forêt              	Il les conduisit au milieu d’une forêt, sortit de la voiture, inspecta les alentours, hocha la tête, puis remonta dans la voiture et ils repartirent.
+inspecter          	Il les conduisit au milieu d’une forêt, sortit de la voiture, inspecta les alentours, hocha la tête, puis remonta dans la voiture et ils repartirent.
+alentours          	Il les conduisit au milieu d’une forêt, sortit de la voiture, inspecta les alentours, hocha la tête, puis remonta dans la voiture et ils repartirent.
+recommencer        	Il recommença ensuite le même manège au beau milieu d’un champ labouré, à mi-chemin sur un pont suspendu, puis au sommet d’un parking à étages.
+champ              	Il recommença ensuite le même manège au beau milieu d’un champ labouré, à mi-chemin sur un pont suspendu, puis au sommet d’un parking à étages.
+labourer           	Il recommença ensuite le même manège au beau milieu d’un champ labouré, à mi-chemin sur un pont suspendu, puis au sommet d’un parking à étages.
+pont               	Il recommença ensuite le même manège au beau milieu d’un champ labouré, à mi-chemin sur un pont suspendu, puis au sommet d’un parking à étages.
+suspendre          	Il recommença ensuite le même manège au beau milieu d’un champ labouré, à mi-chemin sur un pont suspendu, puis au sommet d’un parking à étages.
+village            	Vers la fin de l’après-midi, l’oncle Vernon s’arrêta dans un village du bord de mer, enferma tout le monde dans la voiture et s’en alla.
+mer                	Vers la fin de l’après-midi, l’oncle Vernon s’arrêta dans un village du bord de mer, enferma tout le monde dans la voiture et s’en alla.
+enfermer           	Vers la fin de l’après-midi, l’oncle Vernon s’arrêta dans un village du bord de mer, enferma tout le monde dans la voiture et s’en alla.
+morne              	– Papa est devenu fou ? demanda Dudley, d’un ton morne, à la tante Pétunia.
+goutte             	De grosses gouttes martelaient le toit de la voiture.
+marteler           	De grosses gouttes martelaient le toit de la voiture.
+lundi              	– C’est lundi, dit-il à sa mère.
+confiance          	– on pouvait faire confiance à Dudley, il ne se trompait jamais dans les dates, à cause des programmes de télévision.
+tromper            	– on pouvait faire confiance à Dudley, il ne se trompait jamais dans les dates, à cause des programmes de télévision.
+programme          	– on pouvait faire confiance à Dudley, il ne se trompait jamais dans les dates, à cause des programmes de télévision.
+souvenir           	Harry se souvint tout à coup que le mardi suivant, c’est-à-dire le lendemain, serait le jour de son onzième anniversaire !
+onzième            	Harry se souvint tout à coup que le mardi suivant, c’est-à-dire le lendemain, serait le jour de son onzième anniversaire !
+réjouissant        	Oh, bien sûr, ses anniversaires n’avaient rien de bien réjouissant – l’année précédente, les Dursley lui avaient offert un cintre et une paire de vieilles chaussettes qui avaient appartenu à l’oncle Vernon –, mais quand même : on n’avait pas onze ans tous les jours !
+précédent          	Oh, bien sûr, ses anniversaires n’avaient rien de bien réjouissant – l’année précédente, les Dursley lui avaient offert un cintre et une paire de vieilles chaussettes qui avaient appartenu à l’oncle Vernon –, mais quand même : on n’avait pas onze ans tous les jours !
+cintre             	Oh, bien sûr, ses anniversaires n’avaient rien de bien réjouissant – l’année précédente, les Dursley lui avaient offert un cintre et une paire de vieilles chaussettes qui avaient appartenu à l’oncle Vernon –, mais quand même : on n’avait pas onze ans tous les jours !
+appartenir         	Oh, bien sûr, ses anniversaires n’avaient rien de bien réjouissant – l’année précédente, les Dursley lui avaient offert un cintre et une paire de vieilles chaussettes qui avaient appartenu à l’oncle Vernon –, mais quand même : on n’avait pas onze ans tous les jours !
+idéal              	– J’ai trouvé l’endroit idéal, dit-il.
+rocher             	L’oncle Vernon montra du doigt un gros rocher qui émergeait à bonne distance de la côte.
+cabane             	Au sommet du rocher, on distinguait une cabane misérable, à moitié en ruine.
+misérable          	Au sommet du rocher, on distinguait une cabane misérable, à moitié en ruine.
+tempête            	– On prévoit une tempête pour cette nuit, dit l’oncle Vernon d’un ton joyeux, et en frappant des mains.
+bateau             	Et monsieur a été assez aimable pour nous prêter son bateau !
+édenté             	Un vieil homme édenté s’approcha d’eux d’un pas raide.
+barque             	Avec un sourire à faire froid dans le dos, il montra d’un geste de la main une vieille barque qui se balançait à la surface de la mer d’un gris métallique.
+balancer           	Avec un sourire à faire froid dans le dos, il montra d’un geste de la main une vieille barque qui se balançait à la surface de la mer d’un gris métallique.
+surface            	Avec un sourire à faire froid dans le dos, il montra d’un geste de la main une vieille barque qui se balançait à la surface de la mer d’un gris métallique.
+métallique         	Avec un sourire à faire froid dans le dos, il montra d’un geste de la main une vieille barque qui se balançait à la surface de la mer d’un gris métallique.
+provision          	– J’ai déjà acheté des provisions, dit l’oncle Vernon.
+embarquer          	Il ne reste plus qu’à embarquer.
+polaire            	Il faisait un froid polaire à bord de la barque.
+embruns            	La pluie et les embruns s’insinuaient dans leur cou et un vent glacé leur fouettait le visage.
+insinuer           	La pluie et les embruns s’insinuaient dans leur cou et un vent glacé leur fouettait le visage.
+glacer             	La pluie et les embruns s’insinuaient dans leur cou et un vent glacé leur fouettait le visage.
+fouetter           	La pluie et les embruns s’insinuaient dans leur cou et un vent glacé leur fouettait le visage.
+atteindre          	Il sembla s’écouler des heures avant qu’ils atteignent enfin le rocher.
+masure             	Glissant à chaque pas sur la pierre humide, l’oncle Vernon les conduisit à la masure.
+épouvantable       	L’endroit était épouvantable : il régnait une terrible odeur d’algues, le vent sifflait à travers les fissures des murs en planches et la cheminée humide ne comportait pas la moindre bûche.
+régner             	L’endroit était épouvantable : il régnait une terrible odeur d’algues, le vent sifflait à travers les fissures des murs en planches et la cheminée humide ne comportait pas la moindre bûche.
+terrible           	L’endroit était épouvantable : il régnait une terrible odeur d’algues, le vent sifflait à travers les fissures des murs en planches et la cheminée humide ne comportait pas la moindre bûche.
+algue              	L’endroit était épouvantable : il régnait une terrible odeur d’algues, le vent sifflait à travers les fissures des murs en planches et la cheminée humide ne comportait pas la moindre bûche.
+fissure            	L’endroit était épouvantable : il régnait une terrible odeur d’algues, le vent sifflait à travers les fissures des murs en planches et la cheminée humide ne comportait pas la moindre bûche.
+bûche              	L’endroit était épouvantable : il régnait une terrible odeur d’algues, le vent sifflait à travers les fissures des murs en planches et la cheminée humide ne comportait pas la moindre bûche.
+chips              	Les provisions de l’oncle Vernon étaient plutôt maigres : un paquet de chips pour chacun et quatre bananes.
+banane             	Les provisions de l’oncle Vernon étaient plutôt maigres : un paquet de chips pour chacun et quatre bananes.
+emballage          	Il essaya de faire un feu, mais les emballages de chips vides se consumèrent en ne parvenant à produire qu’un peu de fumée.
+vide               	Il essaya de faire un feu, mais les emballages de chips vides se consumèrent en ne parvenant à produire qu’un peu de fumée.
+consumer           	Il essaya de faire un feu, mais les emballages de chips vides se consumèrent en ne parvenant à produire qu’un peu de fumée.
+fumée              	Il essaya de faire un feu, mais les emballages de chips vides se consumèrent en ne parvenant à produire qu’un peu de fumée.
+joyeusement        	dit joyeusement l’oncle Vernon.
+braver             	De toute évidence, il était convaincu que personne ne parviendrait à braver la tempête pour leur apporter du courrier dans cet endroit.
+annoncer           	Lorsque la nuit tomba, la tempête annoncée se mit à souffler autour d’eux.
+souffler           	Lorsque la nuit tomba, la tempête annoncée se mit à souffler autour d’eux.
+écume              	L’écume des vagues qui se fracassaient contre le rocher inondait les murs de la cabane et un vent féroce faisait trembler les fenêtres crasseuses.
+vague              	L’écume des vagues qui se fracassaient contre le rocher inondait les murs de la cabane et un vent féroce faisait trembler les fenêtres crasseuses.
+fracasser          	L’écume des vagues qui se fracassaient contre le rocher inondait les murs de la cabane et un vent féroce faisait trembler les fenêtres crasseuses.
+inonder            	L’écume des vagues qui se fracassaient contre le rocher inondait les murs de la cabane et un vent féroce faisait trembler les fenêtres crasseuses.
+crasseux           	L’écume des vagues qui se fracassaient contre le rocher inondait les murs de la cabane et un vent féroce faisait trembler les fenêtres crasseuses.
+moisi             	La tante Pétunia dénicha quelques couvertures moisies dans l’autre pièce et fit un lit à Dudley sur le canapé rongé aux mites.
+canapé             	La tante Pétunia dénicha quelques couvertures moisies dans l’autre pièce et fit un lit à Dudley sur le canapé rongé aux mites.
+ronger             	La tante Pétunia dénicha quelques couvertures moisies dans l’autre pièce et fit un lit à Dudley sur le canapé rongé aux mites.
+mite               	La tante Pétunia dénicha quelques couvertures moisies dans l’autre pièce et fit un lit à Dudley sur le canapé rongé aux mites.
+défoncer           	Elle s’installa avec l’oncle Vernon dans un lit défoncé de la pièce voisine et Harry dut s’efforcer de trouver un endroit où le sol n’était pas trop dur.
+dur                	Elle s’installa avec l’oncle Vernon dans un lit défoncé de la pièce voisine et Harry dut s’efforcer de trouver un endroit où le sol n’était pas trop dur.
+violent            	La tempête devenait de plus en plus violente à mesure que la nuit avançait.
+mesure             	La tempête devenait de plus en plus violente à mesure que la nuit avançait.
+frissonner         	Il frissonnait en se tournant et se retournant pour essayer de trouver une position qui ne soit pas trop inconfortable.
+position           	Il frissonnait en se tournant et se retournant pour essayer de trouver une position qui ne soit pas trop inconfortable.
+inconfortable      	Il frissonnait en se tournant et se retournant pour essayer de trouver une position qui ne soit pas trop inconfortable.
+famine             	Son ventre vide criait famine.
+profond            	Les profonds coups de tonnerre qui avaient commencé à retentir autour de minuit étouffaient les ronflements de Dudley qui dormait dans le canapé.
+tonnerre           	Les profonds coups de tonnerre qui avaient commencé à retentir autour de minuit étouffaient les ronflements de Dudley qui dormait dans le canapé.
+ronflement         	Les profonds coups de tonnerre qui avaient commencé à retentir autour de minuit étouffaient les ronflements de Dudley qui dormait dans le canapé.
+pendre             	Son bras pendait par-dessus l’accoudoir et Harry apercevait le cadran phosphorescent de sa montre sur son poignet gras.
+accoudoir          	Son bras pendait par-dessus l’accoudoir et Harry apercevait le cadran phosphorescent de sa montre sur son poignet gras.
+phosphorescent     	Son bras pendait par-dessus l’accoudoir et Harry apercevait le cadran phosphorescent de sa montre sur son poignet gras.
+poignet            	Son bras pendait par-dessus l’accoudoir et Harry apercevait le cadran phosphorescent de sa montre sur son poignet gras.
+auteur             	Il se demandait également où se trouvait l’auteur des lettres en cet instant.
+chaud              	Il espérait que le toit n’allait pas s’effondrer même s’il aurait alors plus chaud.
+trois              	Trois minutes.
+cogner             	Était-ce la mer qui cognait aussi violemment contre le rocher ?
+violemment         	Était-ce la mer qui cognait aussi violemment contre le rocher ?
+craquement         	Et ce drôle de craquement, qu’est-ce que c’était ?
+menacer            	Le rocher menaçait-il de s’effondrer ?
+trente             	Trente secondes… vingt… dix… neuf…
+vingt              	Trente secondes… vingt… dix… neuf…
+énerver            	Et s’il réveillait Dudley, rien que pour l’énerver ?
+boum               	Trois… deux… un… BOUM !
