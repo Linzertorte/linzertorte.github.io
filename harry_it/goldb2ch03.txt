@@ -23,7 +23,7 @@ forcina           	‘Avrei dovuto pensarci’, si disse Harry mentre George est
 servire           	«Allora... andiamo a prendere il tuo baule... tu intanto prendi tutto quel che può servirti da questa stanza e dallo a Ron» bisbigliò George.
 scricchiolare     	«Fate attenzione all’ultimo gradino, scricchiola» sussurrò Harry a sua volta e i gemelli furono inghiottiti nel buio del pianerottolo.
 radunare          	Harry si affrettò a radunare tutte le cose che aveva nella stanza e a passarle a Ron dalla finestra.
-passare le        	Harry si affrettò a radunare tutte le cose che aveva nella stanza e a passarle a Ron dalla finestra.
+passare        	Harry si affrettò a radunare tutte le cose che aveva nella stanza e a passarle a Ron dalla finestra.
 issare            	Poi andò ad aiutare Fred e George a issare il baule su per le scale.
 tossire           	Harry sentì zio Vernon tossire.
 spallata          	«Ancora una bella spinta...» Harry e George diedero una spallata al baule, che cadde sul sedile posteriore dell’automobile.
@@ -39,7 +39,7 @@ violento          	Ma i tre fratelli Weasley diedero uno strattone violentissimo
 gas               	A tutto gas, Fred!
 basito            	Dalla sua finestra sporgevano le teste di zio Vernon, zia Petunia e Dudley che lo guardavano basiti.
 liberare          	«Libera Edvige» disse a Ron.
-librare           	George passò la forcina da capelli a Ron e un attimo dopo Edvige si librava felice in aria, seguendoli come un fantasma.
+librarsi           	George passò la forcina da capelli a Ron e un attimo dopo Edvige si librava felice in aria, seguendoli come un fantasma.
 guarnire          	Harry raccontò tutto di Dobby, del suo avvertimento e del disastro del dolce guarnito di violette.
 elfo              	«Be’» disse Fred, «mettiamola così: gli elfi domestici hanno grandi poteri magici, ma in genere non possono usarli senza il permesso del loro padrone.
 impedire          	Mi sa che il vecchio Dobby è stato mandato per impedirti di tornare a Hogwarts.
