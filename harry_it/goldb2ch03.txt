@@ -153,8 +153,8 @@ disinfestazione   	In elaborate lettere d’oro c’era scritto: ‘Guida alla d
 campeggiare       	Vi campeggiava inoltre una grande foto di un mago molto avvenente, con i capelli biondi ondulati e due luminosi occhi azzurri.
 avvenente         	Vi campeggiava inoltre una grande foto di un mago molto avvenente, con i capelli biondi ondulati e due luminosi occhi azzurri.
 ondulato          	Vi campeggiava inoltre una grande foto di un mago molto avvenente, con i capelli biondi ondulati e due luminosi occhi azzurri.
-ammiccare         	il mago, che Harry immaginò essere Gilderoy Lockhart, ammiccava a tutti loro in modo sfrontato.
-sfrontato         	il mago, che Harry immaginò essere Gilderoy Lockhart, ammiccava a tutti loro in modo sfrontato.
+ammiccare         	Come sempre la foto era animata; il mago, che Harry immaginò essere Gilderoy Lockhart, ammiccava a tutti loro in modo sfrontato.
+sfrontato         	Come sempre la foto era animata; il mago, che Harry immaginò essere Gilderoy Lockhart, ammiccava a tutti loro in modo sfrontato.
 cotta             	«Nessuno è più esperto di disinfestazioni, è un libro meraviglioso...» «Mamma ha una cotta per lui» disse Fred con un bisbiglio ben udibile.
 udibile           	«Nessuno è più esperto di disinfestazioni, è un libro meraviglioso...» «Mamma ha una cotta per lui» disse Fred con un bisbiglio ben udibile.
 sbadigliare       	Sbadigliando e borbottando, i fratelli Weasley uscirono trascinando i piedi.
