@@ -61,11 +61,12 @@ img {
 		padding-left: 0;
 	}
 	#entry {
-		padding-left: 20px;
-		padding-right: 10px;
 		margin-left:0%;
 		margin-right:0%;
 		width:100%;
+	}
+	#dict-entry{
+		padding: 5%;
 	}
 	#hamburger {
 		display: block;

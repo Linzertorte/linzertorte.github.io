@@ -23,7 +23,7 @@ forcina           	‘Avrei dovuto pensarci’, si disse Harry mentre George est
 servire           	«Allora... andiamo a prendere il tuo baule... tu intanto prendi tutto quel che può servirti da questa stanza e dallo a Ron» bisbigliò George.
 scricchiolare     	«Fate attenzione all’ultimo gradino, scricchiola» sussurrò Harry a sua volta e i gemelli furono inghiottiti nel buio del pianerottolo.
 radunare          	Harry si affrettò a radunare tutte le cose che aveva nella stanza e a passarle a Ron dalla finestra.
-passare        	Harry si affrettò a radunare tutte le cose che aveva nella stanza e a passarle a Ron dalla finestra.
+passare           	Harry si affrettò a radunare tutte le cose che aveva nella stanza e a passarle a Ron dalla finestra.
 issare            	Poi andò ad aiutare Fred e George a issare il baule su per le scale.
 tossire           	Harry sentì zio Vernon tossire.
 spallata          	«Ancora una bella spinta...» Harry e George diedero una spallata al baule, che cadde sul sedile posteriore dell’automobile.
@@ -39,7 +39,7 @@ violento          	Ma i tre fratelli Weasley diedero uno strattone violentissimo
 gas               	A tutto gas, Fred!
 basito            	Dalla sua finestra sporgevano le teste di zio Vernon, zia Petunia e Dudley che lo guardavano basiti.
 liberare          	«Libera Edvige» disse a Ron.
-librarsi           	George passò la forcina da capelli a Ron e un attimo dopo Edvige si librava felice in aria, seguendoli come un fantasma.
+librarsi          	George passò la forcina da capelli a Ron e un attimo dopo Edvige si librava felice in aria, seguendoli come un fantasma.
 guarnire          	Harry raccontò tutto di Dobby, del suo avvertimento e del disastro del dolce guarnito di violette.
 elfo              	«Be’» disse Fred, «mettiamola così: gli elfi domestici hanno grandi poteri magici, ma in genere non possono usarli senza il permesso del loro padrone.
 impedire          	Mi sa che il vecchio Dobby è stato mandato per impedirti di tornare a Hogwarts.
@@ -209,11 +209,11 @@ convenire         	«Be’, mia cara, penso che converrai con me che facendo que
 scappatoia        	«Arthur Weasley, quando hai scritto quella legge hai fatto in modo che ci fosse una scappatoia!
 armeggiare        	«Così potevi continuare ad armeggiare nel tuo capanno con tutto quel ciarpame babbano!
 ciarpame          	«Così potevi continuare ad armeggiare nel tuo capanno con tutto quel ciarpame babbano!
-stupefare       	E perché tu lo sappia, con la macchina che non avevi intenzione di far volare, stamattina è arrivato Harry!» «Harry?» chiese stupefatto il signor Weasley.
+stupefare         	E perché tu lo sappia, con la macchina che non avevi intenzione di far volare, stamattina è arrivato Harry!» «Harry?» chiese stupefatto il signor Weasley.
 favilla           	«Ed è andato tutto bene? V-voglio dire» balbettò mentre gli occhi di sua moglie mandavano faville, «a-avete f-fatto m- molto male, ragazzi... molto molto male...» «Lasciamoli a sbrogliarsela da soli» bisbigliò Ron a Harry, mentre la signora Weasley si gonfiava come un tacchino.
-lasciare        	«Ed è andato tutto bene? V-voglio dire» balbettò mentre gli occhi di sua moglie mandavano faville, «a-avete f-fatto m- molto male, ragazzi... molto molto male...» «Lasciamoli a sbrogliarsela da soli» bisbigliò Ron a Harry, mentre la signora Weasley si gonfiava come un tacchino.
-sbrogliarsi     	«Ed è andato tutto bene? V-voglio dire» balbettò mentre gli occhi di sua moglie mandavano faville, «a-avete f-fatto m- molto male, ragazzi... molto molto male...» «Lasciamoli a sbrogliarsela da soli» bisbigliò Ron a Harry, mentre la signora Weasley si gonfiava come un tacchino.
-sgusciare       	Sgusciarono fuori dalla cucina e attraversarono uno stretto corridoio fino a una scala sbilenca che conduceva ai piani superiori.
+lasciare          	«Ed è andato tutto bene? V-voglio dire» balbettò mentre gli occhi di sua moglie mandavano faville, «a-avete f-fatto m- molto male, ragazzi... molto molto male...» «Lasciamoli a sbrogliarsela da soli» bisbigliò Ron a Harry, mentre la signora Weasley si gonfiava come un tacchino.
+sbrogliarsi       	«Ed è andato tutto bene? V-voglio dire» balbettò mentre gli occhi di sua moglie mandavano faville, «a-avete f-fatto m- molto male, ragazzi... molto molto male...» «Lasciamoli a sbrogliarsela da soli» bisbigliò Ron a Harry, mentre la signora Weasley si gonfiava come un tacchino.
+sgusciare         	Sgusciarono fuori dalla cucina e attraversarono uno stretto corridoio fino a una scala sbilenca che conduceva ai piani superiori.
 castano           	Harry fece in tempo a vedere un paio di occhi castano chiaro che lo guardavano fisso prima che la porta si chiudesse con uno scatto.
 timido            	«È strano che sia così timida. Di solito non sta mai zitta...»
 scrostare         	Salirono altre due rampe, fino a raggiungere una porta tutta scrostata con una targa che diceva ‘Stanza di Ronald’.
@@ -228,7 +228,7 @@ nona              	«Nona in campionato».
 ammonticchiare    	I libri di scuola di Ron erano ammonticchiati in un angolo, accanto a una pila di fumetti della serie Le avventure di Martin Miggs, il Babbano matto.
 fumetto           	I libri di scuola di Ron erano ammonticchiati in un angolo, accanto a una pila di fumetti della serie Le avventure di Martin Miggs, il Babbano matto.
 acquario          	La bacchetta di Ron era buttata sul davanzale della finestra, sopra un acquario pieno di uova di rana; in un angolino assolato dormiva beatamente Crosta, il topo grigio.
-angolo          	La bacchetta di Ron era buttata sul davanzale della finestra, sopra un acquario pieno di uova di rana; in un angolino assolato dormiva beatamente Crosta, il topo grigio.
+angolo            	La bacchetta di Ron era buttata sul davanzale della finestra, sopra un acquario pieno di uova di rana; in un angolino assolato dormiva beatamente Crosta, il topo grigio.
 beatamente        	La bacchetta di Ron era buttata sul davanzale della finestra, sopra un acquario pieno di uova di rana; in un angolino assolato dormiva beatamente Crosta, il topo grigio.
 esercito          	Nei campi, in lontananza, vide un esercito di gnomi ristrisciare furtivi, in fila indiana, sotto la siepe dei Weasley.
 ristrisciare      	Nei campi, in lontananza, vide un esercito di gnomi ristrisciare furtivi, in fila indiana, sotto la siepe dei Weasley.
