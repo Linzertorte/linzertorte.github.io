@@ -8,7 +8,7 @@ cioccolata       	cioccolata       	Infine, venne il momento di un’ultima tazz
 gallo            	gallo            	Si erano alzati al canto del gallo, ma non si sa come tutti avevano un mucchio di cose da fare.
 spaiati          	spaiato          	La signora Weasley correva di qua e di là in cerca di calzini spaiati e di penne d’oca; nel trambusto, tutti si scontravano su e giù per le scale, mezzi svestiti e masticando pane tostato, e poco mancò che il signor Weasley non si rompesse il collo inciampando in una gallina mentre attraversava il cortile per caricare in macchina il baule di Ginny.
 trambusto        	trambusto        	La signora Weasley correva di qua e di là in cerca di calzini spaiati e di penne d’oca; nel trambusto, tutti si scontravano su e giù per le scale, mezzi svestiti e masticando pane tostato, e poco mancò che il signor Weasley non si rompesse il collo inciampando in una gallina mentre attraversava il cortile per caricare in macchina il baule di Ginny.
-scontrarsi       	scontrare        	La signora Weasley correva di qua e di là in cerca di calzini spaiati e di penne d’oca; nel trambusto, tutti si scontravano su e giù per le scale, mezzi svestiti e masticando pane tostato, e poco mancò che il signor Weasley non si rompesse il collo inciampando in una gallina mentre attraversava il cortile per caricare in macchina il baule di Ginny.
+scontravano      	scontrarsi       	La signora Weasley correva di qua e di là in cerca di calzini spaiati e di penne d’oca; nel trambusto, tutti si scontravano su e giù per le scale, mezzi svestiti e masticando pane tostato, e poco mancò che il signor Weasley non si rompesse il collo inciampando in una gallina mentre attraversava il cortile per caricare in macchina il baule di Ginny.
 svestiti         	svestire         	La signora Weasley correva di qua e di là in cerca di calzini spaiati e di penne d’oca; nel trambusto, tutti si scontravano su e giù per le scale, mezzi svestiti e masticando pane tostato, e poco mancò che il signor Weasley non si rompesse il collo inciampando in una gallina mentre attraversava il cortile per caricare in macchina il baule di Ginny.
 modifiche        	modifica         	Ma naturalmente non aveva fatto i conti con le modifiche speciali apportate dal signor Weasley.
 apportate        	apportare        	Ma naturalmente non aveva fatto i conti con le modifiche speciali apportate dal signor Weasley.
@@ -98,6 +98,7 @@ traballare       	traballare       	Ma l’auto aveva cominciato a traballare e 
 incitò           	incitare         	«Dai, su» la incitò Ron con fare persuasivo, dando una piccola scossa al volante, «dai, ci siamo quasi...» Il motore gemette.
 persuasivo       	persuasivo       	«Dai, su» la incitò Ron con fare persuasivo, dando una piccola scossa al volante, «dai, ci siamo quasi...» Il motore gemette.
 cofano           	cofano           	Da sotto il cofano uscivano sottili getti di vapore.
+
 cristallina      	cristallino      	Guardando giù dal finestrino, a circa un chilometro e mezzo sotto di loro, Harry vide la superficie dell’acqua liscia, nera e cristallina.
 sorvolavano      	sorvolavano      	Sorvolavano il lago... il castello era davanti a loro... Ron pigiò sull’acceleratore.
 pigiò            	pigiare          	Sorvolavano il lago... il castello era davanti a loro... Ron pigiò sull’acceleratore.
@@ -106,7 +107,6 @@ crepitio         	crepitio         	Ci fu un rumore di ferraglie, un crepitio e 
 spense           	spense           	Ci fu un rumore di ferraglie, un crepitio e il motore si spense del tutto.
 precipitavano    	precipitavano    	Precipitavano e acquistavano velocità:
 muraglia         	muraglia         	andavano dritti contro la massiccia muraglia del castello.
-noooooo          	noooooo          	«Noooooo!
 evitarono        	evitarono        	Evitarono per un pelo la muraglia di pietra nera e la macchina descrisse un grande arco, volteggiando sopra le serre, poi sopra l’orto e poi ancora più in là, sui prati bui, sempre perdendo quota.
 descrisse        	descrirre        	Evitarono per un pelo la muraglia di pietra nera e la macchina descrisse un grande arco, volteggiando sopra le serre, poi sopra l’orto e poi ancora più in là, sui prati bui, sempre perdendo quota.
 orto             	orto             	Evitarono per un pelo la muraglia di pietra nera e la macchina descrisse un grande arco, volteggiando sopra le serre, poi sopra l’orto e poi ancora più in là, sui prati bui, sempre perdendo quota.
@@ -119,7 +119,7 @@ aggiustargliela  	aggiustargliela  	Harry aprì bocca per dire che certamente a 
 abbatteva        	abbattere        	» Ron sussultò guardando attraverso il parabrezza e Harry si voltò appena in tempo per vedere un ramo grosso quanto un pitone che si abbatteva sull’auto.
 percuotevano     	percuotere       	Aveva il tronco piegato in due e i suoi rami nodosi percuotevano ogni centimetro quadrato dell’automobile.
 quadrato         	quadrato         	Aveva il tronco piegato in due e i suoi rami nodosi percuotevano ogni centimetro quadrato dell’automobile.
-aaah             	aaah             	«AAAH!» gridò Ron mentre un altro ramo contorto ammaccava malamente una portiera;
+
 ammaccava        	ammaccare        	«AAAH!» gridò Ron mentre un altro ramo contorto ammaccava malamente una portiera;
 raffica          	raffica          	ora il parabrezza tremava sotto la raffica dei colpi e un secondo ramo grosso quanto un ariete martellava furiosamente il tetto, che sembrava sul punto di sfondarsi.
 ariete           	ariete           	ora il parabrezza tremava sotto la raffica dei colpi e un secondo ramo grosso quanto un ariete martellava furiosamente il tetto, che sembrava sul punto di sfondarsi.
