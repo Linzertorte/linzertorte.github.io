@@ -1,0 +1,87 @@
+acier          	Le temps froid de novembre enveloppa de glace les montagnes qui entouraient l’école et la surface du lac prit une couleur d’acier.
+givre          	Chaque matin, le sol était couvert de givre et l’on voyait Hagrid qui dégivrait les balais sur le terrain de Quidditch.
+dégivrer       	Chaque matin, le sol était couvert de givre et l’on voyait Hagrid qui dégivrait les balais sur le terrain de Quidditch.
+emmitoufler    	Il était emmitouflé dans un long manteau en peau de taupe, et portait des gants en peau de lapin et d’énormes bottes en peau de castor.
+taupe          	Il était emmitouflé dans un long manteau en peau de taupe, et portait des gants en peau de lapin et d’énormes bottes en peau de castor.
+castor         	Il était emmitouflé dans un long manteau en peau de taupe, et portait des gants en peau de lapin et d’énormes bottes en peau de castor.
+championnat    	Si Gryffondor gagnait, son équipe prendrait la deuxième place du championnat.
+arme           	Il était devenu l’arme secrète de l’équipe et Dubois le gardait soigneusement à l’écart.
+matelas        	Harry ne savait pas ce qu’il y avait de pire pour lui : ceux qui lui affirmaient qu’il allait être brillant, ou ceux qui lui promettaient de le suivre avec un matelas pour amortir sa chute.
+amortir        	Harry ne savait pas ce qu’il y avait de pire pour lui : ceux qui lui affirmaient qu’il allait être brillant, ou ceux qui lui promettaient de le suivre avec un matelas pour amortir sa chute.
+compenser      	Elle l’avait aidé à faire ses devoirs pour compenser le temps qu’il passait à s’entraîner et elle lui avait également prêté Le Quidditch à travers les âges dont la lecture s’était révélée très instructive.
+lecture        	Elle l’avait aidé à faire ses devoirs pour compenser le temps qu’il passait à s’entraîner et elle lui avait également prêté Le Quidditch à travers les âges dont la lecture s’était révélée très instructive.
+instructif     	Elle l’avait aidé à faire ses devoirs pour compenser le temps qu’il passait à s’entraîner et elle lui avait également prêté Le Quidditch à travers les âges dont la lecture s’était révélée très instructive.
+arbitre        	Que des arbitres avaient parfois disparu pour réapparaître des mois plus tard dans le désert du Sahara et qu’enfin on mourait rarement au cours des matches de Quidditch.
+réapparaître   	Que des arbitres avaient parfois disparu pour réapparaître des mois plus tard dans le désert du Sahara et qu’enfin on mourait rarement au cours des matches de Quidditch.
+désert         	Que des arbitres avaient parfois disparu pour réapparaître des mois plus tard dans le désert du Sahara et qu’enfin on mourait rarement au cours des matches de Quidditch.
+rarement       	Que des arbitres avaient parfois disparu pour réapparaître des mois plus tard dans le désert du Sahara et qu’enfin on mourait rarement au cours des matches de Quidditch.
+récréation     	La veille du premier match de Quidditch, Hermione, Harry et Ron s’étaient retrouvés dans la cour pendant la récréation.
+réchauffer     	Debout côte à côte, ils se réchauffaient à la flamme bleue du bocal en la cachant soigneusement derrière eux, de peur qu’on la leur confisque, lorsqu’ils virent Rogue traverser la cour.
+confisque      	Debout côte à côte, ils se réchauffaient à la flamme bleue du bocal en la cachant soigneusement derrière eux, de peur qu’on la leur confisque, lorsqu’ils virent Rogue traverser la cour.
+boiter         	Harry remarqua aussitôt qu’il boitait.
+déceler        	Rogue décela sans doute une vague culpabilité dans l’expression de leur visage et il clopina droit vers eux.
+culpabilité    	Rogue décela sans doute une vague culpabilité dans l’expression de leur visage et il clopina droit vers eux.
+claudiquer     	Ça, c’est une règle qu’il vient d’inventer, marmonna Harry en colère tandis que Rogue s’éloignait en claudiquant.
+amer           	– Je n’en sais rien, mais j’espère que ça lui fait mal, dit Ron d’un ton amer.
+copier         	Elle ne les aurait jamais laissés copier sur elle (sinon, comment feriez-vous pour apprendre quelque chose ?), mais elle leur donna quand même toutes les bonnes réponses en relisant leurs notes.
+détendre       	Il voulait récupérer son livre en espérant que la lecture l’aiderait à se détendre avant le match du lendemain.
+requête        	Harry était convaincu que Rogue ne pourrait pas refuser si d’autres professeurs étaient présents et entendaient sa requête.
+entrouvrir     	Il entrouvrit la porte, regarda à l’intérieur et se figea d’horreur.
+pansement      	Rusard avait préparé des pansements et les donnait à Rogue.
+bestiole       	– Sale bestiole, disait celui-ci.
+diversion      	Et je suis prêt à parier mon balai qu’il a laissé entrer ce troll exprès pour faire diversion.
+saint          	– Tu crois vraiment que tous les profs sont des saints ? rétorqua Ron.
+rétorquer      	– Tu crois vraiment que tous les profs sont des saints ? rétorqua Ron.
+encourager     	– Un simple morceau de toast, l’encouragea Hermione.
+approche       	L’approche de son premier match lui nouait l’estomac.
+cible          	Les attrapeurs sont toujours la cible principale de l’équipe adverse.
+principal      	Les attrapeurs sont toujours la cible principale de l’équipe adverse.
+déployer       	Ron, Hermione, Neville, Seamus et Dean s’étaient assis côte à côte tout en haut et avaient déployé une grande bannière sur un des draps que Croûtard avait détruits.
+bannière       	Ron, Hermione, Neville, Seamus et Dean s’étaient assis côte à côte tout en haut et avaient déployé une grande bannière sur un des draps que Croûtard avait détruits.
+président      	Ils y avaient écrit : « Potter président ».
+vestiaire      	Pendant ce temps, dans les vestiaires, Harry et les autres joueurs revêtaient la robe rouge de leur équipe.
+mademoiselle   	– Et Mesdemoiselles, ajouta Angelina Johnson qui jouait dans l’équipe au poste de poursuiveur.
+discours       	– On connaît le discours d’Olivier par cœur, dit Fred à Harry.
+arbitrer       	Debout au milieu du terrain, son balai à la main, Madame Bibine était chargée d’arbitrer le match.
+néon           	Du coin de l’œil, Harry aperçut la bannière flottante dont l’inscription « Potter président » étincelait comme une enseigne au néon.
+commentateur   	– Angelina Johnson, de l’équipe de Gryffondor, s’empare immédiatement du Souafle, dit le commentateur.
+suppléant      	– Angelina passe à Alicia Spinnet, qui jouait l’année dernière comme suppléante.
+tir            	Nouvelle passe à Johnson et… non, c’est Marcus Flint, le capitaine des Serpentard qui reprend le Souafle et qui vole comme un aigle vers les buts adverses, il va mar… non, le tir est arrêté par Olivier Dubois, le gardien de Gryffondor.
+plongeon       	Gryffondor reprend le Souafle avec Katie Bell qui fait un joli plongeon pour éviter Flint et – AÏE – voilà qui a dû faire mal, un Cognard en pleine tête
+partisan       	Sur les gradins, les supporters de Gryffondor saluèrent l’exploit avec des cris de joie tandis que les partisans des Serpentard se répandaient en lamentations.
+lamentation    	Sur les gradins, les supporters de Gryffondor saluèrent l’exploit avec des cris de joie tandis que les partisans des Serpentard se répandaient en lamentations.
+méfier         	– Méfie-toi, ceci dit, recommanda Hagrid en relevant ses jumelles et observant le ciel en direction de Harry, réduit à un point.
+recommander    	– Méfie-toi, ceci dit, recommanda Hagrid en relevant ses jumelles et observant le ciel en direction de Harry, réduit à un point.
+califourchon   	À califourchon sur son balai, Harry volait bien au-dessus du terrain, scrutant l’espace autour de lui dans l’espoir d’apercevoir le Vif d’or.
+looping        	Lorsque Angelina avait marqué le premier but, Harry avait fait quelques loopings pour manifester sa joie, mais il n’avait pas encore eu l’occasion d’intervenir dans le jeu.
+désintéresser  	Les poursuiveurs semblaient s’être désintéressés du jeu et regardaient les deux attrapeurs au coude à coude.
+vlan           	– VLAN ! Un grand cri de rage monta alors des gradins réservés aux Gryffondor.
+bloquer        	Marcus Flint avait essayé de bloquer Harry et le Nimbus 2000 avait violemment dévié de sa trajectoire.
+dévier         	Marcus Flint avait essayé de bloquer Harry et le Nimbus 2000 avait violemment dévié de sa trajectoire.
+trajectoire    	Marcus Flint avait essayé de bloquer Harry et le Nimbus 2000 avait violemment dévié de sa trajectoire.
+ordre          	Madame Bibine rappela Flint à l’ordre et ordonna un coup franc en faveur des Gryffondor.
+franc          	Madame Bibine rappela Flint à l’ordre et ordonna un coup franc en faveur des Gryffondor.
+scandaleux     	– Donc, après cette scandaleuse tricherie… – Jordan ! protesta le professeur McGonagall.
+tricherie      	– Donc, après cette scandaleuse tricherie… – Jordan ! protesta le professeur McGonagall.
+révoltant      	– Je voulais dire après cette faute révoltante…
+penalty        	Flint a failli tuer l’attrapeur de Gryffondor, ce qui aurait pu arriver à n’importe qui et donc Gryffondor bénéficie d’un penalty repris par Spinnet et c’est Gryffondor qui garde le Souafle.
+embardée       	Au même moment, son balai fit une violente embardée.
+fraction       	Pendant une fraction de seconde, il crut qu’il allait tomber.
+rodéo          	Il serra les mains et les genoux sur le manche et à nouveau le balai eut un sursaut, comme un cheval de rodéo qui aurait essayé de le désarçonner.
+désarçonner    	Il serra les mains et les genoux sur le manche et à nouveau le balai eut un sursaut, comme un cheval de rodéo qui aurait essayé de le désarçonner.
+virer          	Harry s’efforça de virer en direction des buts de Gryffondor et fut tenté de demander un temps mort à Dubois, quand soudain il se rendit compte que son Nimbus 2000 ne répondait plus.
+multiplier     	Il refusait de tourner et zigzaguait à sa guise en multipliant les embardées.
+altitude       	Le Nimbus 2000 prenait lentement de l’altitude en continuant ses soubresauts.
+soubresaut     	Le Nimbus 2000 prenait lentement de l’altitude en continuant ses soubresauts.
+contrôle       	Je me demande s’il n’a pas perdu le contrôle de son balai…
+dérégler       	Il n’y a que la magie noire qui puisse dérégler un balai.
+accroupir      	Elle s’accroupit alors derrière lui, sortit sa baguette et murmura une formule magique.
+rétablissement 	Là-haut, loin au-dessus du terrain, Harry put soudain faire un rétablissement et reprendre une position normale sur son balai.
+veste          	Neville sanglotait depuis cinq bonnes minutes, la tête enfouie dans la veste de Hagrid.
+brutalement    	Il atterrit brutalement sur la pelouse du stade, toussa et un objet doré tomba alors au creux de sa main.
+doré           	Il atterrit brutalement sur la pelouse du stade, toussa et un objet doré tomba alors au creux de sa main.
+soixante       	Mais aucune règle du jeu ne l’interdisait, Gryffondor avait donc bel et bien remporté le match par cent soixante-dix points contre soixante, comme Lee Jordan le hurlait toujours de joie.
+grec           	Je l’ai acheté à un ami grec que j’ai rencontré dans un pub l’année dernière.
+viser          	Il faut fixer les yeux sur l’objet ou la personne visés et Rogue n’a pas cillé une seule fois, je l’ai bien vu !
+ciller         	Il faut fixer les yeux sur l’objet ou la personne visés et Rogue n’a pas cillé une seule fois, je l’ai bien vu !
+nommé          	Il y a donc un nommé Nicolas Flamel dans le coup ?

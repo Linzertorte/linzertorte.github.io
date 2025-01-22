@@ -1,0 +1,143 @@
+type            	– À côté du grand type roux.
+quarante        	Il y avait cent quarante-deux escaliers, à Poudlard, des larges, des étroits, des courbes, des carrés, des délabrés, certains avec une ou deux marches escamotables qu’il fallait se souvenir d’enjamber pour ne pas tomber, ou d’autres qui menaient ailleurs le vendredi.
+courbe          	Il y avait cent quarante-deux escaliers, à Poudlard, des larges, des étroits, des courbes, des carrés, des délabrés, certains avec une ou deux marches escamotables qu’il fallait se souvenir d’enjamber pour ne pas tomber, ou d’autres qui menaient ailleurs le vendredi.
+escamotable     	Il y avait cent quarante-deux escaliers, à Poudlard, des larges, des étroits, des courbes, des carrés, des délabrés, certains avec une ou deux marches escamotables qu’il fallait se souvenir d’enjamber pour ne pas tomber, ou d’autres qui menaient ailleurs le vendredi.
+poliment        	Il y avait aussi les portes qui refusaient de s’ouvrir si on ne le leur demandait pas poliment, ou si on ne les chatouillait pas au bon endroit, et d’autres qui n’étaient que des pans de mur déguisés en portes.
+chatouiller     	Il y avait aussi les portes qui refusaient de s’ouvrir si on ne le leur demandait pas poliment, ou si on ne les chatouillait pas au bon endroit, et d’autres qui n’étaient que des pans de mur déguisés en portes.
+pan             	Il y avait aussi les portes qui refusaient de s’ouvrir si on ne le leur demandait pas poliment, ou si on ne les chatouillait pas au bon endroit, et d’autres qui n’étaient que des pans de mur déguisés en portes.
+déguiser        	Il y avait aussi les portes qui refusaient de s’ouvrir si on ne le leur demandait pas poliment, ou si on ne les chatouillait pas au bon endroit, et d’autres qui n’étaient que des pans de mur déguisés en portes.
+persuader       	Les gens représentés sur les tableaux accrochés aux murs passaient leur temps à se rendre visite les uns aux autres et Harry était persuadé que les armures se promenaient parfois dans les couloirs.
+faciliter       	Quant aux fantômes, ils ne facilitaient pas la tâche.
+bombarder       	Quasi-Sans-Tête était toujours heureux d’aider les nouveaux de Gryffondor à trouver leur chemin, mais Peeves, l’esprit frappeur, était pire que deux portes verrouillées et un faux escalier ; il bombardait les nouveaux de morceaux de craie, tirait les tapis sous leurs pieds, renversait des corbeilles à papier sur leur tête ou se glissait silencieusement derrière eux et leur attrapait le nez en hurlant : « JE T’AI EU ! » d’une voix perçante.
+craie           	Quasi-Sans-Tête était toujours heureux d’aider les nouveaux de Gryffondor à trouver leur chemin, mais Peeves, l’esprit frappeur, était pire que deux portes verrouillées et un faux escalier ; il bombardait les nouveaux de morceaux de craie, tirait les tapis sous leurs pieds, renversait des corbeilles à papier sur leur tête ou se glissait silencieusement derrière eux et leur attrapait le nez en hurlant : « JE T’AI EU ! » d’une voix perçante.
+corbeille       	Quasi-Sans-Tête était toujours heureux d’aider les nouveaux de Gryffondor à trouver leur chemin, mais Peeves, l’esprit frappeur, était pire que deux portes verrouillées et un faux escalier ; il bombardait les nouveaux de morceaux de craie, tirait les tapis sous leurs pieds, renversait des corbeilles à papier sur leur tête ou se glissait silencieusement derrière eux et leur attrapait le nez en hurlant : « JE T’AI EU ! » d’une voix perçante.
+silencieusement 	Quasi-Sans-Tête était toujours heureux d’aider les nouveaux de Gryffondor à trouver leur chemin, mais Peeves, l’esprit frappeur, était pire que deux portes verrouillées et un faux escalier ; il bombardait les nouveaux de morceaux de craie, tirait les tapis sous leurs pieds, renversait des corbeilles à papier sur leur tête ou se glissait silencieusement derrière eux et leur attrapait le nez en hurlant : « JE T’AI EU ! » d’une voix perçante.
+hurlant         	Quasi-Sans-Tête était toujours heureux d’aider les nouveaux de Gryffondor à trouver leur chemin, mais Peeves, l’esprit frappeur, était pire que deux portes verrouillées et un faux escalier ; il bombardait les nouveaux de morceaux de craie, tirait les tapis sous leurs pieds, renversait des corbeilles à papier sur leur tête ou se glissait silencieusement derrière eux et leur attrapait le nez en hurlant : « JE T’AI EU ! » d’une voix perçante.
+toutefois       	Mais pire encore que Peeves, si toutefois c’était possible, il y avait Argus Rusard, le concierge.
+malchance       	Rusard les avait surpris alors qu’ils essayaient d’ouvrir une porte qui, par malchance, s’était révélée être l’entrée du couloir interdit du troisième étage.
+cachot          	Il était convaincu qu’ils avaient tenté de la forcer exprès et il les avait menacés de les enfermer au cachot.
+secours         	Heureusement, le professeur Quirrell qui passait par là était venu à leur secours.
+teigne          	Rusard avait une chatte qui s’appelait Miss Teigne, une créature grisâtre et décharnée avec des yeux globuleux qui brillaient comme des lampes, à l’image de ceux de son maître.
+créature        	Rusard avait une chatte qui s’appelait Miss Teigne, une créature grisâtre et décharnée avec des yeux globuleux qui brillaient comme des lampes, à l’image de ceux de son maître.
+décharné        	Rusard avait une chatte qui s’appelait Miss Teigne, une créature grisâtre et décharnée avec des yeux globuleux qui brillaient comme des lampes, à l’image de ceux de son maître.
+globuleux       	Rusard avait une chatte qui s’appelait Miss Teigne, une créature grisâtre et décharnée avec des yeux globuleux qui brillaient comme des lampes, à l’image de ceux de son maître.
+image           	Rusard avait une chatte qui s’appelait Miss Teigne, une créature grisâtre et décharnée avec des yeux globuleux qui brillaient comme des lampes, à l’image de ceux de son maître.
+sillonner       	Elle sillonnait les couloirs toute seule et dès qu’elle voyait quelqu’un commettre la moindre faute, ne serait-ce que poser un orteil au-delà d’une ligne interdite, elle filait prévenir son maître qui accourait aussitôt en soufflant comme un bœuf.
+faute           	Elle sillonnait les couloirs toute seule et dès qu’elle voyait quelqu’un commettre la moindre faute, ne serait-ce que poser un orteil au-delà d’une ligne interdite, elle filait prévenir son maître qui accourait aussitôt en soufflant comme un bœuf.
+orteil          	Elle sillonnait les couloirs toute seule et dès qu’elle voyait quelqu’un commettre la moindre faute, ne serait-ce que poser un orteil au-delà d’une ligne interdite, elle filait prévenir son maître qui accourait aussitôt en soufflant comme un bœuf.
+accourir        	Elle sillonnait les couloirs toute seule et dès qu’elle voyait quelqu’un commettre la moindre faute, ne serait-ce que poser un orteil au-delà d’une ligne interdite, elle filait prévenir son maître qui accourait aussitôt en soufflant comme un bœuf.
+bœuf            	Elle sillonnait les couloirs toute seule et dès qu’elle voyait quelqu’un commettre la moindre faute, ne serait-ce que poser un orteil au-delà d’une ligne interdite, elle filait prévenir son maître qui accourait aussitôt en soufflant comme un bœuf.
+consister       	Lorsqu’on avait enfin réussi à trouver la salle de classe, il fallait arriver à suivre les cours et Harry découvrit très vite que l’exercice de la magie ne consistait pas seulement à brandir une baguette magique en marmonnant quelques paroles un peu bizarres.
+mercredi        	Chaque mercredi soir, ils observaient le ciel au télescope et apprenaient les noms des étoiles ainsi que le mouvement des planètes.
+plante          	Trois fois par semaine, ils étudiaient les plantes et les champignons étranges dans les serres situées à l’arrière du château, sous la direction d’une petite sorcière joliment potelée qui s’appelait le professeur Chourave.
+joliment        	Trois fois par semaine, ils étudiaient les plantes et les champignons étranges dans les serres situées à l’arrière du château, sous la direction d’une petite sorcière joliment potelée qui s’appelait le professeur Chourave.
+potelé          	Trois fois par semaine, ils étudiaient les plantes et les champignons étranges dans les serres situées à l’arrière du château, sous la direction d’une petite sorcière joliment potelée qui s’appelait le professeur Chourave.
+ennuyeux        	Les cours les plus ennuyeux étaient ceux d’histoire de la magie qui était enseignée par le seul professeur fantôme du collège.
+monocorde       	Binns parlait sans cesse d’une voix monocorde tandis que les élèves griffonnaient des noms de sorciers célèbres en confondant Emeric le Hargneux et Ulric le Follingue.
+hargneux        	Binns parlait sans cesse d’une voix monocorde tandis que les élèves griffonnaient des noms de sorciers célèbres en confondant Emeric le Hargneux et Ulric le Follingue.
+renverse        	Au début de leur premier cours, pendant qu’il faisait l’appel, il poussa un petit cri aigu en voyant le nom de Harry et tomba à la renverse.
+strict          	Elle était stricte, intelligente et leur parla très directement dès le début du premier cours.
+directement     	Elle était stricte, intelligente et leur parla très directement dès le début du premier cours.
+chahut          	Quiconque fera du chahut pendant mes cours sera immédiatement renvoyé avec interdiction de revenir.
+interdiction    	Quiconque fera du chahut pendant mes cours sera immédiatement renvoyé avec interdiction de revenir.
+redonner        	Elle avait alors changé son bureau en cochon puis lui avait redonné sa forme d’origine.
+démonstration   	La démonstration était impressionnante et les élèves avaient hâte de commencer les cours au plus vite, mais ils s’étaient bientôt rendu compte qu’ils n’étaient pas près d’en faire autant.
+impressionnant  	La démonstration était impressionnante et les élèves avaient hâte de commencer les cours au plus vite, mais ils s’étaient bientôt rendu compte qu’ils n’étaient pas près d’en faire autant.
+compliqué       	Après avoir suivi des explications très compliquées, ils avaient commencé à s’exercer en essayant de changer une allumette en aiguille, mais seule Hermione Granger avait obtenu un résultat.
+exercer         	Après avoir suivi des explications très compliquées, ils avaient commencé à s’exercer en essayant de changer une allumette en aiguille, mais seule Hermione Granger avait obtenu un résultat.
+impatience      	Le cours que tout le monde attendait avec impatience, c’était celui de la défense contre les forces du Mal, mais l’enseignement de Quirrell tournait plutôt à la farce.
+enseignement    	Le cours que tout le monde attendait avec impatience, c’était celui de la défense contre les forces du Mal, mais l’enseignement de Quirrell tournait plutôt à la farce.
+imprégner       	La salle de classe était imprégnée d’une forte odeur d’ail destiné à éloigner le vampire que le professeur avait rencontré en Roumanie et qu’il craignait de voir arriver un jour à Poudlard.
+ail             	La salle de classe était imprégnée d’une forte odeur d’ail destiné à éloigner le vampire que le professeur avait rencontré en Roumanie et qu’il craignait de voir arriver un jour à Poudlard.
+prince          	Son turban, avait-il expliqué à ses élèves, lui avait été offert par un prince africain pour le remercier de l’avoir débarrassé d’un zombie, mais son histoire sonnait faux.
+africain        	Son turban, avait-il expliqué à ses élèves, lui avait été offert par un prince africain pour le remercier de l’avoir débarrassé d’un zombie, mais son histoire sonnait faux.
+zombie          	Son turban, avait-il expliqué à ses élèves, lui avait été offert par un prince africain pour le remercier de l’avoir débarrassé d’un zombie, mais son histoire sonnait faux.
+combattre       	Quirrell, en effet, avait été incapable de raconter comment il avait combattu le zombie.
+permanence      	En plus, le turban dégageait la même odeur que la salle de classe, ce qui avait fait dire aux jumeaux Weasley que le professeur l’avait rempli d’ail pour se protéger en permanence des vampires.
+avantage        	Il y avait tant de choses à apprendre que même quelqu’un comme Ron ne tirait pas grand avantage de son appartenance à une vieille famille de sorciers.
+appartenance    	Il y avait tant de choses à apprendre que même quelqu’un comme Ron ne tirait pas grand avantage de son appartenance à une vieille famille de sorciers.
+avantager       	On dit qu’il essaye toujours de les avantager, on verra bien si c’est vrai.
+propriétaire    	Harry s’était habitué à voir entrer chaque matin dans la Grande Salle, au moment du petit déjeuner, une centaine de hiboux qui tournoyaient au-dessus des tables en laissant tomber lettres et paquets sur les genoux de leur propriétaire.
+mordiller       	Parfois, elle venait le voir pour lui mordiller l’oreille et grignoter un morceau de toast avant de retourner dans la volière réservée aux hiboux.
+grignoter       	Parfois, elle venait le voir pour lui mordiller l’oreille et grignoter un morceau de toast avant de retourner dans la volière réservée aux hiboux.
+volière         	Parfois, elle venait le voir pour lui mordiller l’oreille et grignoter un morceau de toast avant de retourner dans la volière réservée aux hiboux.
+confiture       	Ce matin-là, cependant, elle vint voleter entre la confiture et le sucrier et déposa une lettre dans l’assiette de Harry.
+sucrier         	Ce matin-là, cependant, elle vint voleter entre la confiture et le sucrier et déposa une lettre dans l’assiette de Harry.
+message         	Puis il confia le message à Hedwige qui l’emporta vers son destinataire.
+destinataire    	Puis il confia le message à Hedwige qui l’emporta vers son destinataire.
+baume           	La perspective de prendre le thé avec Hagrid mit un peu de baume au cœur de Harry.
+nul             	Car le cours de potions magiques fut sans nul doute la pire épreuve qu’il ait eu à subir depuis son arrivée au collège.
+épreuve         	Car le cours de potions magiques fut sans nul doute la pire épreuve qu’il ait eu à subir depuis son arrivée au collège.
+haïr            	À la fin du premier cours de potions, il se rendit compte qu’il s’était trompé : en réalité, Rogue le haïssait.
+formol          	Il y faisait plus froid que dans le reste du château et les animaux qui flottaient dans des bocaux de formol alignés le long des murs rendaient l’endroit encore plus effrayant.
+effrayant       	Il y faisait plus froid que dans le reste du château et les animaux qui flottaient dans des bocaux de formol alignés le long des murs rendaient l’endroit encore plus effrayant.
+pause           	Lorsqu’il fut arrivé au nom de Harry, il marqua une pause.
+célébrité       	– Ah oui, dit-il. Harry Potter. Notre nouvelle… célébrité.
+achever         	Rogue acheva de faire l’appel et releva la tête.
+science         	– Vous êtes ici pour apprendre la science subtile et l’art rigoureux de la préparation des potions, dit-il.
+subtil          	– Vous êtes ici pour apprendre la science subtile et l’art rigoureux de la préparation des potions, dit-il.
+art             	– Vous êtes ici pour apprendre la science subtile et l’art rigoureux de la préparation des potions, dit-il.
+rigoureux       	– Vous êtes ici pour apprendre la science subtile et l’art rigoureux de la préparation des potions, dit-il.
+préparation     	– Vous êtes ici pour apprendre la science subtile et l’art rigoureux de la préparation des potions, dit-il.
+bouillonner     	Ici, on ne s’amuse pas à agiter des baguettes magiques, je m’attends donc à ce que vous ne compreniez pas grand-chose à la beauté d’un chaudron qui bouillonne doucement en laissant échapper des volutes scintillantes, ni à la délicatesse d’un liquide qui s’insinue dans les veines d’un homme pour ensorceler peu à peu son esprit et lui emprisonner les sens…
+volute          	Ici, on ne s’amuse pas à agiter des baguettes magiques, je m’attends donc à ce que vous ne compreniez pas grand-chose à la beauté d’un chaudron qui bouillonne doucement en laissant échapper des volutes scintillantes, ni à la délicatesse d’un liquide qui s’insinue dans les veines d’un homme pour ensorceler peu à peu son esprit et lui emprisonner les sens…
+veine           	Ici, on ne s’amuse pas à agiter des baguettes magiques, je m’attends donc à ce que vous ne compreniez pas grand-chose à la beauté d’un chaudron qui bouillonne doucement en laissant échapper des volutes scintillantes, ni à la délicatesse d’un liquide qui s’insinue dans les veines d’un homme pour ensorceler peu à peu son esprit et lui emprisonner les sens…
+emprisonner     	Ici, on ne s’amuse pas à agiter des baguettes magiques, je m’attends donc à ce que vous ne compreniez pas grand-chose à la beauté d’un chaudron qui bouillonne doucement en laissant échapper des volutes scintillantes, ni à la délicatesse d’un liquide qui s’insinue dans les veines d’un homme pour ensorceler peu à peu son esprit et lui emprisonner les sens…
+gloire          	Je pourrais vous apprendre à mettre la gloire en bouteille, à distiller la grandeur, et même à enfermer la mort dans un flacon si vous étiez autre chose qu’une de ces bandes de cornichons à qui je dispense habituellement mes cours.
+distiller       	Je pourrais vous apprendre à mettre la gloire en bouteille, à distiller la grandeur, et même à enfermer la mort dans un flacon si vous étiez autre chose qu’une de ces bandes de cornichons à qui je dispense habituellement mes cours.
+flacon          	Je pourrais vous apprendre à mettre la gloire en bouteille, à distiller la grandeur, et même à enfermer la mort dans un flacon si vous étiez autre chose qu’une de ces bandes de cornichons à qui je dispense habituellement mes cours.
+cornichon       	Je pourrais vous apprendre à mettre la gloire en bouteille, à distiller la grandeur, et même à enfermer la mort dans un flacon si vous étiez autre chose qu’une de ces bandes de cornichons à qui je dispense habituellement mes cours.
+dispenser       	Je pourrais vous apprendre à mettre la gloire en bouteille, à distiller la grandeur, et même à enfermer la mort dans un flacon si vous étiez autre chose qu’une de ces bandes de cornichons à qui je dispense habituellement mes cours.
+prouver         	Hermione Granger était assise tout au bord de sa chaise et avait visiblement hâte de prouver qu’elle n’avait rien d’un cornichon.
+infusion        	Qu’est-ce que j’obtiens quand j’ajoute de la racine d’asphodèle en poudre à une infusion d’armoise ?
+décontenancer   	Harry jeta un coup d’œil à Ron qui parut aussi décontenancé que lui.
+rictus          	Rogue eut un rictus méprisant.
+méprisant       	Rogue eut un rictus méprisant.
+intituler       	En fait, il avait bel et bien ouvert ses livres quand il était encore chez les Dursley, mais Rogue ne pouvait pas exiger de lui qu’il ait retenu tout ce que contenait le manuel intitulé Mille herbes et champignons magiques.
+frémissant      	Rogue ne faisait toujours pas attention à la main frémissante d’Hermione.
+information     	Pour votre information, Potter, sachez que le mélange d’asphodèle et d’armoise donne un somnifère si puissant qu’on l’appelle la Goutte du Mort vivant.
+somnifère       	Pour votre information, Potter, sachez que le mélange d’asphodèle et d’armoise donne un somnifère si puissant qu’on l’appelle la Goutte du Mort vivant.
+chèvre          	Un bézoard est une pierre qu’on trouve dans l’estomac des chèvres et qui constitue un antidote à la plupart des poisons.
+antidote        	Un bézoard est une pierre qu’on trouve dans l’estomac des chèvres et qui constitue un antidote à la plupart des poisons.
+poison          	Un bézoard est une pierre qu’on trouve dans l’estomac des chèvres et qui constitue un antidote à la plupart des poisons.
+impertinence    	– Et votre impertinence coûtera un point à Gryffondor, Potter, ajouta Rogue.
+furoncle        	Il répartit alors les élèves deux par deux et leur fit préparer une potion destinée à soigner les furoncles.
+repasser        	Il passait et repassait parmi les élèves, sa longue cape noire flottant derrière lui, en les regardant peser des orties séchées et écraser des crochets de serpent.
+ortie           	Il passait et repassait parmi les élèves, sa longue cape noire flottant derrière lui, en les regardant peser des orties séchées et écraser des crochets de serpent.
+critique        	Chacun eut droit à de sévères critiques, sauf Malefoy pour qui il semblait éprouver de la sympathie.
+bouillir        	Il leur demanda d’ailleurs de regarder comment celui-ci avait fait bouillir ses limaces à cornes, quand soudain, un nuage de fumée verte accompagné d’un sifflement sonore emplit le cachot.
+nuage           	Il leur demanda d’ailleurs de regarder comment celui-ci avait fait bouillir ses limaces à cornes, quand soudain, un nuage de fumée verte accompagné d’un sifflement sonore emplit le cachot.
+emplir          	Il leur demanda d’ailleurs de regarder comment celui-ci avait fait bouillir ses limaces à cornes, quand soudain, un nuage de fumée verte accompagné d’un sifflement sonore emplit le cachot.
+asperger        	Un instant plus tard, toute la classe était debout sur les tabourets et Neville, aspergé de potion lorsque le chaudron avait fondu, gémissait de douleur tandis que des furoncles rouges et enflammés lui poussaient sur tout le corps.
+gronder         	– Imbécile ! gronda Rogue en faisant disparaître d’un coup de baguette la potion répandue sur le sol.
+épine           	J’imagine que vous avez ajouté les épines de porc-épic avant de retirer le chaudron du feu ?
+retirer         	J’imagine que vous avez ajouté les épines de porc-épic avant de retirer le chaudron du feu ?
+infirmerie      	– Emmenez-le à l’infirmerie, ordonna Rogue à Seamus.
+injuste         	C’était tellement injuste que Harry ouvrit la bouche pour répliquer, mais Ron lui donna un petit coup de pied derrière leur chaudron pour l’en dissuader.
+dissuader       	C’était tellement injuste que Harry ouvrit la bouche pour répliquer, mais Ron lui donna un petit coup de pied derrière leur chaudron pour l’en dissuader.
+moral           	Lorsqu’ils remontèrent du cachot, une heure plus tard, Harry remuait de sombres pensées et son moral était au plus bas.
+bordure         	Hagrid habitait une petite maison de bois en bordure de la Forêt interdite.
+arbalète        	Une arbalète et une paire de bottes en caoutchouc étaient posées à côté de la porte.
+aboiement       	Lorsque Harry frappa, un grand fracas retentit à l’intérieur de la maison, accompagné d’aboiements sonores.
+entrebâillement 	Le visage hirsute de Hagrid apparut dans l’entrebâillement de la porte.
+collier         	Il fit entrer Harry et Ron en s’efforçant de retenir par son collier un énorme molosse noir.
+molosse         	Il fit entrer Harry et Ron en s’efforçant de retenir par son collier un énorme molosse noir.
+jambon          	Des jambons et des faisans étaient suspendus au plafond, et une bouilloire en cuivre était posée sur le feu.
+faisan          	Des jambons et des faisans étaient suspendus au plafond, et une bouilloire en cuivre était posée sur le feu.
+courtepointe    	Un coin de la pièce était occupé par un lit massif recouvert d’une courtepointe en patchwork.
+patchwork       	Un coin de la pièce était occupé par un lit massif recouvert d’une courtepointe en patchwork.
+baver           	Ils lui racontèrent leur première semaine de classe pendant que Crockdur, la tête posée sur les genoux de Harry, bavait abondamment sur sa robe de sorcier.
+abondamment     	Ils lui racontèrent leur première semaine de classe pendant que Crockdur, la tête posée sur les genoux de Harry, bavait abondamment sur sa robe de sorcier.
+qualifier       	Harry et Ron furent enchantés d’entendre Hagrid qualifier Rusard de « vieille ganache ».
+ganache         	Harry et Ron furent enchantés d’entendre Hagrid qualifier Rusard de « vieille ganache ».
+impossible      	Impossible de se débarrasser d’elle.
+insister        	– Mais moi, on dirait vraiment qu’il me hait, insista Harry.
+cambriolage     	C’était un article découpé dans La Gazette du sorcier : « LE CAMBRIOLAGE DE GRINGOTTS »
+enquête         	L’enquête sur le cambriolage qui s’est produit le 31 juillet dans les locaux de la banque Gringotts se poursuit.
+piste           	La piste suivie par les enquêteurs devrait les mener dans les milieux de la magie noire.
+enquêteur       	La piste suivie par les enquêteurs devrait les mener dans les milieux de la magie noire.
+fracturer       	La chambre forte fracturée avait en effet été vidée le même jour.
+vivement        	« Mais nous ne vous révélerons pas ce qu’elle contenait et, dans votre propre intérêt, nous vous conseillons vivement de ne pas vous mêler de cette affaire », a déclaré le porte-parole des gobelins.
+tentative       	Harry se souvenait de ce que Ron lui avait dit dans le train : il y avait eu une tentative de cambriolage à Gringotts.
+fuir            	Cette fois, il n’y avait vraiment aucun doute : Hagrid fuyait le regard de Harry.
+relire          	Harry relut l’article.
