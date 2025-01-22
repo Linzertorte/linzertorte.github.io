@@ -51,6 +51,6 @@ for l in fileinput.input():
   l = l.rstrip()
   if l == "":
     continue
-  print('      <li><a href="" data-sent="%s">%s</a></li>'%(l.split("\t")[1],l.split("\t")[0]))
+  print('      <li><a href="" data-sent="%s">%s</a></li>'%(l.split("\t")[1],l.split("\t")[0].rstrip()))
 
 print(tail)

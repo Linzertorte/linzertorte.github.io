@@ -1,7 +1,7 @@
 import fileinput
 import sys,os
 
-bch = sys.argv[1][4:10]
+bch = sys.argv[1][0:6]
 
 i = 1
 
