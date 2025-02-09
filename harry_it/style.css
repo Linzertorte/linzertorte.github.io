@@ -47,6 +47,9 @@ div.assets {
 img {
 	display: none;
 }
+#popup-modal {
+	display: none;
+}
 @media only screen and (max-width: 768px) {
 	#words {
 		background-color: white;

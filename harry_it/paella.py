@@ -42,6 +42,11 @@ for l in fileinput.input():
   l = l.rstrip()
   if l == "":
     continue
-  print('      <li><a href="" data-sent="%s">%s</a></li>'%(l.split("\t")[2],l.split("\t")[1].rstrip()))
+  word = l.split("\t")[1].rstrip()
+  if "|" in word:
+    h,w = word.split("|")[0],word.split("|")[1]
+    print('      <li><a href="%s" data-sent="%s">%s</a></li>'%(h,l.split("\t")[2],w))
+  else:
+    print('      <li><a href="" data-sent="%s">%s</a></li>'%(l.split("\t")[2],word))
 
 print(tail)

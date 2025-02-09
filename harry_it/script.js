@@ -9,6 +9,9 @@ $("a").on("click", function (e) {
     }
     var collins = "https://www.collinsdictionary.com/dictionary/italian-english/";
     var word = $(this).text();
+    if($(this).attr('href')!="") {
+        word = $(this).attr('href');
+    }
     $("#sent").html($(this).data("sent"));
     console.log(word);
     console.log($(this).data("sent"));
