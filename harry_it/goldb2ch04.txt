@@ -1,287 +1,173 @@
-stranezza         	Ai Dursley piaceva che tutto fosse pulito e in ordine; la casa dei Weasley era tutta stranezze e imprevisti.
-imprevisto        	Ai Dursley piaceva che tutto fosse pulito e in ordine; la casa dei Weasley era tutta stranezze e imprevisti.
-scioccare         	Harry rimase scioccato la prima volta che, guardandosi allo specchio sul camino della cucina, quello gli gridò: «Infilati la camicia dentro i pantaloni, sciamannato!»
-infilare          	Harry rimase scioccato la prima volta che, guardandosi allo specchio sul camino della cucina, quello gli gridò: «Infilati la camicia dentro i pantaloni, sciamannato!»
-sciamannato       	Harry rimase scioccato la prima volta che, guardandosi allo specchio sul camino della cucina, quello gli gridò: «Infilati la camicia dentro i pantaloni, sciamannato!»
-stato             	La signora Weasley era preoccupatissima dello stato dei suoi calzini e a tavola cercava di costringerlo a servirsi di ogni pietanza quattro volte.
-costringere       	La signora Weasley era preoccupatissima dello stato dei suoi calzini e a tavola cercava di costringerlo a servirsi di ogni pietanza quattro volte.
-bombardare        	A cena il signor Weasley voleva che sedesse accanto a lui, in modo da poterlo bombardare di domande sulla vita dei Babbani e chiedergli di spiegare in che modo funzionassero cose come le prese elettriche e il servizio postale.
-elettrico         	A cena il signor Weasley voleva che sedesse accanto a lui, in modo da poterlo bombardare di domande sulla vita dei Babbani e chiedergli di spiegare in che modo funzionassero cose come le prese elettriche e il servizio postale.
-affascinante      	«Affascinante!» disse quando Harry gli spiegò l’uso del telefono.
-footing           	Manuale degli Incantesimi, Volume secondo, di Miranda Goshawk A banchetto con la banshee, di Gilderoy Lockhart Footing con la fattucchiera, di Gilderoy Lockhart Un inverno con lo yeti, di Gilderoy Lockhart Luna di miele con il lupo mannaro, di Gilderoy Lockhart A spasso con lo spettro, di Gilderoy Lockhart Trekking con il troll, di Gilderoy Lockhart In viaggio con il vampiro, di Gilderoy Lockhart Fred, che aveva finito di leggere il suo elenco, sbirciò quello di Harry.
-inverno           	Manuale degli Incantesimi, Volume secondo, di Miranda Goshawk A banchetto con la banshee, di Gilderoy Lockhart Footing con la fattucchiera, di Gilderoy Lockhart Un inverno con lo yeti, di Gilderoy Lockhart Luna di miele con il lupo mannaro, di Gilderoy Lockhart A spasso con lo spettro, di Gilderoy Lockhart Trekking con il troll, di Gilderoy Lockhart In viaggio con il vampiro, di Gilderoy Lockhart Fred, che aveva finito di leggere il suo elenco, sbirciò quello di Harry.
-miele             	Manuale degli Incantesimi, Volume secondo, di Miranda Goshawk A banchetto con la banshee, di Gilderoy Lockhart Footing con la fattucchiera, di Gilderoy Lockhart Un inverno con lo yeti, di Gilderoy Lockhart Luna di miele con il lupo mannaro, di Gilderoy Lockhart A spasso con lo spettro, di Gilderoy Lockhart Trekking con il troll, di Gilderoy Lockhart In viaggio con il vampiro, di Gilderoy Lockhart Fred, che aveva finito di leggere il suo elenco, sbirciò quello di Harry.
-spettro           	Manuale degli Incantesimi, Volume secondo, di Miranda Goshawk A banchetto con la banshee, di Gilderoy Lockhart Footing con la fattucchiera, di Gilderoy Lockhart Un inverno con lo yeti, di Gilderoy Lockhart Luna di miele con il lupo mannaro, di Gilderoy Lockhart A spasso con lo spettro, di Gilderoy Lockhart Trekking con il troll, di Gilderoy Lockhart In viaggio con il vampiro, di Gilderoy Lockhart Fred, che aveva finito di leggere il suo elenco, sbirciò quello di Harry.
-cogliere          	A quel punto Fred colse lo sguardo di sua madre e si concentrò di botto sulla marmellata.
-concentrare       	A quel punto Fred colse lo sguardo di sua madre e si concentrò di botto sulla marmellata.
-prendere          	«Be’, ce la faremo» disse la signora Weasley, ma aveva l’aria preoccupata. «Molte delle cose che servono a Ginny penso che potremo prenderle di seconda mano».
-gilè              	Era già vestito di tutto punto, con il distintivo di prefetto di Hogwarts appuntato sul gilè.
-ultimo            	Si sedette sull’ultima sedia rimasta libera, ma si rialzò quasi subito di scatto, levandosi da sotto un piumino per la polvere grigio, tutto spennacchiato... o per lo meno, così pensò Harry fintanto che non si accorse che il piumino respirava.
-rialzare          	Si sedette sull’ultima sedia rimasta libera, ma si rialzò quasi subito di scatto, levandosi da sotto un piumino per la polvere grigio, tutto spennacchiato... o per lo meno, così pensò Harry fintanto che non si accorse che il piumino respirava.
-spennacchiare     	Si sedette sull’ultima sedia rimasta libera, ma si rialzò quasi subito di scatto, levandosi da sotto un piumino per la polvere grigio, tutto spennacchiato... o per lo meno, così pensò Harry fintanto che non si accorse che il piumino respirava.
-afflosciarsi      	«Errol!» disse Ron prendendo dalle mani di Percy il gufo afflosciato ed estraendo una lettera da sotto la sua ala.
-dire              	Le avevo scritto dicendole che avremmo cercato di salvarti dai Dursley».
-andare            	Andò a posare Errol su un trespolo vicino alla porta sul retro, cercando di farlo stare dritto, ma quello si accasciò di nuovo, per cui Ron lo distese sullo scolatoio mormorando: «Patetico!»
-trespolo          	Andò a posare Errol su un trespolo vicino alla porta sul retro, cercando di farlo stare dritto, ma quello si accasciò di nuovo, per cui Ron lo distese sullo scolatoio mormorando: «Patetico!»
-distendere        	Andò a posare Errol su un trespolo vicino alla porta sul retro, cercando di farlo stare dritto, ma quello si accasciò di nuovo, per cui Ron lo distese sullo scolatoio mormorando: «Patetico!»
-scolatoio         	Andò a posare Errol su un trespolo vicino alla porta sul retro, cercando di farlo stare dritto, ma quello si accasciò di nuovo, per cui Ron lo distese sullo scolatoio mormorando: «Patetico!»
-patetico          	Andò a posare Errol su un trespolo vicino alla porta sul retro, cercando di farlo stare dritto, ma quello si accasciò di nuovo, per cui Ron lo distese sullo scolatoio mormorando: «Patetico!»
-illegale          	Caro Ron e caro Harry, se anche tu sei lì, spero che sia andato tutto liscio, e che Harry stia bene e che non abbiate fatto niente di illegale per portarlo via, Ron, perché se così fosse questo metterebbe nei guai anche lui.
-sinceramente      	Sono stata sinceramente preoccupata e se Harry sta bene, fatemelo sapere immediatamente (magari usando un gufo diverso, perché un’altra consegna potrebbe essere fatale a quello che avete ora).
-fatale            	Sono stata sinceramente preoccupata e se Harry sta bene, fatemelo sapere immediatamente (magari usando un gufo diverso, perché un’altra consegna potrebbe essere fatale a quello che avete ora).
-dare              	Datemi notizie appena potete.
-cascare           	«Be’, casca proprio a fagiolo.
-sparecchiare      	Possiamo andare anche noi a comprare tutto quel che vi serve» disse la signora Weasley cominciando a sparecchiare.
-recintare         	«Quali sono i vostri programmi di oggi?» Harry, Ron, Fred e George pensavano di risalire la collina fino a un piccolo campo recintato di proprietà dei Weasley.
-proprietà         	«Quali sono i vostri programmi di oggi?» Harry, Ron, Fred e George pensavano di risalire la collina fino a un piccolo campo recintato di proprietà dei Weasley.
-nascondere        	Era circondato da alberi che lo nascondevano alla vista del paese sottostante, il che significava potersi allenare a Quidditch, purché non volassero troppo alto.
-sottostante       	Era circondato da alberi che lo nascondevano alla vista del paese sottostante, il che significava potersi allenare a Quidditch, purché non volassero troppo alto.
-purché            	Era circondato da alberi che lo nascondevano alla vista del paese sottostante, il che significava potersi allenare a Quidditch, purché non volassero troppo alto.
-lancio            	Non potevano usare vere palle da Quidditch perché se avessero raggiunto il villaggio in qualche lancio troppo audace sarebbe stato difficile dare spiegazioni; così si esercitavano lanciandosi delle mele.
-arrivare          	I risultati degli esami sono usciti il giorno prima che arrivassi tu: dodici G.U.F.O., e lui a malapena se n’è rallegrato».
-interrogativo     	«Grado Ufficiale di Fattucchiere Ordinario» spiegò George vedendo lo sguardo interrogativo di Harry.
-rischiare         	Se non stiamo attenti, rischiamo di avere un altro Caposcuola in famiglia.
-reggere           	Penso che non reggerei alla vergogna».
-secondogenito     	Lui e Charlie, il secondogenito, avevano già lasciato Hogwarts.
-Egitto            	Harry non li aveva mai incontrati, ma sapeva che Charlie era in Romania a studiare i draghi e Bill in Egitto a lavorare per la Gringott, la banca dei maghi.
-fare              	«Non so proprio come faranno papà e mamma ad affrontare tutte le spese della scuola, quest’anno» disse George dopo un po’.
-gruzzolo          	Non aveva mai parlato ai Dursley del suo conto in banca alla Gringott; era sicuro che il loro orrore per qualsiasi cosa avesse a che fare con la magia sarebbe scomparso d’incanto di fronte a un bel gruzzolo d’oro.
-spuntino          	Dopo uno spuntino veloce, di soli cinque o sei panini con la pancetta a testa, si infilarono i giubbotti; la signora Weasley prese un vaso da fiori sulla mensola del camino e ci guardò dentro.
-giubbotto         	Dopo uno spuntino veloce, di soli cinque o sei panini con la pancetta a testa, si infilarono i giubbotti; la signora Weasley prese un vaso da fiori sulla mensola del camino e ci guardò dentro.
-comprare          	«Oggi dovremo comprarne dell’altra... Oh, be’, prima gli ospiti!
-viaggiare         	«Lui non ha mai viaggiato con la Polvere Volante» disse Ron d’un tratto.
-funzionare        	«C’erano le scale nobili? E come funzio...» «Non ora, Arthur» lo pregò la signora Weasley.
-prendere          	Prese dal vaso un pizzico di polvere scintillante, si avvicinò al fuoco e la gettò tra le fiamme.
-pizzico           	Prese dal vaso un pizzico di polvere scintillante, si avvicinò al fuoco e la gettò tra le fiamme.
-inghiottire       	«E stai attento a scendere al focolare giusto...» «Il giusto cosa?» chiese Harry nervoso mentre il fuoco inghiottiva anche George.
-importare         	«Non credo che gliene importerebbe molto» la rassicurò Harry.
-sparire           	«Se sparissi su per un camino, per Dudley sarebbe una bellissima barzelletta, non vi preoccupate di questo».
-bello             	«Se sparissi su per un camino, per Dudley sarebbe una bellissima barzelletta, non vi preoccupate di questo».
-incalzare         	«E gli occhi chiusi» incalzò la signora Weasley. «La fuliggine...»
-fuliggine         	«E gli occhi chiusi» incalzò la signora Weasley. «La fuliggine...»
-agitarsi          	«Non agitarti, altrimenti potresti cadere nel camino sbagliato» disse Ron.
-respirare         	Respirò profondamente, gettò la polvere tra le fiamme e fece un passo in avanti:
-inghiottire       	Aprì la bocca e immediatamente inghiottì una gran quantità di cenere bollente.
-tossire           	«D-Diagon Alley» disse tossendo.
-scarico           	Ebbe la sensazione di essere risucchiato in un gigantesco scarico.
-vorticosamente    	Gli sembrò di girare vorticosamente... il rombo nelle orecchie era assordante... Cercò di tenere gli occhi aperti, ma il turbinio delle fiamme verdi lo faceva sentir male... Qualcosa di duro gli colpì il gomito, e lui se lo strinse al corpo, continuando a roteare... Poi gli parve che delle mani gelide lo stessero schiaffeggiando... Aprì un po’ gli occhi e vide sfilare una serie confusa di camini e degli scorci delle stanze dietro di essi.
-turbinio          	Gli sembrò di girare vorticosamente... il rombo nelle orecchie era assordante... Cercò di tenere gli occhi aperti, ma il turbinio delle fiamme verdi lo faceva sentir male... Qualcosa di duro gli colpì il gomito, e lui se lo strinse al corpo, continuando a roteare... Poi gli parve che delle mani gelide lo stessero schiaffeggiando... Aprì un po’ gli occhi e vide sfilare una serie confusa di camini e degli scorci delle stanze dietro di essi.
-sentire           	Gli sembrò di girare vorticosamente... il rombo nelle orecchie era assordante... Cercò di tenere gli occhi aperti, ma il turbinio delle fiamme verdi lo faceva sentir male... Qualcosa di duro gli colpì il gomito, e lui se lo strinse al corpo, continuando a roteare... Poi gli parve che delle mani gelide lo stessero schiaffeggiando... Aprì un po’ gli occhi e vide sfilare una serie confusa di camini e degli scorci delle stanze dietro di essi.
-stringere         	Gli sembrò di girare vorticosamente... il rombo nelle orecchie era assordante... Cercò di tenere gli occhi aperti, ma il turbinio delle fiamme verdi lo faceva sentir male... Qualcosa di duro gli colpì il gomito, e lui se lo strinse al corpo, continuando a roteare... Poi gli parve che delle mani gelide lo stessero schiaffeggiando... Aprì un po’ gli occhi e vide sfilare una serie confusa di camini e degli scorci delle stanze dietro di essi.
-schiaffeggiare    	Gli sembrò di girare vorticosamente... il rombo nelle orecchie era assordante... Cercò di tenere gli occhi aperti, ma il turbinio delle fiamme verdi lo faceva sentir male... Qualcosa di duro gli colpì il gomito, e lui se lo strinse al corpo, continuando a roteare... Poi gli parve che delle mani gelide lo stessero schiaffeggiando... Aprì un po’ gli occhi e vide sfilare una serie confusa di camini e degli scorci delle stanze dietro di essi.
-scorcio           	Gli sembrò di girare vorticosamente... il rombo nelle orecchie era assordante... Cercò di tenere gli occhi aperti, ma il turbinio delle fiamme verdi lo faceva sentir male... Qualcosa di duro gli colpì il gomito, e lui se lo strinse al corpo, continuando a roteare... Poi gli parve che delle mani gelide lo stessero schiaffeggiando... Aprì un po’ gli occhi e vide sfilare una serie confusa di camini e degli scorci delle stanze dietro di essi.
-ballare           	I panini con la pancetta gli ballavano nello stomaco...
-avvizzito         	In una teca di vetro c’erano una mano avvizzita, appoggiata su un cuscino, un mazzo di carte macchiate di sangue e un occhio di vetro che lo guardava fisso.
-macchiato         	In una teca di vetro c’erano una mano avvizzita, appoggiata su un cuscino, un mazzo di carte macchiate di sangue e un occhio di vetro che lo guardava fisso.
-maschera          	Dalle pareti, maschere dall’espressione maligna sembravano spiarlo, sopra al bancone era accatastato un assortimento di ossa umane e dal soffitto pendevano strumenti arrugginiti e acuminati.
-spiare            	Dalle pareti, maschere dall’espressione maligna sembravano spiarlo, sopra al bancone era accatastato un assortimento di ossa umane e dal soffitto pendevano strumenti arrugginiti e acuminati.
-assortimento      	Dalle pareti, maschere dall’espressione maligna sembravano spiarlo, sopra al bancone era accatastato un assortimento di ossa umane e dal soffitto pendevano strumenti arrugginiti e acuminati.
-osso              	Dalle pareti, maschere dall’espressione maligna sembravano spiarlo, sopra al bancone era accatastato un assortimento di ossa umane e dal soffitto pendevano strumenti arrugginiti e acuminati.
-buio              	Ma la cosa peggiore di tutte era che la strada stretta e buia che Harry intravedeva attraverso la vetrina polverosa decisamente non era Diagon Alley.
-individuo         	Con il naso ancora dolorante nel punto in cui aveva sbattuto contro la pietra del focolare Harry si affrettò a raggiungere silenziosamente la porta, ma era appena a mezza strada quando, dall’altra parte del vetro, apparvero due individui... uno dei quali era l’ultima persona che Harry in quel momento, spaesato, coperto di fuliggine e con gli occhiali rotti, avrebbe voluto incontrare: Draco Malfoy.
-spaesato          	Con il naso ancora dolorante nel punto in cui aveva sbattuto contro la pietra del focolare Harry si affrettò a raggiungere silenziosamente la porta, ma era appena a mezza strada quando, dall’altra parte del vetro, apparvero due individui... uno dei quali era l’ultima persona che Harry in quel momento, spaesato, coperto di fuliggine e con gli occhiali rotti, avrebbe voluto incontrare: Draco Malfoy.
-anta              	Harry si guardò velocemente intorno e vide un grosso armadio nero alla sua sinistra: ci si infilò dentro e chiuse le ante, lasciando una piccola fessura per guardare fuori.
-suonare           	Un attimo dopo un campanello suonò e Malfoy entrò nel negozio.
-appuntito         	Aveva lo stesso viso pallido e appuntito, gli stessi gelidi occhi grigi.
-esposto           	Il signor Malfoy attraversò il negozio guardando distrattamente gli oggetti esposti, suonò il campanello sul bancone e raccomandò al ragazzo:
-credere           	«Credevo che volessi farmi un regalo».
-volere            	«Credevo che volessi farmi un regalo».
-teschio           	Malfoy si chinò per esaminare uno scaffale pieno zeppo di teschi.
-raggelare         	Potter il Magnifico, con la sua cicatrice e la sua scopa...» «Me lo hai già raccontato mille volte» disse il signor Malfoy con un’occhiata raggelante, «e vorrei ricordarti che non è... prudente... mostrarsi poco entusiasti di Harry Potter, non quando la maggior parte di noi lo considera l’eroe responsabile della scomparsa del Signore Oscuro... Ah, signor Borgin».
-mostrarsi         	Potter il Magnifico, con la sua cicatrice e la sua scopa...» «Me lo hai già raccontato mille volte» disse il signor Malfoy con un’occhiata raggelante, «e vorrei ricordarti che non è... prudente... mostrarsi poco entusiasti di Harry Potter, non quando la maggior parte di noi lo considera l’eroe responsabile della scomparsa del Signore Oscuro... Ah, signor Borgin».
-responsabile      	Potter il Magnifico, con la sua cicatrice e la sua scopa...» «Me lo hai già raccontato mille volte» disse il signor Malfoy con un’occhiata raggelante, «e vorrei ricordarti che non è... prudente... mostrarsi poco entusiasti di Harry Potter, non quando la maggior parte di noi lo considera l’eroe responsabile della scomparsa del Signore Oscuro... Ah, signor Borgin».
-scomparsa         	Potter il Magnifico, con la sua cicatrice e la sua scopa...» «Me lo hai già raccontato mille volte» disse il signor Malfoy con un’occhiata raggelante, «e vorrei ricordarti che non è... prudente... mostrarsi poco entusiasti di Harry Potter, non quando la maggior parte di noi lo considera l’eroe responsabile della scomparsa del Signore Oscuro... Ah, signor Borgin».
-curvo             	Un uomo curvo era apparso dietro al bancone, scostandosi dal viso una ciocca di capelli unti.
-scostare          	Un uomo curvo era apparso dietro al bancone, scostandosi dal viso una ciocca di capelli unti.
-unto              	Un uomo curvo era apparso dietro al bancone, scostandosi dal viso una ciocca di capelli unti.
-rivedere          	«Signor Malfoy, che piacere rivederla» disse Borgin con una voce untuosa come la sua capigliatura.
-capigliatura      	«Signor Malfoy, che piacere rivederla» disse Borgin con una voce untuosa come la sua capigliatura.
-lieto             	«Lietissimo... e anche il signorino Malfoy... Che gioia!
-signorino         	«Lietissimo... e anche il signorino Malfoy... Che gioia!
-servire           	In che cosa posso servirvi?
-mostrare          	Devo mostrarvi una cosa che mi è arrivata proprio oggi, a un prezzo assai ragionevole...» «Oggi non sono venuto per comprare, Borgin, ma per vendere» disse il signor Malfoy.
-congelarsi        	«Vendere?» il sorriso si congelò leggermente sul viso di Borgin.
-avere             	«Avrà sentito dire, naturalmente, che il Ministero sta facendo molti controlli» disse il signor Malfoy tirando fuori da una tasca interna un rotolo di pergamena e svolgendolo per dar modo a Borgin di leggerlo.
-svolgere          	«Avrà sentito dire, naturalmente, che il Ministero sta facendo molti controlli» disse il signor Malfoy tirando fuori da una tasca interna un rotolo di pergamena e svolgendolo per dar modo a Borgin di leggerlo.
-leggere           	«Avrà sentito dire, naturalmente, che il Ministero sta facendo molti controlli» disse il signor Malfoy tirando fuori da una tasca interna un rotolo di pergamena e svolgendolo per dar modo a Borgin di leggerlo.
-metter            	«Io ho... qualche... oggetto, a casa, che potrebbe mettermi in difficoltà se il Ministero dovesse venire a farmi visita...» Borgin si aggiustò gli occhialini sul naso.
-aggiustare        	«Io ho... qualche... oggetto, a casa, che potrebbe mettermi in difficoltà se il Ministero dovesse venire a farmi visita...» Borgin si aggiustò gli occhialini sul naso.
-occhialino        	«Io ho... qualche... oggetto, a casa, che potrebbe mettermi in difficoltà se il Ministero dovesse venire a farmi visita...» Borgin si aggiustò gli occhialini sul naso.
-creare            	«Il Ministero non oserà certo crearle dei fastidi, signore».
-incurvarsi        	Le labbra del signor Malfoy si incurvarono.
-imporre           	Il nome dei Malfoy impone ancora un certo rispetto; e tuttavia il Ministero si sta facendo sempre più invadente.
-babbanofilo       	Girano voci su una nuova Legge per la Protezione dei Babbani: senza dubbio, dietro ci deve essere quello stupido, pidocchioso Babbanofilo di Arthur Weasley...» Harry sentì montare la rabbia.
-veleno            	«...e, come lei può vedere, alcuni di questi veleni potrebbero far sembrare...» «Capisco, signore, naturalmente» disse Borgin.
-inserire          	«Se vi inserite una candela, fa luce, ma solo a colui che la regge!
-amici             	È l’amica fidata di ladri e scassinatori.
-scassinatore      	È l’amica fidata di ladri e scassinatori.
-offendere         	«Non volevo certo offenderla signore, no di certo...» «Però, se i suoi voti a scuola non migliorano» continuò il padre di Draco con voce ancor più gelida, «quella potrebbe essere l’unica attività adatta a lui».
-prediletto        	«Tutti gli insegnanti hanno i loro prediletti, quella Hermione Granger...» «Avrei creduto che ti saresti vergognato a farti superare in tutti gli esami da una figlia di Babbani!» sbottò Malfoy.
-tagliare          	«In questo caso, forse possiamo tornare al mio elenco» disse Malfoy tagliando corto.
-altrove           	«Ho una certa fretta, Borgin, ho affari importanti che mi aspettano altrove, oggi».
-cominciare        	Cominciarono a contrattare.
-contrattare       	Cominciarono a contrattare.
-nascondiglio      	Con un certo nervosismo Harry vide Draco avvicinarsi sempre più al suo nascondiglio, esaminando gli oggetti in vendita.
-vendita           	Con un certo nervosismo Harry vide Draco avvicinarsi sempre più al suo nascondiglio, esaminando gli oggetti in vendita.
-impiccagione      	Il ragazzo si fermò a guardare un lungo rotolo di corda per impiccagioni e si soffermò a leggere, con un ghigno, il cartellino appeso su una stupenda collana di opali: ‘Attenzione: non toccare.
-soffermarsi       	Il ragazzo si fermò a guardare un lungo rotolo di corda per impiccagioni e si soffermò a leggere, con un ghigno, il cartellino appeso su una stupenda collana di opali: ‘Attenzione: non toccare.
-stupendo          	Il ragazzo si fermò a guardare un lungo rotolo di corda per impiccagioni e si soffermò a leggere, con un ghigno, il cartellino appeso su una stupenda collana di opali: ‘Attenzione: non toccare.
-collana           	Il ragazzo si fermò a guardare un lungo rotolo di corda per impiccagioni e si soffermò a leggere, con un ghigno, il cartellino appeso su una stupenda collana di opali: ‘Attenzione: non toccare.
-opale             	Il ragazzo si fermò a guardare un lungo rotolo di corda per impiccagioni e si soffermò a leggere, con un ghigno, il cartellino appeso su una stupenda collana di opali: ‘Attenzione: non toccare.
-maledetto         	Maledetta.
-diciannove        	Fino a oggi è costata la vita a diciannove Babbane che l’hanno posseduta’.
-villa             	La aspetto domani alla villa per consegnarle la merce».
-consegnare        	La aspetto domani alla villa per consegnarle la merce».
-merce             	La aspetto domani alla villa per consegnarle la merce».
-tenere            	«Buona giornata a te, Signor Malfoy, e se è vero quel che si dice non mi hai venduto neanche la metà di quel che tieni nascosto nella tua villa...»
-retrobottega      	Poi, bofonchiando parole oscure, Borgin scomparve nel retrobottega.
-sgusciare         	Harry attese qualche minuto, nel caso fosse tornato indietro, poi, facendo piano il più possibile, sgusciò fuori dell’armadio, oltrepassò le teche di vetro e uscì dal negozio.
-tenersi           	Tenendosi alla meglio gli occhiali rotti sul naso, si guardò intorno.
-vicolo            	Era emerso in un sordido vicolo dove sembravano esserci esclusivamente negozi dedicati alle Arti Oscure.
-esclusivamente    	Era emerso in un sordido vicolo dove sembravano esserci esclusivamente negozi dedicati alle Arti Oscure.
-avvizzire         	Quello da cui era appena uscito, Borgin & Burke, sembrava il più grande, ma di fronte c’era un’orribile vetrina con in mostra teste avvizzite e due porte più giù un’immensa gabbia brulicava di giganteschi ragni neri.
-brulicare         	Quello da cui era appena uscito, Borgin & Burke, sembrava il più grande, ma di fronte c’era un’orribile vetrina con in mostra teste avvizzite e due porte più giù un’immensa gabbia brulicava di giganteschi ragni neri.
-ragno             	Quello da cui era appena uscito, Borgin & Burke, sembrava il più grande, ma di fronte c’era un’orribile vetrina con in mostra teste avvizzite e due porte più giù un’immensa gabbia brulicava di giganteschi ragni neri.
-androne           	Due maghi in malarnese lo osservavano dall’oscurità di un androne bisbigliando tra loro.
-augurarsi         	Con un certo nervosismo Harry si avviò, sempre tenendosi gli occhiali e augurandosi, contro ogni speranza, di trovare la strada per uscire da quel posto.
-destinazione      	Pensò di non aver pronunciato abbastanza chiaramente la sua destinazione, con tutta quella cenere che gli era entrata in bocca nel camino dei Weasley.
-vassoio           	Davanti a lui c’era una vecchia strega con in mano un vassoio di quelle che assomigliavano orribilmente a unghie umane.
-orribilmente      	Davanti a lui c’era una vecchia strega con in mano un vassoio di quelle che assomigliavano orribilmente a unghie umane.
-unghia            	Davanti a lui c’era una vecchia strega con in mano un vassoio di quelle che assomigliavano orribilmente a unghie umane.
-marcio            	Lo guardò con occhi avidi, mostrando una fila di denti marci.
-cascata           	E anche alla strega; una cascata di unghie le scivolò sui piedi e imprecò, mentre la sagoma massiccia di Hagrid, il guardacaccia di Hogwarts, si avvicinava a gran passi, con gli occhi neri come il carbone che lampeggiavano tra la barba irsuta.
-carbone           	E anche alla strega; una cascata di unghie le scivolò sui piedi e imprecò, mentre la sagoma massiccia di Hagrid, il guardacaccia di Hogwarts, si avvicinava a gran passi, con gli occhi neri come il carbone che lampeggiavano tra la barba irsuta.
-lampeggiare       	E anche alla strega; una cascata di unghie le scivolò sui piedi e imprecò, mentre la sagoma massiccia di Hagrid, il guardacaccia di Hogwarts, si avvicinava a gran passi, con gli occhi neri come il carbone che lampeggiavano tra la barba irsuta.
-chiocciare        	«Hagrid!» chiocciò Harry con sollievo.
-agguantare        	«Mi sono perso... La Polvere Volante...» Hagrid lo agguantò per la collottola e lo allontanò dalla strega, buttandole all’aria il vassoio.
-buttare           	«Mi sono perso... La Polvere Volante...» Hagrid lo agguantò per la collottola e lo allontanò dalla strega, buttandole all’aria il vassoio.
-schifezza         	«Sei una schifezza! disse Hagrid burbero, scrollandogli di dosso la fuliggine con tale energia da farlo quasi cadere in un barile di guano di drago fuori dalla bottega di uno speziale.
-scrollare         	«Sei una schifezza! disse Hagrid burbero, scrollandogli di dosso la fuliggine con tale energia da farlo quasi cadere in un barile di guano di drago fuori dalla bottega di uno speziale.
-energia           	«Sei una schifezza! disse Hagrid burbero, scrollandogli di dosso la fuliggine con tale energia da farlo quasi cadere in un barile di guano di drago fuori dalla bottega di uno speziale.
-guano             	«Sei una schifezza! disse Hagrid burbero, scrollandogli di dosso la fuliggine con tale energia da farlo quasi cadere in un barile di guano di drago fuori dalla bottega di uno speziale.
-pigliare          	«Ma che ti piglia, andartene a spasso per Notturn Alley... Posto infame, Harry... Non mi garba che ti fai vedere qui...» «Me ne sono reso conto» disse Harry cercando di schivare un’altra energica scrollata.
-infame            	«Ma che ti piglia, andartene a spasso per Notturn Alley... Posto infame, Harry... Non mi garba che ti fai vedere qui...» «Me ne sono reso conto» disse Harry cercando di schivare un’altra energica scrollata.
-garbare           	«Ma che ti piglia, andartene a spasso per Notturn Alley... Posto infame, Harry... Non mi garba che ti fai vedere qui...» «Me ne sono reso conto» disse Harry cercando di schivare un’altra energica scrollata.
-energico          	«Ma che ti piglia, andartene a spasso per Notturn Alley... Posto infame, Harry... Non mi garba che ti fai vedere qui...» «Me ne sono reso conto» disse Harry cercando di schivare un’altra energica scrollata.
-scrollata         	«Ma che ti piglia, andartene a spasso per Notturn Alley... Posto infame, Harry... Non mi garba che ti fai vedere qui...» «Me ne sono reso conto» disse Harry cercando di schivare un’altra energica scrollata.
-fare              	«Te l’ho detto, mi sono perso... E tu, comunque, che ci facevi?»
-carnivoro         	«Io cercavo un repellente per lumache carnivore» brontolò Hagrid.
-brontolare        	«Io cercavo un repellente per lumache carnivore» brontolò Hagrid.
-falcata           	«Io a te t’ho scritto, perché tu no?» chiese Hagrid mentre Harry gli trotterellava accanto (per ogni falcata degli enormi stivali del guardacaccia lui doveva fare tre passi).
-fetente           	«Fetenti di Babbani!» ringhiò Hagrid.
-andare            	Lei spiccò una corsa per andargli incontro, con i folti capelli castani al vento.
-rivedere          	«Cos’è successo ai tuoi occhiali? Ciao, Hagrid... Oh, è meraviglioso rivedervi... Stai andando alla Gringott, Harry?» «Appena trovo i Weasley» rispose Harry.
-ecco              	«Eccoli che arrivano» disse Hagrid sorridendo.
-sperare           	«Speravamo che tu fossi sceso solo un focolare più in là».
-asciugarsi        	Si asciugò la pelata lucente.
-pelata            	Si asciugò la pelata lucente.
-disperato         	«Molly è disperata... Sta arrivando».
-invidia           	«Noi non abbiamo mai avuto il permesso di andarci» commentò Ron pieno di invidia.
-riprendere        	«Harry!... Oh, santo cielo... potevi finire chissà dove...» Riprendendo fiato, tirò fuori dalla borsa una grossa spazzola da panni e cominciò a togliergli di dosso la fuliggine che Hagrid non era riuscito a eliminare con le sue manate.
-spazzola          	«Harry!... Oh, santo cielo... potevi finire chissà dove...» Riprendendo fiato, tirò fuori dalla borsa una grossa spazzola da panni e cominciò a togliergli di dosso la fuliggine che Hagrid non era riuscito a eliminare con le sue manate.
-panno             	«Harry!... Oh, santo cielo... potevi finire chissà dove...» Riprendendo fiato, tirò fuori dalla borsa una grossa spazzola da panni e cominciò a togliergli di dosso la fuliggine che Hagrid non era riuscito a eliminare con le sue manate.
-togliere          	«Harry!... Oh, santo cielo... potevi finire chissà dove...» Riprendendo fiato, tirò fuori dalla borsa una grossa spazzola da panni e cominciò a togliergli di dosso la fuliggine che Hagrid non era riuscito a eliminare con le sue manate.
-eliminare         	«Harry!... Oh, santo cielo... potevi finire chissà dove...» Riprendendo fiato, tirò fuori dalla borsa una grossa spazzola da panni e cominciò a togliergli di dosso la fuliggine che Hagrid non era riuscito a eliminare con le sue manate.
-manata            	«Harry!... Oh, santo cielo... potevi finire chissà dove...» Riprendendo fiato, tirò fuori dalla borsa una grossa spazzola da panni e cominciò a togliergli di dosso la fuliggine che Hagrid non era riuscito a eliminare con le sue manate.
-restituire        	Il signor Weasley prese gli occhiali di Harry, gli diede un colpetto con la sua bacchetta e glieli restituì come nuovi.
-storcere          	«Be’, io me ne vado» disse Hagrid, a cui la signora Weasley stava quasi storcendo una mano («Notturn Alley! Pensa se non lo avessi trovato, Hagrid!»).
-becchare          	«Ci becchiamo a Hogwarts!» E si allontanò a gran passi, sovrastando chiunque altro nella strada affollata.
-stazionare        	«Oh, quanto mi piacerebbe incastrare Lucius Malfoy!» «Tu devi stare molto attento, Arthur» disse la signora Weasley in tono aspro, mentre un goblin che stazionava sulla porta li introduceva nella banca con un inchino.
-introdurre        	«Oh, quanto mi piacerebbe incastrare Lucius Malfoy!» «Tu devi stare molto attento, Arthur» disse la signora Weasley in tono aspro, mentre un goblin che stazionava sulla porta li introduceva nella banca con un inchino.
-fonte             	«Quella famiglia è una fonte di guai e Malfoy è un osso troppo duro per te!
-distrarre         	«E così tu pensi che io non sappia tenere testa a Lucius Malfoy?» chiese il signor Weasley indignato; ma subito dopo venne distratto dalla vista dei genitori di Hermione, in piedi tutti nervosi davanti al bancone che correva lungo la sala marmorea, in attesa che la figlia li presentasse.
-entusiasticamente 	Guarda, Molly!» e indicò entusiasticamente le banconote da dieci sterline che il signor Granger teneva in mano.
-rivedersi         	«Ci rivediamo qui» disse Ron a Hermione, mentre i Weasley e Harry venivano accompagnati da un altro goblin della Gringott alle loro camere blindate sotterranee.
-raggiungere       	Le camere blindate venivano raggiunte utilizzando dei piccoli carrelli guidati da goblin che, lungo rotaie in miniatura, correvano per i sotterranei della banca.
-utilizzare        	Le camere blindate venivano raggiunte utilizzando dei piccoli carrelli guidati da goblin che, lungo rotaie in miniatura, correvano per i sotterranei della banca.
-rotaia            	Le camere blindate venivano raggiunte utilizzando dei piccoli carrelli guidati da goblin che, lungo rotaie in miniatura, correvano per i sotterranei della banca.
-miniatura         	Le camere blindate venivano raggiunte utilizzando dei piccoli carrelli guidati da goblin che, lungo rotaie in miniatura, correvano per i sotterranei della banca.
-scarrozzare       	A Harry piacque molto la scarrozzata a rotta di collo fino alla camera blindata dei Weasley ma si sentì terribilmente a disagio, molto peggio di come si era sentito a Notturn Alley, quando venne aperta.
-esiguo            	C’era un esiguo mucchietto di zellini d’argento e soltanto un galeone d’oro.
-ispezionare       	La signora Weasley ispezionò ben bene gli angoli, prima di raccogliere tutto nella borsa.
-accennare         	Percy accennò bofonchiando di aver bisogno di una nuova penna d’oca; Fred e George avevano intravisto un compagno di scuola, Lee Jordan; la signora Weasley e Ginny dovevano andare in un negozio di abiti di seconda mano.
-intravedere       	Percy accennò bofonchiando di aver bisogno di una nuova penna d’oca; Fred e George avevano intravisto un compagno di scuola, Lee Jordan; la signora Weasley e Ginny dovevano andare in un negozio di abiti di seconda mano.
-darsi             	«E state lontani da Notturn Alley!» gridò ai due gemelli che già stavano dandosela a gambe.
-acciottolato      	Harry, Ron e Hermione si avviarono lungo l’acciottolato della via tortuosa.
-tintinnare        	Le monete d’oro, d’argento e di bronzo tintinnavano allegramente nella borsa di Harry e reclamavano di essere spese.
-reclamare         	Le monete d’oro, d’argento e di bronzo tintinnavano allegramente nella borsa di Harry e reclamavano di essere spese.
-arachide          	Fu così che comprò tre grossi gelati alla fragola e al burro di arachidi che divorarono tutti felici, gironzolando e guardando le vetrine.
-accessorio        	Ron si fermò estasiato di fronte a una divisa completa dei Cannoni di Chudley esposta da ‘Accessori di Prima Qualità per il Quidditch’, finché Hermione non li trascinò a comprare inchiostro e pergamena al negozio accanto.
-scherzo           	Nella bottega ‘Gambol & Jape: Scherzi da maghi’ incontrarono Fred, George e Lee Jordan che facevano rifornimento di Favolosi Fuochi d’artificio freddi del dottor Filibuster con innesco ad acqua, e in un piccolo negozio di cianfrusaglie, pieno di bacchette rotte, di traballanti bilance d’ottone e di vecchi mantelli tutti impataccati trovarono Percy, immerso nella lettura di un noiosissimo libretto dal titolo: Prefetti che hanno conquistato il potere.
-rifornimento      	Nella bottega ‘Gambol & Jape: Scherzi da maghi’ incontrarono Fred, George e Lee Jordan che facevano rifornimento di Favolosi Fuochi d’artificio freddi del dottor Filibuster con innesco ad acqua, e in un piccolo negozio di cianfrusaglie, pieno di bacchette rotte, di traballanti bilance d’ottone e di vecchi mantelli tutti impataccati trovarono Percy, immerso nella lettura di un noiosissimo libretto dal titolo: Prefetti che hanno conquistato il potere.
-favoloso          	Nella bottega ‘Gambol & Jape: Scherzi da maghi’ incontrarono Fred, George e Lee Jordan che facevano rifornimento di Favolosi Fuochi d’artificio freddi del dottor Filibuster con innesco ad acqua, e in un piccolo negozio di cianfrusaglie, pieno di bacchette rotte, di traballanti bilance d’ottone e di vecchi mantelli tutti impataccati trovarono Percy, immerso nella lettura di un noiosissimo libretto dal titolo: Prefetti che hanno conquistato il potere.
-dottore           	Nella bottega ‘Gambol & Jape: Scherzi da maghi’ incontrarono Fred, George e Lee Jordan che facevano rifornimento di Favolosi Fuochi d’artificio freddi del dottor Filibuster con innesco ad acqua, e in un piccolo negozio di cianfrusaglie, pieno di bacchette rotte, di traballanti bilance d’ottone e di vecchi mantelli tutti impataccati trovarono Percy, immerso nella lettura di un noiosissimo libretto dal titolo: Prefetti che hanno conquistato il potere.
-innesco           	Nella bottega ‘Gambol & Jape: Scherzi da maghi’ incontrarono Fred, George e Lee Jordan che facevano rifornimento di Favolosi Fuochi d’artificio freddi del dottor Filibuster con innesco ad acqua, e in un piccolo negozio di cianfrusaglie, pieno di bacchette rotte, di traballanti bilance d’ottone e di vecchi mantelli tutti impataccati trovarono Percy, immerso nella lettura di un noiosissimo libretto dal titolo: Prefetti che hanno conquistato il potere.
-cianfrusaglia     	Nella bottega ‘Gambol & Jape: Scherzi da maghi’ incontrarono Fred, George e Lee Jordan che facevano rifornimento di Favolosi Fuochi d’artificio freddi del dottor Filibuster con innesco ad acqua, e in un piccolo negozio di cianfrusaglie, pieno di bacchette rotte, di traballanti bilance d’ottone e di vecchi mantelli tutti impataccati trovarono Percy, immerso nella lettura di un noiosissimo libretto dal titolo: Prefetti che hanno conquistato il potere.
-impataccare       	Nella bottega ‘Gambol & Jape: Scherzi da maghi’ incontrarono Fred, George e Lee Jordan che facevano rifornimento di Favolosi Fuochi d’artificio freddi del dottor Filibuster con innesco ad acqua, e in un piccolo negozio di cianfrusaglie, pieno di bacchette rotte, di traballanti bilance d’ottone e di vecchi mantelli tutti impataccati trovarono Percy, immerso nella lettura di un noiosissimo libretto dal titolo: Prefetti che hanno conquistato il potere.
-libretto          	Nella bottega ‘Gambol & Jape: Scherzi da maghi’ incontrarono Fred, George e Lee Jordan che facevano rifornimento di Favolosi Fuochi d’artificio freddi del dottor Filibuster con innesco ad acqua, e in un piccolo negozio di cianfrusaglie, pieno di bacchette rotte, di traballanti bilance d’ottone e di vecchi mantelli tutti impataccati trovarono Percy, immerso nella lettura di un noiosissimo libretto dal titolo: Prefetti che hanno conquistato il potere.
-ambizioso         	«Certo, lui è molto ambizioso. Ha programmato tutto... Vuole diventare Ministro della Magia...» disse sottovoce Ron a Harry e Hermione mentre lasciavano Percy al suo destino.
-volere            	«Certo, lui è molto ambizioso. Ha programmato tutto... Vuole diventare Ministro della Magia...» disse sottovoce Ron a Harry e Hermione mentre lasciavano Percy al suo destino.
-sgomitare         	Ma non erano certo i soli: quando furono più vicini, videro con grande sorpresa una vera e propria folla che sgomitava per entrare.
-autobiografia     	Oggi, dalle 12,30 alle 16,30, GILDEROY LOCKHART firmerà copie della sua autobiografia Magicamente io
-magicamente       	Oggi, dalle 12,30 alle 16,30, GILDEROY LOCKHART firmerà copie della sua autobiografia Magicamente io
-conoscere         	«Lo conosceremo!» gridò Hermione.
-comporre          	«Voglio dire, è lui che ha scritto quasi tutti i nostri libri di testo!» La folla sembrava composta per lo più di streghe dell’età della signora Weasley.
-raccomandare      	Un mago, dall’aria sfinita, stava sulla porta raccomandando: «Piano, per favore, signore... Ehi, là, non spingete... Attenzione ai libri...»
-snodarsi          	Una lunga fila si snodava fino al retro del negozio, dove Gilderoy Lockhart stava autografando i suoi libri.
-autografare       	Una lunga fila si snodava fino al retro del negozio, dove Gilderoy Lockhart stava autografando i suoi libri.
-intrufolarsi      	Tutti e tre i ragazzi afferrarono una copia del manuale A banchetto con la banshee, e si intrufolarono tra la folla fino a raggiungere i Weasley, che facevano la fila insieme ai Granger.
-ecco              	«Oh, eccovi arrivati, bene!» disse la signora Weasley.
-aggiustare        	Sembrava le mancasse il fiato e continuava ad aggiustarsi i capelli.
-gigantografia     	«Tra un minuto lo vedremo...» A poco a poco ecco apparire Gilderoy Lockhart, seduto a un tavolo e circondato da gigantografie della sua faccia: erano tutte ammiccanti e mostravano alla folla due file di denti di un candore abbagliante.
-ammiccare         	«Tra un minuto lo vedremo...» A poco a poco ecco apparire Gilderoy Lockhart, seduto a un tavolo e circondato da gigantografie della sua faccia: erano tutte ammiccanti e mostravano alla folla due file di denti di un candore abbagliante.
-candore           	«Tra un minuto lo vedremo...» A poco a poco ecco apparire Gilderoy Lockhart, seduto a un tavolo e circondato da gigantografie della sua faccia: erano tutte ammiccanti e mostravano alla folla due file di denti di un candore abbagliante.
-abbagliante       	«Tra un minuto lo vedremo...» A poco a poco ecco apparire Gilderoy Lockhart, seduto a un tavolo e circondato da gigantografie della sua faccia: erano tutte ammiccanti e mostravano alla folla due file di denti di un candore abbagliante.
-adattare          	Il vero Lockhart indossava una veste color nontiscordardimé, che si adattava perfettamente alla tonalità dei suoi occhi; sui capelli ondulati portava, disinvoltamente poggiato di lato, il cappello a punta da mago.
-tonalità          	Il vero Lockhart indossava una veste color nontiscordardimé, che si adattava perfettamente alla tonalità dei suoi occhi; sui capelli ondulati portava, disinvoltamente poggiato di lato, il cappello a punta da mago.
-disinvoltamente   	Il vero Lockhart indossava una veste color nontiscordardimé, che si adattava perfettamente alla tonalità dei suoi occhi; sui capelli ondulati portava, disinvoltamente poggiato di lato, il cappello a punta da mago.
-irascibile        	Un ometto basso e irascibile gli danzava intorno scattando foto con una grossa macchina fotografica nera che a ogni guizzo accecante del flash emetteva nuvolette di fumo color porpora.
-fotografico       	Un ometto basso e irascibile gli danzava intorno scattando foto con una grossa macchina fotografica nera che a ogni guizzo accecante del flash emetteva nuvolette di fumo color porpora.
-flash             	Un ometto basso e irascibile gli danzava intorno scattando foto con una grossa macchina fotografica nera che a ogni guizzo accecante del flash emetteva nuvolette di fumo color porpora.
-inquadratura      	«Ehi tu, levati di torno» intimò a Ron arretrando per prendere un’inquadratura migliore.
-massaggiare       	«Ma chi ti credi di essere?» commentò Ron massaggiandosi il piede che il fotografo gli aveva pestato.
-fotografo         	«Ma chi ti credi di essere?» commentò Ron massaggiandosi il piede che il fotografo gli aveva pestato.
-alzare            	Alzò lo sguardo. Vide Ron e poi vide Harry. Sgranò gli occhi.
-sgranare          	Alzò lo sguardo. Vide Ron e poi vide Harry. Sgranò gli occhi.
-fulgido           	«Fai un bel sorriso, Harry» disse Lockhart mettendo in mostra la sua fulgida dentatura.
-dentatura         	«Fai un bel sorriso, Harry» disse Lockhart mettendo in mostra la sua fulgida dentatura.
-rimandare         	È arrivata l’ora di fare un piccolo annuncio che rimando da troppo tempo!
-regalare          	Quando, oggi, il giovane Harry è entrato al Ghirigoro, voleva semplicemente acquistare la mia autobiografia, che ora sono lieto di regalargli» (qui la folla applaudì un’altra volta) «e non aveva la minima idea» continuò Lockhart dando a Harry un colpetto che gli fece scivolare gli occhiali sulla punta del naso, «che di lì a poco avrebbe avuto ben più del mio libro Magicamente io.
-applaudire        	Quando, oggi, il giovane Harry è entrato al Ghirigoro, voleva semplicemente acquistare la mia autobiografia, che ora sono lieto di regalargli» (qui la folla applaudì un’altra volta) «e non aveva la minima idea» continuò Lockhart dando a Harry un colpetto che gli fece scivolare gli occhiali sulla punta del naso, «che di lì a poco avrebbe avuto ben più del mio libro Magicamente io.
-assumere          	Sì, signore e signori, ho il grande piacere e l’orgoglio di annunciare che a settembre assumerò l’incarico di insegnante di Difesa contro le Arti Oscure alla Scuola di Magia e Stregoneria di Hogwarts!»
-barcollare        	Barcollando leggermente sotto tutto quel peso riuscì a farsi largo fuori dai riflettori guadagnando il fondo della sala, dove si trovava Ginny, in piedi accanto al suo nuovo paiolo.
-riflettore        	Barcollando leggermente sotto tutto quel peso riuscì a farsi largo fuori dai riflettori guadagnando il fondo della sala, dove si trovava Ginny, in piedi accanto al suo nuovo paiolo.
-prendere          	«Prendili tu, questi» le bofonchiò Harry rovesciando i libri dentro al calderone.
-suola             	«Ah, sei tu!» disse Ron guardando Malfoy come se fosse qualcosa di sgradevole che gli si era attaccato alla suola di una scarpa.
-superlavoro       	«Ho sentito che è un momento di superlavoro, al Ministero» disse Malfoy.
-pagare            	«Tutte quelle ispezioni... Spero bene che ti paghino gli straordinari!
-onta              	«Santo cielo, a che serve essere un’onta al nome stesso di mago se non ti pagano neanche a sufficienza?» Il signor Weasley divenne ancor più paonazzo di Ron e di Ginny.
-sufficienza       	«Santo cielo, a che serve essere un’onta al nome stesso di mago se non ti pagano neanche a sufficienza?» Il signor Weasley divenne ancor più paonazzo di Ron e di Ginny.
-screditare        	«Abbiamo un’idea molto diversa di quel che significa screditare il nome di mago, Malfoy» disse.
-sbiadito          	«Mi sembra chiaro» replicò Lucius Malfoy, e volse i suoi occhi sbiaditi sui Granger, che li guardavano con apprensione.
-apprensione       	«Mi sembra chiaro» replicò Lucius Malfoy, e volse i suoi occhi sbiaditi sui Granger, che li guardavano con apprensione.
-metallico         	«Le compagnie che frequenti, Weasley... eppure avrei detto che la tua famiglia avesse già toccato il fondo...» Ci fu un tonfo metallico e il calderone di Ginny volò in aria; il signor Weasley si era avventato su Lucius Malfoy, scaraventandolo contro uno scaffale.
-scaraventare      	«Le compagnie che frequenti, Weasley... eppure avrei detto che la tua famiglia avesse già toccato il fondo...» Ci fu un tonfo metallico e il calderone di Ginny volò in aria; il signor Weasley si era avventato su Lucius Malfoy, scaraventandolo contro uno scaffale.
-decina            	Decine di pesanti libri di incantesimi caddero sulle loro teste con gran fracasso.
-unanime           	Si udì il grido unanime di Fred e George: «Prendilo, papà!»«Prendilo, papà!»
-signore           	«Signori, vi prego... vi prego! gridava il commesso, e poi una voce che superava quella di tutti gli altri intimò: «Fatela finita, gente!» Hagrid avanzava nella loro direzione attraverso quel mare di libri.
-commesso          	«Signori, vi prego... vi prego! gridava il commesso, e poi una voce che superava quella di tutti gli altri intimò: «Fatela finita, gente!» Hagrid avanzava nella loro direzione attraverso quel mare di libri.
-fare              	«Signori, vi prego... vi prego! gridava il commesso, e poi una voce che superava quella di tutti gli altri intimò: «Fatela finita, gente!» Hagrid avanzava nella loro direzione attraverso quel mare di libri.
-separare          	In un attimo separò Weasley e Malfoy.
-spaccato          	Il primo aveva un labbro spaccato, mentre l’altro era stato colpito a un occhio da un volume dell’Enciclopedia dei funghi velenosi.
-enciclopedia      	Il primo aveva un labbro spaccato, mentre l’altro era stato colpito a un occhio da un volume dell’Enciclopedia dei funghi velenosi.
-stringere         	Stringeva ancora in mano il vecchio libro di Trasfigurazione di Ginny.
-dare              	«Tieni, ragazzina... prendi il tuo libro... è tutto quel che tuo padre riesce a darti!» E liberandosi dalla presa di Hagrid, fece un cenno a Draco e uscì in tutta fretta dal negozio.
-dovere            	«Non ci dovevi dar retta, Arthur» disse Hagrid quasi sollevando il signor Weasley da terra, mentre lui si ricomponeva gli abiti.
-ricomporre        	«Non ci dovevi dar retta, Arthur» disse Hagrid quasi sollevando il signor Weasley da terra, mentre lui si ricomponeva gli abiti.
-marcio            	«Sono marcissimi, tutta la famiglia, si sa.
-ripensare         	Sembrò che il commesso volesse impedire loro di uscire, ma poiché arrivava a stento alla cintola di Hagrid parve ripensarci.
-rissa             	«Bell’esempio da dare ai tuoi figli... una rissa in pubblico... che cosa avrà pensato Gilderoy Lockhart...» «Era tutto contento» disse Fred.
-uscire            	«Non lo hai sentito mentre uscivamo? Stava chiedendo a quel tizio della Gazzetta del Profeta se nel suo articolo poteva accennare alla rissa... ha detto che era tutta pubblicità».
-pubblicità        	«Non lo hai sentito mentre uscivamo? Stava chiedendo a quel tizio della Gazzetta del Profeta se nel suo articolo poteva accennare alla rissa... ha detto che era tutta pubblicità».
-placare           	Ma era un gruppo ormai placato quello che giunse al Paiolo Magico, da dove Harry, i Weasley e tutti i loro acquisti avrebbero fatto ritorno alla Tana usando la Polvere Volante.
-accomiatarsi      	Si accomiatarono dai Granger, che stavano uscendo dal pub diretti dalla parte opposta, per raggiungere i quartieri dei Babbani.
-diretto           	Si accomiatarono dai Granger, che stavano uscendo dal pub diretti dalla parte opposta, per raggiungere i quartieri dei Babbani.
-fermata           	Il signor Weasley aveva iniziato a chieder loro come funzionavano le fermate degli autobus, ma vista la faccia della moglie si affrettò a interrompersi.
-interrompersi     	Il signor Weasley aveva iniziato a chieder loro come funzionavano le fermate degli autobus, ma vista la faccia della moglie si affrettò a interrompersi.
-trasporto         	Decisamente, quello non era il suo mezzo di trasporto preferito.
+_ 	stranezza         	Ai Dursley piaceva che tutto fosse pulito e in ordine; la casa dei Weasley era tutta stranezze e imprevisti.
+_ 	imprevisto        	Ai Dursley piaceva che tutto fosse pulito e in ordine; la casa dei Weasley era tutta stranezze e imprevisti.
+_ 	scioccare         	Harry rimase scioccato la prima volta che, guardandosi allo specchio sul camino della cucina, quello gli gridò: «Infilati la camicia dentro i pantaloni, sciamannato!»
+_ 	sciamannato       	Harry rimase scioccato la prima volta che, guardandosi allo specchio sul camino della cucina, quello gli gridò: «Infilati la camicia dentro i pantaloni, sciamannato!»
+_ 	stato             	La signora Weasley era preoccupatissima dello stato dei suoi calzini e a tavola cercava di costringerlo a servirsi di ogni pietanza quattro volte.
+_ 	bombardare        	A cena il signor Weasley voleva che sedesse accanto a lui, in modo da poterlo bombardare di domande sulla vita dei Babbani e chiedergli di spiegare in che modo funzionassero cose come le prese elettriche e il servizio postale.
+_ 	elettrico         	A cena il signor Weasley voleva che sedesse accanto a lui, in modo da poterlo bombardare di domande sulla vita dei Babbani e chiedergli di spiegare in che modo funzionassero cose come le prese elettriche e il servizio postale.
+_ 	affascinante      	«Affascinante!» disse quando Harry gli spiegò l’uso del telefono.
+_ 	footing           	Manuale degli Incantesimi, Volume secondo, di Miranda Goshawk A banchetto con la banshee, di Gilderoy Lockhart Footing con la fattucchiera, di Gilderoy Lockhart Un inverno con lo yeti, di Gilderoy Lockhart Luna di miele con il lupo mannaro, di Gilderoy Lockhart A spasso con lo spettro, di Gilderoy Lockhart Trekking con il troll, di Gilderoy Lockhart In viaggio con il vampiro, di Gilderoy Lockhart Fred, che aveva finito di leggere il suo elenco, sbirciò quello di Harry.
+_ 	inverno           	Manuale degli Incantesimi, Volume secondo, di Miranda Goshawk A banchetto con la banshee, di Gilderoy Lockhart Footing con la fattucchiera, di Gilderoy Lockhart Un inverno con lo yeti, di Gilderoy Lockhart Luna di miele con il lupo mannaro, di Gilderoy Lockhart A spasso con lo spettro, di Gilderoy Lockhart Trekking con il troll, di Gilderoy Lockhart In viaggio con il vampiro, di Gilderoy Lockhart Fred, che aveva finito di leggere il suo elenco, sbirciò quello di Harry.
+_ 	miele             	Manuale degli Incantesimi, Volume secondo, di Miranda Goshawk A banchetto con la banshee, di Gilderoy Lockhart Footing con la fattucchiera, di Gilderoy Lockhart Un inverno con lo yeti, di Gilderoy Lockhart Luna di miele con il lupo mannaro, di Gilderoy Lockhart A spasso con lo spettro, di Gilderoy Lockhart Trekking con il troll, di Gilderoy Lockhart In viaggio con il vampiro, di Gilderoy Lockhart Fred, che aveva finito di leggere il suo elenco, sbirciò quello di Harry.
+_ 	spettro           	Manuale degli Incantesimi, Volume secondo, di Miranda Goshawk A banchetto con la banshee, di Gilderoy Lockhart Footing con la fattucchiera, di Gilderoy Lockhart Un inverno con lo yeti, di Gilderoy Lockhart Luna di miele con il lupo mannaro, di Gilderoy Lockhart A spasso con lo spettro, di Gilderoy Lockhart Trekking con il troll, di Gilderoy Lockhart In viaggio con il vampiro, di Gilderoy Lockhart Fred, che aveva finito di leggere il suo elenco, sbirciò quello di Harry.
+_ 	gilè              	Era già vestito di tutto punto, con il distintivo di prefetto di Hogwarts appuntato sul gilè.
+_ 	rialzare          	Si sedette sull’ultima sedia rimasta libera, ma si rialzò quasi subito di scatto, levandosi da sotto un piumino per la polvere grigio, tutto spennacchiato... o per lo meno, così pensò Harry fintanto che non si accorse che il piumino respirava.
+_ 	spennacchiare     	Si sedette sull’ultima sedia rimasta libera, ma si rialzò quasi subito di scatto, levandosi da sotto un piumino per la polvere grigio, tutto spennacchiato... o per lo meno, così pensò Harry fintanto che non si accorse che il piumino respirava.
+_ 	trespolo          	Andò a posare Errol su un trespolo vicino alla porta sul retro, cercando di farlo stare dritto, ma quello si accasciò di nuovo, per cui Ron lo distese sullo scolatoio mormorando: «Patetico!»
+_ 	scolatoio         	Andò a posare Errol su un trespolo vicino alla porta sul retro, cercando di farlo stare dritto, ma quello si accasciò di nuovo, per cui Ron lo distese sullo scolatoio mormorando: «Patetico!»
+_ 	patetico          	Andò a posare Errol su un trespolo vicino alla porta sul retro, cercando di farlo stare dritto, ma quello si accasciò di nuovo, per cui Ron lo distese sullo scolatoio mormorando: «Patetico!»
+_ 	illegale          	Caro Ron e caro Harry, se anche tu sei lì, spero che sia andato tutto liscio, e che Harry stia bene e che non abbiate fatto niente di illegale per portarlo via, Ron, perché se così fosse questo metterebbe nei guai anche lui.
+_ 	sinceramente      	Sono stata sinceramente preoccupata e se Harry sta bene, fatemelo sapere immediatamente (magari usando un gufo diverso, perché un’altra consegna potrebbe essere fatale a quello che avete ora).
+_ 	fatale            	Sono stata sinceramente preoccupata e se Harry sta bene, fatemelo sapere immediatamente (magari usando un gufo diverso, perché un’altra consegna potrebbe essere fatale a quello che avete ora).
+_ 	cascare           	«Be’, casca proprio a fagiolo.
+_ 	sparecchiare      	Possiamo andare anche noi a comprare tutto quel che vi serve» disse la signora Weasley cominciando a sparecchiare.
+_ 	recintare         	«Quali sono i vostri programmi di oggi?» Harry, Ron, Fred e George pensavano di risalire la collina fino a un piccolo campo recintato di proprietà dei Weasley.
+_ 	proprietà         	«Quali sono i vostri programmi di oggi?» Harry, Ron, Fred e George pensavano di risalire la collina fino a un piccolo campo recintato di proprietà dei Weasley.
+_ 	sottostante       	Era circondato da alberi che lo nascondevano alla vista del paese sottostante, il che significava potersi allenare a Quidditch, purché non volassero troppo alto.
+_ 	purché            	Era circondato da alberi che lo nascondevano alla vista del paese sottostante, il che significava potersi allenare a Quidditch, purché non volassero troppo alto.
+_ 	lancio            	Non potevano usare vere palle da Quidditch perché se avessero raggiunto il villaggio in qualche lancio troppo audace sarebbe stato difficile dare spiegazioni; così si esercitavano lanciandosi delle mele.
+_ 	interrogativo     	«Grado Ufficiale di Fattucchiere Ordinario» spiegò George vedendo lo sguardo interrogativo di Harry.
+_ 	secondogenito     	Lui e Charlie, il secondogenito, avevano già lasciato Hogwarts.
+_ 	Egitto            	Harry non li aveva mai incontrati, ma sapeva che Charlie era in Romania a studiare i draghi e Bill in Egitto a lavorare per la Gringott, la banca dei maghi.
+_ 	gruzzolo          	Non aveva mai parlato ai Dursley del suo conto in banca alla Gringott; era sicuro che il loro orrore per qualsiasi cosa avesse a che fare con la magia sarebbe scomparso d’incanto di fronte a un bel gruzzolo d’oro.
+_ 	spuntino          	Dopo uno spuntino veloce, di soli cinque o sei panini con la pancetta a testa, si infilarono i giubbotti; la signora Weasley prese un vaso da fiori sulla mensola del camino e ci guardò dentro.
+_ 	giubbotto         	Dopo uno spuntino veloce, di soli cinque o sei panini con la pancetta a testa, si infilarono i giubbotti; la signora Weasley prese un vaso da fiori sulla mensola del camino e ci guardò dentro.
+_ 	viaggiare         	«Lui non ha mai viaggiato con la Polvere Volante» disse Ron d’un tratto.
+_ 	pizzico           	Prese dal vaso un pizzico di polvere scintillante, si avvicinò al fuoco e la gettò tra le fiamme.
+_ 	fuliggine         	«E gli occhi chiusi» incalzò la signora Weasley. «La fuliggine...»
+_ 	scarico           	Ebbe la sensazione di essere risucchiato in un gigantesco scarico.
+_ 	vorticosamente    	Gli sembrò di girare vorticosamente... il rombo nelle orecchie era assordante... Cercò di tenere gli occhi aperti, ma il turbinio delle fiamme verdi lo faceva sentir male... Qualcosa di duro gli colpì il gomito, e lui se lo strinse al corpo, continuando a roteare... Poi gli parve che delle mani gelide lo stessero schiaffeggiando... Aprì un po’ gli occhi e vide sfilare una serie confusa di camini e degli scorci delle stanze dietro di essi.
+_ 	turbinio          	Gli sembrò di girare vorticosamente... il rombo nelle orecchie era assordante... Cercò di tenere gli occhi aperti, ma il turbinio delle fiamme verdi lo faceva sentir male... Qualcosa di duro gli colpì il gomito, e lui se lo strinse al corpo, continuando a roteare... Poi gli parve che delle mani gelide lo stessero schiaffeggiando... Aprì un po’ gli occhi e vide sfilare una serie confusa di camini e degli scorci delle stanze dietro di essi.
+_ 	schiaffeggiare    	Gli sembrò di girare vorticosamente... il rombo nelle orecchie era assordante... Cercò di tenere gli occhi aperti, ma il turbinio delle fiamme verdi lo faceva sentir male... Qualcosa di duro gli colpì il gomito, e lui se lo strinse al corpo, continuando a roteare... Poi gli parve che delle mani gelide lo stessero schiaffeggiando... Aprì un po’ gli occhi e vide sfilare una serie confusa di camini e degli scorci delle stanze dietro di essi.
+_ 	scorcio           	Gli sembrò di girare vorticosamente... il rombo nelle orecchie era assordante... Cercò di tenere gli occhi aperti, ma il turbinio delle fiamme verdi lo faceva sentir male... Qualcosa di duro gli colpì il gomito, e lui se lo strinse al corpo, continuando a roteare... Poi gli parve che delle mani gelide lo stessero schiaffeggiando... Aprì un po’ gli occhi e vide sfilare una serie confusa di camini e degli scorci delle stanze dietro di essi.
+_ 	ballare           	I panini con la pancetta gli ballavano nello stomaco...
+_ 	avvizzito         	In una teca di vetro c’erano una mano avvizzita, appoggiata su un cuscino, un mazzo di carte macchiate di sangue e un occhio di vetro che lo guardava fisso.
+_ 	macchiato         	In una teca di vetro c’erano una mano avvizzita, appoggiata su un cuscino, un mazzo di carte macchiate di sangue e un occhio di vetro che lo guardava fisso.
+_ 	maschera          	Dalle pareti, maschere dall’espressione maligna sembravano spiarlo, sopra al bancone era accatastato un assortimento di ossa umane e dal soffitto pendevano strumenti arrugginiti e acuminati.
+_ 	assortimento      	Dalle pareti, maschere dall’espressione maligna sembravano spiarlo, sopra al bancone era accatastato un assortimento di ossa umane e dal soffitto pendevano strumenti arrugginiti e acuminati.
+_ 	individuo         	Con il naso ancora dolorante nel punto in cui aveva sbattuto contro la pietra del focolare Harry si affrettò a raggiungere silenziosamente la porta, ma era appena a mezza strada quando, dall’altra parte del vetro, apparvero due individui... uno dei quali era l’ultima persona che Harry in quel momento, spaesato, coperto di fuliggine e con gli occhiali rotti, avrebbe voluto incontrare: Draco Malfoy.
+_ 	spaesato          	Con il naso ancora dolorante nel punto in cui aveva sbattuto contro la pietra del focolare Harry si affrettò a raggiungere silenziosamente la porta, ma era appena a mezza strada quando, dall’altra parte del vetro, apparvero due individui... uno dei quali era l’ultima persona che Harry in quel momento, spaesato, coperto di fuliggine e con gli occhiali rotti, avrebbe voluto incontrare: Draco Malfoy.
+_ 	appuntito         	Aveva lo stesso viso pallido e appuntito, gli stessi gelidi occhi grigi.
+_ 	esposto           	Il signor Malfoy attraversò il negozio guardando distrattamente gli oggetti esposti, suonò il campanello sul bancone e raccomandò al ragazzo:
+_ 	teschio           	Malfoy si chinò per esaminare uno scaffale pieno zeppo di teschi.
+_ 	mostrarsi         	Potter il Magnifico, con la sua cicatrice e la sua scopa...» «Me lo hai già raccontato mille volte» disse il signor Malfoy con un’occhiata raggelante, «e vorrei ricordarti che non è... prudente... mostrarsi poco entusiasti di Harry Potter, non quando la maggior parte di noi lo considera l’eroe responsabile della scomparsa del Signore Oscuro... Ah, signor Borgin».
+_ 	responsabile      	Potter il Magnifico, con la sua cicatrice e la sua scopa...» «Me lo hai già raccontato mille volte» disse il signor Malfoy con un’occhiata raggelante, «e vorrei ricordarti che non è... prudente... mostrarsi poco entusiasti di Harry Potter, non quando la maggior parte di noi lo considera l’eroe responsabile della scomparsa del Signore Oscuro... Ah, signor Borgin».
+_ 	scomparsa         	Potter il Magnifico, con la sua cicatrice e la sua scopa...» «Me lo hai già raccontato mille volte» disse il signor Malfoy con un’occhiata raggelante, «e vorrei ricordarti che non è... prudente... mostrarsi poco entusiasti di Harry Potter, non quando la maggior parte di noi lo considera l’eroe responsabile della scomparsa del Signore Oscuro... Ah, signor Borgin».
+_ 	unto              	Un uomo curvo era apparso dietro al bancone, scostandosi dal viso una ciocca di capelli unti.
+_ 	capigliatura      	«Signor Malfoy, che piacere rivederla» disse Borgin con una voce untuosa come la sua capigliatura.
+_ 	signorino         	«Lietissimo... e anche il signorino Malfoy... Che gioia!
+_ 	metter            	«Io ho... qualche... oggetto, a casa, che potrebbe mettermi in difficoltà se il Ministero dovesse venire a farmi visita...» Borgin si aggiustò gli occhialini sul naso.
+_ 	occhialino        	«Io ho... qualche... oggetto, a casa, che potrebbe mettermi in difficoltà se il Ministero dovesse venire a farmi visita...» Borgin si aggiustò gli occhialini sul naso.
+_ 	incurvarsi        	Le labbra del signor Malfoy si incurvarono.
+_ 	babbanofilo       	Girano voci su una nuova Legge per la Protezione dei Babbani: senza dubbio, dietro ci deve essere quello stupido, pidocchioso Babbanofilo di Arthur Weasley...» Harry sentì montare la rabbia.
+_ 	inserire          	«Se vi inserite una candela, fa luce, ma solo a colui che la regge!
+_ 	amici             	È l’amica fidata di ladri e scassinatori.
+_ 	scassinatore      	È l’amica fidata di ladri e scassinatori.
+_ 	prediletto        	«Tutti gli insegnanti hanno i loro prediletti, quella Hermione Granger...» «Avrei creduto che ti saresti vergognato a farti superare in tutti gli esami da una figlia di Babbani!» sbottò Malfoy.
+_ 	altrove           	«Ho una certa fretta, Borgin, ho affari importanti che mi aspettano altrove, oggi».
+_ 	contrattare       	Cominciarono a contrattare.
+_ 	nascondiglio      	Con un certo nervosismo Harry vide Draco avvicinarsi sempre più al suo nascondiglio, esaminando gli oggetti in vendita.
+_ 	vendita           	Con un certo nervosismo Harry vide Draco avvicinarsi sempre più al suo nascondiglio, esaminando gli oggetti in vendita.
+_ 	impiccagione      	Il ragazzo si fermò a guardare un lungo rotolo di corda per impiccagioni e si soffermò a leggere, con un ghigno, il cartellino appeso su una stupenda collana di opali: ‘Attenzione: non toccare.
+_ 	stupendo          	Il ragazzo si fermò a guardare un lungo rotolo di corda per impiccagioni e si soffermò a leggere, con un ghigno, il cartellino appeso su una stupenda collana di opali: ‘Attenzione: non toccare.
+_ 	collana           	Il ragazzo si fermò a guardare un lungo rotolo di corda per impiccagioni e si soffermò a leggere, con un ghigno, il cartellino appeso su una stupenda collana di opali: ‘Attenzione: non toccare.
+_ 	opale             	Il ragazzo si fermò a guardare un lungo rotolo di corda per impiccagioni e si soffermò a leggere, con un ghigno, il cartellino appeso su una stupenda collana di opali: ‘Attenzione: non toccare.
+_ 	diciannove        	Fino a oggi è costata la vita a diciannove Babbane che l’hanno posseduta’.
+_ 	villa             	La aspetto domani alla villa per consegnarle la merce».
+_ 	merce             	La aspetto domani alla villa per consegnarle la merce».
+_ 	retrobottega      	Poi, bofonchiando parole oscure, Borgin scomparve nel retrobottega.
+_ 	vicolo            	Era emerso in un sordido vicolo dove sembravano esserci esclusivamente negozi dedicati alle Arti Oscure.
+_ 	esclusivamente    	Era emerso in un sordido vicolo dove sembravano esserci esclusivamente negozi dedicati alle Arti Oscure.
+_ 	avvizzire         	Quello da cui era appena uscito, Borgin & Burke, sembrava il più grande, ma di fronte c’era un’orribile vetrina con in mostra teste avvizzite e due porte più giù un’immensa gabbia brulicava di giganteschi ragni neri.
+_ 	brulicare         	Quello da cui era appena uscito, Borgin & Burke, sembrava il più grande, ma di fronte c’era un’orribile vetrina con in mostra teste avvizzite e due porte più giù un’immensa gabbia brulicava di giganteschi ragni neri.
+_ 	androne           	Due maghi in malarnese lo osservavano dall’oscurità di un androne bisbigliando tra loro.
+_ 	augurarsi         	Con un certo nervosismo Harry si avviò, sempre tenendosi gli occhiali e augurandosi, contro ogni speranza, di trovare la strada per uscire da quel posto.
+_ 	destinazione      	Pensò di non aver pronunciato abbastanza chiaramente la sua destinazione, con tutta quella cenere che gli era entrata in bocca nel camino dei Weasley.
+_ 	orribilmente      	Davanti a lui c’era una vecchia strega con in mano un vassoio di quelle che assomigliavano orribilmente a unghie umane.
+_ 	unghia            	Davanti a lui c’era una vecchia strega con in mano un vassoio di quelle che assomigliavano orribilmente a unghie umane.
+_ 	cascata           	E anche alla strega; una cascata di unghie le scivolò sui piedi e imprecò, mentre la sagoma massiccia di Hagrid, il guardacaccia di Hogwarts, si avvicinava a gran passi, con gli occhi neri come il carbone che lampeggiavano tra la barba irsuta.
+_ 	carbone           	E anche alla strega; una cascata di unghie le scivolò sui piedi e imprecò, mentre la sagoma massiccia di Hagrid, il guardacaccia di Hogwarts, si avvicinava a gran passi, con gli occhi neri come il carbone che lampeggiavano tra la barba irsuta.
+_ 	lampeggiare       	E anche alla strega; una cascata di unghie le scivolò sui piedi e imprecò, mentre la sagoma massiccia di Hagrid, il guardacaccia di Hogwarts, si avvicinava a gran passi, con gli occhi neri come il carbone che lampeggiavano tra la barba irsuta.
+_ 	chiocciare        	«Hagrid!» chiocciò Harry con sollievo.
+_ 	agguantare        	«Mi sono perso... La Polvere Volante...» Hagrid lo agguantò per la collottola e lo allontanò dalla strega, buttandole all’aria il vassoio.
+_ 	schifezza         	«Sei una schifezza! disse Hagrid burbero, scrollandogli di dosso la fuliggine con tale energia da farlo quasi cadere in un barile di guano di drago fuori dalla bottega di uno speziale.
+_ 	energia           	«Sei una schifezza! disse Hagrid burbero, scrollandogli di dosso la fuliggine con tale energia da farlo quasi cadere in un barile di guano di drago fuori dalla bottega di uno speziale.
+_ 	guano             	«Sei una schifezza! disse Hagrid burbero, scrollandogli di dosso la fuliggine con tale energia da farlo quasi cadere in un barile di guano di drago fuori dalla bottega di uno speziale.
+_ 	pigliare          	«Ma che ti piglia, andartene a spasso per Notturn Alley... Posto infame, Harry... Non mi garba che ti fai vedere qui...» «Me ne sono reso conto» disse Harry cercando di schivare un’altra energica scrollata.
+_ 	infame            	«Ma che ti piglia, andartene a spasso per Notturn Alley... Posto infame, Harry... Non mi garba che ti fai vedere qui...» «Me ne sono reso conto» disse Harry cercando di schivare un’altra energica scrollata.
+_ 	garbare           	«Ma che ti piglia, andartene a spasso per Notturn Alley... Posto infame, Harry... Non mi garba che ti fai vedere qui...» «Me ne sono reso conto» disse Harry cercando di schivare un’altra energica scrollata.
+_ 	energico          	«Ma che ti piglia, andartene a spasso per Notturn Alley... Posto infame, Harry... Non mi garba che ti fai vedere qui...» «Me ne sono reso conto» disse Harry cercando di schivare un’altra energica scrollata.
+_ 	scrollata         	«Ma che ti piglia, andartene a spasso per Notturn Alley... Posto infame, Harry... Non mi garba che ti fai vedere qui...» «Me ne sono reso conto» disse Harry cercando di schivare un’altra energica scrollata.
+_ 	carnivoro         	«Io cercavo un repellente per lumache carnivore» brontolò Hagrid.
+_ 	falcata           	«Io a te t’ho scritto, perché tu no?» chiese Hagrid mentre Harry gli trotterellava accanto (per ogni falcata degli enormi stivali del guardacaccia lui doveva fare tre passi).
+_ 	fetente           	«Fetenti di Babbani!» ringhiò Hagrid.
+_ 	asciugarsi        	Si asciugò la pelata lucente.
+_ 	pelata            	Si asciugò la pelata lucente.
+_ 	invidia           	«Noi non abbiamo mai avuto il permesso di andarci» commentò Ron pieno di invidia.
+_ 	spazzola          	«Harry!... Oh, santo cielo... potevi finire chissà dove...» Riprendendo fiato, tirò fuori dalla borsa una grossa spazzola da panni e cominciò a togliergli di dosso la fuliggine che Hagrid non era riuscito a eliminare con le sue manate.
+_ 	panno             	«Harry!... Oh, santo cielo... potevi finire chissà dove...» Riprendendo fiato, tirò fuori dalla borsa una grossa spazzola da panni e cominciò a togliergli di dosso la fuliggine che Hagrid non era riuscito a eliminare con le sue manate.
+_ 	eliminare         	«Harry!... Oh, santo cielo... potevi finire chissà dove...» Riprendendo fiato, tirò fuori dalla borsa una grossa spazzola da panni e cominciò a togliergli di dosso la fuliggine che Hagrid non era riuscito a eliminare con le sue manate.
+_ 	manata            	«Harry!... Oh, santo cielo... potevi finire chissà dove...» Riprendendo fiato, tirò fuori dalla borsa una grossa spazzola da panni e cominciò a togliergli di dosso la fuliggine che Hagrid non era riuscito a eliminare con le sue manate.
+_ 	becchare          	«Ci becchiamo a Hogwarts!» E si allontanò a gran passi, sovrastando chiunque altro nella strada affollata.
+_ 	stazionare        	«Oh, quanto mi piacerebbe incastrare Lucius Malfoy!» «Tu devi stare molto attento, Arthur» disse la signora Weasley in tono aspro, mentre un goblin che stazionava sulla porta li introduceva nella banca con un inchino.
+_ 	fonte             	«Quella famiglia è una fonte di guai e Malfoy è un osso troppo duro per te!
+_ 	entusiasticamente 	Guarda, Molly!» e indicò entusiasticamente le banconote da dieci sterline che il signor Granger teneva in mano.
+_ 	utilizzare        	Le camere blindate venivano raggiunte utilizzando dei piccoli carrelli guidati da goblin che, lungo rotaie in miniatura, correvano per i sotterranei della banca.
+_ 	rotaia            	Le camere blindate venivano raggiunte utilizzando dei piccoli carrelli guidati da goblin che, lungo rotaie in miniatura, correvano per i sotterranei della banca.
+_ 	miniatura         	Le camere blindate venivano raggiunte utilizzando dei piccoli carrelli guidati da goblin che, lungo rotaie in miniatura, correvano per i sotterranei della banca.
+_ 	scarrozzare       	A Harry piacque molto la scarrozzata a rotta di collo fino alla camera blindata dei Weasley ma si sentì terribilmente a disagio, molto peggio di come si era sentito a Notturn Alley, quando venne aperta.
+_ 	esiguo            	C’era un esiguo mucchietto di zellini d’argento e soltanto un galeone d’oro.
+_ 	ispezionare       	La signora Weasley ispezionò ben bene gli angoli, prima di raccogliere tutto nella borsa.
+_ 	acciottolato      	Harry, Ron e Hermione si avviarono lungo l’acciottolato della via tortuosa.
+_ 	tintinnare        	Le monete d’oro, d’argento e di bronzo tintinnavano allegramente nella borsa di Harry e reclamavano di essere spese.
+_ 	reclamare         	Le monete d’oro, d’argento e di bronzo tintinnavano allegramente nella borsa di Harry e reclamavano di essere spese.
+_ 	arachide          	Fu così che comprò tre grossi gelati alla fragola e al burro di arachidi che divorarono tutti felici, gironzolando e guardando le vetrine.
+_ 	rifornimento      	Nella bottega ‘Gambol & Jape: Scherzi da maghi’ incontrarono Fred, George e Lee Jordan che facevano rifornimento di Favolosi Fuochi d’artificio freddi del dottor Filibuster con innesco ad acqua, e in un piccolo negozio di cianfrusaglie, pieno di bacchette rotte, di traballanti bilance d’ottone e di vecchi mantelli tutti impataccati trovarono Percy, immerso nella lettura di un noiosissimo libretto dal titolo: Prefetti che hanno conquistato il potere.
+_ 	dottore           	Nella bottega ‘Gambol & Jape: Scherzi da maghi’ incontrarono Fred, George e Lee Jordan che facevano rifornimento di Favolosi Fuochi d’artificio freddi del dottor Filibuster con innesco ad acqua, e in un piccolo negozio di cianfrusaglie, pieno di bacchette rotte, di traballanti bilance d’ottone e di vecchi mantelli tutti impataccati trovarono Percy, immerso nella lettura di un noiosissimo libretto dal titolo: Prefetti che hanno conquistato il potere.
+_ 	innesco           	Nella bottega ‘Gambol & Jape: Scherzi da maghi’ incontrarono Fred, George e Lee Jordan che facevano rifornimento di Favolosi Fuochi d’artificio freddi del dottor Filibuster con innesco ad acqua, e in un piccolo negozio di cianfrusaglie, pieno di bacchette rotte, di traballanti bilance d’ottone e di vecchi mantelli tutti impataccati trovarono Percy, immerso nella lettura di un noiosissimo libretto dal titolo: Prefetti che hanno conquistato il potere.
+_ 	cianfrusaglia     	Nella bottega ‘Gambol & Jape: Scherzi da maghi’ incontrarono Fred, George e Lee Jordan che facevano rifornimento di Favolosi Fuochi d’artificio freddi del dottor Filibuster con innesco ad acqua, e in un piccolo negozio di cianfrusaglie, pieno di bacchette rotte, di traballanti bilance d’ottone e di vecchi mantelli tutti impataccati trovarono Percy, immerso nella lettura di un noiosissimo libretto dal titolo: Prefetti che hanno conquistato il potere.
+_ 	impataccare       	Nella bottega ‘Gambol & Jape: Scherzi da maghi’ incontrarono Fred, George e Lee Jordan che facevano rifornimento di Favolosi Fuochi d’artificio freddi del dottor Filibuster con innesco ad acqua, e in un piccolo negozio di cianfrusaglie, pieno di bacchette rotte, di traballanti bilance d’ottone e di vecchi mantelli tutti impataccati trovarono Percy, immerso nella lettura di un noiosissimo libretto dal titolo: Prefetti che hanno conquistato il potere.
+_ 	libretto          	Nella bottega ‘Gambol & Jape: Scherzi da maghi’ incontrarono Fred, George e Lee Jordan che facevano rifornimento di Favolosi Fuochi d’artificio freddi del dottor Filibuster con innesco ad acqua, e in un piccolo negozio di cianfrusaglie, pieno di bacchette rotte, di traballanti bilance d’ottone e di vecchi mantelli tutti impataccati trovarono Percy, immerso nella lettura di un noiosissimo libretto dal titolo: Prefetti che hanno conquistato il potere.
+_ 	ambizioso         	«Certo, lui è molto ambizioso. Ha programmato tutto... Vuole diventare Ministro della Magia...» disse sottovoce Ron a Harry e Hermione mentre lasciavano Percy al suo destino.
+_ 	sgomitare         	Ma non erano certo i soli: quando furono più vicini, videro con grande sorpresa una vera e propria folla che sgomitava per entrare.
+_ 	autobiografia     	Oggi, dalle 12,30 alle 16,30, GILDEROY LOCKHART firmerà copie della sua autobiografia Magicamente io
+_ 	magicamente       	Oggi, dalle 12,30 alle 16,30, GILDEROY LOCKHART firmerà copie della sua autobiografia Magicamente io
+_ 	comporre          	«Voglio dire, è lui che ha scritto quasi tutti i nostri libri di testo!» La folla sembrava composta per lo più di streghe dell’età della signora Weasley.
+_ 	raccomandare      	Un mago, dall’aria sfinita, stava sulla porta raccomandando: «Piano, per favore, signore... Ehi, là, non spingete... Attenzione ai libri...»
+_ 	snodarsi          	Una lunga fila si snodava fino al retro del negozio, dove Gilderoy Lockhart stava autografando i suoi libri.
+_ 	autografare       	Una lunga fila si snodava fino al retro del negozio, dove Gilderoy Lockhart stava autografando i suoi libri.
+_ 	intrufolarsi      	Tutti e tre i ragazzi afferrarono una copia del manuale A banchetto con la banshee, e si intrufolarono tra la folla fino a raggiungere i Weasley, che facevano la fila insieme ai Granger.
+_ 	gigantografia     	«Tra un minuto lo vedremo...» A poco a poco ecco apparire Gilderoy Lockhart, seduto a un tavolo e circondato da gigantografie della sua faccia: erano tutte ammiccanti e mostravano alla folla due file di denti di un candore abbagliante.
+_ 	candore           	«Tra un minuto lo vedremo...» A poco a poco ecco apparire Gilderoy Lockhart, seduto a un tavolo e circondato da gigantografie della sua faccia: erano tutte ammiccanti e mostravano alla folla due file di denti di un candore abbagliante.
+_ 	abbagliante       	«Tra un minuto lo vedremo...» A poco a poco ecco apparire Gilderoy Lockhart, seduto a un tavolo e circondato da gigantografie della sua faccia: erano tutte ammiccanti e mostravano alla folla due file di denti di un candore abbagliante.
+_ 	adattare          	Il vero Lockhart indossava una veste color nontiscordardimé, che si adattava perfettamente alla tonalità dei suoi occhi; sui capelli ondulati portava, disinvoltamente poggiato di lato, il cappello a punta da mago.
+_ 	tonalità          	Il vero Lockhart indossava una veste color nontiscordardimé, che si adattava perfettamente alla tonalità dei suoi occhi; sui capelli ondulati portava, disinvoltamente poggiato di lato, il cappello a punta da mago.
+_ 	disinvoltamente   	Il vero Lockhart indossava una veste color nontiscordardimé, che si adattava perfettamente alla tonalità dei suoi occhi; sui capelli ondulati portava, disinvoltamente poggiato di lato, il cappello a punta da mago.
+_ 	irascibile        	Un ometto basso e irascibile gli danzava intorno scattando foto con una grossa macchina fotografica nera che a ogni guizzo accecante del flash emetteva nuvolette di fumo color porpora.
+_ 	fotografico       	Un ometto basso e irascibile gli danzava intorno scattando foto con una grossa macchina fotografica nera che a ogni guizzo accecante del flash emetteva nuvolette di fumo color porpora.
+_ 	flash             	Un ometto basso e irascibile gli danzava intorno scattando foto con una grossa macchina fotografica nera che a ogni guizzo accecante del flash emetteva nuvolette di fumo color porpora.
+_ 	inquadratura      	«Ehi tu, levati di torno» intimò a Ron arretrando per prendere un’inquadratura migliore.
+_ 	massaggiare       	«Ma chi ti credi di essere?» commentò Ron massaggiandosi il piede che il fotografo gli aveva pestato.
+_ 	fotografo         	«Ma chi ti credi di essere?» commentò Ron massaggiandosi il piede che il fotografo gli aveva pestato.
+_ 	fulgido           	«Fai un bel sorriso, Harry» disse Lockhart mettendo in mostra la sua fulgida dentatura.
+_ 	dentatura         	«Fai un bel sorriso, Harry» disse Lockhart mettendo in mostra la sua fulgida dentatura.
+_ 	riflettore        	Barcollando leggermente sotto tutto quel peso riuscì a farsi largo fuori dai riflettori guadagnando il fondo della sala, dove si trovava Ginny, in piedi accanto al suo nuovo paiolo.
+_ 	suola             	«Ah, sei tu!» disse Ron guardando Malfoy come se fosse qualcosa di sgradevole che gli si era attaccato alla suola di una scarpa.
+_ 	superlavoro       	«Ho sentito che è un momento di superlavoro, al Ministero» disse Malfoy.
+_ 	onta              	«Santo cielo, a che serve essere un’onta al nome stesso di mago se non ti pagano neanche a sufficienza?» Il signor Weasley divenne ancor più paonazzo di Ron e di Ginny.
+_ 	sufficienza       	«Santo cielo, a che serve essere un’onta al nome stesso di mago se non ti pagano neanche a sufficienza?» Il signor Weasley divenne ancor più paonazzo di Ron e di Ginny.
+_ 	screditare        	«Abbiamo un’idea molto diversa di quel che significa screditare il nome di mago, Malfoy» disse.
+_ 	apprensione       	«Mi sembra chiaro» replicò Lucius Malfoy, e volse i suoi occhi sbiaditi sui Granger, che li guardavano con apprensione.
+_ 	metallico         	«Le compagnie che frequenti, Weasley... eppure avrei detto che la tua famiglia avesse già toccato il fondo...» Ci fu un tonfo metallico e il calderone di Ginny volò in aria; il signor Weasley si era avventato su Lucius Malfoy, scaraventandolo contro uno scaffale.
+_ 	unanime           	Si udì il grido unanime di Fred e George: «Prendilo, papà!»«Prendilo, papà!»
+_ 	commesso          	«Signori, vi prego... vi prego! gridava il commesso, e poi una voce che superava quella di tutti gli altri intimò: «Fatela finita, gente!» Hagrid avanzava nella loro direzione attraverso quel mare di libri.
+_ 	spaccato          	Il primo aveva un labbro spaccato, mentre l’altro era stato colpito a un occhio da un volume dell’Enciclopedia dei funghi velenosi.
+_ 	enciclopedia      	Il primo aveva un labbro spaccato, mentre l’altro era stato colpito a un occhio da un volume dell’Enciclopedia dei funghi velenosi.
+_ 	ricomporre        	«Non ci dovevi dar retta, Arthur» disse Hagrid quasi sollevando il signor Weasley da terra, mentre lui si ricomponeva gli abiti.
+_ 	rissa             	«Bell’esempio da dare ai tuoi figli... una rissa in pubblico... che cosa avrà pensato Gilderoy Lockhart...» «Era tutto contento» disse Fred.
+_ 	pubblicità        	«Non lo hai sentito mentre uscivamo? Stava chiedendo a quel tizio della Gazzetta del Profeta se nel suo articolo poteva accennare alla rissa... ha detto che era tutta pubblicità».
+_ 	placare           	Ma era un gruppo ormai placato quello che giunse al Paiolo Magico, da dove Harry, i Weasley e tutti i loro acquisti avrebbero fatto ritorno alla Tana usando la Polvere Volante.
+_ 	accomiatarsi      	Si accomiatarono dai Granger, che stavano uscendo dal pub diretti dalla parte opposta, per raggiungere i quartieri dei Babbani.
+_ 	fermata           	Il signor Weasley aveva iniziato a chieder loro come funzionavano le fermate degli autobus, ma vista la faccia della moglie si affrettò a interrompersi.
+_ 	interrompersi     	Il signor Weasley aveva iniziato a chieder loro come funzionavano le fermate degli autobus, ma vista la faccia della moglie si affrettò a interrompersi.
+_ 	trasporto         	Decisamente, quello non era il suo mezzo di trasporto preferito.
