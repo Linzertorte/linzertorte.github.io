@@ -1,0 +1,541 @@
+benché           	benché          	Benché si rendesse conto che era giorno fatto, tenne gli occhi ben chiusi.
+sfondato         	sfondato        	Hagrid, in carne e ossa, dormiva sul divano sfondato e un gufo raspava con gli artigli alla finestra, tenendo un giornale nel becco.
+raspava          	raspare         	Hagrid, in carne e ossa, dormiva sul divano sfondato e un gufo raspava con gli artigli alla finestra, tenendo un giornale nel becco.
+artigli          	artiglio        	Hagrid, in carne e ossa, dormiva sul divano sfondato e un gufo raspava con gli artigli alla finestra, tenendo un giornale nel becco.
+leggero          	leggero         	Era talmente contento che si sentiva leggero come un palloncino.
+palloncino       	palloncino      	Era talmente contento che si sentiva leggero come un palloncino.
+svolazzare       	svolazzare      	Il gufo volò dentro e lasciò cadere il giornale su Hagrid, e poiché non si svegliava, cominciò a svolazzare sul pavimento beccando il suo pastrano.
+beccando         	beccare         	Il gufo volò dentro e lasciò cadere il giornale su Hagrid, e poiché non si svegliava, cominciò a svolazzare sul pavimento beccando il suo pastrano.
+scacciarlo       	scacciare       	Harry cercò di scacciarlo con la mano, ma quello schioccò il becco con aria feroce e continuò a infierire sul soprabito.
+schioccò         	schioccare      	Harry cercò di scacciarlo con la mano, ma quello schioccò il becco con aria feroce e continuò a infierire sul soprabito.
+infierire        	infierire       	Harry cercò di scacciarlo con la mano, ma quello schioccò il becco con aria feroce e continuò a infierire sul soprabito.
+soprabito        	soprabito       	Harry cercò di scacciarlo con la mano, ma quello schioccò il becco con aria feroce e continuò a infierire sul soprabito.
+bisogna          	bisognare       	«Come?» «Bisogna pagarlo per la consegna del giornale.
+consegna         	consegna        	«Come?» «Bisogna pagarlo per la consegna del giornale.
+mazzi            	mazzo           	Mazzi di chiavi, repellente per lumache in granelli, gomitoli di spago, caramelle alla menta, bustine di tè... finalmente, Harry tirò fuori una manciata di monete dall’aspetto strano.
+repellente       	repellente      	Mazzi di chiavi, repellente per lumache in granelli, gomitoli di spago, caramelle alla menta, bustine di tè... finalmente, Harry tirò fuori una manciata di monete dall’aspetto strano.
+granelli         	granello        	Mazzi di chiavi, repellente per lumache in granelli, gomitoli di spago, caramelle alla menta, bustine di tè... finalmente, Harry tirò fuori una manciata di monete dall’aspetto strano.
+gomitoli         	gomitolo        	Mazzi di chiavi, repellente per lumache in granelli, gomitoli di spago, caramelle alla menta, bustine di tè... finalmente, Harry tirò fuori una manciata di monete dall’aspetto strano.
+spago            	spago           	Mazzi di chiavi, repellente per lumache in granelli, gomitoli di spago, caramelle alla menta, bustine di tè... finalmente, Harry tirò fuori una manciata di monete dall’aspetto strano.
+menta            	menta           	Mazzi di chiavi, repellente per lumache in granelli, gomitoli di spago, caramelle alla menta, bustine di tè... finalmente, Harry tirò fuori una manciata di monete dall’aspetto strano.
+bustine          	bustina         	Mazzi di chiavi, repellente per lumache in granelli, gomitoli di spago, caramelle alla menta, bustine di tè... finalmente, Harry tirò fuori una manciata di monete dall’aspetto strano.
+monete           	moneta          	Mazzi di chiavi, repellente per lumache in granelli, gomitoli di spago, caramelle alla menta, bustine di tè... finalmente, Harry tirò fuori una manciata di monete dall’aspetto strano.
+assonnata        	assonnato       	«Dagli cinque zellini» disse Hagrid con voce assonnata.
+bronzo           	bronzo          	» «Le monetine di bronzo».
+denaro           	denaro          	Harry contò cinque piccole monete di bronzo e il gufo allungò la zampa per consentirgli di mettere il denaro in un borsellino di cuoio che vi portava legato.
+borsellino       	borsellino      	Harry contò cinque piccole monete di bronzo e il gufo allungò la zampa per consentirgli di mettere il denaro in un borsellino di cuoio che vi portava legato.
+legato           	legare          	Harry contò cinque piccole monete di bronzo e il gufo allungò la zampa per consentirgli di mettere il denaro in un borsellino di cuoio che vi portava legato.
+rumorosamente    	rumorosamente   	Hagrid sbadigliò rumorosamente, si mise seduto e si stiracchiò.
+stiracchiò       	stiracchiare    	Hagrid sbadigliò rumorosamente, si mise seduto e si stiracchiò.
+felicità         	felicità        	Gli era appena venuto in mente un pensiero che lo fece sentire come se quel palloncino di felicità gli si fosse bucato.
+bucato           	bucarsi         	Gli era appena venuto in mente un pensiero che lo fece sentire come se quel palloncino di felicità gli si fosse bucato.
+centesimo        	centesimo       	«Io non ho soldi... e hai sentito zio Vernon, ieri sera... Lui non tirerà fuori un centesimo perché io frequenti la scuola di magia».
+fetta            	fetta           	Acchiappa una salsiccia, fredde non sono malaccio... e non mi dispiacerebbe neanche una fetta della tua torta di compleanno».
+rapina           	rapina          	«Sì... E bisogna essere matti per tentare una rapina, te lo dico io.
+scherza          	scherzare       	Con i goblin non si scherza.
+custodire        	custodire       	La Gringott è il posto più sicuro del mondo, se vuoi custodire qualcosa... tranne Hogwarts, forse.
+affari           	affare          	Affari di Hogwarts».
+gonfiò           	gonfiare        	Hagrid gonfiò il petto tutto fiero.
+petto            	petto           	Hagrid gonfiò il petto tutto fiero.
+commissioni      	commissione     	«Di solito lui mi manda a fare le sue commissioni importanti.
+terso            	terso           	Ora il cielo era terso e il mare luccicava sotto il sole.
+luccicava        	luccicare       	Ora il cielo era terso e il mare luccicava sotto il sole.
+affitto          	affitto         	La barca che zio Vernon aveva preso in affitto era ancora lì, piena d’acqua per via del temporale.
+temporale        	temporale       	La barca che zio Vernon aveva preso in affitto era ancora lì, piena d’acqua per via del temporale.
+volo             	volo            	«In volo» rispose Hagrid.
+seccatura        	seccatura       	«Che seccatura dover remare, però» disse Hagrid lanciando a Harry un’altra delle sue occhiate di sottecchi.
+remare           	remare          	«Che seccatura dover remare, però» disse Hagrid lanciando a Harry un’altra delle sue occhiate di sottecchi.
+sottecchi        	sottecchi       	«Che seccatura dover remare, però» disse Hagrid lanciando a Harry un’altra delle sue occhiate di sottecchi.
+accelero         	accelerare      	«Se accelero un po’ la cosa, ti va di non dire niente, quando saremo a Hogwarts?
+assistere        	assistere       	» «Certo che sì» disse Harry, che non vedeva l’ora di assistere ad altre magie.
+fiancata         	fiancata        	Hagrid estrasse di nuovo l’ombrello rosa, lo batté due volte sulla fiancata della barca e partirono verso terra a tutta velocità.
+organizzare      	organizzare     	«Perché bisogna essere matti per organizzare una rapina alla Gringott?» chiese Harry.
+sfogliando       	sfogliare       	«Magie... incantesimi» disse Hagrid, sfogliando il giornale mentre parlava.
+guardia          	guardia         	«Dicono che a guardia delle camere blindate ci sono dei draghi.
+blindate         	blindato        	«Dicono che a guardia delle camere blindate ci sono dei draghi.
+draghi           	drago           	«Dicono che a guardia delle camere blindate ci sono dei draghi.
+chilometri       	chilometro      	E poi bisogna trovare la strada... Vedi, la Gringott si trova centinaia di chilometri sotto Londra.
+crepare          	crepare         	Anche se riesci a mettere le mani su qualcosa, prima di rivedere la luce fai in tempo a crepare di fame».
+gazzetta         	gazzetta        	Harry continuava a pensare a tutte queste cose mentre Hagrid leggeva il giornale, La Gazzetta del Profeta.
+profeta          	profeta         	Harry continuava a pensare a tutte queste cose mentre Hagrid leggeva il giornale, La Gazzetta del Profeta.
+ministero        	ministero       	«Il Ministero della Magia ha fatto dei pasticci, come al solito» borbottò Hagrid girando pagina.
+pasticci         	pasticcio       	«Il Ministero della Magia ha fatto dei pasticci, come al solito» borbottò Hagrid girando pagina.
+pagina           	pagina          	«Il Ministero della Magia ha fatto dei pasticci, come al solito» borbottò Hagrid girando pagina.
+trattenersi      	trattenersi     	» chiese Harry, incapace di trattenersi.
+ministro         	ministro        	«Naturalmente, come Ministro volevano Silente, ma lui non lascerebbe mai Hogwarts, e così l’incarico è andato al vecchio Cornelius Fudge.
+lascerebbe       	lascare         	«Naturalmente, come Ministro volevano Silente, ma lui non lascerebbe mai Hogwarts, e così l’incarico è andato al vecchio Cornelius Fudge.
+incarico         	incarico        	«Naturalmente, come Ministro volevano Silente, ma lui non lascerebbe mai Hogwarts, e così l’incarico è andato al vecchio Cornelius Fudge.
+casinista        	casinista       	È casinista come pochi:
+altrimenti       	altrimenti      	Diamine, Harry, perché tutti altrimenti vogliono risolvere i loro problemi con la magia.
+risolvere        	risolvere       	Diamine, Harry, perché tutti altrimenti vogliono risolvere i loro problemi con la magia.
+immischiamo      	immischiare     	No, è meglio che non ci immischiamo».
+urtò             	urtare          	In quel momento, la barca urtò dolcemente la banchina del porto.
+banchina         	banchina        	In quel momento, la barca urtò dolcemente la banchina del porto.
+ripiegò          	ripiegare       	Hagrid ripiegò il giornale ed entrambi risalirono la scaletta di pietra che portava alla strada.
+scaletta         	scaletta        	Hagrid ripiegò il giornale ed entrambi risalirono la scaletta di pietra che portava alla strada.
+pietra           	pietra          	Hagrid ripiegò il giornale ed entrambi risalirono la scaletta di pietra che portava alla strada.
+cittadina        	cittadino       	I passanti guardavano Hagrid con tanto d’occhi, mentre i due attraversavano la cittadina diretti alla stazione.
+stazione         	stazione        	I passanti guardavano Hagrid con tanto d’occhi, mentre i due attraversavano la cittadina diretti alla stazione.
+comuni           	comune          	Non soltanto Hagrid era due volte più alto del normale, ma continuava a additare cose del tutto comuni, come i parchimetri, dicendo ad alta voce:
+parchimetri      	parchimetro     	Non soltanto Hagrid era due volte più alto del normale, ma continuava a additare cose del tutto comuni, come i parchimetri, dicendo ad alta voce:
+inventano        	inventare       	Questa è la roba che si inventano i Babbani!
+caspita          	caspita         	«Caspita, quanto mi piacerebbe avere un drago».
+treno            	treno           	Il treno per Londra partiva di lì a cinque minuti.
+banconote        	banconota       	Hagrid, che non capiva i ‘soldi dei Babbani’, come li chiamava lui, diede le banconote a Harry perché comprasse i biglietti.
+sferruzzare      	sferruzzare     	Hagrid occupava due posti a sedere e aveva preso a sferruzzare quello che sembrava un tendone da circo color giallo canarino.
+tendone          	tendone         	Hagrid occupava due posti a sedere e aveva preso a sferruzzare quello che sembrava un tendone da circo color giallo canarino.
+circo            	circo           	Hagrid occupava due posti a sedere e aveva preso a sferruzzare quello che sembrava un tendone da circo color giallo canarino.
+canarino         	canarino        	Hagrid occupava due posti a sedere e aveva preso a sferruzzare quello che sembrava un tendone da circo color giallo canarino.
+maglie           	maglia          	«Hai ancora la lettera, Harry?» chiese mentre contava le maglie.
+foglio           	foglio          	Harry spiegò un secondo foglio che la sera prima non aveva notato e lesse.
+studenti         	studente        	SCUOLA DI MAGIA E STREGONERIA DI HOGWARTS Uniforme Gli studenti del primo anno dovranno avere:
+divise           	divisa          	Tre divise da lavoro in tinta unita (nero) Un cappello a punta in tinta unita (nero) da giorno Un paio di guanti di protezione (in pelle di drago o simili) Un mantello invernale (nero con alamari d’argento)
+tinta            	tinta           	Tre divise da lavoro in tinta unita (nero) Un cappello a punta in tinta unita (nero) da giorno Un paio di guanti di protezione (in pelle di drago o simili) Un mantello invernale (nero con alamari d’argento)
+unita            	unito           	Tre divise da lavoro in tinta unita (nero) Un cappello a punta in tinta unita (nero) da giorno Un paio di guanti di protezione (in pelle di drago o simili) Un mantello invernale (nero con alamari d’argento)
+punta            	punta           	Tre divise da lavoro in tinta unita (nero) Un cappello a punta in tinta unita (nero) da giorno Un paio di guanti di protezione (in pelle di drago o simili) Un mantello invernale (nero con alamari d’argento)
+guanti           	guanto          	Tre divise da lavoro in tinta unita (nero) Un cappello a punta in tinta unita (nero) da giorno Un paio di guanti di protezione (in pelle di drago o simili) Un mantello invernale (nero con alamari d’argento)
+protezione       	protezione      	Tre divise da lavoro in tinta unita (nero) Un cappello a punta in tinta unita (nero) da giorno Un paio di guanti di protezione (in pelle di drago o simili) Un mantello invernale (nero con alamari d’argento)
+invernale        	invernale       	Tre divise da lavoro in tinta unita (nero) Un cappello a punta in tinta unita (nero) da giorno Un paio di guanti di protezione (in pelle di drago o simili) Un mantello invernale (nero con alamari d’argento)
+alamari          	alamaro         	Tre divise da lavoro in tinta unita (nero) Un cappello a punta in tinta unita (nero) da giorno Un paio di guanti di protezione (in pelle di drago o simili) Un mantello invernale (nero con alamari d’argento)
+indumenti        	indumento       	N.B. Tutti gli indumenti degli allievi devono essere contrassegnati da una targhetta con il nome.
+allievi          	allievo         	N.B. Tutti gli indumenti degli allievi devono essere contrassegnati da una targhetta con il nome.
+contrassegnati   	contrassegnare  	N.B. Tutti gli indumenti degli allievi devono essere contrassegnati da una targhetta con il nome.
+targhetta        	targhetta       	N.B. Tutti gli indumenti degli allievi devono essere contrassegnati da una targhetta con il nome.
+copia            	copia           	Libri di testo Tutti gli allievi dovranno avere una copia dei seguenti testi:
+seguenti         	seguente        	Libri di testo Tutti gli allievi dovranno avere una copia dei seguenti testi:
+manuale          	manuale         	Manuale degli Incantesimi, Volume primo, di Miranda Goshawk Storia della Magia, di Bathilda Bagshot Teoria della Magia, di Adalbert Waffling Guida pratica alla Trasfigurazione per principianti, di Emeric Switch Mille erbe e funghi magici, di Phyllida Spore Infusi e pozioni magiche, di Arsenius Jigger Gli Animali Fantastici:
+teoria           	teoria          	Manuale degli Incantesimi, Volume primo, di Miranda Goshawk Storia della Magia, di Bathilda Bagshot Teoria della Magia, di Adalbert Waffling Guida pratica alla Trasfigurazione per principianti, di Emeric Switch Mille erbe e funghi magici, di Phyllida Spore Infusi e pozioni magiche, di Arsenius Jigger Gli Animali Fantastici:
+guida            	guida           	Manuale degli Incantesimi, Volume primo, di Miranda Goshawk Storia della Magia, di Bathilda Bagshot Teoria della Magia, di Adalbert Waffling Guida pratica alla Trasfigurazione per principianti, di Emeric Switch Mille erbe e funghi magici, di Phyllida Spore Infusi e pozioni magiche, di Arsenius Jigger Gli Animali Fantastici:
+trasfigurazione  	trasfigurazione 	Manuale degli Incantesimi, Volume primo, di Miranda Goshawk Storia della Magia, di Bathilda Bagshot Teoria della Magia, di Adalbert Waffling Guida pratica alla Trasfigurazione per principianti, di Emeric Switch Mille erbe e funghi magici, di Phyllida Spore Infusi e pozioni magiche, di Arsenius Jigger Gli Animali Fantastici:
+principianti     	principiante    	Manuale degli Incantesimi, Volume primo, di Miranda Goshawk Storia della Magia, di Bathilda Bagshot Teoria della Magia, di Adalbert Waffling Guida pratica alla Trasfigurazione per principianti, di Emeric Switch Mille erbe e funghi magici, di Phyllida Spore Infusi e pozioni magiche, di Arsenius Jigger Gli Animali Fantastici:
+erbe             	erba            	Manuale degli Incantesimi, Volume primo, di Miranda Goshawk Storia della Magia, di Bathilda Bagshot Teoria della Magia, di Adalbert Waffling Guida pratica alla Trasfigurazione per principianti, di Emeric Switch Mille erbe e funghi magici, di Phyllida Spore Infusi e pozioni magiche, di Arsenius Jigger Gli Animali Fantastici:
+funghi           	fungo           	Manuale degli Incantesimi, Volume primo, di Miranda Goshawk Storia della Magia, di Bathilda Bagshot Teoria della Magia, di Adalbert Waffling Guida pratica alla Trasfigurazione per principianti, di Emeric Switch Mille erbe e funghi magici, di Phyllida Spore Infusi e pozioni magiche, di Arsenius Jigger Gli Animali Fantastici:
+infusi           	infuso          	Manuale degli Incantesimi, Volume primo, di Miranda Goshawk Storia della Magia, di Bathilda Bagshot Teoria della Magia, di Adalbert Waffling Guida pratica alla Trasfigurazione per principianti, di Emeric Switch Mille erbe e funghi magici, di Phyllida Spore Infusi e pozioni magiche, di Arsenius Jigger Gli Animali Fantastici:
+pozioni          	pozione         	Manuale degli Incantesimi, Volume primo, di Miranda Goshawk Storia della Magia, di Bathilda Bagshot Teoria della Magia, di Adalbert Waffling Guida pratica alla Trasfigurazione per principianti, di Emeric Switch Mille erbe e funghi magici, di Phyllida Spore Infusi e pozioni magiche, di Arsenius Jigger Gli Animali Fantastici:
+fantastici       	fantastico      	Manuale degli Incantesimi, Volume primo, di Miranda Goshawk Storia della Magia, di Bathilda Bagshot Teoria della Magia, di Adalbert Waffling Guida pratica alla Trasfigurazione per principianti, di Emeric Switch Mille erbe e funghi magici, di Phyllida Spore Infusi e pozioni magiche, di Arsenius Jigger Gli Animali Fantastici:
+trovarli         	trovare         	dove trovarli, di Newt Scamander Le Forze Oscure:
+autodifesa       	autodifesa      	guida all’autodifesa, di Quentin Trimble Altri accessori 1 bacchetta 1 calderone (in peltro, misura standard 2) 1 set di provette di vetro o cristallo 1 telescopio 1 bilancia d’ottone Gli allievi possono portare anche un gufo, OPPURE un gatto, OPPURE un rospo.
+accessori        	accessorio      	guida all’autodifesa, di Quentin Trimble Altri accessori 1 bacchetta 1 calderone (in peltro, misura standard 2) 1 set di provette di vetro o cristallo 1 telescopio 1 bilancia d’ottone Gli allievi possono portare anche un gufo, OPPURE un gatto, OPPURE un rospo.
+calderone        	calderone       	guida all’autodifesa, di Quentin Trimble Altri accessori 1 bacchetta 1 calderone (in peltro, misura standard 2) 1 set di provette di vetro o cristallo 1 telescopio 1 bilancia d’ottone Gli allievi possono portare anche un gufo, OPPURE un gatto, OPPURE un rospo.
+peltro           	peltro          	guida all’autodifesa, di Quentin Trimble Altri accessori 1 bacchetta 1 calderone (in peltro, misura standard 2) 1 set di provette di vetro o cristallo 1 telescopio 1 bilancia d’ottone Gli allievi possono portare anche un gufo, OPPURE un gatto, OPPURE un rospo.
+misura           	misura          	guida all’autodifesa, di Quentin Trimble Altri accessori 1 bacchetta 1 calderone (in peltro, misura standard 2) 1 set di provette di vetro o cristallo 1 telescopio 1 bilancia d’ottone Gli allievi possono portare anche un gufo, OPPURE un gatto, OPPURE un rospo.
+standard         	standard        	guida all’autodifesa, di Quentin Trimble Altri accessori 1 bacchetta 1 calderone (in peltro, misura standard 2) 1 set di provette di vetro o cristallo 1 telescopio 1 bilancia d’ottone Gli allievi possono portare anche un gufo, OPPURE un gatto, OPPURE un rospo.
+set              	set             	guida all’autodifesa, di Quentin Trimble Altri accessori 1 bacchetta 1 calderone (in peltro, misura standard 2) 1 set di provette di vetro o cristallo 1 telescopio 1 bilancia d’ottone Gli allievi possono portare anche un gufo, OPPURE un gatto, OPPURE un rospo.
+provette         	provetta        	guida all’autodifesa, di Quentin Trimble Altri accessori 1 bacchetta 1 calderone (in peltro, misura standard 2) 1 set di provette di vetro o cristallo 1 telescopio 1 bilancia d’ottone Gli allievi possono portare anche un gufo, OPPURE un gatto, OPPURE un rospo.
+cristallo        	cristallo       	guida all’autodifesa, di Quentin Trimble Altri accessori 1 bacchetta 1 calderone (in peltro, misura standard 2) 1 set di provette di vetro o cristallo 1 telescopio 1 bilancia d’ottone Gli allievi possono portare anche un gufo, OPPURE un gatto, OPPURE un rospo.
+telescopio       	telescopio      	guida all’autodifesa, di Quentin Trimble Altri accessori 1 bacchetta 1 calderone (in peltro, misura standard 2) 1 set di provette di vetro o cristallo 1 telescopio 1 bilancia d’ottone Gli allievi possono portare anche un gufo, OPPURE un gatto, OPPURE un rospo.
+bilancia         	bilancia        	guida all’autodifesa, di Quentin Trimble Altri accessori 1 bacchetta 1 calderone (in peltro, misura standard 2) 1 set di provette di vetro o cristallo 1 telescopio 1 bilancia d’ottone Gli allievi possono portare anche un gufo, OPPURE un gatto, OPPURE un rospo.
+oppure           	oppure          	guida all’autodifesa, di Quentin Trimble Altri accessori 1 bacchetta 1 calderone (in peltro, misura standard 2) 1 set di provette di vetro o cristallo 1 telescopio 1 bilancia d’ottone Gli allievi possono portare anche un gufo, OPPURE un gatto, OPPURE un rospo.
+uso              	uso             	CHE AGLI ALLIEVI DEL PRIMO ANNO NON È CONSENTITO L’USO DI SCOPE PERSONALI.
+personali        	personale       	CHE AGLI ALLIEVI DEL PRIMO ANNO NON È CONSENTITO L’USO DI SCOPE PERSONALI.
+evidente         	evidente        	Per quanto fosse evidente che Hagrid sapesse dove stava andando, era altrettanto chiaro che non fosse abituato a girare per la città come un comune mortale.
+incastrato       	incastrare      	Rimaneva incastrato nei tornelli della metropolitana e si lamentava ad alta voce che i sedili delle vetture erano troppo piccoli e i treni troppo lenti.
+tornelli         	tornello        	Rimaneva incastrato nei tornelli della metropolitana e si lamentava ad alta voce che i sedili delle vetture erano troppo piccoli e i treni troppo lenti.
+vetture          	vettura         	Rimaneva incastrato nei tornelli della metropolitana e si lamentava ad alta voce che i sedili delle vetture erano troppo piccoli e i treni troppo lenti.
+cavarsela        	cavare          	«Non so proprio come fanno i Babbani a cavarsela senza magia» disse mentre si arrampicavano su per una scala mobile guasta che portava a una strada affollata e piena di negozi.
+mobile           	mobile          	«Non so proprio come fanno i Babbani a cavarsela senza magia» disse mentre si arrampicavano su per una scala mobile guasta che portava a una strada affollata e piena di negozi.
+guasta           	guastare        	«Non so proprio come fanno i Babbani a cavarsela senza magia» disse mentre si arrampicavano su per una scala mobile guasta che portava a una strada affollata e piena di negozi.
+affollata        	affollato       	«Non so proprio come fanno i Babbani a cavarsela senza magia» disse mentre si arrampicavano su per una scala mobile guasta che portava a una strada affollata e piena di negozi.
+facilmente       	facilmente      	Hagrid era così grosso che riusciva facilmente a fendere la folla;
+fendere          	fendere         	Hagrid era così grosso che riusciva facilmente a fendere la folla;
+folla            	folla           	Hagrid era così grosso che riusciva facilmente a fendere la folla;
+musica           	musica          	Passarono davanti a negozi di libri e di musica, a fast food e cinema, ma in nessuno pareva si vendessero bacchette magiche.
+vendessero       	vendere         	Passarono davanti a negozi di libri e di musica, a fast food e cinema, ma in nessuno pareva si vendessero bacchette magiche.
+nascondessero    	nascondere      	Possibile che sepolti sotto i loro piedi si nascondessero mucchi d’oro appartenenti ai maghi?
+appartenenti     	appartenente    	Possibile che sepolti sotto i loro piedi si nascondessero mucchi d’oro appartenenti ai maghi?
+burla            	burla           	Non poteva essere una burla monumentale architettata dai Dursley?
+monumentale      	monumentale     	Non poteva essere una burla monumentale architettata dai Dursley?
+architettata     	architettare    	Non poteva essere una burla monumentale architettata dai Dursley?
+privi            	privo           	Se Harry non avesse saputo che i Dursley erano privi del benché minimo senso dell’umorismo ci avrebbe quasi creduto;
+senso            	senso           	Se Harry non avesse saputo che i Dursley erano privi del benché minimo senso dell’umorismo ci avrebbe quasi creduto;
+umorismo         	umorismo        	Se Harry non avesse saputo che i Dursley erano privi del benché minimo senso dell’umorismo ci avrebbe quasi creduto;
+paiolo           	paiolo          	«Il Paiolo Magico.
+sordido          	sordido         	Era un piccolo pub, dall’aspetto sordido.
+frettolosi       	frettoloso      	I passanti frettolosi non gli gettavano neanche un’occhiata.
+libreria         	libreria        	Gli sguardi andavano dalla grossa libreria su un lato della strada al negozio di dischi sull’altro, come se per loro il Paiolo Magico fosse invisibile.
+dischi           	disco           	Gli sguardi andavano dalla grossa libreria su un lato della strada al negozio di dischi sull’altro, come se per loro il Paiolo Magico fosse invisibile.
+invisibile       	invisibile      	Gli sguardi andavano dalla grossa libreria su un lato della strada al negozio di dischi sull’altro, come se per loro il Paiolo Magico fosse invisibile.
+infatti          	infatti         	E infatti, Harry aveva la stranissima sensazione che solo lui e Hagrid lo vedessero.
+spinse           	spingere        	Prima che potesse dire una parola, Hagrid lo spinse dentro.
+malandato        	malandato       	Per essere un posto famoso, il Paiolo Magico era molto buio e malandato.
+sedute           	seduto          	Alcune vecchie erano sedute in un angolo e sorseggiavano un bicchierino di sherry.
+sherry           	sherry          	Alcune vecchie erano sedute in un angolo e sorseggiavano un bicchierino di sherry.
+fumava           	fumare          	Una di loro fumava una lunga pipa.
+pipa             	pipa            	Una di loro fumava una lunga pipa.
+noce             	noce            	Un ometto col cappello a cilindro stava parlando al vecchio barista che era calvo come una noce.
+sordo            	sordo           	Il sordo brusio della conversazione si arrestò al loro ingresso.
+brusio           	brusio          	Il sordo brusio della conversazione si arrestò al loro ingresso.
+conversazione    	conversazione   	Il sordo brusio della conversazione si arrestò al loro ingresso.
+arrestò          	arrestarsi      	Il sordo brusio della conversazione si arrestò al loro ingresso.
+pacca            	pacca           	«Il solito, Hagrid?» «Non posso, Tom, sono in servizio, affari di Hogwarts» disse il gigante dando una grossa pacca con la manona sulla spalla di Harry, al quale si piegarono le ginocchia.
+piegarono        	piegare         	«Il solito, Hagrid?» «Non posso, Tom, sono in servizio, affari di Hogwarts» disse il gigante dando una grossa pacca con la manona sulla spalla di Harry, al quale si piegarono le ginocchia.
+onore            	onore           	Quale onore!» Uscì di corsa da dietro il bancone, si precipitò verso Harry e gli afferrò la mano con le lacrime agli occhi.
+bentornato       	bentornato      	«Bentornato, signor Potter, bentornato!» Harry non sapeva che cosa dire.
+raggiante        	raggiante       	Hagrid era raggiante.
+tramestio        	tramestio       	Ci fu un grande tramestio di sedie e subito dopo Harry si trovò a stringere la mano di tutti i presenti.
+onorato          	onorare         	» «Sono così onorato, signor Potter, veramente onorato».
+emozionato       	emozionato      	«Ho sempre desiderato stringerle la mano... Sono così emozionato!» «Oh, signor Potter, non so dirle quanto piacere mi fa conoscerla!
+emozione         	emozione        	«Ma io la conosco!» disse Harry, mentre a Dedalus Diggle per l’emozione cadeva il cappello a cilindro.
+giovanotto       	giovanotto      	Si fece largo un giovanotto pallido dall’aria molto nervosa.
+nervosa          	nervoso         	Si fece largo un giovanotto pallido dall’aria molto nervosa.
+tic              	tic             	Aveva un tic a un occhio.
+difesa           	difesa          	«Che tipo di magia insegna, professor Quirrell?» «D-difesa co-contro le Arti O-o-oscure» balbettò Quirrell come se avesse preferito non saperlo.
+arti             	arte            	«Che tipo di magia insegna, professor Quirrell?» «D-difesa co-contro le Arti O-o-oscure» balbettò Quirrell come se avesse preferito non saperlo.
+!!rifornendosi   	rifornirsi      	«Su-su-ppongo che s-s-starà ri-rifornendosi d-di tu-tu-tutto quel che le s-s-serve, v-vero, P-Potter?
+vampiri          	vampiro         	I-io devo p-prendere u-un nuovo li-libro s-sui va-va-vampiri».
+liberarsi        	liberarsi       	Ci vollero almeno dieci minuti per liberarsi di tutti.
+cicaleccio       	cicaleccio      	Finalmente, Hagrid riuscì a farsi udire al di sopra del cicaleccio.
+bar              	bar             	Doris Crockford strinse un’ultima volta la mano a Harry e Hagrid gli fece strada attraverso il bar;
+cortile          	cortile         	uscirono in un piccolo cortile circondato da un muro, dove non c’era altro che un bidone della spazzatura e qualche erbaccia.
+erbaccia         	erbaccia        	uscirono in un piccolo cortile circondato da un muro, dove non c’era altro che un bidone della spazzatura e qualche erbaccia.
+esperienza       	esperienza      	Tutto bene finché ha studiato sui libri, ma poi si è preso un anno per andare a fare un po’ di esperienza sul campo... Dicono che nella Foresta Nera ha incontrato i vampiri e che c’è anche stata una brutta storia con una fattucchiera... Da allora non è più lui.
+incontrato       	incontrare      	Tutto bene finché ha studiato sui libri, ma poi si è preso un anno per andare a fare un po’ di esperienza sul campo... Dicono che nella Foresta Nera ha incontrato i vampiri e che c’è anche stata una brutta storia con una fattucchiera... Da allora non è più lui.
+fattucchiera     	fattucchiera    	Tutto bene finché ha studiato sui libri, ma poi si è preso un anno per andare a fare un po’ di esperienza sul campo... Dicono che nella Foresta Nera ha incontrato i vampiri e che c’è anche stata una brutta storia con una fattucchiera... Da allora non è più lui.
+materia          	materia         	Ha paura degli studenti, ha paura della materia che insegna... Ma vediamo un po’, dov’è finito il mio ombrello?» Vampiri?
+verticali        	verticale       	«Tre verticali... due orizzontali...» bofonchiava.
+orizzontali      	orizzontale     	«Tre verticali... due orizzontali...» bofonchiava.
+vibrò            	vibrare         	Il mattone che aveva colpito vibrò... si contorse... al centro, apparve un piccolo buco... si fece sempre più grande... e un attimo dopo si trovarono di fronte un arco abbastanza largo da far passare Hagrid.
+contorse         	contorcersi     	Il mattone che aveva colpito vibrò... si contorse... al centro, apparve un piccolo buco... si fece sempre più grande... e un attimo dopo si trovarono di fronte un arco abbastanza largo da far passare Hagrid.
+arco             	arco            	Il mattone che aveva colpito vibrò... si contorse... al centro, apparve un piccolo buco... si fece sempre più grande... e un attimo dopo si trovarono di fronte un arco abbastanza largo da far passare Hagrid.
+selciata         	selciato        	L’arco dava su una strada selciata tutta curve, di cui non si vedeva la fine.
+curve            	curvo           	L’arco dava su una strada selciata tutta curve, di cui non si vedeva la fine.
+benvenuto        	benvenuto       	«Benvenuto a Diagon Alley!» disse Hagrid.
+ridiventando     	ridiventare     	Harry gettò una rapida occhiata alle sue spalle e vide l’arco rimpicciolirsi, ridiventando un muro compatto.
+compatto         	compatto        	Harry gettò una rapida occhiata alle sue spalle e vide l’arco rimpicciolirsi, ridiventando un muro compatto.
+splendente       	splendente      	Il sole splendente illuminava una pila di calderoni fuori dal negozio più vicino.
+appesa           	appendere       	Un’insegna appesa sopra diceva:
+pieghevoli       	pieghevole      	Pieghevoli’.
+esposte          	esporre         	i negozi, le cose esposte all’esterno, la gente che faceva compere.
+esterno          	esterno         	i negozi, le cose esposte all’esterno, la gente che faceva compere.
+compere          	compera         	i negozi, le cose esposte all’esterno, la gente che faceva compere.
+bottega          	bottega         	Mentre passavano, una donna grassottella, appena uscita dalla bottega di uno speziale, scuoteva la testa commentando:
+speziale         	speziale        	Mentre passavano, una donna grassottella, appena uscita dalla bottega di uno speziale, scuoteva la testa commentando:
+fegato           	fegato          	«Fegato di drago sedici falci l’oncia:
+falci            	falco           	«Fegato di drago sedici falci l’oncia:
+oncia            	oncia           	«Fegato di drago sedici falci l’oncia:
+emporio          	emporio         	‘Emporio del Gufo di Eeylop:
+allocchi         	allocco         	allocchi, barbagianni, gufi dei granai, gufi bruni e civette delle nevi’ proveniva un chiurlare debole e sommesso.
+barbagianni      	barbagianni     	allocchi, barbagianni, gufi dei granai, gufi bruni e civette delle nevi’ proveniva un chiurlare debole e sommesso.
+granai           	granaio         	allocchi, barbagianni, gufi dei granai, gufi bruni e civette delle nevi’ proveniva un chiurlare debole e sommesso.
+civette          	civetta         	allocchi, barbagianni, gufi dei granai, gufi bruni e civette delle nevi’ proveniva un chiurlare debole e sommesso.
+nevi             	neve            	allocchi, barbagianni, gufi dei granai, gufi bruni e civette delle nevi’ proveniva un chiurlare debole e sommesso.
+chiurlare        	chiurlare       	allocchi, barbagianni, gufi dei granai, gufi bruni e civette delle nevi’ proveniva un chiurlare debole e sommesso.
+sommesso         	sommesso        	allocchi, barbagianni, gufi dei granai, gufi bruni e civette delle nevi’ proveniva un chiurlare debole e sommesso.
+duemila          	duemila         	«Guarda» Harry sentì dire uno di loro, «la Nimbus Duemila, la più veloce di tutte».
+abiti            	abito           	Alcuni negozi vendevano abiti, altri telescopi e bizzarri strumenti d’argento che Harry non aveva mai visto prima;
+strumenti        	strumento       	Alcuni negozi vendevano abiti, altri telescopi e bizzarri strumenti d’argento che Harry non aveva mai visto prima;
+stipate          	stipato         	c’erano vetrine stipate di barili, contenenti milze di pipistrello e pupille d’anguilla, pile traballanti di libri di incantesimi, penne d’oca e rotoli di pergamena, boccette di pozioni, globi lunari... «Ecco la Gringott» disse Hagrid a un certo punto.
+barili           	barile          	c’erano vetrine stipate di barili, contenenti milze di pipistrello e pupille d’anguilla, pile traballanti di libri di incantesimi, penne d’oca e rotoli di pergamena, boccette di pozioni, globi lunari... «Ecco la Gringott» disse Hagrid a un certo punto.
+milze            	milza           	c’erano vetrine stipate di barili, contenenti milze di pipistrello e pupille d’anguilla, pile traballanti di libri di incantesimi, penne d’oca e rotoli di pergamena, boccette di pozioni, globi lunari... «Ecco la Gringott» disse Hagrid a un certo punto.
+pipistrello      	pipistrello     	c’erano vetrine stipate di barili, contenenti milze di pipistrello e pupille d’anguilla, pile traballanti di libri di incantesimi, penne d’oca e rotoli di pergamena, boccette di pozioni, globi lunari... «Ecco la Gringott» disse Hagrid a un certo punto.
+pupille          	pupilla         	c’erano vetrine stipate di barili, contenenti milze di pipistrello e pupille d’anguilla, pile traballanti di libri di incantesimi, penne d’oca e rotoli di pergamena, boccette di pozioni, globi lunari... «Ecco la Gringott» disse Hagrid a un certo punto.
+anguilla         	anguilla        	c’erano vetrine stipate di barili, contenenti milze di pipistrello e pupille d’anguilla, pile traballanti di libri di incantesimi, penne d’oca e rotoli di pergamena, boccette di pozioni, globi lunari... «Ecco la Gringott» disse Hagrid a un certo punto.
+traballanti      	traballante     	c’erano vetrine stipate di barili, contenenti milze di pipistrello e pupille d’anguilla, pile traballanti di libri di incantesimi, penne d’oca e rotoli di pergamena, boccette di pozioni, globi lunari... «Ecco la Gringott» disse Hagrid a un certo punto.
+boccette         	boccetta        	c’erano vetrine stipate di barili, contenenti milze di pipistrello e pupille d’anguilla, pile traballanti di libri di incantesimi, penne d’oca e rotoli di pergamena, boccette di pozioni, globi lunari... «Ecco la Gringott» disse Hagrid a un certo punto.
+globi            	globo           	c’erano vetrine stipate di barili, contenenti milze di pipistrello e pupille d’anguilla, pile traballanti di libri di incantesimi, penne d’oca e rotoli di pergamena, boccette di pozioni, globi lunari... «Ecco la Gringott» disse Hagrid a un certo punto.
+lunari           	lunare          	c’erano vetrine stipate di barili, contenenti milze di pipistrello e pupille d’anguilla, pile traballanti di libri di incantesimi, penne d’oca e rotoli di pergamena, boccette di pozioni, globi lunari... «Ecco la Gringott» disse Hagrid a un certo punto.
+bianco           	bianco          	Erano giunti a un edificio bianco come la neve che svettava sopra le piccole botteghe.
+svettava         	svettare        	Erano giunti a un edificio bianco come la neve che svettava sopra le piccole botteghe.
+ritto            	ritto           	Ritto in piedi, dietro un portale di bronzo brunito, con indosso un’uniforme scarlatta e oro, c’era... «Proprio così, quello è un goblin» disse Hagrid tutto tranquillo, mentre salivano gli scalini di candida pietra diretti verso di lui.
+portale          	portale         	Ritto in piedi, dietro un portale di bronzo brunito, con indosso un’uniforme scarlatta e oro, c’era... «Proprio così, quello è un goblin» disse Hagrid tutto tranquillo, mentre salivano gli scalini di candida pietra diretti verso di lui.
+brunito          	brunire         	Ritto in piedi, dietro un portale di bronzo brunito, con indosso un’uniforme scarlatta e oro, c’era... «Proprio così, quello è un goblin» disse Hagrid tutto tranquillo, mentre salivano gli scalini di candida pietra diretti verso di lui.
+scarlatta        	scarlatto       	Ritto in piedi, dietro un portale di bronzo brunito, con indosso un’uniforme scarlatta e oro, c’era... «Proprio così, quello è un goblin» disse Hagrid tutto tranquillo, mentre salivano gli scalini di candida pietra diretti verso di lui.
+tranquillo       	tranquillo      	Ritto in piedi, dietro un portale di bronzo brunito, con indosso un’uniforme scarlatta e oro, c’era... «Proprio così, quello è un goblin» disse Hagrid tutto tranquillo, mentre salivano gli scalini di candida pietra diretti verso di lui.
+scalini          	scalino         	Ritto in piedi, dietro un portale di bronzo brunito, con indosso un’uniforme scarlatta e oro, c’era... «Proprio così, quello è un goblin» disse Hagrid tutto tranquillo, mentre salivano gli scalini di candida pietra diretti verso di lui.
+candida          	candido         	Ritto in piedi, dietro un portale di bronzo brunito, con indosso un’uniforme scarlatta e oro, c’era... «Proprio così, quello è un goblin» disse Hagrid tutto tranquillo, mentre salivano gli scalini di candida pietra diretti verso di lui.
+colorito         	colorito        	Aveva un viso dal colorito scuro e dall’aria intelligente, una barba a punta e, come Harry poté notare, dita e piedi molto lunghi.
+scuro            	scuro           	Aveva un viso dal colorito scuro e dall’aria intelligente, una barba a punta e, come Harry poté notare, dita e piedi molto lunghi.
+intelligente     	intelligente    	Aveva un viso dal colorito scuro e dall’aria intelligente, una barba a punta e, come Harry poté notare, dita e piedi molto lunghi.
+inchinò          	inchinarsi      	Si inchinò al loro passaggio.
+passaggio        	passaggio       	Si inchinò al loro passaggio.
+incise           	incidere        	Ora si trovavano di fronte una seconda porta, questa volta d’argento, su cui erano incise le seguenti parole:
+straniero        	straniero       	Entra, straniero, ma ti ricordo cosa spetta a chi è ingordo.
+ingordo          	ingordo         	Entra, straniero, ma ti ricordo cosa spetta a chi è ingordo.
+meritare         	meritare        	Chi prende senza meritare molto cara la dovrà pagare.
+sotterranei      	sotterraneo     	Quindi se cerchi nei sotterranei qui da noi tesori che non furono mai tuoi, sta’ attento, ladro, sei avvisato:
+attento          	attento         	Quindi se cerchi nei sotterranei qui da noi tesori che non furono mai tuoi, sta’ attento, ladro, sei avvisato:
+ladro            	ladro           	Quindi se cerchi nei sotterranei qui da noi tesori che non furono mai tuoi, sta’ attento, ladro, sei avvisato:
+avvisato         	avvisare        	Quindi se cerchi nei sotterranei qui da noi tesori che non furono mai tuoi, sta’ attento, ladro, sei avvisato:
+riservato        	riservare       	ben altro che un tesoro ti è riservato.
+rapinare         	rapinare        	«Come ho detto, bisogna davvero essere matti a cercare di rapinare questa banca» disse Hagrid.
+introdusse       	introdurre      	Quando attraversarono la porta d’argento, una coppia di goblin si inchinò davanti a loro e li introdusse in un grande salone marmoreo.
+salone           	salone          	Quando attraversarono la porta d’argento, una coppia di goblin si inchinò davanti a loro e li introdusse in un grande salone marmoreo.
+marmoreo         	marmoreo        	Quando attraversarono la porta d’argento, una coppia di goblin si inchinò davanti a loro e li introdusse in un grande salone marmoreo.
+scranni          	scranno         	Un centinaio di altri goblin seduti su alti scranni dietro un lungo bancone scribacchiavano su grandi libri mastri, pesavano le monete su bilance d’ottone, ed esaminavano pietre preziose con la lente.
+scribacchiavano  	scribacchiare   	Un centinaio di altri goblin seduti su alti scranni dietro un lungo bancone scribacchiavano su grandi libri mastri, pesavano le monete su bilance d’ottone, ed esaminavano pietre preziose con la lente.
+mastri           	mastro          	Un centinaio di altri goblin seduti su alti scranni dietro un lungo bancone scribacchiavano su grandi libri mastri, pesavano le monete su bilance d’ottone, ed esaminavano pietre preziose con la lente.
+pesavano         	pesare          	Un centinaio di altri goblin seduti su alti scranni dietro un lungo bancone scribacchiavano su grandi libri mastri, pesavano le monete su bilance d’ottone, ed esaminavano pietre preziose con la lente.
+preziose         	prezioso        	Un centinaio di altri goblin seduti su alti scranni dietro un lungo bancone scribacchiavano su grandi libri mastri, pesavano le monete su bilance d’ottone, ed esaminavano pietre preziose con la lente.
+lente            	lente           	Un centinaio di altri goblin seduti su alti scranni dietro un lungo bancone scribacchiavano su grandi libri mastri, pesavano le monete su bilance d’ottone, ed esaminavano pietre preziose con la lente.
+numerose         	numeroso        	Le porte erano troppo numerose per poterle contare, e altri goblin erano occupati ad aprirle e richiuderle per fare entrare e uscire le persone.
+libero           	libero          	«’Giorno» disse Hagrid a un goblin che in quel momento era libero.
+cassaforte       	cassaforte      	«Siamo venuti a prendere un po’ di soldi dalla cassaforte del signor Harry Potter».
+svuotare         	svuotare        	» «Ce l’ho qui, da qualche parte» fece Hagrid, cominciando a svuotare le tasche sul banco e sparpagliando sul libro contabile del goblin una manciata di biscotti ammuffiti per cani.
+sparpagliando    	sparpagliare    	» «Ce l’ho qui, da qualche parte» fece Hagrid, cominciando a svuotare le tasche sul banco e sparpagliando sul libro contabile del goblin una manciata di biscotti ammuffiti per cani.
+contabile        	contabile       	» «Ce l’ho qui, da qualche parte» fece Hagrid, cominciando a svuotare le tasche sul banco e sparpagliando sul libro contabile del goblin una manciata di biscotti ammuffiti per cani.
+biscotti         	biscotto        	» «Ce l’ho qui, da qualche parte» fece Hagrid, cominciando a svuotare le tasche sul banco e sparpagliando sul libro contabile del goblin una manciata di biscotti ammuffiti per cani.
+storse           	storcere        	Il goblin storse il naso.
+rubini           	rubino          	Harry, intanto, osservava un altro goblin alla loro destra pesare un mucchio di rubini rossi come tizzoni accesi.
+tizzoni          	tizzone         	Harry, intanto, osservava un altro goblin alla loro destra pesare un mucchio di rubini rossi come tizzoni accesi.
+ostentando       	ostentare       	«E qui ho anche una lettera del professor Silente» disse Hagrid col petto in fuori, ostentando un’aria d’importanza.
+importanza       	importanza      	«E qui ho anche una lettera del professor Silente» disse Hagrid col petto in fuori, ostentando un’aria d’importanza.
+restituendola    	restituire      	«Molto bene» disse restituendola a Hagrid, «qualcuno vi accompagnerà in entrambe le camere blindate.
+permesso         	permesso        	Non ho il permesso di dirtelo».
+marmo            	marmo           	Harry, che si era aspettato di vedere altro marmo, restò sorpreso.
+sorpreso         	sorprendere     	Harry, che si era aspettato di vedere altro marmo, restò sorpreso.
+torce            	torcia          	Si trovarono in uno stretto passaggio di pietra, illuminato da torce.
+ripido           	ripido          	Scendeva ripido e scosceso e per terra correvano i binari di una piccola ferrovia.
+scosceso         	scosceso        	Scendeva ripido e scosceso e per terra correvano i binari di una piccola ferrovia.
+binari           	binario         	Scendeva ripido e scosceso e per terra correvano i binari di una piccola ferrovia.
+ferrovia         	ferrovia        	Scendeva ripido e scosceso e per terra correvano i binari di una piccola ferrovia.
+carrello         	carrello        	Griphook fischiò e un piccolo carrello arrivò sferragliando verso di loro.
+sferragliando    	sferragliare    	Griphook fischiò e un piccolo carrello arrivò sferragliando verso di loro.
+principio        	principio       	Da principio percorsero un dedalo di passaggi tortuosi.
+dedalo           	dedalo          	Da principio percorsero un dedalo di passaggi tortuosi.
+tortuosi         	tortuoso        	Da principio percorsero un dedalo di passaggi tortuosi.
+sinistra         	sinistra        	sinistra, destra, destra, sinistra, bivio di mezzo, destra, sinistra, ma era impossibile.
+bivio            	bivio           	sinistra, destra, destra, sinistra, bivio di mezzo, destra, sinistra, ma era impossibile.
+manovrava        	manovrare       	Il carrello sferragliante sembrava conoscere da solo la strada, perché Griphook non manovrava.
+fiammata         	fiammata        	A un certo punto, credette di scorgere una fiammata in fondo a un passaggio e si girò per vedere se era un drago, ma troppo tardi:
+fondo            	fondo           	A un certo punto, credette di scorgere una fiammata in fondo a un passaggio e si girò per vedere se era un drago, ma troppo tardi:
+lago             	lago            	scesero ancora più giù, superando un lago sotterraneo dove, dal soffitto e dal pavimento, spuntavano enormi stalattiti e stalagmiti.
+stalattiti       	stalattite      	scesero ancora più giù, superando un lago sotterraneo dove, dal soffitto e dal pavimento, spuntavano enormi stalattiti e stalagmiti.
+stalagmiti       	stalagmite      	scesero ancora più giù, superando un lago sotterraneo dove, dal soffitto e dal pavimento, spuntavano enormi stalattiti e stalagmiti.
+differenza       	differenza      	«Non mi ricordo mai... che differenza c’è fra stalagmiti e stalattiti?
+sovrastare       	sovrastare      	» gridò Harry a Hagrid, cercando di sovrastare con la voce il frastuono del carrello.
+frastuono        	frastuono       	» gridò Harry a Hagrid, cercando di sovrastare con la voce il frastuono del carrello.
+corridoio        	corridoio       	Infatti aveva un colorito verde, e quando scese, dopo che il carrello si fu finalmente fermato accanto a una porticina sul muro di un corridoio, dovette appoggiarsi alla parete per farsi passare la tremarella alle gambe.
+appoggiarsi      	appoggiarsi     	Infatti aveva un colorito verde, e quando scese, dopo che il carrello si fu finalmente fermato accanto a una porticina sul muro di un corridoio, dovette appoggiarsi alla parete per farsi passare la tremarella alle gambe.
+tremarella       	tremarella      	Infatti aveva un colorito verde, e quando scese, dopo che il carrello si fu finalmente fermato accanto a una porticina sul muro di un corridoio, dovette appoggiarsi alla parete per farsi passare la tremarella alle gambe.
+fuoruscì         	fuoruscire      	Ne fuoruscì una nube di fumo verde e, quando si fu dissipata, Harry rimase senza fiato.
+nube             	nube            	Ne fuoruscì una nube di fumo verde e, quando si fu dissipata, Harry rimase senza fiato.
+dissipata        	dissiparsi      	Ne fuoruscì una nube di fumo verde e, quando si fu dissipata, Harry rimase senza fiato.
+montagne         	montagna        	Dentro, c’erano montagne di monete d’oro.
+cumuli           	cumulo          	Cumuli d’argento.
+mantenerlo       	mantenere       	Quante volte si erano lamentati di quel che gli costava mantenerlo?
+sepolta          	sepolto         	E pensare che sepolta nelle viscere di Londra c’era da sempre una piccola fortuna che gli apparteneva.
+viscere          	viscere         	E pensare che sepolta nelle viscere di Londra c’era da sempre una piccola fortuna che gli apparteneva.
+aiutò            	aiutare         	Hagrid aiutò Harry a raccogliere un po’ di quel bendidio in una borsa.
+bendidio         	bendidio        	Hagrid aiutò Harry a raccogliere un po’ di quel bendidio in una borsa.
+borsa            	borsa           	Hagrid aiutò Harry a raccogliere un po’ di quel bendidio in una borsa.
+galeoni          	galeone         	«Quelli d’oro sono galeoni» spiegò.
+diciassette      	diciassette     	«Diciassette falci d’argento fanno un galeone e ventinove zellini fanno una falce:
+falci            	falce           	«Diciassette falci d’argento fanno un galeone e ventinove zellini fanno una falce:
+trimestri        	trimestre       	Bene, questo dovrebbe bastare per un paio di trimestri.
+favore           	favore          	«E ora, alla camera blindata settecentotredici, per favore, non è che... si può andare più piano?
+stavolta         	stavolta        	Stavolta scesero ancora più giù, guadagnando velocità.
+guadagnando      	guadagnare      	Stavolta scesero ancora più giù, guadagnando velocità.
+oltrepassarono   	oltrepassare    	Oltrepassarono sferragliando un burrone sotterraneo e Harry si sporse fuori per cercare di vedere quel che c’era nel fondo, immerso nell’oscurità, ma Hagrid, con un ruggito, lo tirò dentro afferrandolo per la collottola.
+burrone          	burrone         	Oltrepassarono sferragliando un burrone sotterraneo e Harry si sporse fuori per cercare di vedere quel che c’era nel fondo, immerso nell’oscurità, ma Hagrid, con un ruggito, lo tirò dentro afferrandolo per la collottola.
+sporse           	sporgere        	Oltrepassarono sferragliando un burrone sotterraneo e Harry si sporse fuori per cercare di vedere quel che c’era nel fondo, immerso nell’oscurità, ma Hagrid, con un ruggito, lo tirò dentro afferrandolo per la collottola.
+immerso          	immergere       	Oltrepassarono sferragliando un burrone sotterraneo e Harry si sporse fuori per cercare di vedere quel che c’era nel fondo, immerso nell’oscurità, ma Hagrid, con un ruggito, lo tirò dentro afferrandolo per la collottola.
+oscurità         	oscurità        	Oltrepassarono sferragliando un burrone sotterraneo e Harry si sporse fuori per cercare di vedere quel che c’era nel fondo, immerso nell’oscurità, ma Hagrid, con un ruggito, lo tirò dentro afferrandolo per la collottola.
+dandosi          	darsi           	«State indietro» disse Griphook, dandosi un’aria d’importanza.
+chiunque         	chiunque        	«Chiunque non fosse un goblin della Gringott e provasse a farlo, verrebbe risucchiato attraverso la porta rimanendo imprigionato dentro» disse Griphook.
+risucchiato      	risucchiare     	«Chiunque non fosse un goblin della Gringott e provasse a farlo, verrebbe risucchiato attraverso la porta rimanendo imprigionato dentro» disse Griphook.
+imprigionato     	imprigionare    	«Chiunque non fosse un goblin della Gringott e provasse a farlo, verrebbe risucchiato attraverso la porta rimanendo imprigionato dentro» disse Griphook.
+sicurezza        	sicurezza       	Dentro quella camera blindata di massima sicurezza doveva esserci qualcosa di veramente straordinario, Harry ne era certo;
+straordinario    	straordinario   	Dentro quella camera blindata di massima sicurezza doveva esserci qualcosa di veramente straordinario, Harry ne era certo;
+curiosità        	curiosità       	così, si sporse in avanti pieno di curiosità, aspettandosi di vedere come minimo gioielli favolosi, ma in un primo momento pensò che fosse vuota.
+gioielli         	gioiello        	così, si sporse in avanti pieno di curiosità, aspettandosi di vedere come minimo gioielli favolosi, ma in un primo momento pensò che fosse vuota.
+favolosi         	favoloso        	così, si sporse in avanti pieno di curiosità, aspettandosi di vedere come minimo gioielli favolosi, ma in un primo momento pensò che fosse vuota.
+carta            	carta           	Poi notò, sul pavimento, un pacchettino tutto sporco, avvolto in una carta marrone.
+accuratamente    	accuratamente   	Hagrid lo raccolse e lo ripose accuratamente nel suo pastrano.
+voglia           	voglia          	Harry bruciava dalla voglia di sapere che cosa fosse, ma sentiva che era meglio non chiedere.
+dannato          	dannato         	«Andiamo, dai, di nuovo su quel dannato carrello, e non mi parlare finché non siamo arrivati:
+accecati         	accecare        	Una volta usciti dalla Gringott, dopo la pazza corsa di ritorno, rimasero un poco a sbattere le palpebre, accecati dalla luce del sole.
+zeppa            	zeppa           	Anche se ora aveva una borsa piena zeppa di soldi, Harry non sapeva da dove iniziare a fare i suoi acquisti.
+acquisti         	acquisto        	Anche se ora aveva una borsa piena zeppa di soldi, Harry non sapeva da dove iniziare a fare i suoi acquisti.
+sterlina         	sterlina        	Non aveva bisogno di sapere quanti galeoni entravano in una sterlina per capire che disponeva di più denaro di quanto non ne avesse mai avuto in vita sua:
+disponeva        	disporre        	Non aveva bisogno di sapere quanti galeoni entravano in una sterlina per capire che disponeva di più denaro di quanto non ne avesse mai avuto in vita sua:
+accennando       	accennare       	«Potremmo andare per la tua uniforme» disse Hagrid accennando con la testa al negozio di ‘Madame Malkin:
+occasioni        	occasione       	abiti per tutte le occasioni’.
+nervosismo       	nervosismo      	Aveva ancora l’aria un po’ sbattuta e quindi Harry entrò da solo nel negozio di Madame Malkin, con un certo nervosismo.
+tarchiata        	tarchiato       	Madame Malkin era una strega tarchiata, sorridente e tutta vestita di color malva.
+malva            	malva           	Madame Malkin era una strega tarchiata, sorridente e tutta vestita di color malva.
+occorrente       	occorrente      	«Ho qui tutto l’occorrente... Di là c’è un altro giovanotto che sta provando l’uniforme».
+affilato         	affilato        	Nel retro del negozio, un ragazzino dal viso pallido e affilato stava ritto su uno sgabello, mentre un’altra strega gli appuntava con gli spilli l’orlo di una lunga tunica nera.
+sgabello         	sgabello        	Nel retro del negozio, un ragazzino dal viso pallido e affilato stava ritto su uno sgabello, mentre un’altra strega gli appuntava con gli spilli l’orlo di una lunga tunica nera.
+appuntava        	appuntare       	Nel retro del negozio, un ragazzino dal viso pallido e affilato stava ritto su uno sgabello, mentre un’altra strega gli appuntava con gli spilli l’orlo di una lunga tunica nera.
+orlo             	orlo            	Nel retro del negozio, un ragazzino dal viso pallido e affilato stava ritto su uno sgabello, mentre un’altra strega gli appuntava con gli spilli l’orlo di una lunga tunica nera.
+veste            	veste           	Madame Malkin fece salire Harry su un altro sgabello vicino al primo, infilò anche a lui una lunga veste dalla testa e cominciò ad appuntarla per farla della giusta lunghezza.
+lunghezza        	lunghezza       	Madame Malkin fece salire Harry su un altro sgabello vicino al primo, infilò anche a lui una lunga veste dalla testa e cominciò ad appuntarla per farla della giusta lunghezza.
+ciao             	ciao            	«Ciao» disse il ragazzo.
+annoiata         	annoiato        	Aveva una voce annoiata e strascicata.
+strascicata      	strascicare     	Aveva una voce annoiata e strascicata.
+giochi           	gioco           	«Non giochi a Quidditch?
+delitto          	delitto         	Papà dice che sarebbe un delitto se non mi scegliessero per far parte della squadra della mia Casa, e devo dire che non posso che essere d’accordo.
+squadra          	squadra         	Papà dice che sarebbe un delitto se non mi scegliessero per far parte della squadra della mia Casa, e devo dire che non posso che essere d’accordo.
+rammaricandosi   	rammaricarsi    	» «Mmm...» rispose Harry, rammaricandosi di non riuscire a dire niente di più interessante.
+interessante     	interessante    	» «Mmm...» rispose Harry, rammaricandosi di non riuscire a dire niente di più interessante.
+principale       	principale      	disse d’un tratto il ragazzo indicando con un cenno del capo la vetrina principale.
+nominare         	nominare        	«Oh» disse il ragazzo, «l’ho sentito nominare.
+inserviente      	inserviente     	Un inserviente, vero?» «È il guardacaccia!» ribatté Harry.
+simpatico        	simpatico       	Ogni attimo che passava, quel ragazzino gli stava sempre meno simpatico.
+capanna          	capanna         	«Sì, proprio così, ho sentito dire che è una specie di selvaggio... vive in una capanna nel comprensorio della scuola.
+comprensorio     	comprensorio    	«Sì, proprio così, ho sentito dire che è una specie di selvaggio... vive in una capanna nel comprensorio della scuola.
+ubriaca          	ubriacarsi      	Ogni tanto si ubriaca, cerca di fare delle magie e finisce con l’appiccare il fuoco al suo letto».
+appiccare        	appiccare       	Ogni tanto si ubriaca, cerca di fare delle magie e finisce con l’appiccare il fuoco al suo letto».
+sogghigno        	sogghigno       	» disse il ragazzo con un lieve sogghigno.
+approfondire     	approfondire    	Non si sentiva molto in vena di approfondire l’argomento con quel ragazzo.
+rincrescimento   	rincrescimento  	«Oh, scusa» disse l’altro, senza mostrare il minimo rincrescimento.
+maniera          	maniera         	Loro non sono come noi, non sono cresciuti alla nostra maniera.
+frequenza        	frequenza       	Secondo me, dovrebbero limitare la frequenza alle più antiche famiglie di maghi.
+antiche          	antico          	Secondo me, dovrebbero limitare la frequenza alle più antiche famiglie di maghi.
+cognome          	cognome         	A proposito, come fai di cognome?»
+spiacente        	spiacente       	E Harry, tutt’altro che spiacente d’avere una scusa per interrompere la conversazione con il ragazzo, saltò giù dallo sgabello.
+congedò          	congedarsi      	«Bene, penso che ci rivedremo a Hogwarts» si congedò il ragazzo, sempre con la stessa parlata lenta e strascicata.
+parlata          	parlata         	«Bene, penso che ci rivedremo a Hogwarts» si congedò il ragazzo, sempre con la stessa parlata lenta e strascicata.
+gustò            	gustare         	Harry gustò in silenzio il gelato che Hagrid gli aveva comprato (cioccolato e lamponi con granella di noccioline).
+lamponi          	lampone         	Harry gustò in silenzio il gelato che Hagrid gli aveva comprato (cioccolato e lamponi con granella di noccioline).
+noccioline       	nocciolina      	Harry gustò in silenzio il gelato che Hagrid gli aveva comprato (cioccolato e lamponi con granella di noccioline).
+mentì            	mentire         	«Niente» mentì Harry.
+acquistare       	acquistare      	Si fermarono per acquistare pergamena e penne d’oca.
+pregò            	pregare         	» «Non farmi sentire ancora più a disagio» lo pregò Harry.
+stirpe           	stirpe          	alcuni dei migliori erano gli unici che avevano poteri magici in una lunga stirpe di Babbani... Prendi tua madre!
+razza            	razza           	Guarda che razza di sorella aveva!
+palle            	palla           	Si gioca in aria, a cavallo di scope e con quattro palle... È difficile spiegare le regole».
+branco           	branco          	Tutti dicono che quelli di Tassofrasso sono un branco di schiappe, ma...» «Scommetto che io finisco a Tassofrasso» disse Harry tristemente.
+schiappe         	schiappa        	Tutti dicono che quelli di Tassofrasso sono un branco di schiappe, ma...» «Scommetto che io finisco a Tassofrasso» disse Harry tristemente.
+ghirigoro        	ghirigoro       	Comprarono i libri di testo per Harry in un negozio chiamato ‘Il Ghirigoro di Flourish & Blott’ dove gli scaffali erano stipati fino al soffitto di libri grossi come lastroni di pietra e rilegati in pelle;
+stipati          	stipare         	Comprarono i libri di testo per Harry in un negozio chiamato ‘Il Ghirigoro di Flourish & Blott’ dove gli scaffali erano stipati fino al soffitto di libri grossi come lastroni di pietra e rilegati in pelle;
+lastroni         	lastrone        	Comprarono i libri di testo per Harry in un negozio chiamato ‘Il Ghirigoro di Flourish & Blott’ dove gli scaffali erano stipati fino al soffitto di libri grossi come lastroni di pietra e rilegati in pelle;
+rilegati         	rilegare        	Comprarono i libri di testo per Harry in un negozio chiamato ‘Il Ghirigoro di Flourish & Blott’ dove gli scaffali erano stipati fino al soffitto di libri grossi come lastroni di pietra e rilegati in pelle;
+foderati         	foderare        	libri delle dimensioni di un francobollo, foderati in seta;
+seta             	seta            	libri delle dimensioni di un francobollo, foderati in seta;
+simboli          	simbolo         	libri pieni di simboli strani e alcuni con le pagine bianche.
+pazzie           	pazzia          	Anche Dudley, che non leggeva mai niente, avrebbe fatto pazzie per metterci le mani sopra.
+stregate         	stregare        	Hagrid dovette quasi trascinare via Harry da Maledizioni e Contromaledizioni (Stregate gli amici e confondete i nemici con le vendette all’ultimo grido:
+confondete       	confondere      	Hagrid dovette quasi trascinare via Harry da Maledizioni e Contromaledizioni (Stregate gli amici e confondete i nemici con le vendette all’ultimo grido:
+nemici           	nemico          	Hagrid dovette quasi trascinare via Harry da Maledizioni e Contromaledizioni (Stregate gli amici e confondete i nemici con le vendette all’ultimo grido:
+vendette         	vendetta        	Hagrid dovette quasi trascinare via Harry da Maledizioni e Contromaledizioni (Stregate gli amici e confondete i nemici con le vendette all’ultimo grido:
+circostanze      	circostanza     	«Non dico che non è una buona idea, ma nel mondo dei Babbani non devi usare la magia tranne che in circostanze speciali» disse Hagrid.
+livello          	livello         	devi studiare un mucchio per arrivare a quel livello».
+massiccio        	massiccio       	Hagrid non permise a Harry di comprare un calderone d’oro massiccio («Nella lista c’è scritto ‘peltro’»), ma acquistarono una bella bilancia per pesare gli ingredienti delle pozioni, e un telescopio pieghevole in ottone.
+lista            	lista           	Hagrid non permise a Harry di comprare un calderone d’oro massiccio («Nella lista c’è scritto ‘peltro’»), ma acquistarono una bella bilancia per pesare gli ingredienti delle pozioni, e un telescopio pieghevole in ottone.
+ingredienti      	ingrediente     	Hagrid non permise a Harry di comprare un calderone d’oro massiccio («Nella lista c’è scritto ‘peltro’»), ma acquistarono una bella bilancia per pesare gli ingredienti delle pozioni, e un telescopio pieghevole in ottone.
+ripagare         	ripagare        	Poi andarono dallo speziale, luogo talmente interessante da ripagare del pessimo odore che vi regnava, un misto di uova marce e cavoli putridi.
+pessimo          	pessimo         	Poi andarono dallo speziale, luogo talmente interessante da ripagare del pessimo odore che vi regnava, un misto di uova marce e cavoli putridi.
+regnava          	regnare         	Poi andarono dallo speziale, luogo talmente interessante da ripagare del pessimo odore che vi regnava, un misto di uova marce e cavoli putridi.
+misto            	misto           	Poi andarono dallo speziale, luogo talmente interessante da ripagare del pessimo odore che vi regnava, un misto di uova marce e cavoli putridi.
+marce            	marcio          	Poi andarono dallo speziale, luogo talmente interessante da ripagare del pessimo odore che vi regnava, un misto di uova marce e cavoli putridi.
+putridi          	putrido         	Poi andarono dallo speziale, luogo talmente interessante da ripagare del pessimo odore che vi regnava, un misto di uova marce e cavoli putridi.
+viscida          	viscido         	Per terra c’erano barili di roba viscida; vasi di erbe officinali, radici secche e polveri dai colori brillanti erano allineati lungo le pareti; fasci di piume, di zanne e artigli aggrovigliati pendevano dal soffitto.
+vasi             	vaso            	Per terra c’erano barili di roba viscida; vasi di erbe officinali, radici secche e polveri dai colori brillanti erano allineati lungo le pareti; fasci di piume, di zanne e artigli aggrovigliati pendevano dal soffitto.
+officinali       	officinale      	Per terra c’erano barili di roba viscida; vasi di erbe officinali, radici secche e polveri dai colori brillanti erano allineati lungo le pareti; fasci di piume, di zanne e artigli aggrovigliati pendevano dal soffitto.
+radici           	radice          	Per terra c’erano barili di roba viscida; vasi di erbe officinali, radici secche e polveri dai colori brillanti erano allineati lungo le pareti; fasci di piume, di zanne e artigli aggrovigliati pendevano dal soffitto.
+polveri          	polvere         	Per terra c’erano barili di roba viscida; vasi di erbe officinali, radici secche e polveri dai colori brillanti erano allineati lungo le pareti; fasci di piume, di zanne e artigli aggrovigliati pendevano dal soffitto.
+brillanti        	brillante       	Per terra c’erano barili di roba viscida; vasi di erbe officinali, radici secche e polveri dai colori brillanti erano allineati lungo le pareti; fasci di piume, di zanne e artigli aggrovigliati pendevano dal soffitto.
+allineati        	allineare       	Per terra c’erano barili di roba viscida; vasi di erbe officinali, radici secche e polveri dai colori brillanti erano allineati lungo le pareti; fasci di piume, di zanne e artigli aggrovigliati pendevano dal soffitto.
+fasci            	fascio          	Per terra c’erano barili di roba viscida; vasi di erbe officinali, radici secche e polveri dai colori brillanti erano allineati lungo le pareti; fasci di piume, di zanne e artigli aggrovigliati pendevano dal soffitto.
+piume            	piuma           	Per terra c’erano barili di roba viscida; vasi di erbe officinali, radici secche e polveri dai colori brillanti erano allineati lungo le pareti; fasci di piume, di zanne e artigli aggrovigliati pendevano dal soffitto.
+zanne            	zanna           	Per terra c’erano barili di roba viscida; vasi di erbe officinali, radici secche e polveri dai colori brillanti erano allineati lungo le pareti; fasci di piume, di zanne e artigli aggrovigliati pendevano dal soffitto.
+fondamentali     	fondamentale    	Mentre Hagrid chiedeva all’uomo dietro il bancone una provvista di certi ingredienti fondamentali per preparare pozioni, Harry esaminava alcuni corni argentati di unicorno, che costavano ventuno galeoni ciascuno, e minuscoli occhi di coleottero neri e lucenti (a cinque zellini la manciata).
+corni            	corno           	Mentre Hagrid chiedeva all’uomo dietro il bancone una provvista di certi ingredienti fondamentali per preparare pozioni, Harry esaminava alcuni corni argentati di unicorno, che costavano ventuno galeoni ciascuno, e minuscoli occhi di coleottero neri e lucenti (a cinque zellini la manciata).
+argentati        	argentato       	Mentre Hagrid chiedeva all’uomo dietro il bancone una provvista di certi ingredienti fondamentali per preparare pozioni, Harry esaminava alcuni corni argentati di unicorno, che costavano ventuno galeoni ciascuno, e minuscoli occhi di coleottero neri e lucenti (a cinque zellini la manciata).
+unicorno         	unicorno        	Mentre Hagrid chiedeva all’uomo dietro il bancone una provvista di certi ingredienti fondamentali per preparare pozioni, Harry esaminava alcuni corni argentati di unicorno, che costavano ventuno galeoni ciascuno, e minuscoli occhi di coleottero neri e lucenti (a cinque zellini la manciata).
+ventuno          	ventuno         	Mentre Hagrid chiedeva all’uomo dietro il bancone una provvista di certi ingredienti fondamentali per preparare pozioni, Harry esaminava alcuni corni argentati di unicorno, che costavano ventuno galeoni ciascuno, e minuscoli occhi di coleottero neri e lucenti (a cinque zellini la manciata).
+ciascuno         	ciascuno        	Mentre Hagrid chiedeva all’uomo dietro il bancone una provvista di certi ingredienti fondamentali per preparare pozioni, Harry esaminava alcuni corni argentati di unicorno, che costavano ventuno galeoni ciascuno, e minuscoli occhi di coleottero neri e lucenti (a cinque zellini la manciata).
+minuscoli        	minuscolo       	Mentre Hagrid chiedeva all’uomo dietro il bancone una provvista di certi ingredienti fondamentali per preparare pozioni, Harry esaminava alcuni corni argentati di unicorno, che costavano ventuno galeoni ciascuno, e minuscoli occhi di coleottero neri e lucenti (a cinque zellini la manciata).
+coleottero       	coleottero      	Mentre Hagrid chiedeva all’uomo dietro il bancone una provvista di certi ingredienti fondamentali per preparare pozioni, Harry esaminava alcuni corni argentati di unicorno, che costavano ventuno galeoni ciascuno, e minuscoli occhi di coleottero neri e lucenti (a cinque zellini la manciata).
+starnutire       	starnutire      	Non un rospo, i rospi sono passati di moda anni fa, ti riderebbero dietro... e i gatti non mi piacciono, mi fanno starnutire.
+locale           	locale          	Venti minuti dopo, uscivano dall’Emporio del Gufo, un locale buio, pieno di animali che raspavano e frullavano in aria, con gli occhi luccicanti come gemme preziose.
+frullavano       	frullare        	Venti minuti dopo, uscivano dall’Emporio del Gufo, un locale buio, pieno di animali che raspavano e frullavano in aria, con gli occhi luccicanti come gemme preziose.
+gemme            	gemma           	Venti minuti dopo, uscivano dall’Emporio del Gufo, un locale buio, pieno di animali che raspavano e frullavano in aria, con gli occhi luccicanti come gemme preziose.
+trasportava      	trasportare     	Ora Harry trasportava una grossa gabbia che conteneva una bella civetta bianca come la neve, profondamente addormentata con la testa sotto l’ala.
+ringraziamenti   	ringraziamento  	Non riusciva a smettere di balbettare ringraziamenti, tanto che sembrava il professor Quirrell.
+angusto          	angusto         	Quest’ultimo negozio era angusto e trasandato.
+trasandato       	trasandato      	Quest’ultimo negozio era angusto e trasandato.
+scortecciate     	scortecciare    	Un’insegna a lettere d’oro scortecciate sopra la porta diceva:
+fabbrica         	fabbrica        	‘Ollivander: fabbrica di bacchette di qualità superiore dal 382 a.C.’ Nella vetrina polverosa, su un cuscino color porpora stinto, era esposta una sola bacchetta.
+qualità          	qualità         	‘Ollivander: fabbrica di bacchette di qualità superiore dal 382 a.C.’ Nella vetrina polverosa, su un cuscino color porpora stinto, era esposta una sola bacchetta.
+superiore        	superiore       	‘Ollivander: fabbrica di bacchette di qualità superiore dal 382 a.C.’ Nella vetrina polverosa, su un cuscino color porpora stinto, era esposta una sola bacchetta.
+polverosa        	polveroso       	‘Ollivander: fabbrica di bacchette di qualità superiore dal 382 a.C.’ Nella vetrina polverosa, su un cuscino color porpora stinto, era esposta una sola bacchetta.
+cuscino          	cuscino         	‘Ollivander: fabbrica di bacchette di qualità superiore dal 382 a.C.’ Nella vetrina polverosa, su un cuscino color porpora stinto, era esposta una sola bacchetta.
+stinto           	stinto          	‘Ollivander: fabbrica di bacchette di qualità superiore dal 382 a.C.’ Nella vetrina polverosa, su un cuscino color porpora stinto, era esposta una sola bacchetta.
+scampanellio     	scampanellio    	Un lieve scampanellio, proveniente da anfratti non meglio identificati del negozio, accolse il loro ingresso.
+anfratti         	anfratto        	Un lieve scampanellio, proveniente da anfratti non meglio identificati del negozio, accolse il loro ingresso.
+identificati     	identificare    	Un lieve scampanellio, proveniente da anfratti non meglio identificati del negozio, accolse il loro ingresso.
+accolse          	accogliere      	Un lieve scampanellio, proveniente da anfratti non meglio identificati del negozio, accolse il loro ingresso.
+malferma         	malfermo        	Era un luogo minuscolo, vuoto, tranne che per una sedia malferma su cui Hagrid si sedette, nell’attesa.
+migliaia         	migliaio        	Ricacciò via un mucchio di nuove domande che gli erano appena venute in mente e si mise a osservare le migliaia di scatoline strette strette, tutte impilate in bell’ordine fino al soffitto.
+impilate         	impilare        	Ricacciò via un mucchio di nuove domande che gli erano appena venute in mente e si mise a osservare le migliaia di scatoline strette strette, tutte impilate in bell’ordine fino al soffitto.
+pizzicore        	pizzicore       	Chissà perché, sentiva un pizzicore alla nuca.
+fremere          	fremere         	Persino la polvere e il silenzio di quel luogo sembravano fremere di una segreta magia.
+scoloriti        	scolorato       	Avevano di fronte un uomo anziano con occhi grandi e scoloriti che rilucevano nella penombra del negozio come due astri lunari.
+rilucevano       	rilucere        	Avevano di fronte un uomo anziano con occhi grandi e scoloriti che rilucevano nella penombra del negozio come due astri lunari.
+penombra         	penombra        	Avevano di fronte un uomo anziano con occhi grandi e scoloriti che rilucevano nella penombra del negozio come due astri lunari.
+astri            	astro           	Avevano di fronte un uomo anziano con occhi grandi e scoloriti che rilucevano nella penombra del negozio come due astri lunari.
+salve            	salve           	«Salve» disse Harry imbarazzato.
+imbarazzato      	imbarazzato     	«Salve» disse Harry imbarazzato.
+conoscenza       	conoscenza      	«Sì, sì, sì, ero sicuro che avrei fatto presto la sua conoscenza.
+pollici          	pollice         	Lunga dieci pollici e un quarto, sibilante, di salice.
+quarto           	quarto          	Lunga dieci pollici e un quarto, sibilante, di salice.
+salice           	salice          	Lunga dieci pollici e un quarto, sibilante, di salice.
+incanto          	incanto         	Una bella bacchetta, lavorava d’incanto».
+mogano           	mogano          	«Suo padre, invece, preferì una bacchetta di mogano.
+flessibile       	flessibile      	Flessibile.
+riflesso         	riflesso        	Ollivander si era fatto talmente vicino da toccare quasi il naso di Harry, che si vedeva riflesso in quegli occhi velati.
+velati           	velato          	Ollivander si era fatto talmente vicino da toccare quasi il naso di Harry, che si vedeva riflesso in quegli occhi velati.
+tredici          	tredici         	«Tredici pollici e mezzo.
+sbagliate        	sbagliato       	Una bacchetta potente, molto potente, e nelle mani sbagliate...
+quercia          	quercia         	Quercia, sedici pollici, piuttosto flessibile;
+azzeccato        	azzeccare       	» «Azzeccato, signore» disse Hagrid.
+aggiunse         	aggiungere      	«Però conservo ancora le due metà» aggiunse vivacemente.
+vivacemente      	vivacemente     	«Però conservo ancora le due metà» aggiunse vivacemente.
+inquisitorio     	inquisitorio    	«Ma non le usi, vero?» chiese Ollivander con fare inquisitorio.
+metro            	metro           	«Allora, signor Potter, vediamo un po’» e tirò fuori dalla tasca un lungo metro a nastro con le tacche d’argento.
+tacche           	tacca           	«Allora, signor Potter, vediamo un po’» e tirò fuori dalla tasca un lungo metro a nastro con le tacche d’argento.
+alzi             	alzare          	«Alzi il braccio.
+gomito           	gomito          	Misurò il braccio di Harry dalla spalla alla punta delle dita, poi dal polso al gomito, dalla spalla a terra, dal ginocchio all’ascella e poi prese anche la circonferenza della testa.
+ascella          	ascella         	Misurò il braccio di Harry dalla spalla alla punta delle dita, poi dal polso al gomito, dalla spalla a terra, dal ginocchio all’ascella e poi prese anche la circonferenza della testa.
+circonferenza    	circonferenza   	Misurò il braccio di Harry dalla spalla alla punta delle dita, poi dal polso al gomito, dalla spalla a terra, dal ginocchio all’ascella e poi prese anche la circonferenza della testa.
+nucleo           	nucleo          	«Ogni bacchetta Ollivander ha il nucleo fatto di una potente sostanza magica, signor Potter.
+sostanza         	sostanza        	«Ogni bacchetta Ollivander ha il nucleo fatto di una potente sostanza magica, signor Potter.
+crini            	crine           	Usiamo crini di unicorno, piume della coda della fenice e corde del cuore di drago.
+fenice           	fenice          	Usiamo crini di unicorno, piume della coda della fenice e corde del cuore di drago.
+corde            	corda           	Usiamo crini di unicorno, piume della coda della fenice e corde del cuore di drago.
+risultati        	risultato       	E naturalmente, non si ottengono mai risultati altrettanto buoni con la bacchetta di un altro mago».
+narici           	narice          	All’improvviso, Harry si accorse che il metro a nastro, che gli stava misurando la distanza fra le narici, stava facendo tutto da solo.
+volteggiava      	volteggiare     	Ollivander, infatti, volteggiava tra gli scaffali, tirando giù scatole.
+afflosciò        	afflosciarsi    	«Può bastare così» disse, e il metro a nastro si afflosciò sul pavimento.
+faggio           	faggio          	Legno di faggio e corde di cuore di drago.
+bella            	bella           	Bella flessibile.
+agiti            	agitare         	La prenda e la agiti in aria».
+debolmente       	debolmente      	Harry prese la bacchetta e, sentendosi un po’ sciocco, la agitò debolmente, ma Ollivander gliela strappò quasi subito di mano.
+acero            	acero           	«Acero e piume di fenice.
+ebano            	ebano           	«No, no... ecco, ebano e crini di unicorno, otto pollici e mezzo, elastica.
+elastica         	elastico        	«No, no... ecco, ebano e crini di unicorno, otto pollici e mezzo, elastica.
+ammucchiando     	ammucchiare     	Le bacchette si stavano ammucchiando sulla sedia, ma più Ollivander ne tirava fuori dagli scaffali, più sembrava felice.
+cliente          	cliente         	«Un cliente difficile, eh?
+pennello         	pennello        	No, niente paura, troveremo quella che va a pennello...
+agrifoglio       	agrifoglio      	Ora, mi chiedo... sì, perché no... combinazione insolita... agrifoglio e piume di fenice, undici pollici, bella flessibile».
+abbassò          	abbassare       	La alzò sopra la testa, la abbassò sferzando l’aria polverosa e una scia di scintille rosse e oro si sprigionò dall’estremità come un fuoco d’artificio, proiettando sulle pareti minuscoli riflessi danzanti di luce.
+scia             	scia            	La alzò sopra la testa, la abbassò sferzando l’aria polverosa e una scia di scintille rosse e oro si sprigionò dall’estremità come un fuoco d’artificio, proiettando sulle pareti minuscoli riflessi danzanti di luce.
+scintille        	scintilla       	La alzò sopra la testa, la abbassò sferzando l’aria polverosa e una scia di scintille rosse e oro si sprigionò dall’estremità come un fuoco d’artificio, proiettando sulle pareti minuscoli riflessi danzanti di luce.
+sprigionò        	sprigionarsi    	La alzò sopra la testa, la abbassò sferzando l’aria polverosa e una scia di scintille rosse e oro si sprigionò dall’estremità come un fuoco d’artificio, proiettando sulle pareti minuscoli riflessi danzanti di luce.
+proiettando      	proiettare      	La alzò sopra la testa, la abbassò sferzando l’aria polverosa e una scia di scintille rosse e oro si sprigionò dall’estremità come un fuoco d’artificio, proiettando sulle pareti minuscoli riflessi danzanti di luce.
+danzanti         	danzante        	La alzò sopra la testa, la abbassò sferzando l’aria polverosa e una scia di scintille rosse e oro si sprigionò dall’estremità come un fuoco d’artificio, proiettando sulle pareti minuscoli riflessi danzanti di luce.
+entusiasmo       	entusiasmo      	Hagrid gridò d’entusiasmo e batté le mani e Ollivander esclamò:
+sbiaditi         	sbiadito        	«Scusi» fece Harry, «ma che cosa c’è di strano?» Ollivander lo fissò con i suoi occhi sbiaditi.
+destinato        	destinare       	È veramente molto strano che lei sia destinato a questa bacchetta, visto che la sua gemella... sì, la sua gemella le ha procurato quella cicatrice».
+gemella          	gemello         	È veramente molto strano che lei sia destinato a questa bacchetta, visto che la sua gemella... sì, la sua gemella le ha procurato quella cicatrice».
+procurato        	procurare       	È veramente molto strano che lei sia destinato a questa bacchetta, visto che la sua gemella... sì, la sua gemella le ha procurato quella cicatrice».
+curioso          	curioso         	Curioso come accadano queste cose.
+avanzato         	avanzato        	Era ormai pomeriggio avanzato e il sole era basso all’orizzonte quando Harry e Hagrid si misero sulla via del ritorno ripercorrendo Diagon Alley e riattraversarono il muro fino al Paiolo Magico, ormai deserto.
+orizzonte        	orizzonte       	Era ormai pomeriggio avanzato e il sole era basso all’orizzonte quando Harry e Hagrid si misero sulla via del ritorno ripercorrendo Diagon Alley e riattraversarono il muro fino al Paiolo Magico, ormai deserto.
+ripercorrendo    	ripercorrere    	Era ormai pomeriggio avanzato e il sole era basso all’orizzonte quando Harry e Hagrid si misero sulla via del ritorno ripercorrendo Diagon Alley e riattraversarono il muro fino al Paiolo Magico, ormai deserto.
+riattraversarono 	riattraversare  	Era ormai pomeriggio avanzato e il sole era basso all’orizzonte quando Harry e Hagrid si misero sulla via del ritorno ripercorrendo Diagon Alley e riattraversarono il muro fino al Paiolo Magico, ormai deserto.
+deserto          	deserto         	Era ormai pomeriggio avanzato e il sole era basso all’orizzonte quando Harry e Hagrid si misero sulla via del ritorno ripercorrendo Diagon Alley e riattraversarono il muro fino al Paiolo Magico, ormai deserto.
+carichi          	carico          	non notò nemmeno quanta gente li guardasse a bocca aperta, in metropolitana, carichi com’erano di tutti quei pacchi dalle forme bizzarre e con la civetta candida addormentata sulle ginocchia.
+boccone          	boccone         	«C’è tempo per un boccone, prima del tuo treno» disse.
+panchine         	panchina        	Gli comprò un hamburger e si sedettero a mangiare su panchine di plastica.
+plastica         	plastica        	Gli comprò un hamburger e si sedettero a mangiare su panchine di plastica.
+zitto            	zitto           	Te ne stai così zitto» disse Hagrid.
+spiegarsi        	spiegarsi       	Harry non era sicuro di riuscire a spiegarsi.
+capolino         	capolino        	Dietro la barba incolta e le folte sopracciglia faceva capolino un sorriso pieno di gentilezza.
+gentilezza       	gentilezza      	Dietro la barba incolta e le folte sopracciglia faceva capolino un sorriso pieno di gentilezza.
+basi             	base            	A Hogwarts tutti cominciano dalle basi.
+riportato        	riportare       	Hagrid aiutò il ragazzo a salire sul treno che lo avrebbe riportato dai Dursley, e poi gli porse una busta.
+spediscimi       	spedire         	Se hai problemi con i Dursley, spediscimi una lettera con la tua civetta, lei saprà dove trovarmi... A presto, Harry».
+finestrino       	finestrino      	si alzò in piedi sul sedile e schiacciò il naso contro il finestrino, ma non fece in tempo a battere le palpebre che Hagrid era sparito.

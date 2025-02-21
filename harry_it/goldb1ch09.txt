@@ -1,0 +1,218 @@
+duello          	duello        	IL DUELLO DI MEZZANOTTE Harry non avrebbe mai creduto possibile incontrare un ragazzo più odioso di Dudley;
+odioso          	odioso        	IL DUELLO DI MEZZANOTTE Harry non avrebbe mai creduto possibile incontrare un ragazzo più odioso di Dudley;
+bacheca         	bacheca       	O per lo meno fu così fino a quando, nella bacheca della sala comune di Grifondoro, non comparve un avviso che sollevò un lamento di protesta generale.
+comparve        	comparire     	O per lo meno fu così fino a quando, nella bacheca della sala comune di Grifondoro, non comparve un avviso che sollevò un lamento di protesta generale.
+lamento         	lamento       	O per lo meno fu così fino a quando, nella bacheca della sala comune di Grifondoro, non comparve un avviso che sollevò un lamento di protesta generale.
+protesta        	protesta      	O per lo meno fu così fino a quando, nella bacheca della sala comune di Grifondoro, non comparve un avviso che sollevò un lamento di protesta generale.
+giovedì         	giovedì       	Il giovedì successivo sarebbero iniziate le lezioni di volo, cui Grifondoro e Serpeverde avrebbero partecipato insieme.
+partecipato     	partecipare   	Il giovedì successivo sarebbero iniziate le lezioni di volo, cui Grifondoro e Serpeverde avrebbero partecipato insieme.
+ansia           	ansia         	Aveva aspettato con ansia le lezioni di volo, più di qualsiasi altra cosa.
+vantarsi        	vantarsi      	«Comunque, ho sempre sentito Malfoy vantarsi di quanto è bravo a giocare a Quidditch, ma scommetto che sono tutte balle».
+millantava      	millantare    	Strepitava lamentandosi del fatto che gli allievi del primo anno non entravano mai a far parte della squadra della propria Casa, e millantava avventure mirabolanti che finivano sempre con lui che sfuggiva per un pelo ai Babbani a bordo di elicotteri.
+avventure       	avventura     	Strepitava lamentandosi del fatto che gli allievi del primo anno non entravano mai a far parte della squadra della propria Casa, e millantava avventure mirabolanti che finivano sempre con lui che sfuggiva per un pelo ai Babbani a bordo di elicotteri.
+mirabolanti     	mirabolante   	Strepitava lamentandosi del fatto che gli allievi del primo anno non entravano mai a far parte della squadra della propria Casa, e millantava avventure mirabolanti che finivano sempre con lui che sfuggiva per un pelo ai Babbani a bordo di elicotteri.
+elicotteri      	elicottero    	Strepitava lamentandosi del fatto che gli allievi del primo anno non entravano mai a far parte della squadra della propria Casa, e millantava avventure mirabolanti che finivano sempre con lui che sfuggiva per un pelo ai Babbani a bordo di elicotteri.
+scorrazzare     	scorrazzare   	a sentire Seamus Finnigan, pareva che anche lui da bambino non avesse fatto altro che scorrazzare per la campagna a cavallo della sua scopa.
+deltaplano      	deltaplano    	E anche Ron raccontava a chiunque fosse disposto ad ascoltarlo di quella volta che, sulla vecchia scopa di Charlie, era quasi andato a sbattere contro un deltaplano.
+condivideva     	condividere   	Ron aveva già avuto una grossa discussione con Dean Thomas, che condivideva il loro dormitorio, a proposito delle partite di calcio.
+eccitante       	eccitante     	Non riusciva a capire che cosa ci fosse di tanto eccitante in un gioco che prevedeva una sola palla e dove non era consentito volare.
+stuzzicare      	stuzzicare    	Harry lo aveva sorpreso a stuzzicare il poster di Dean con la squadra del West Ham, nella speranza di far muovere i calciatori.
+poster          	poster        	Harry lo aveva sorpreso a stuzzicare il poster di Dean con la squadra del West Ham, nella speranza di far muovere i calciatori.
+calciatori      	calciatore    	Harry lo aveva sorpreso a stuzzicare il poster di Dean con la squadra del West Ham, nella speranza di far muovere i calciatori.
+procurarsi      	procurarsi    	Personalmente, Harry pensava che la signora avesse le sue buone ragioni, visto che Neville riusciva a procurarsi una quantità incredibile di incidenti anche quando stava con entrambi i piedi per terra.
+quantità        	quantità      	Personalmente, Harry pensava che la signora avesse le sue buone ragioni, visto che Neville riusciva a procurarsi una quantità incredibile di incidenti anche quando stava con entrambi i piedi per terra.
+intendiamoci    	intendersi    	Intendiamoci bene, non che lei non ci avesse provato.
+rintontiti      	rintontire    	Giovedì, durante la colazione, li aveva rintontiti a suon di suggerimenti e notizie che aveva reperito in un libro della biblioteca intitolato Il Quidditch attraverso i secoli.
+suggerimenti    	suggerimento  	Giovedì, durante la colazione, li aveva rintontiti a suon di suggerimenti e notizie che aveva reperito in un libro della biblioteca intitolato Il Quidditch attraverso i secoli.
+reperito        	reperire      	Giovedì, durante la colazione, li aveva rintontiti a suon di suggerimenti e notizie che aveva reperito in un libro della biblioteca intitolato Il Quidditch attraverso i secoli.
+intitolato      	intitolare    	Giovedì, durante la colazione, li aveva rintontiti a suon di suggerimenti e notizie che aveva reperito in un libro della biblioteca intitolato Il Quidditch attraverso i secoli.
+reggersi        	reggersi      	Neville pendeva letteralmente dalle sue labbra, nel disperato tentativo di carpire qualcosa che più tardi avrebbe potuto aiutarlo a reggersi sulla scopa, ma gli altri furono più che contenti quando l’arrivo della posta interruppe la conferenza di Hermione.
+conferenza      	conferenza    	Neville pendeva letteralmente dalle sue labbra, nel disperato tentativo di carpire qualcosa che più tardi avrebbe potuto aiutarlo a reggersi sulla scopa, ma gli altri furono più che contenti quando l’arrivo della posta interruppe la conferenza di Hermione.
+reale           	reale         	A lui, il suo gufo reale portava sempre pacchi di dolci da casa, che il ragazzo apriva con gioia maligna al tavolo di Serpeverde.
+biglia          	biglia        	Lui lo aprì tutto eccitato e mostrò agli altri una palla di vetro, grande quanto una grossa biglia, che sembrava piena di fumo bianco.
+fiutava         	fiutare       	Entrambi speravano in una buona occasione per fare a pugni con Malfoy, ma la professoressa McGonagall, che fiutava i guai prima di ogni altro insegnante, piombò come un fulmine.
+fulmine         	fulmine       	Entrambi speravano in una buona occasione per fare a pugni con Malfoy, ma la professoressa McGonagall, che fiutava i guai prima di ogni altro insegnante, piombò come un fulmine.
+corrucciato     	corrucciato   	Tutto corrucciato, Malfoy rimise prontamente la palla sul tavolo.
+prontamente     	prontamente   	Tutto corrucciato, Malfoy rimise prontamente la palla sul tavolo.
+ventosa         	ventoso       	Era una giornata chiara e ventosa e l’erba si increspava sotto i loro passi mentre scendevano giù per una collina verso un prato in direzione opposta alla Foresta Proibita, le cui chiome ondeggiavano, nere, in lontananza.
+prato           	prato         	Era una giornata chiara e ventosa e l’erba si increspava sotto i loro passi mentre scendevano giù per una collina verso un prato in direzione opposta alla Foresta Proibita, le cui chiome ondeggiavano, nere, in lontananza.
+ondeggiavano    	ondeggiare    	Era una giornata chiara e ventosa e l’erba si increspava sotto i loro passi mentre scendevano giù per una collina verso un prato in direzione opposta alla Foresta Proibita, le cui chiome ondeggiavano, nere, in lontananza.
+ordinatamente   	ordinatamente 	I Serpeverde erano già arrivati e per terra c’erano anche venti scope ordinatamente disposte in tante file.
+sbandavano      	sbandare      	Harry aveva sentito Fred e George Weasley lamentarsi delle scope della scuola, dicendo che, se uno volava troppo alto, alcune cominciavano a vibrare, oppure sbandavano leggermente a sinistra.
+rametti         	ramo          	Era vecchia e alcuni rametti sporgevano formando strani angoli.
+destra          	destro        	«Stendete la mano destra sopra la vostra scopa» disse Madame Hooch di fronte a loro, «e dite:
+rotolare        	rotolare      	Quella di Hermione Granger si era limitata a rotolare per terra e quella di Neville non si era neanche mossa.
+mossa           	mossa         	Quella di Hermione Granger si era limitata a rotolare per terra e quella di Neville non si era neanche mossa.
+tradito         	tradire       	c’era stato un tremito, nella voce di Neville, che aveva tradito chiaramente il suo desiderio di rimanere con i piedi piantati in terra.
+rassegna        	rassegna      	A quel punto, Madame Hooch mostrò a tutti come montare il manico di scopa senza scivolare verso il fondo, e poi passò in rassegna le file per correggere la presa.
+correggere      	correggere    	A quel punto, Madame Hooch mostrò a tutti come montare il manico di scopa senza scivolare verso il fondo, e poi passò in rassegna le file per correggere la presa.
+godettero       	godere        	Harry e Ron se la godettero un mondo quando disse che erano anni che Malfoy usava la presa sbagliata.
+fischietto      	fischietto    	«E ora, quando suonerò il fischietto, datevi una spinta premendo forte i piedi per terra» disse Madame Hooch.
+salde           	saldo         	«Tenete ben salde le scope e sollevatevi di un metro circa;
+sollevatevi     	sollevarsi    	«Tenete ben salde le scope e sollevatevi di un metro circa;
+inclinandovi    	inclinarsi    	poi tornate giù inclinandovi leggermente in avanti.
+sovreccitato    	sovreccitare  	Al mio fischio... tre... due...» Ma Neville, nervoso e sovreccitato com’era, nel timore di rimanere a terra, si diede la spinta prima ancora che il fischietto avesse sfiorato le labbra di Madame Hooch.
+turacciolo      	turacciolo    	«Torna indietro, ragazzo!» gridò lei, ma Neville si stava sollevando in aria come un turacciolo esploso da una bottiglia... tre metri... sei metri... Harry vide che era terreo in volto mentre guardava il suolo che si allontanava sempre più, vide che gli mancava il fiato, poi lo vide scivolare dal manico, e... SBAM!
+suolo           	suolo         	«Torna indietro, ragazzo!» gridò lei, ma Neville si stava sollevando in aria come un turacciolo esploso da una bottiglia... tre metri... sei metri... Harry vide che era terreo in volto mentre guardava il suolo che si allontanava sempre più, vide che gli mancava il fiato, poi lo vide scivolare dal manico, e... SBAM!
+tonfo           	tonfo         	Un tonfo, uno schianto sinistro e Neville era lì sull’erba, faccia a terra, come un fagotto informe.
+informe         	informe       	Un tonfo, uno schianto sinistro e Neville era lì sull’erba, faccia a terra, come un fagotto informe.
+deriva          	derivare      	La sua scopa salì sempre più in alto e poi si allontanò come andasse alla deriva verso la Foresta Proibita, scomparendo alla vista.
+rigato          	rigare        	Neville, con il volto rigato dalle lacrime e reggendosi il polso, si avviò zoppicando insieme a Madame Hooch, che lo cingeva con il braccio.
+zoppicando      	zoppicare     	Neville, con il volto rigato dalle lacrime e reggendosi il polso, si avviò zoppicando insieme a Madame Hooch, che lo cingeva con il braccio.
+sonora          	sonoro        	Non erano ancora fuori dalla portata di voce che Malfoy scoppiò in una sonora risata.
+salame          	salame        	«Hai visto che faccia, quel gran salame che non è altro?»
+lineamenti      	lineamenti    	«Oh, non prenderai mica le difese di Longbottom!» disse Pansy Parkinson, una ragazza Serpeverde dai lineamenti duri.
+frignoni        	frignone      	«Non avrei mai creduto che proprio a te, Parvati, stessero simpatici i frignoni, e per di più ciccioni».
+aggeggio        	aggeggio      	«È quello stupido aggeggio che gli ha mandato la nonna».
+scena           	scena         	Tutti tacquero all’istante per godersi la scena.
+decollato       	decollare     	» «Dammela!» gridò Harry, ma Malfoy era già balzato sulla sua scopa ed era decollato.
+quota           	quota         	tenendosi in quota all’altezza dei rami più alti di una quercia, gridava:
+pulsargli       	pulsare       	Sentiva il sangue pulsargli nelle orecchie.
+calciò          	calciare      	Inforcò la scopa, calciò forte il suolo e via, si levò in alto, con il vento che gli scompigliava i capelli e gli abiti che sferzavano l’aria... e in un impeto di gioia selvaggia si rese conto di aver scoperto una cosa che sapeva fare senza bisogno di studiare... era facile, era meraviglioso.
+impeto          	impeto        	Inforcò la scopa, calciò forte il suolo e via, si levò in alto, con il vento che gli scompigliava i capelli e gli abiti che sferzavano l’aria... e in un impeto di gioia selvaggia si rese conto di aver scoperto una cosa che sapeva fare senza bisogno di studiare... era facile, era meraviglioso.
+meraviglioso    	meraviglioso  	Inforcò la scopa, calciò forte il suolo e via, si levò in alto, con il vento che gli scompigliava i capelli e gli abiti che sferzavano l’aria... e in un impeto di gioia selvaggia si rese conto di aver scoperto una cosa che sapeva fare senza bisogno di studiare... era facile, era meraviglioso.
+strilli         	strillo       	Sollevò leggermente la punta del manico per salire ancora più in alto, udì gli strilli e il respiro ansimante delle ragazze rimaste a terra e il grido di ammirazione di Ron.
+ammirazione     	ammirazione   	Sollevò leggermente la punta del manico per salire ancora più in alto, udì gli strilli e il respiro ansimante delle ragazze rimaste a terra e il grido di ammirazione di Ron.
+decisione       	decisione     	Virò con decisione in modo da trovarsi di fronte a Malfoy, a mezz’aria.
+trovarsi        	trovarsi      	Virò con decisione in modo da trovarsi di fronte a Malfoy, a mezz’aria.
+saldamente      	saldamente    	Si piegò in avanti, afferrò saldamente la scopa con entrambe le mani e partì come una freccia in direzione di Malfoy.
+freccia         	freccia       	Si piegò in avanti, afferrò saldamente la scopa con entrambe le mani e partì come una freccia in direzione di Malfoy.
+bruscamente     	bruscamente   	Harry invertì la rotta bruscamente tenendosi ben saldo.
+quassù          	quassù        	«Niente Crabbe e Goyle a salvarti l’osso del collo quassù, eh, Malfoy?» lo apostrofò Harry.
+lanciandosi     	lanciarsi     	«Prendila, se ci riesci!» gli gridò, gettando la palla di vetro in aria e poi lanciandosi come un lampo verso terra.
+rallentatore    	rallentatore  	Harry vide, come al rallentatore, la palla sollevarsi in aria e poi cominciare a ricadere giù.
+picchiata       	picchiata     	un istante dopo, stava acquistando velocità in una picchiata precipitosa, alla rincorsa della palla, con il vento che gli fischiava nelle orecchie, confondendosi con le grida degli astanti.
+precipitosa     	precipitoso   	un istante dopo, stava acquistando velocità in una picchiata precipitosa, alla rincorsa della palla, con il vento che gli fischiava nelle orecchie, confondendosi con le grida degli astanti.
+rincorsa        	rincorsa      	un istante dopo, stava acquistando velocità in una picchiata precipitosa, alla rincorsa della palla, con il vento che gli fischiava nelle orecchie, confondendosi con le grida degli astanti.
+confondendosi   	confondersi   	un istante dopo, stava acquistando velocità in una picchiata precipitosa, alla rincorsa della palla, con il vento che gli fischiava nelle orecchie, confondendosi con le grida degli astanti.
+sana            	sano          	poi ruzzolò dolcemente sull’erba stringendo in mano la Ricordella sana e salva.
+atterraggio     	atterraggio   	«HARRY POTTER!» Harry ebbe un tuffo al cuore più brusco di quanto fosse stato il suo atterraggio:
+signorina       	signorina     	«Non è stata colpa sua, professoressa...» «Taci, signorina Patil...» «Ma Malfoy...» «Basta così, Weasley.
+trionfanti      	trionfante    	A Harry non sfuggirono le facce trionfanti di Malfoy, Crabbe e Goyle, mentre si allontanava mogio mogio dietro alla professoressa McGonagall, in direzione del castello.
+mogio           	mogio         	A Harry non sfuggirono le facce trionfanti di Malfoy, Crabbe e Goyle, mentre si allontanava mogio mogio dietro alla professoressa McGonagall, in direzione del castello.
+difendersi      	difendersi    	Voleva dire qualcosa per difendersi, ma la voce sembrava non volergli uscire.
+degnarlo        	degnare       	La professoressa McGonagall procedeva a passo veloce senza neanche degnarlo di uno sguardo.
+resistito       	resistere     	Non aveva resistito neanche due settimane.
+valigie         	valigia       	Entro dieci minuti avrebbe fatto le valigie.
+violenza        	violenza      	Spalancava le porte con violenza e correva per i corridoi, con lui che le trotterellava dietro disperato.
+trotterellava   	trotterellare 	Spalancava le porte con violenza e correva per i corridoi, con lui che le trotterellava dietro disperato.
+assistente      	assistente    	Forse avrebbe potuto fargli da assistente.
+torceva         	torcersi      	Sentì lo stomaco che gli si torceva a quella prospettiva:
+prospettiva     	prospettiva   	Sentì lo stomaco che gli si torceva a quella prospettiva:
+galoppino       	galoppino     	vedere Ron e gli altri diventare maghi, e lui lì, in giro per il parco, a far da galoppino a Hagrid.
+quinto          	quinto        	Wood, come scoprì ben presto, era un ragazzo corpulento del quinto anno, che uscì esitante dall’aula.
+esitante        	esitante      	Wood, come scoprì ben presto, era un ragazzo corpulento del quinto anno, che uscì esitante dall’aula.
+parolacce       	parolaccia    	La professoressa indicò loro una classe che sarebbe stata vuota se non fosse stato per Peeves, tutto intento a scrivere parolacce sulla lavagna.
+lavagna         	lavagna       	La professoressa indicò loro una classe che sarebbe stata vuota se non fosse stato per Peeves, tutto intento a scrivere parolacce sulla lavagna.
+cercatore       	cercatore     	Wood... ti ho trovato un Cercatore».
+risolutamente   	risolutamente 	«Dice sul serio, professoressa?» «Ci puoi giurare» rispose lei risolutamente.
+risentirsi      	risentire     	Non aveva la più pallida idea di che cosa stesse accadendo, ma non sembrava che lo avrebbero espulso e pian piano cominciò a risentirsi saldo sulle gambe.
+quindici        	quindici      	«Ha afferrato quella palla con una mano sola, dopo una picchiata di quindici metri» disse la professoressa McGonagall a Wood.
+graffio         	graffio       	«E non si è fatto neanche un graffio.
+realizzarsi     	realizzarsi   	Ora Wood aveva l’aria di uno che vede d’un tratto realizzarsi tutti i suoi sogni.
+euforico        	euforico      	» gli chiese euforico.
+corporatura     	corporatura   	«E ha anche la corporatura di un Cercatore» commentò Wood girando intorno a Harry e osservandolo attentamente.
+tornado         	tornado       	«Leggero, veloce... Dovremo procurargli una scopa decente, professoressa... una Nimbus Duemila o una Tornado Sette, direi».
+stracciato      	stracciare    	I Serpeverde ci hanno stracciato nell’ultima partita... Per settimane non ho avuto il coraggio di guardare in faccia Severus Piton...» La professoressa McGonagall scrutò Harry da sopra gli occhiali con sguardo severo.
+allenamenti     	allenamento   	«Voglio che tu ce la metta tutta negli allenamenti, Potter, altrimenti potrei cambiare idea sul fatto di non punirti».
+stupefatto      	stupefare     	Ron era talmente stupefatto, talmente impressionato che non riusciva a staccare gli occhi da Harry e continuava a guardarlo a bocca aperta.
+prossima        	prossimo      	«Comincio l’allenamento la settimana prossima» disse Harry.
+complimenti     	complimento   	«Complimenti» disse George a bassa voce.
+battitori       	battitore     	Anche noi siamo nella squadra... Battitori».
+regolarmente    	regolarmente  	era Malfoy, regolarmente seguito da Crabbe e Goyle.
+pasto           	pasto         	«L’ultimo pasto, Potter?
+fianco          	fianco        	» «Vedo che sei molto più coraggioso, ora che sei tornato coi piedi per terra e al fianco dei tuoi teneri amici» rispose Harry con freddezza.
+teneri          	tenero        	» «Vedo che sei molto più coraggioso, ora che sei tornato coi piedi per terra e al fianco dei tuoi teneri amici» rispose Harry con freddezza.
+freddezza       	freddezza     	» «Vedo che sei molto più coraggioso, ora che sei tornato coi piedi per terra e al fianco dei tuoi teneri amici» rispose Harry con freddezza.
+scrocchiarsi    	scrocchiare   	Naturalmente Crabbe e Goyle non avevano niente di tenero, ma dato che in sala erano presenti molti insegnanti, quei due non avrebbero potuto far altro che scrocchiarsi le dita e rosicare.
+rosicare        	rosicare      	Naturalmente Crabbe e Goyle non avevano niente di tenero, ma dato che in sala erano presenti molti insegnanti, quei due non avrebbero potuto far altro che scrocchiarsi le dita e rosicare.
+contatto        	contatto      	Soltanto bacchette... niente contatto fisico.
+fisico          	fisico        	Soltanto bacchette... niente contatto fisico.
+valutandone     	valutare      	Malfoy squadrò Crabbe e Goyle valutandone la stazza.
+stazza          	stazza        	Malfoy squadrò Crabbe e Goyle valutandone la stazza.
+trofei          	trofeo        	Ci troviamo nella Sala dei Trofei, che non è mai chiusa a chiave».
+muori           	morire        	» «Be’, il secondo è quello che prende il tuo posto se muori» disse Ron disinvolto, cominciando finalmente a mangiare il suo pasticcio di carne ormai freddo.
+disinvolto      	disinvolto    	» «Be’, il secondo è quello che prende il tuo posto se muori» disse Ron disinvolto, cominciando finalmente a mangiare il suo pasticcio di carne ormai freddo.
+egoista         	egoista       	È veramente egoista da parte vostra».
+sprofondavano   	sprofondare   	In tutti i casi, non era quel che si dice il modo ideale di concludere la giornata, pensò Harry molto più tardi, mentre giaceva sveglio ascoltando Dean e Seamus che sprofondavano nel sonno (Neville non era ancora tornato dall’infermeria).
+serata          	serata        	Ron aveva passato tutta la serata a dargli consigli del tipo:
+schivi          	schivo        	«Se cerca di lanciarti una maledizione, sarà meglio che la schivi, perché non mi ricordo come si fa a bloccarla».
+probabilità     	probabilità   	Le probabilità che Filch o Mrs Norris li trovassero erano forti, e Harry aveva l’impressione di sfidare la sorte a infrangere una seconda volta le regole della scuola nell’arco della stessa giornata.
+sfidare         	sfidare       	Le probabilità che Filch o Mrs Norris li trovassero erano forti, e Harry aveva l’impressione di sfidare la sorte a infrangere una seconda volta le regole della scuola nell’arco della stessa giornata.
+sorte           	sorte         	Le probabilità che Filch o Mrs Norris li trovassero erano forti, e Harry aveva l’impressione di sfidare la sorte a infrangere una seconda volta le regole della scuola nell’arco della stessa giornata.
+vestaglia       	vestaglia     	Si infilarono la vestaglia, presero ciascuno la propria bacchetta e attraversarono furtivamente la stanza della torre, scesero per la scala a chiocciola e raggiunsero la sala comune di Grifondoro.
+furtivamente    	furtivamente  	Si infilarono la vestaglia, presero ciascuno la propria bacchetta e attraversarono furtivamente la stanza della torre, scesero per la scala a chiocciola e raggiunsero la sala comune di Grifondoro.
+accigliata      	accigliato    	Era Hermione Granger, con indosso una vestaglia rosa e l’espressione accigliata.
+capacitarsi     	capacitarsi   	Harry non riusciva a capacitarsi che potessero esistere persone tanto invadenti.
+invadenti       	invadente     	Harry non riusciva a capacitarsi che potessero esistere persone tanto invadenti.
+spostò          	spostare      	Spostò il ritratto della Signora Grassa e si arrampicò attraverso il passaggio nel muro.
+signora         	signora       	Spostò il ritratto della Signora Grassa e si arrampicò attraverso il passaggio nel muro.
+intenzione      	intenzione    	Hermione non aveva alcuna intenzione di darsi per vinta così facilmente.
+importa         	importare     	«A voi non importa niente di Grifondoro.
+interrogato     	interrogare   	Io non voglio che i Serpeverde vincano la Coppa delle Case, e voi ci farete perdere tutti i punti che ho ottenuto dalla professoressa McGonagall quando mi ha interrogato sugli Incantesimi di Trasfigurazione».
+quadro          	quadro        	Hermione si era voltata verso il ritratto della Signora Grassa per tornare dentro, ma si era trovata di fronte un quadro vuoto.
+passeggiata     	passeggiata   	La Signora Grassa era andata a fare una passeggiata notturna e Hermione si trovò chiusa fuori dalla Torre di Grifondoro.
+notturna        	notturno      	La Signora Grassa era andata a fare una passeggiata notturna e Hermione si trovò chiusa fuori dalla Torre di Grifondoro.
+appoggerete     	appoggiare    	gli dirò che stavo cercando di fermarvi, e voi mi appoggerete».
+ronfo           	ronfo         	Era una specie di ronfo.
+tenebre         	tenebre       	«Mrs Norris?» chiese in un sussurro Ron scrutando le tenebre.
+raggomitolato   	raggomitolare 	Stava lì raggomitolato sul pavimento, profondamente addormentato;
+grugno          	grugno        	La parola d’ordine è ‘grugno di porco’, ma ora non ti servirà a niente:
+porco           	porco         	La parola d’ordine è ‘grugno di porco’, ma ora non ti servirà a niente:
+aggiustato      	aggiustare    	«Madame Pomfrey me lo ha aggiustato in meno di un minuto».
+scongiurò       	scongiurare   	li scongiurò il ragazzo balzando in piedi.
+strisce         	striscia      	Scivolarono lungo corridoi illuminati a strisce dal chiarore lunare proveniente dalle alte finestre.
+luna            	luna          	Le teche di cristallo dei trofei luccicavano nei punti illuminati dai raggi della luna.
+gagliardetti    	gagliardetto  	Coppe, gagliardetti, targhe e statuette, era tutto uno scintillio d’oro e d’argento.
+targhe          	targa         	Coppe, gagliardetti, targhe e statuette, era tutto uno scintillio d’oro e d’argento.
+situate         	situare       	Strisciavano lungo i muri, tenendo d’occhio le porte situate a entrambe le estremità della stanza.
+attaccato       	attaccare     	Harry estrasse la sua bacchetta nel caso Malfoy fosse arrivato e avesse attaccato subito... I minuti scorrevano lentamente.
+ciccina         	ciccina       	«Annusa qua dentro, ciccina, potrebbero essere nascosti in un angolo».
+lembo           	lembo         	L’ultimo lembo degli abiti di Neville era appena sparito dietro l’angolo, quando udirono Filch entrare nella Sala dei Trofei.
+franarono       	franare       	D’un tratto, Neville lanciò un gridolino di terrore e partì di corsa... incespicò, afferrò Ron per la vita e franarono entrambi sopra un’armatura.
+baccano         	baccano       	Il baccano e il clangore erano abbastanza forti da svegliare l’intero castello.
+clangore        	clangore      	Il baccano e il clangore erano abbastanza forti da svegliare l’intero castello.
+stipite         	stipite       	Girarono dietro lo stipite di una porta, percorsero un corridoio, e poi un altro, Harry in testa, senza la minima idea di dove si trovassero o di dove stessero andando.
+precipizio      	precipizio    	Passarono attraverso un arazzo, lacerandolo, e si ritrovarono in un passaggio nascosto, lo percorsero a precipizio e sbucarono vicino all’aula di Incantesimi, che sapevano essere lontana mille miglia dalla Sala dei Trofei.
+miglia          	miglio        	Passarono attraverso un arazzo, lacerandolo, e si ritrovarono in un passaggio nascosto, lo percorsero a precipizio e sbucarono vicino all’aula di Incantesimi, che sapevano essere lontana mille miglia dalla Sala dei Trofei.
+seminato        	seminare      	«Credo che lo abbiamo seminato» ansimò Harry appoggiandosi contro la parete fredda e asciugandosi la fronte.
+ingannato       	ingannare     	«Malfoy vi ha ingannato» disse Hermione a Harry.
+soffiata        	soffiata      	Malfoy deve avergli fatto una soffiata».
+disposto        	disposto      	Harry pensò che la ragazza avesse ragione, ma non era disposto a dirglielo.
+pomello         	pomello       	Non avevano fatto neanche una decina di passi che il pomello di una porta cigolò e qualcosa schizzò come una pallottola fuori da un’aula di fronte a loro.
+cigolò          	cigolare      	Non avevano fatto neanche una decina di passi che il pomello di una porta cigolò e qualcosa schizzò come una pallottola fuori da un’aula di fronte a loro.
+pallottola      	pallottola    	Non avevano fatto neanche una decina di passi che il pomello di una porta cigolò e qualcosa schizzò come una pallottola fuori da un’aula di fronte a loro.
+insulsi         	insulso       	Sciocchi e insulsi, sarete espulsi!
+spia            	spia          	» «No, se non fai la spia, Peeves.
+serafica        	serafico      	» «Dovrei proprio dirlo a Filch» disse Peeves con voce serafica, ma gli occhi gli brillavano di cattiveria.
+cattiveria      	cattiveria    	» «Dovrei proprio dirlo a Filch» disse Peeves con voce serafica, ma gli occhi gli brillavano di cattiveria.
+camerate        	camerata      	«ALLIEVI FUORI DALLE CAMERATE!» cominciò a gridare Peeves.
+tuffarono       	tuffarsi      	«ALLIEVI FUORI DALLE CAMERATE, NEL CORRIDOIO DI INCANTESIMI!» Si tuffarono sotto di lui e spiccarono una corsa con tutta la forza che avevano nelle gambe, dritti verso l’estremità del corridoio, dove andarono a sbattere contro una porta... chiusa a chiave.
+capolinea       	capolinea     	«Siamo arrivati al capolinea» disse Ron sconfortato mentre spingevano inutilmente cercando di aprirla.
+sconfortato     	sconfortato   	«Siamo arrivati al capolinea» disse Ron sconfortato mentre spingevano inutilmente cercando di aprirla.
+inutilmente     	inutilmente   	«Siamo arrivati al capolinea» disse Ron sconfortato mentre spingevano inutilmente cercando di aprirla.
+perduti         	perduto       	«Siamo perduti!
+spintonandosi   	spintonare    	«Alohomora!» La serratura scattò e la porta si spalancò davanti a loro, la oltrepassarono spintonandosi, la richiusero velocemente e vi pigiarono contro l’orecchio, rimanendo in ascolto.
+ascolto         	ascolto       	«Alohomora!» La serratura scattò e la porta si spalancò davanti a loro, la oltrepassarono spintonandosi, la richiusero velocemente e vi pigiarono contro l’orecchio, rimanendo in ascolto.
+cantilena       	cantilena     	» «Non ti dirò niente finché non me lo chiedi per favore» disse Peeves con la sua fastidiosa cantilena.
+incubo          	incubo        	Per un attimo, fu certo di essere precipitato in un incubo:
+mostruoso       	mostruoso     	Stavano fissando dritto negli occhi un cane mostruoso, un bestione che riempiva tutto lo spazio tra il soffitto e il pavimento.
+folle           	folle         	Tre paia di occhi roteanti, dallo sguardo folle;
+saliva          	saliva        	tre bocche sbavanti, con la saliva che pendeva come tante funi viscide dalle zanne giallastre.
+funi            	fune          	tre bocche sbavanti, con la saliva che pendeva come tante funi viscide dalle zanne giallastre.
+comparsa        	comparsa      	Era lì, perfettamente immobile, tutti e sei gli occhi fissi su di loro, e Harry capì che l’unica ragione per cui non erano ancora morti era che la loro improvvisa comparsa lo aveva colto di sorpresa.
+cavernoso       	cavernoso     	il suo ringhiare cavernoso non dava adito a equivoci.
+adito           	adito         	il suo ringhiare cavernoso non dava adito a equivoci.
+equivoci        	equivoco      	il suo ringhiare cavernoso non dava adito a equivoci.
+brancicò        	brancicare    	Harry brancicò in cerca del pomello della porta:
+cercarli        	cercaree      	Filch doveva essere andato a cercarli da qualche altra parte perché non lo videro, ma ormai lui non li preoccupava più.
+mostro          	mostro        	L’unica cosa che volevano fare era mettere quanta più distanza possibile tra loro e quel mostro.
+congestionati   	congestionare 	«Ma dove diavolo eravate, tutti quanti?» chiese lei guardando le vestaglie che pendevano dalle loro spalle e i volti congestionati e madidi di sudore.
+inerpicarono    	inerpicarsi   	Si inerpicarono su per il passaggio e raggiunsero la sala comune;
+proferito       	proferire     	Anzi, Neville aveva tutta l’aria di uno che non avrebbe mai più proferito verbo.
+verbo           	verbo         	Anzi, Neville aveva tutta l’aria di uno che non avrebbe mai più proferito verbo.
+caratteraccio   	carattere     	Hermione aveva ritrovato il fiato e anche il suo solito caratteraccio.
+botola          	botola        	Stava sopra una botola.
+truce           	truce         	Si alzò lanciandogli uno sguardo truce.
+rischio         	rischio       	Abbiamo corso il rischio di essere uccisi... o peggio ancora, espulsi.
+eccetto         	eccetto       	La Gringott era il posto più sicuro al mondo, se si voleva nascondere qualcosa... eccetto forse Hogwarts.

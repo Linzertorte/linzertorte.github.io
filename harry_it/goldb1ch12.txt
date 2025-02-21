@@ -1,0 +1,186 @@
+specchio        	specchio        	LO SPECCHIO DELLE EMARB Natale si stava avvicinando.
+dicembre        	dicembre        	Un mattino di metà dicembre, il castello di Hogwarts si svegliò sotto una pesante coltre di neve.
+coltre          	coltre          	Un mattino di metà dicembre, il castello di Hogwarts si svegliò sotto una pesante coltre di neve.
+ghiaccio        	ghiaccio        	Il lago era diventato una spessa lastra di ghiaccio e i gemelli Weasley erano stati puniti per aver fatto un incantesimo alle palle di neve, che si erano messe a inseguire Quirrell dovunque andasse, rimbalzando sul retro del suo turbante.
+dovunque        	dovunque        	Il lago era diventato una spessa lastra di ghiaccio e i gemelli Weasley erano stati puniti per aver fatto un incantesimo alle palle di neve, che si erano messe a inseguire Quirrell dovunque andasse, rimbalzando sul retro del suo turbante.
+temporalesco    	temporalesco    	I pochi gufi che riuscivano a fendere il cielo temporalesco per consegnare la posta dovevano poi essere accuditi da Hagrid prima di poter riprendere il volo.
+accuditi        	accudire        	I pochi gufi che riuscivano a fendere il cielo temporalesco per consegnare la posta dovevano poi essere accuditi da Hagrid prima di poter riprendere il volo.
+ardevano        	ardere          	Mentre nella sala comune di Grifondoro e nella Sala Grande ardevano fuochi scoppiettanti, i corridoi pieni di spifferi erano gelidi e un vento sferzante faceva sbattere le imposte nelle aule.
+scoppiettanti   	scoppiettante   	Mentre nella sala comune di Grifondoro e nella Sala Grande ardevano fuochi scoppiettanti, i corridoi pieni di spifferi erano gelidi e un vento sferzante faceva sbattere le imposte nelle aule.
+spifferi        	spiffero        	Mentre nella sala comune di Grifondoro e nella Sala Grande ardevano fuochi scoppiettanti, i corridoi pieni di spifferi erano gelidi e un vento sferzante faceva sbattere le imposte nelle aule.
+sferzante       	sferzante       	Mentre nella sala comune di Grifondoro e nella Sala Grande ardevano fuochi scoppiettanti, i corridoi pieni di spifferi erano gelidi e un vento sferzante faceva sbattere le imposte nelle aule.
+imposte         	imposta         	Mentre nella sala comune di Grifondoro e nella Sala Grande ardevano fuochi scoppiettanti, i corridoi pieni di spifferi erano gelidi e un vento sferzante faceva sbattere le imposte nelle aule.
+condensava      	condensarsi     	Il peggio erano le lezioni del professor Piton, che si tenevano nei sotterranei, dove il respiro si condensava in nuvolette e tutti cercavano di starsene il più vicino possibile ai calderoni bollenti.
+nuvolette       	nuvola          	Il peggio erano le lezioni del professor Piton, che si tenevano nei sotterranei, dove il respiro si condensava in nuvolette e tutti cercavano di starsene il più vicino possibile ai calderoni bollenti.
+dosando         	dosare          	Harry, che stava dosando della polvere di spine di pesce scorpione, li ignorò.
+spine           	spina           	Harry, che stava dosando della polvere di spine di pesce scorpione, li ignorò.
+pesce           	pesce           	Harry, che stava dosando della polvere di spine di pesce scorpione, li ignorò.
+scorpione       	scorpione       	Harry, che stava dosando della polvere di spine di pesce scorpione, li ignorò.
+antipatico      	antipatico      	Dalla partita di Quidditch, Malfoy era diventato, se possibile, ancora più antipatico.
+sconfitta       	sconfitta       	Deluso per la sconfitta di Serpeverde, aveva cercato di suscitare l’ilarità di tutti con una battuta, e cioè che la volta successiva Harry sarebbe stato sostituito come Cercatore da una rana dalla bocca larga.
+suscitare       	suscitare       	Deluso per la sconfitta di Serpeverde, aveva cercato di suscitare l’ilarità di tutti con una battuta, e cioè che la volta successiva Harry sarebbe stato sostituito come Cercatore da una rana dalla bocca larga.
+ilarità         	ilarità         	Deluso per la sconfitta di Serpeverde, aveva cercato di suscitare l’ilarità di tutti con una battuta, e cioè che la volta successiva Harry sarebbe stato sostituito come Cercatore da una rana dalla bocca larga.
+sostituito      	sostituire      	Deluso per la sconfitta di Serpeverde, aveva cercato di suscitare l’ilarità di tutti con una battuta, e cioè che la volta successiva Harry sarebbe stato sostituito come Cercatore da una rana dalla bocca larga.
+nonostante      	nonostante      	Ma poi si era reso conto che non faceva ridere nessuno, perché tutti erano rimasti ammirati dal modo in cui Harry era riuscito a rimanere in sella alla sua scopa nonostante quella cercasse di disarcionarlo.
+gonfio          	gonfio          	Per cui, Malfoy, invidioso e gonfio di rabbia, era tornato a prenderlo in giro per il fatto che non aveva una vera e propria famiglia.
+abete           	abete           	Quando lasciarono i sotterranei alla fine della lezione di Pozioni, i ragazzi trovarono un grosso abete che bloccava il corridoio.
+toglierti       	togliersi       	«Ti spiacerebbe toglierti di mezzo?» fece dietro di loro la voce strascicata e glaciale di Malfoy.
+spicciolo       	spicciolo       	«Che cosa c’è, stai cercando di guadagnare qualche spicciolo, Weasley?
+reggia          	reggia          	Forse speri di diventare anche tu guardacaccia quando finirai la scuola... la capanna di Hagrid deve sembrarti una reggia, in confronto a dove abita la tua famiglia».
+flautata        	flautato        	«Quale che sia la ragione, Hagrid, fare a pugni è contro le regole di Hogwarts» disse Piton con voce flautata.
+levatevi        	levarsi         	Ora levatevi di torno, tutti quanti!» Malfoy, Crabbe e Goyle passarono accanto all’abete e lo urtarono malamente, spargendone gli aghi dappertutto con un sorriso compiaciuto.
+malamente       	malamente       	Ora levatevi di torno, tutti quanti!» Malfoy, Crabbe e Goyle passarono accanto all’abete e lo urtarono malamente, spargendone gli aghi dappertutto con un sorriso compiaciuto.
+spargendone     	spargere        	Ora levatevi di torno, tutti quanti!» Malfoy, Crabbe e Goyle passarono accanto all’abete e lo urtarono malamente, spargendone gli aghi dappertutto con un sorriso compiaciuto.
+digrignando     	digrignare      	«Gliela faccio vedere io» disse Ron digrignando i denti contro Malfoy che ormai gli dava le spalle.
+meraviglia      	meraviglia      	È una meraviglia!»
+indaffarati     	indaffarato     	Così, Harry, Ron e Hermione seguirono Hagrid e il suo albero fino alla Sala Grande, dove la professoressa McGonagall e il professor Flitwick erano tutti indaffarati a sistemare le decorazioni natalizie.
+natalizie       	natalizio       	Così, Harry, Ron e Hermione seguirono Hagrid e il suo albero fino alla Sala Grande, dove la professoressa McGonagall e il professor Flitwick erano tutti indaffarati a sistemare le decorazioni natalizie.
+spettacolo      	spettacolo      	» La sala era davvero uno spettacolo.
+ghirlande       	ghirlanda       	Dalle pareti pendevano ghirlande d’agrifoglio e vischio, e tutto intorno erano disposti non meno di dodici giganteschi alberi di Natale, alcuni decorati di ghiaccioli scintillanti, altri illuminati da centinaia di candeline.
+vischio         	vischio         	Dalle pareti pendevano ghirlande d’agrifoglio e vischio, e tutto intorno erano disposti non meno di dodici giganteschi alberi di Natale, alcuni decorati di ghiaccioli scintillanti, altri illuminati da centinaia di candeline.
+decorati        	decorare        	Dalle pareti pendevano ghirlande d’agrifoglio e vischio, e tutto intorno erano disposti non meno di dodici giganteschi alberi di Natale, alcuni decorati di ghiaccioli scintillanti, altri illuminati da centinaia di candeline.
+depositarsi     	depositarsi     	«Ah, già, è vero» disse Ron distogliendo lo sguardo dal professor Flitwick, dalla cui bacchetta uscivano bolle dorate che andavano a depositarsi sui rami del nuovo albero.
+soggiunse       	soggiungere     	«A meno che non voglia dircelo tu, così ci risparmi la fatica» soggiunse Harry.
+cucite          	cucito          	«Ho le labbra cucite» disse Hagrid categorico.
+categorico      	categorico      	«Ho le labbra cucite» disse Hagrid categorico.
+contrariata     	contrariato     	Lasciarono Hagrid con la sua aria contrariata e si avviarono di corsa verso la biblioteca.
+esponenti       	esponente       	Non compariva in Grandi maghi del Ventesimo secolo, e neanche in Esponenti di rilievo della Magia del nostro tempo;
+rilievo         	rilievo         	Non compariva in Grandi maghi del Ventesimo secolo, e neanche in Esponenti di rilievo della Magia del nostro tempo;
+recenti         	recente         	non era citato in Scoperte importanti della Magia moderna, né in Rassegna dei recenti sviluppi della Magia.
+sviluppi        	sviluppo        	non era citato in Scoperte importanti della Magia moderna, né in Rassegna dei recenti sviluppi della Magia.
+titoli          	titolo          	Hermione tirò fuori un elenco di argomenti e di titoli che aveva deciso di cercare mentre Ron si avviava lungo un corridoio e cominciava a estrarre libri a caso dagli scaffali.
+reparto         	reparto         	Harry si aggirava invece nel Reparto Proibito.
+occorreva       	occorrere       	Purtroppo, per prendere uno qualsiasi dei libri proibiti occorreva un’apposita autorizzazione firmata da un professore e lui sapeva benissimo che non sarebbe mai riuscito a procurarsela.
+apposita        	apposito        	Purtroppo, per prendere uno qualsiasi dei libri proibiti occorreva un’apposita autorizzazione firmata da un professore e lui sapeva benissimo che non sarebbe mai riuscito a procurarsela.
+autorizzazione  	autorizzazione  	Purtroppo, per prendere uno qualsiasi dei libri proibiti occorreva un’apposita autorizzazione firmata da un professore e lui sapeva benissimo che non sarebbe mai riuscito a procurarsela.
+firmata         	firmare         	Purtroppo, per prendere uno qualsiasi dei libri proibiti occorreva un’apposita autorizzazione firmata da un professore e lui sapeva benissimo che non sarebbe mai riuscito a procurarsela.
+perfezionavano  	perfezionare    	Quelli erano i libri che contenevano i potenti segreti della Magia Oscura che non veniva mai insegnata a Hogwarts, ed erano letti soltanto dagli allievi più anziani che si perfezionavano in Difesa contro le Arti Oscure.
+bibliotecaria   	bibliotecario   	Madame Pince, la bibliotecaria, brandiva contro di lui un piumino per la polvere.
+piumino         	piumino         	Madame Pince, la bibliotecaria, brandiva contro di lui un piumino per la polvere.
+nutriva         	nutrire         	Harry aspettò fuori nel corridoio per vedere se i due amici avessero trovato qualcosa, ma non nutriva molte speranze.
+dentisti        	dentista        	«Questo è poco ma sicuro, visto che fanno i dentisti tutti e due!» rispose Hermione.
+accaparrarsi    	accaparrare     	Avevano il dormitorio tutto per loro e la sala comune era molto meno affollata del solito, per cui potevano accaparrarsi le poltrone migliori, quelle vicino al camino.
+forchettone     	forchettone     	Stavano lì seduti per ore e ore di fila, mangiando qualsiasi cosa si potesse infilzare su un forchettone e arrostire alla fiamma – pane, focaccine, marshmallow – e architettando stratagemmi per far espellere Malfoy:
+arrostire       	arrostire       	Stavano lì seduti per ore e ore di fila, mangiando qualsiasi cosa si potesse infilzare su un forchettone e arrostire alla fiamma – pane, focaccine, marshmallow – e architettando stratagemmi per far espellere Malfoy:
+focaccine       	focaccia        	Stavano lì seduti per ore e ore di fila, mangiando qualsiasi cosa si potesse infilzare su un forchettone e arrostire alla fiamma – pane, focaccine, marshmallow – e architettando stratagemmi per far espellere Malfoy:
+stratagemmi     	stratagemma     	Stavano lì seduti per ore e ore di fila, mangiando qualsiasi cosa si potesse infilzare su un forchettone e arrostire alla fiamma – pane, focaccine, marshmallow – e architettando stratagemmi per far espellere Malfoy:
+difficilmente   	difficilmente   	tutte cose di cui era molto divertente parlare, anche se difficilmente avrebbero funzionato.
+scacchi         	scacco          	Ron cominciò anche a insegnare a Harry a giocare a scacchi magici.
+comandare       	comandare       	Le regole erano esattamente come quelle degli scacchi babbani, tranne che i pezzi erano vivi, per cui diventava un po’ come comandare delle truppe in battaglia.
+truppe          	truppa          	Le regole erano esattamente come quelle degli scacchi babbani, tranne che i pezzi erano vivi, per cui diventava un po’ come comandare delle truppe in battaglia.
+scacchiera      	scacchiera      	La scacchiera di Ron era molto vecchia e malconcia.
+membro          	membro          	Come tutto quello che possedeva, anch’essa un tempo era stata di qualche membro della sua famiglia, in quel caso suo nonno.
+fiducia         	fiducia         	Invece Harry giocava con gli scacchi che gli aveva prestato Seamus Finnigan e i pezzi non avevano la minima fiducia in lui.
+contraddittori  	contraddittorio 	Ancora non era un bravo giocatore e loro non facevano che gridare consigli contraddittori che finivano per confonderlo:
+pregustando     	pregustare      	lui possiamo permetterci di perderlo!» La vigilia di Natale, Harry andò a letto pregustando le leccornie e i divertimenti dell’indomani, senza aspettarsi nessun regalo.
+leccornie       	leccornia       	lui possiamo permetterci di perderlo!» La vigilia di Natale, Harry andò a letto pregustando le leccornie e i divertimenti dell’indomani, senza aspettarsi nessun regalo.
+divertimenti    	divertimento    	lui possiamo permetterci di perderlo!» La vigilia di Natale, Harry andò a letto pregustando le leccornie e i divertimenti dell’indomani, senza aspettarsi nessun regalo.
+rape            	rapa            	«E che cosa ti aspettavi, un mazzo di rape?» disse Ron voltandosi a guardare i suoi regali, che erano molto più numerosi di quelli di Harry.
+scarabocchiato  	scarabocchiare  	Era avvolto in una spessa carta da pacchi, con su scarabocchiato:
+flauto          	flauto          	Dentro c’era un flauto di legno rozzamente intagliato.
+rozzamente      	rozzamente      	Dentro c’era un flauto di legno rozzamente intagliato.
+intagliato      	intagliare      	Dentro c’era un flauto di legno rozzamente intagliato.
+messaggio       	messaggio       	Abbiamo ricevuto il tuo messaggio e accludiamo il regalo di Natale per te.
+accludiamo      	accludere       	Abbiamo ricevuto il tuo messaggio e accludiamo il regalo di Natale per te.
+affascinato     	affascinare     	Ron era affascinato dalla moneta.
+lana            	lana            	» Harry aveva aperto il pacchetto e ci aveva trovato un pesante maglione di lana lavorato ai ferri, color verde smeraldo, e una grossa scatola di caramelle mou fatte in casa.
+gustosa         	gustoso         	disse Harry assaggiando una caramella, che era molto gustosa.
+drappo          	drappo          	«Che cos’è?» Harry raccolse da terra lo scintillante drappo argenteo.
+tatto           	tatto           	Era stranissimo al tatto, come fosse tessuto con l’acqua.
+tessuto         	tessuto         	Era stranissimo al tatto, come fosse tessuto con l’acqua.
+invisibilità    	invisibilità    	«È un Mantello dell’Invisibilità» disse Ron con un timore reverenziale dipinto sul volto.
+reverenziale    	reverenziale    	«È un Mantello dell’Invisibilità» disse Ron con un timore reverenziale dipinto sul volto.
+immagine        	immagine        	l’immagine riflessa era fatta soltanto di una testa sospesa a mezz’aria sopra un corpo completamente invisibile.
+grafia          	grafia          	Scritte con una grafia stretta e sinuosa che non aveva mai visto prima, si leggevano le seguenti parole:
+sinuosa         	sinuoso         	Scritte con una grafia stretta e sinuosa che non aveva mai visto prima, si leggevano le seguenti parole:
+firma           	firma           	Buon Natale Nessuna firma.
+estasiato       	estasiare       	Harry rimase a fissare la lettera, mentre Ron guardava estasiato il Mantello.
+rassicurò       	rassicurare     	» «Niente» lo rassicurò Harry.
+alcunché        	alcunché        	Prima di poter dire o pensare alcunché, la porta del dormitorio si spalancò e Fred e George Weasley schizzarono dentro.
+impegno         	impegno         	«Naturalmente, mamma ci mette più impegno se non sei della famiglia».
+chiasso         	chiasso         	» «Che cos’è tutto questo chiasso?
+approfittando   	approfittare    	E lo trascinarono via di peso approfittando del fatto che aveva le braccia imprigionate nel maglione.
+tacchini        	tacchino        	Un centinaio di grassi tacchini arrosto, montagne di patate al forno e bollite, vassoi di succulente salsicce alla cipolla, zuppiere di piselli al burro, coppe d’argento con salse dense e saporite alla carne e al mirtillo, e montagne di scoppiarelli magici disposte a intervalli lungo la tavola.
+bollite         	bollito         	Un centinaio di grassi tacchini arrosto, montagne di patate al forno e bollite, vassoi di succulente salsicce alla cipolla, zuppiere di piselli al burro, coppe d’argento con salse dense e saporite alla carne e al mirtillo, e montagne di scoppiarelli magici disposte a intervalli lungo la tavola.
+vassoi          	vassoio         	Un centinaio di grassi tacchini arrosto, montagne di patate al forno e bollite, vassoi di succulente salsicce alla cipolla, zuppiere di piselli al burro, coppe d’argento con salse dense e saporite alla carne e al mirtillo, e montagne di scoppiarelli magici disposte a intervalli lungo la tavola.
+cipolla         	cipolla         	Un centinaio di grassi tacchini arrosto, montagne di patate al forno e bollite, vassoi di succulente salsicce alla cipolla, zuppiere di piselli al burro, coppe d’argento con salse dense e saporite alla carne e al mirtillo, e montagne di scoppiarelli magici disposte a intervalli lungo la tavola.
+zuppiere        	zuppiera        	Un centinaio di grassi tacchini arrosto, montagne di patate al forno e bollite, vassoi di succulente salsicce alla cipolla, zuppiere di piselli al burro, coppe d’argento con salse dense e saporite alla carne e al mirtillo, e montagne di scoppiarelli magici disposte a intervalli lungo la tavola.
+burro           	burro           	Un centinaio di grassi tacchini arrosto, montagne di patate al forno e bollite, vassoi di succulente salsicce alla cipolla, zuppiere di piselli al burro, coppe d’argento con salse dense e saporite alla carne e al mirtillo, e montagne di scoppiarelli magici disposte a intervalli lungo la tavola.
+dense           	denso           	Un centinaio di grassi tacchini arrosto, montagne di patate al forno e bollite, vassoi di succulente salsicce alla cipolla, zuppiere di piselli al burro, coppe d’argento con salse dense e saporite alla carne e al mirtillo, e montagne di scoppiarelli magici disposte a intervalli lungo la tavola.
+saporite        	saporito        	Un centinaio di grassi tacchini arrosto, montagne di patate al forno e bollite, vassoi di succulente salsicce alla cipolla, zuppiere di piselli al burro, coppe d’argento con salse dense e saporite alla carne e al mirtillo, e montagne di scoppiarelli magici disposte a intervalli lungo la tavola.
+mirtillo        	mirtillo        	Un centinaio di grassi tacchini arrosto, montagne di patate al forno e bollite, vassoi di succulente salsicce alla cipolla, zuppiere di piselli al burro, coppe d’argento con salse dense e saporite alla carne e al mirtillo, e montagne di scoppiarelli magici disposte a intervalli lungo la tavola.
+insignificanti  	insignificante  	Quei fantastici petardi non avevano niente a che fare con gli insignificanti scoppiarelli babbani che compravano i Dursley, e che tutt’al più contenevano piccoli giocattoli di plastica e insulsi cappellini di carta.
+sparò           	sparare         	Quando Harry, con l’aiuto di Fred, fece esplodere uno scoppiarello magico, quello non si limitò a fare bum!, ma sparò come un cannone avvolgendoli in una nuvola di fumo blu, mentre da dentro schizzavano fuori un tricorno da Contrammiraglio e una miriade di topolini bianchi vivi.
+tricorno        	tricorno        	Quando Harry, con l’aiuto di Fred, fece esplodere uno scoppiarello magico, quello non si limitò a fare bum!, ma sparò come un cannone avvolgendoli in una nuvola di fumo blu, mentre da dentro schizzavano fuori un tricorno da Contrammiraglio e una miriade di topolini bianchi vivi.
+contrammiraglio 	contrammiraglio 	Quando Harry, con l’aiuto di Fred, fece esplodere uno scoppiarello magico, quello non si limitò a fare bum!, ma sparò come un cannone avvolgendoli in una nuvola di fumo blu, mentre da dentro schizzavano fuori un tricorno da Contrammiraglio e una miriade di topolini bianchi vivi.
+topolini        	topolino        	Quando Harry, con l’aiuto di Fred, fece esplodere uno scoppiarello magico, quello non si limitò a fare bum!, ma sparò come un cannone avvolgendoli in una nuvola di fumo blu, mentre da dentro schizzavano fuori un tricorno da Contrammiraglio e una miriade di topolini bianchi vivi.
+cuffia          	cuffia          	Intanto, al tavolo degli insegnanti, Silente aveva barattato il suo cappello a punta da mago con una cuffia a fiori e stava ridendo a crepapelle per una storiella, trovata in uno scoppiarello, che il professor Flitwick gli aveva appena letto.
+fiori           	fiore           	Intanto, al tavolo degli insegnanti, Silente aveva barattato il suo cappello a punta da mago con una cuffia a fiori e stava ridendo a crepapelle per una storiella, trovata in uno scoppiarello, che il professor Flitwick gli aveva appena letto.
+storiella       	storiella       	Intanto, al tavolo degli insegnanti, Silente aveva barattato il suo cappello a punta da mago con una cuffia a fiori e stava ridendo a crepapelle per una storiella, trovata in uno scoppiarello, che il professor Flitwick gli aveva appena letto.
+vino            	vino            	Harry non perdeva d’occhio Hagrid, che a forza di versarsi bicchieri di vino stava diventando sempre più paonazzo, finché baciò addirittura sulla guancia la professoressa McGonagall, la quale, con grande sorpresa del ragazzo, rise e arrossì, incurante del cappello che le era finito di traverso.
+incurante       	incurante       	Harry non perdeva d’occhio Hagrid, che a forza di versarsi bicchieri di vino stava diventando sempre più paonazzo, finché baciò addirittura sulla guancia la professoressa McGonagall, la quale, con grande sorpresa del ragazzo, rise e arrossì, incurante del cappello che le era finito di traverso.
+kit             	kit             	Quando finalmente Harry si alzò da tavola, era carico di tutti gli strani oggetti venuti fuori dagli scoppiarelli, fra cui un pacchetto di palloncini luminosi a prova di spillo, un kit ‘fai-da-te’ per far spuntare le verruche e una scacchiera magica tutta nuova, completa di pezzi.
+verruche        	verruca         	Quando finalmente Harry si alzò da tavola, era carico di tutti gli strani oggetti venuti fuori dagli scoppiarelli, fra cui un pacchetto di palloncini luminosi a prova di spillo, un kit ‘fai-da-te’ per far spuntare le verruche e una scacchiera magica tutta nuova, completa di pezzi.
+completa        	completo        	Quando finalmente Harry si alzò da tavola, era carico di tutti gli strani oggetti venuti fuori dagli scoppiarelli, fra cui un pacchetto di palloncini luminosi a prova di spillo, un kit ‘fai-da-te’ per far spuntare le verruche e una scacchiera magica tutta nuova, completa di pezzi.
+assalito        	assalire        	I topolini bianchi erano scomparsi e Harry fu assalito dall’atroce dubbio che potessero diventare il pranzo natalizio di Mrs Norris.
+atroce          	atroce          	I topolini bianchi erano scomparsi e Harry fu assalito dall’atroce dubbio che potessero diventare il pranzo natalizio di Mrs Norris.
+infreddoliti    	infreddolito    	Poi, infreddoliti, bagnati e senza fiato, tornarono a scaldarsi davanti al fuoco della sala comune di Grifondoro, dove Harry inaugurò la sua nuova scacchiera facendosi infliggere una spettacolare batosta da Ron.
+scaldarsi       	scaldarsi       	Poi, infreddoliti, bagnati e senza fiato, tornarono a scaldarsi davanti al fuoco della sala comune di Grifondoro, dove Harry inaugurò la sua nuova scacchiera facendosi infliggere una spettacolare batosta da Ron.
+inaugurò        	inaugurare      	Poi, infreddoliti, bagnati e senza fiato, tornarono a scaldarsi davanti al fuoco della sala comune di Grifondoro, dove Harry inaugurò la sua nuova scacchiera facendosi infliggere una spettacolare batosta da Ron.
+infliggere      	infliggere      	Poi, infreddoliti, bagnati e senza fiato, tornarono a scaldarsi davanti al fuoco della sala comune di Grifondoro, dove Harry inaugurò la sua nuova scacchiera facendosi infliggere una spettacolare batosta da Ron.
+spettacolare    	spettacolare    	Poi, infreddoliti, bagnati e senza fiato, tornarono a scaldarsi davanti al fuoco della sala comune di Grifondoro, dove Harry inaugurò la sua nuova scacchiera facendosi infliggere una spettacolare batosta da Ron.
+batosta         	batosta         	Poi, infreddoliti, bagnati e senza fiato, tornarono a scaldarsi davanti al fuoco della sala comune di Grifondoro, dove Harry inaugurò la sua nuova scacchiera facendosi infliggere una spettacolare batosta da Ron.
+irrimediabile   	irrimediabile   	Tuttavia pensò che probabilmente la sua sconfitta non sarebbe stata così irrimediabile se Percy non avesse cercato di aiutarlo con tanto impegno.
+merenda         	merenda         	All’ora del tè, dopo una merenda a base di panini al tacchino, focaccine, zuppa inglese e torta di Natale, erano tutti troppo sazi e assonnati per aver voglia di fare qualsiasi cosa prima di andare a letto, se non assistere allo spettacolo di Percy che rincorreva Fred e George per tutta la Torre di Grifondoro, perché gli avevano preso il suo distintivo da prefetto.
+colui           	colui           	riguardava il Mantello dell’Invisibilità e colui o colei che glielo aveva mandato.
+colei           	colei           	riguardava il Mantello dell’Invisibilità e colui o colei che glielo aveva mandato.
+stringendosi    	stringersi      	Si avviò, stringendosi nel Mantello dell’Invisibilità.
+atmosfera       	atmosfera       	Nella biblioteca era buio pesto e c’era un’atmosfera da brivido.
+lampada         	lampada         	Harry accese una lampada per vedere le file di libri.
+cordone         	cordone         	Facendo molta attenzione e scavalcando il cordone che separava quella sezione dalle altre, Harry tenne alta la lampada per leggere i titoli.
+sezione         	sezione         	Facendo molta attenzione e scavalcando il cordone che separava quella sezione dalle altre, Harry tenne alta la lampada per leggere i titoli.
+copertina       	copertina       	Uno mostrava sulla copertina una macchia scura dall’aspetto sinistro, che aveva tutta l’aria di essere sangue.
+rizzarono       	rizzare         	A Harry si rizzarono i peli sul collo.
+intruso         	intruso         	Forse era tutta una sua fantasia, forse no, ma credette di sentire un debole sussurro provenire dai libri, come se avvertissero la presenza di un intruso.
+sistemò         	sistemare       	Sistemò con circospezione la lampada a terra e guardò lungo lo scaffale più basso in cerca di un libro interessante.
+gelare          	gelare          	Il silenzio fu rotto da un grido lacerante, da far gelare il sangue nelle vene.
+ininterrotta    	ininterrotto    	un’unica nota acuta, ininterrotta, assordante.
+arretrando      	arretrare       	Arretrando, il ragazzo inciampò e urtò la lampada che si spense all’istante.
+urlante         	urlante         	Ripose nello scaffale il libro urlante e se la diede a gambe.
+scorciatoia     	scorciatoia     	Dovunque si trovasse, Filch doveva conoscere una scorciatoia, perché la sua voce melliflua e untuosa si stava avvicinando e, con suo orrore, a rispondergli fu Piton.
+incorporeo      	incorporeo      	il Mantello lo rendeva invisibile, ma non incorporeo.
+indietreggiò    	indietreggiare  	Indietreggiò silenziosamente.
+insinuarsi      	insinuarsi      	Ci si infilò, trattenendo il fiato, cercando di non farla cigolare, e con suo grande sollievo riuscì a insinuarsi dentro la stanza senza che i due lo notassero.
+disuso          	disuso          	Aveva l’aspetto di un’aula in disuso.
+capovolto       	capovolto       	I banchi e le sedie accostati lungo le pareti proiettavano ombre oscure e c’era anche un cestino per la carta straccia capovolto.
+circolazione    	circolazione    	Appoggiato al muro, di fronte a lui, c’era un oggetto che appariva fuori luogo in quell’aula, come se qualcuno ce l’avesse messo per toglierlo dalla circolazione.
+cornice         	cornice         	Era uno specchio meraviglioso, alto fino al soffitto, con una cornice d’oro riccamente decorata che si reggeva su due zampe di leone.
+riccamente      	riccamente      	Era uno specchio meraviglioso, alto fino al soffitto, con una cornice d’oro riccamente decorata che si reggeva su due zampe di leone.
+sommità         	sommità         	Sulla sommità c’era un’iscrizione:
+iscrizione      	iscrizione      	Sulla sommità c’era un’iscrizione:
+traccia         	traccia         	Ora che non c’era più traccia di Filch e di Piton il panico era svanito e Harry si avvicinò allo specchio per guardarsi e ancora una volta non vedere la sua immagine riflessa.
+tappare         	tappare         	Si dovette tappare la bocca con le mani per non urlare.
+mozzo           	mozzo           	Col respiro mozzo, si voltò di nuovo, lentamente, verso lo specchio.
+superficie      	superficie      	Si vedeva lì, riflesso sulla sua superficie, pallido e atterrito, e dietro di lui vedeva almeno altre dieci persone.
+atterrito       	atterrito       	Si vedeva lì, riflesso sulla sua superficie, pallido e atterrito, e dietro di lui vedeva almeno altre dieci persone.
+ribelle         	ribelle         	Portava gli occhiali e aveva una chioma ribelle, di quelle che non stanno mai a posto.
+ossute          	ossuto          	Pian piano, Harry passò in rassegna i volti di tutte le persone riflesse nello specchio e vide altre paia di occhi verdi come i suoi, altri nasi come il suo, e anche un vecchietto che sembrava avere le sue stesse ginocchia ossute... Per la prima volta in vita sua, Harry vedeva la sua famiglia.
+anelante        	anelare         	I Potter gli sorridevano e lo salutavano, e lui li guardava, anelante, con le mani premute contro lo specchio come se sperasse di caderci dentro e di raggiungerli.
+presentarmi     	presentare      	Potrai presentarmi gli altri tuoi fratelli e tutti quanti».
+peccato         	peccato         	Che peccato, però, non aver trovato Flamel... Dai, prendi un po’ di pancetta o qualcos’altro.
+stamattina      	stamattina      	Perché stamattina non mangi niente?
+prodigiosa      	prodigioso      	Ron distolse a forza lo sguardo da quella visione prodigiosa e guardò Harry tutto emozionato.
+eternità        	eternità        	Dopo quella che parve un’eternità, Mrs Norris si voltò e se ne andò.
+sciolta         	sciolto         	La mattina dopo, la neve non si era ancora sciolta.
+ronda           	ronda           	Filch, Piton e Mrs Norris fanno la ronda.
+consigliasse    	consigliare     	Camminava così in fretta da fare più rumore di quanto consigliasse la prudenza, ma non incontrò nessuno.
+prudenza        	prudenza        	Camminava così in fretta da fare più rumore di quanto consigliasse la prudenza, ma non incontrò nessuno.
+budella         	budello         	» Harry sentì le budella congelarglisi dentro la pancia.
+congelarglisi   	congelarsi      	» Harry sentì le budella congelarglisi dentro la pancia.
+miope           	miope           	«È strano quanto essere invisibile possa renderti miope!» osservò Silente, e Harry si sentì sollevato nel vedere che sorrideva.
+bramiamo        	bramare         	«Ci mostra né più né meno quello che bramiamo più profondamente e più disperatamente nel nostro cuore.
+smarriti        	smarrirsi        	Ci sono uomini che si sono smarriti a forza di guardarcisi, rapiti da quel che avevano visto;
+rapiti          	rapire          	Ci sono uomini che si sono smarriti a forza di guardarcisi, rapiti da quel che avevano visto;
+senno           	senno           	e uomini che hanno perso il senno perché non sapevano se quello che mostrava fosse reale o anche solo possibile.
+dimora          	dimora          	«Domani, lo Specchio delle Emarb verrà portato in una nuova dimora, Harry, e io ti chiedo di non cercarlo mai più.
+rifugiarsi      	rifugiarsi      	non serve a niente rifugiarsi nei sogni e dimenticarsi di vivere.

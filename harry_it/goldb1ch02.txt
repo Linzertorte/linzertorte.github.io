@@ -1,0 +1,428 @@
+vetri             	vetro             	CAPITOLO 2 VETRI CHE SCOMPAIONO Erano passati quasi dieci anni da quando i Dursley si erano svegliati una mattina e avevano trovato il nipote sul gradino davanti alla porta di casa, ma Privet Drive non era cambiata affatto.
+dieci             	dieci             	CAPITOLO 2 VETRI CHE SCOMPAIONO Erano passati quasi dieci anni da quando i Dursley si erano svegliati una mattina e avevano trovato il nipote sul gradino davanti alla porta di casa, ma Privet Drive non era cambiata affatto.
+sole              	sole              	Il sole sorgeva sugli stessi giardinetti ben tenuti e illuminava il numero 4 d’ottone sulla porta dei Dursley;
+sorgeva           	sorgere           	Il sole sorgeva sugli stessi giardinetti ben tenuti e illuminava il numero 4 d’ottone sulla porta dei Dursley;
+ottone            	ottone            	Il sole sorgeva sugli stessi giardinetti ben tenuti e illuminava il numero 4 d’ottone sulla porta dei Dursley;
+insinuava         	insinuare         	si insinuava nel loro soggiorno, che era pressoché identico a quella sera in cui il signor Dursley aveva visto al telegiornale il fatidico servizio sui gufi.
+pressoché         	pressoché         	si insinuava nel loro soggiorno, che era pressoché identico a quella sera in cui il signor Dursley aveva visto al telegiornale il fatidico servizio sui gufi.
+sera              	sera              	si insinuava nel loro soggiorno, che era pressoché identico a quella sera in cui il signor Dursley aveva visto al telegiornale il fatidico servizio sui gufi.
+fatidico          	fatidico          	si insinuava nel loro soggiorno, che era pressoché identico a quella sera in cui il signor Dursley aveva visto al telegiornale il fatidico servizio sui gufi.
+servizio          	servizio          	si insinuava nel loro soggiorno, che era pressoché identico a quella sera in cui il signor Dursley aveva visto al telegiornale il fatidico servizio sui gufi.
+fotografie        	fotografia        	Soltanto le fotografie sulla mensola del caminetto rivelavano quanto tempo fosse passato in realtà.
+mensola           	mensola           	Soltanto le fotografie sulla mensola del caminetto rivelavano quanto tempo fosse passato in realtà.
+caminetto         	caminetto         	Soltanto le fotografie sulla mensola del caminetto rivelavano quanto tempo fosse passato in realtà.
+rivelavano        	rivelare          	Soltanto le fotografie sulla mensola del caminetto rivelavano quanto tempo fosse passato in realtà.
+realtà            	realtà            	Soltanto le fotografie sulla mensola del caminetto rivelavano quanto tempo fosse passato in realtà.
+infinità          	infinità          	Dieci anni prima c’era un’infinità di fotografie di quello che sembrava un grosso pallone da spiaggia rosa, con indosso berrettini col pompon di vari colori.
+pallone           	pallone           	Dieci anni prima c’era un’infinità di fotografie di quello che sembrava un grosso pallone da spiaggia rosa, con indosso berrettini col pompon di vari colori.
+spiaggia          	spiaggia          	Dieci anni prima c’era un’infinità di fotografie di quello che sembrava un grosso pallone da spiaggia rosa, con indosso berrettini col pompon di vari colori.
+rosa              	rosa              	Dieci anni prima c’era un’infinità di fotografie di quello che sembrava un grosso pallone da spiaggia rosa, con indosso berrettini col pompon di vari colori.
+berrettini        	berretto          	Dieci anni prima c’era un’infinità di fotografie di quello che sembrava un grosso pallone da spiaggia rosa, con indosso berrettini col pompon di vari colori.
+pompon            	pompon            	Dieci anni prima c’era un’infinità di fotografie di quello che sembrava un grosso pallone da spiaggia rosa, con indosso berrettini col pompon di vari colori.
+vari              	vario             	Dieci anni prima c’era un’infinità di fotografie di quello che sembrava un grosso pallone da spiaggia rosa, con indosso berrettini col pompon di vari colori.
+lattante          	lattante          	Ma Dudley Dursley non era più un lattante e ora le fotografie ritraevano un bambinone biondo in sella alla sua prima bicicletta, sulle giostre, che giocava al computer col padre o che si faceva abbracciare e baciare dalla madre.
+ritraevano        	ritrarre          	Ma Dudley Dursley non era più un lattante e ora le fotografie ritraevano un bambinone biondo in sella alla sua prima bicicletta, sulle giostre, che giocava al computer col padre o che si faceva abbracciare e baciare dalla madre.
+sella             	sella             	Ma Dudley Dursley non era più un lattante e ora le fotografie ritraevano un bambinone biondo in sella alla sua prima bicicletta, sulle giostre, che giocava al computer col padre o che si faceva abbracciare e baciare dalla madre.
+bicicletta        	bicicletta        	Ma Dudley Dursley non era più un lattante e ora le fotografie ritraevano un bambinone biondo in sella alla sua prima bicicletta, sulle giostre, che giocava al computer col padre o che si faceva abbracciare e baciare dalla madre.
+giostre           	giostra           	Ma Dudley Dursley non era più un lattante e ora le fotografie ritraevano un bambinone biondo in sella alla sua prima bicicletta, sulle giostre, che giocava al computer col padre o che si faceva abbracciare e baciare dalla madre.
+computer          	computer          	Ma Dudley Dursley non era più un lattante e ora le fotografie ritraevano un bambinone biondo in sella alla sua prima bicicletta, sulle giostre, che giocava al computer col padre o che si faceva abbracciare e baciare dalla madre.
+padre             	padre             	Ma Dudley Dursley non era più un lattante e ora le fotografie ritraevano un bambinone biondo in sella alla sua prima bicicletta, sulle giostre, che giocava al computer col padre o che si faceva abbracciare e baciare dalla madre.
+baciare           	baciare           	Ma Dudley Dursley non era più un lattante e ora le fotografie ritraevano un bambinone biondo in sella alla sua prima bicicletta, sulle giostre, che giocava al computer col padre o che si faceva abbracciare e baciare dalla madre.
+stanza            	stanza            	Nulla, in quella stanza, suggeriva che in casa vivesse anche un altro bambino.
+suggeriva         	suggerire         	Nulla, in quella stanza, suggeriva che in casa vivesse anche un altro bambino.
+eppure            	eppure            	Eppure, Harry Potter abitava ancora lì;
+alzati            	alzarsi           	«Su, alzati!
+immediatamente    	immediatamente    	Immediatamente!
+passi             	passo             	Harry sentì i suoi passi avviarsi verso la cucina e poi il rumore della padella che veniva messa sul fornello.
+cucina            	cucina            	Harry sentì i suoi passi avviarsi verso la cucina e poi il rumore della padella che veniva messa sul fornello.
+padella           	padella           	Harry sentì i suoi passi avviarsi verso la cucina e poi il rumore della padella che veniva messa sul fornello.
+fornello          	fornello          	Harry sentì i suoi passi avviarsi verso la cucina e poi il rumore della padella che veniva messa sul fornello.
+ricordare         	ricordare         	Si girò sulla schiena e cercò di ricordare il sogno che stava facendo.
+sogno             	sogno             	Si girò sulla schiena e cercò di ricordare il sogno che stava facendo.
+sensazione        	sensazione        	Ebbe la strana sensazione di averlo già fatto qualche altra volta.
+ti                	ti                	«Non ti sei ancora alzato?
+spicciarti        	spicciarsi        	«Be’, vedi di spicciarti, voglio che sorvegli il bacon che ho messo sul fuoco.
+sorvegli          	sorvegliare       	«Be’, vedi di spicciarti, voglio che sorvegli il bacon che ho messo sul fuoco.
+fuoco             	fuoco             	«Be’, vedi di spicciarti, voglio che sorvegli il bacon che ho messo sul fuoco.
+azzardare         	azzardarsi        	E non ti azzardare a farlo bruciare.
+bruciare          	bruciare          	E non ti azzardare a farlo bruciare.
+compleanno        	compleanno        	Voglio che tutto sia perfetto, il giorno del compleanno di Duddy».
+sfuggire          	sfuggire          	Harry si lasciò sfuggire un gemito.
+gemito            	gemito            	Harry si lasciò sfuggire un gemito.
+aspra             	aspro             	«Cosa hai detto?» chiese aspra la zia da dietro la porta.
+lentamente        	lentamente        	Si alzò lentamente e cominciò a cercare i calzini.
+calzini           	calzino           	Si alzò lentamente e cominciò a cercare i calzini.
+tolto             	togliere          	Ne trovò un paio sotto al letto e, dopo aver tolto un ragno da uno dei due, se li infilò.
+ragno             	ragno             	Ne trovò un paio sotto al letto e, dopo aver tolto un ragno da uno dei due, se li infilò.
+ripostiglio       	ripostiglio       	Harry c’era abituato perché il ripostiglio sotto la scala pullulava di ragni, e lui dormiva lì.
+scala             	scala             	Harry c’era abituato perché il ripostiglio sotto la scala pullulava di ragni, e lui dormiva lì.
+pullulava         	pullulare         	Harry c’era abituato perché il ripostiglio sotto la scala pullulava di ragni, e lui dormiva lì.
+diretto           	diretto           	Una volta che si fu vestito, attraversò l’ingresso diretto in cucina.
+tavolo            	tavolo            	Il tavolo scompariva quasi completamente sotto la pila dei regali di compleanno di Dudley.
+pila              	pila              	Il tavolo scompariva quasi completamente sotto la pila dei regali di compleanno di Dudley.
+regali            	regalo            	Il tavolo scompariva quasi completamente sotto la pila dei regali di compleanno di Dudley.
+ottenere          	ottenere          	Sembrava proprio che Dudley fosse riuscito a ottenere il nuovo computer che desiderava tanto, per non parlare del secondo televisore e della bici da corsa.
+televisore        	televisore        	Sembrava proprio che Dudley fosse riuscito a ottenere il nuovo computer che desiderava tanto, per non parlare del secondo televisore e della bici da corsa.
+bici              	bici              	Sembrava proprio che Dudley fosse riuscito a ottenere il nuovo computer che desiderava tanto, per non parlare del secondo televisore e della bici da corsa.
+corsa             	corsa             	Sembrava proprio che Dudley fosse riuscito a ottenere il nuovo computer che desiderava tanto, per non parlare del secondo televisore e della bici da corsa.
+preciso           	preciso           	Il motivo preciso per cui Dudley voleva una bici da corsa era un mistero per Harry, visto che Dudley era molto grasso e detestava fare moto, a meno che – inutile dirlo – non si trattasse di prendere a pugni qualcuno.
+mistero           	mistero           	Il motivo preciso per cui Dudley voleva una bici da corsa era un mistero per Harry, visto che Dudley era molto grasso e detestava fare moto, a meno che – inutile dirlo – non si trattasse di prendere a pugni qualcuno.
+grasso            	grasso            	Il motivo preciso per cui Dudley voleva una bici da corsa era un mistero per Harry, visto che Dudley era molto grasso e detestava fare moto, a meno che – inutile dirlo – non si trattasse di prendere a pugni qualcuno.
+detestava         	detestare         	Il motivo preciso per cui Dudley voleva una bici da corsa era un mistero per Harry, visto che Dudley era molto grasso e detestava fare moto, a meno che – inutile dirlo – non si trattasse di prendere a pugni qualcuno.
+inutile           	inutile           	Il motivo preciso per cui Dudley voleva una bici da corsa era un mistero per Harry, visto che Dudley era molto grasso e detestava fare moto, a meno che – inutile dirlo – non si trattasse di prendere a pugni qualcuno.
+pugni             	pugno             	Il motivo preciso per cui Dudley voleva una bici da corsa era un mistero per Harry, visto che Dudley era molto grasso e detestava fare moto, a meno che – inutile dirlo – non si trattasse di prendere a pugni qualcuno.
+preferito         	preferito         	Il punching-ball preferito di Dudley era Harry, quando riusciva ad acchiapparlo, il che non era facile.
+acchiapparlo      	acchiappare       	Il punching-ball preferito di Dudley era Harry, quando riusciva ad acchiapparlo, il che non era facile.
+facile            	facile            	Il punching-ball preferito di Dudley era Harry, quando riusciva ad acchiapparlo, il che non era facile.
+veloce            	veloce            	Non sembrava, ma Harry era molto veloce.
+vestiti           	vestito           	E lo sembrava ancor più di quanto in realtà non fosse, perché non aveva altro da indossare che i vestiti smessi di Dudley, e Dudley era circa quattro volte più grosso di lui.
+smessi            	smesso            	E lo sembrava ancor più di quanto in realtà non fosse, perché non aveva altro da indossare che i vestiti smessi di Dudley, e Dudley era circa quattro volte più grosso di lui.
+quattro           	quattro           	E lo sembrava ancor più di quanto in realtà non fosse, perché non aveva altro da indossare che i vestiti smessi di Dudley, e Dudley era circa quattro volte più grosso di lui.
+sottile           	sottile           	Harry aveva un viso sottile, ginocchia nodose, capelli neri e occhi di un verde intenso.
+nodose            	nodoso            	Harry aveva un viso sottile, ginocchia nodose, capelli neri e occhi di un verde intenso.
+rotondi           	rotondo           	Portava un paio di occhiali rotondi, tenuti insieme con un sacco di nastro adesivo per tutte le volte che Dudley lo aveva preso a pugni sul naso.
+insieme           	insieme           	Portava un paio di occhiali rotondi, tenuti insieme con un sacco di nastro adesivo per tutte le volte che Dudley lo aveva preso a pugni sul naso.
+nastro            	nastro            	Portava un paio di occhiali rotondi, tenuti insieme con un sacco di nastro adesivo per tutte le volte che Dudley lo aveva preso a pugni sul naso.
+adesivo           	adesivo           	Portava un paio di occhiali rotondi, tenuti insieme con un sacco di nastro adesivo per tutte le volte che Dudley lo aveva preso a pugni sul naso.
+domanda           	domanda           	Per quanto ne sapeva, l’aveva da sempre, e la prima domanda che ricordava di aver mai rivolto a zia Petunia era stata come se la fosse fatta.
+incidente         	incidente         	«Nell’incidente d’auto in cui sono morti i tuoi genitori» gli aveva risposto lei, «e non fare domande».
+genitori          	genitore          	«Nell’incidente d’auto in cui sono morti i tuoi genitori» gli aveva risposto lei, «e non fare domande».
+regola            	regola            	questa era la prima regola per vivere in pace, con i Dursley.
+pace              	pace              	questa era la prima regola per vivere in pace, con i Dursley.
+fila              	filare            	«Fila a pettinarti!» sbraitò a mo’ di buongiorno.
+pettinarti        	pettinarsi        	«Fila a pettinarti!» sbraitò a mo’ di buongiorno.
+sbraitò           	sbraitare         	«Fila a pettinarti!» sbraitò a mo’ di buongiorno.
+buongiorno        	buongiorno        	«Fila a pettinarti!» sbraitò a mo’ di buongiorno.
+giornale          	giornale          	Circa una volta alla settimana, zio Vernon alzava gli occhi dal suo giornale e urlava che Harry doveva tagliarsi i capelli.
+tagliarsi         	tagliare          	Circa una volta alla settimana, zio Vernon alzava gli occhi dal suo giornale e urlava che Harry doveva tagliarsi i capelli.
+compagni          	compagno          	Harry si era tagliato i capelli più volte di tutti i suoi compagni di classe messi insieme, ma non c’era niente da fare:
+classe            	classe            	Harry si era tagliato i capelli più volte di tutti i suoi compagni di classe messi insieme, ma non c’era niente da fare:
+tregua            	tregua            	crescevano in quel modo, senza tregua.
+friggendo         	friggere          	Quando Dudley e sua madre entrarono in cucina, Harry stava friggendo le uova.
+uova              	uovo              	Quando Dudley e sua madre entrarono in cucina, Harry stava friggendo le uova.
+assomigliava      	assomigliare      	Dudley assomigliava molto a zio Vernon.
+faccione          	faccia            	Aveva un gran faccione roseo, quasi per niente collo, occhi piccoli celeste acquoso e folti capelli biondi e lisci che gli pendevano su un gran testone.
+roseo             	roseo             	Aveva un gran faccione roseo, quasi per niente collo, occhi piccoli celeste acquoso e folti capelli biondi e lisci che gli pendevano su un gran testone.
+celeste           	celeste           	Aveva un gran faccione roseo, quasi per niente collo, occhi piccoli celeste acquoso e folti capelli biondi e lisci che gli pendevano su un gran testone.
+acquoso           	acquoso           	Aveva un gran faccione roseo, quasi per niente collo, occhi piccoli celeste acquoso e folti capelli biondi e lisci che gli pendevano su un gran testone.
+lisci             	liscio            	Aveva un gran faccione roseo, quasi per niente collo, occhi piccoli celeste acquoso e folti capelli biondi e lisci che gli pendevano su un gran testone.
+pendevano         	pendere           	Aveva un gran faccione roseo, quasi per niente collo, occhi piccoli celeste acquoso e folti capelli biondi e lisci che gli pendevano su un gran testone.
+testone           	testone           	Aveva un gran faccione roseo, quasi per niente collo, occhi piccoli celeste acquoso e folti capelli biondi e lisci che gli pendevano su un gran testone.
+spesso            	spesso            	Spesso zia Petunia diceva che Dudley sembrava un angioletto;
+angioletto        	angelo            	Spesso zia Petunia diceva che Dudley sembrava un angioletto;
+maiale            	maiale            	Harry invece diceva che sembrava un maiale con la parrucca.
+parrucca          	parrucca          	Harry invece diceva che sembrava un maiale con la parrucca.
+tavola            	tavola            	Harry mise in tavola i piatti con le uova al bacon, un’operazione non particolarmente facile, dato che lo spazio era poco.
+piatti            	piatto            	Harry mise in tavola i piatti con le uova al bacon, un’operazione non particolarmente facile, dato che lo spazio era poco.
+operazione        	operazione        	Harry mise in tavola i piatti con le uova al bacon, un’operazione non particolarmente facile, dato che lo spazio era poco.
+particolarmente   	particolarmente   	Harry mise in tavola i piatti con le uova al bacon, un’operazione non particolarmente facile, dato che lo spazio era poco.
+spazio            	spazio            	Harry mise in tavola i piatti con le uova al bacon, un’operazione non particolarmente facile, dato che lo spazio era poco.
+frattempo         	frattempo         	Nel frattempo, Dudley contava i regali.
+contava           	contare           	Nel frattempo, Dudley contava i regali.
+rabbuiò           	rabbuiare         	Si rabbuiò.
+volgendosi        	volgersi          	«Trentasei» disse volgendosi a guardare il padre e la madre.
+vedi              	vedere            	Vedi, è qui, sotto questo regalone grosso grosso di papà e mamma».
+papà              	papà|papa_2       	Vedi, è qui, sotto questo regalone grosso grosso di papà e mamma».
+mamma             	mamma             	Vedi, è qui, sotto questo regalone grosso grosso di papà e mamma».
+paonazzo          	paonazzo          	«D’accordo, trentasette» disse Dudley tutto paonazzo.
+arrivo            	arrivo            	Harry, avendo capito che era in arrivo uno dei terrificanti capricci alla Dudley, cominciò a trangugiare il suo bacon il più in fretta possibile, nel caso il cugino avesse buttato il tavolo a gambe all’aria.
+terrificanti      	terrificante      	Harry, avendo capito che era in arrivo uno dei terrificanti capricci alla Dudley, cominciò a trangugiare il suo bacon il più in fretta possibile, nel caso il cugino avesse buttato il tavolo a gambe all’aria.
+trangugiare       	trangugiare       	Harry, avendo capito che era in arrivo uno dei terrificanti capricci alla Dudley, cominciò a trangugiare il suo bacon il più in fretta possibile, nel caso il cugino avesse buttato il tavolo a gambe all’aria.
+possibile         	possibile         	Harry, avendo capito che era in arrivo uno dei terrificanti capricci alla Dudley, cominciò a trangugiare il suo bacon il più in fretta possibile, nel caso il cugino avesse buttato il tavolo a gambe all’aria.
+buttato           	buttare           	Harry, avendo capito che era in arrivo uno dei terrificanti capricci alla Dudley, cominciò a trangugiare il suo bacon il più in fretta possibile, nel caso il cugino avesse buttato il tavolo a gambe all’aria.
+evidentemente     	evidentemente     	Evidentemente, anche zia Petunia annusò il pericolo, perché si affrettò a dire:
+annusò            	annusare          	Evidentemente, anche zia Petunia annusò il pericolo, perché si affrettò a dire:
+pericolo          	pericolo          	Evidentemente, anche zia Petunia annusò il pericolo, perché si affrettò a dire:
+tesoruccio        	tesoro            	Che ne dici, tesoruccio?
+trenta            	trenta            	«Così ne avrò trenta... trenta...» «Trentanove, dolcezza mia» disse zia Petunia.
+ah                	ah                	«Ah!» Dudley si lasciò cadere pesantemente su una sedia e afferrò il pacchetto più vicino.
+pesantemente      	pesantemente      	«Ah!» Dudley si lasciò cadere pesantemente su una sedia e afferrò il pacchetto più vicino.
+sedia             	sedia             	«Ah!» Dudley si lasciò cadere pesantemente su una sedia e afferrò il pacchetto più vicino.
+pacchetto         	pacchetto         	«Ah!» Dudley si lasciò cadere pesantemente su una sedia e afferrò il pacchetto più vicino.
+canaglia          	canaglia          	«Questa piccola canaglia vuole avere tutto quel che gli spetta fino all’ultimo, proprio come papà.
+spetta            	spettare          	«Questa piccola canaglia vuole avere tutto quel che gli spetta fino all’ultimo, proprio come papà.
+bravo             	bravo             	Bravo, Dudley!
+squillò           	squillare         	In quel momento squillò il telefono e zia Petunia andò a rispondere mentre Harry e zio Vernon rimasero a guardare Dudley scartare la bicicletta da corsa, una cinepresa, un aeroplano telecomandato, sedici nuovi videogiochi e un videoregistratore.
+scartare          	scartare          	In quel momento squillò il telefono e zia Petunia andò a rispondere mentre Harry e zio Vernon rimasero a guardare Dudley scartare la bicicletta da corsa, una cinepresa, un aeroplano telecomandato, sedici nuovi videogiochi e un videoregistratore.
+cinepresa         	cinepresa         	In quel momento squillò il telefono e zia Petunia andò a rispondere mentre Harry e zio Vernon rimasero a guardare Dudley scartare la bicicletta da corsa, una cinepresa, un aeroplano telecomandato, sedici nuovi videogiochi e un videoregistratore.
+aeroplano         	aeroplano         	In quel momento squillò il telefono e zia Petunia andò a rispondere mentre Harry e zio Vernon rimasero a guardare Dudley scartare la bicicletta da corsa, una cinepresa, un aeroplano telecomandato, sedici nuovi videogiochi e un videoregistratore.
+telecomandato     	telecomandato     	In quel momento squillò il telefono e zia Petunia andò a rispondere mentre Harry e zio Vernon rimasero a guardare Dudley scartare la bicicletta da corsa, una cinepresa, un aeroplano telecomandato, sedici nuovi videogiochi e un videoregistratore.
+sedici            	sedici            	In quel momento squillò il telefono e zia Petunia andò a rispondere mentre Harry e zio Vernon rimasero a guardare Dudley scartare la bicicletta da corsa, una cinepresa, un aeroplano telecomandato, sedici nuovi videogiochi e un videoregistratore.
+videogiochi       	videogioco        	In quel momento squillò il telefono e zia Petunia andò a rispondere mentre Harry e zio Vernon rimasero a guardare Dudley scartare la bicicletta da corsa, una cinepresa, un aeroplano telecomandato, sedici nuovi videogiochi e un videoregistratore.
+videoregistratore 	videoregistratore 	In quel momento squillò il telefono e zia Petunia andò a rispondere mentre Harry e zio Vernon rimasero a guardare Dudley scartare la bicicletta da corsa, una cinepresa, un aeroplano telecomandato, sedici nuovi videogiochi e un videoregistratore.
+!strappando       	strappare         	Stava strappando l’incarto di un orologio da polso d’oro quando zia Petunia tornò nella stanza con l’aria arrabbiata e preoccupata a un tempo.
+incarto           	incarto           	Stava strappando l’incarto di un orologio da polso d’oro quando zia Petunia tornò nella stanza con l’aria arrabbiata e preoccupata a un tempo.
+polso             	polso             	Stava strappando l’incarto di un orologio da polso d’oro quando zia Petunia tornò nella stanza con l’aria arrabbiata e preoccupata a un tempo.
+arrabbiata        	arrabbiato        	Stava strappando l’incarto di un orologio da polso d’oro quando zia Petunia tornò nella stanza con l’aria arrabbiata e preoccupata a un tempo.
+preoccupata       	preoccupare       	Stava strappando l’incarto di un orologio da polso d’oro quando zia Petunia tornò nella stanza con l’aria arrabbiata e preoccupata a un tempo.
+cattive           	cattivo           	«Cattive notizie, Vernon» disse.
+notizie           	notizia           	«Cattive notizie, Vernon» disse.
+brusco            	brusco            	E così dicendo, indicò Harry con un brusco cenno del capo.
+spalancò          	spalancare        	Dudley spalancò la bocca inorridito, ma il cuore di Harry balzò di gioia.
+inorridito        	inorridire        	Dudley spalancò la bocca inorridito, ma il cuore di Harry balzò di gioia.
+gioia             	gioia             	Dudley spalancò la bocca inorridito, ma il cuore di Harry balzò di gioia.
+amico             	amico             	Ogni anno, per il compleanno di Dudley, i genitori portavano lui e un suo amico fuori per tutto il giorno, in giro per parchi, a fare scorpacciate di hamburger o al cinema.
+parchi            	parco             	Ogni anno, per il compleanno di Dudley, i genitori portavano lui e un suo amico fuori per tutto il giorno, in giro per parchi, a fare scorpacciate di hamburger o al cinema.
+scorpacciate      	scorpacciata      	Ogni anno, per il compleanno di Dudley, i genitori portavano lui e un suo amico fuori per tutto il giorno, in giro per parchi, a fare scorpacciate di hamburger o al cinema.
+hamburger         	hamburger         	Ogni anno, per il compleanno di Dudley, i genitori portavano lui e un suo amico fuori per tutto il giorno, in giro per parchi, a fare scorpacciate di hamburger o al cinema.
+cinema            	cinema            	Ogni anno, per il compleanno di Dudley, i genitori portavano lui e un suo amico fuori per tutto il giorno, in giro per parchi, a fare scorpacciate di hamburger o al cinema.
+traverse          	traversa          	Ogni anno Harry rimaneva con la signora Figg, una vecchia signora mezza matta che viveva due traverse più avanti.
+avanti            	avanti            	Ogni anno Harry rimaneva con la signora Figg, una vecchia signora mezza matta che viveva due traverse più avanti.
+puzzava           	puzzare           	Puzzava di cavolo e la signora Figg lo costringeva a guardare le fotografie di tutti i gatti che aveva posseduto in vita sua.
+cavolo            	cavolo            	Puzzava di cavolo e la signora Figg lo costringeva a guardare le fotografie di tutti i gatti che aveva posseduto in vita sua.
+furibonda         	furibondo         	» chiese zia Petunia guardando furibonda Harry come se fosse colpa sua.
+colpa             	colpa             	» chiese zia Petunia guardando furibonda Harry come se fosse colpa sua.
+dispiacersi       	dispiacersi       	Harry sapeva che avrebbe dovuto dispiacersi per il fatto che la signora Figg si era rotta la gamba, ma non gli fu facile quando si ricordò che ancora per un intero anno non sarebbe stato costretto a vedere Lilli, Baffo, Mascherina e Pallina.
+mascherina        	mascherina        	Harry sapeva che avrebbe dovuto dispiacersi per il fatto che la signora Figg si era rotta la gamba, ma non gli fu facile quando si ricordò che ancora per un intero anno non sarebbe stato costretto a vedere Lilli, Baffo, Mascherina e Pallina.
+pallina           	pallina           	Harry sapeva che avrebbe dovuto dispiacersi per il fatto che la signora Figg si era rotta la gamba, ma non gli fu facile quando si ricordò che ancora per un intero anno non sarebbe stato costretto a vedere Lilli, Baffo, Mascherina e Pallina.
+provare           	provarsi          	«Si potrebbe provare a telefonare a Marge» suggerì zio Vernon.
+presente          	presente          	I Dursley parlavano spesso di Harry in quel modo come se lui non fosse presente, o piuttosto come se fosse qualcosa di molto sgradevole e incapace di capirli, come una lumaca.
+sgradevole        	sgradevole        	I Dursley parlavano spesso di Harry in quel modo come se lui non fosse presente, o piuttosto come se fosse qualcosa di molto sgradevole e incapace di capirli, come una lumaca.
+incapace          	incapace          	I Dursley parlavano spesso di Harry in quel modo come se lui non fosse presente, o piuttosto come se fosse qualcosa di molto sgradevole e incapace di capirli, come una lumaca.
+lumaca            	lumaca            	I Dursley parlavano spesso di Harry in quel modo come se lui non fosse presente, o piuttosto come se fosse qualcosa di molto sgradevole e incapace di capirli, come una lumaca.
+vacanza           	vacanza           	» «È in vacanza a Maiorca» rimbeccò zia Petunia.
+speranzoso        	speranzoso        	«Potreste lasciarmi semplicemente qui» azzardò Harry speranzoso (una volta tanto, avrebbe potuto guardare quel che voleva alla televisione o persino provare il computer di Dudley).
+televisione       	televisione       	«Potreste lasciarmi semplicemente qui» azzardò Harry speranzoso (una volta tanto, avrebbe potuto guardare quel che voleva alla televisione o persino provare il computer di Dudley).
+persino           	persino           	«Potreste lasciarmi semplicemente qui» azzardò Harry speranzoso (una volta tanto, avrebbe potuto guardare quel che voleva alla televisione o persino provare il computer di Dudley).
+ingoiato          	ingoiare          	Zia Petunia fece una faccia come se avesse appena ingoiato un limone.
+limone            	limone            	Zia Petunia fece una faccia come se avesse appena ingoiato un limone.
+rovina            	rovina            	«Per trovare la casa in rovina quando torniamo?» ringhiò.
+ringhiò           	ringhiare         	«Per trovare la casa in rovina quando torniamo?» ringhiò.
+saltare           	saltare           	«Mica la faccio saltare in aria» disse Harry, ma nessuno lo ascoltò.
+ascoltò           	ascoltare         	«Mica la faccio saltare in aria» disse Harry, ma nessuno lo ascoltò.
+zoo               	zoo               	«Forse potremmo portarlo allo zoo» disse Petunia lentamente, «...e lasciarlo in macchina...» «Non può restare in macchina da solo.
+zecca             	zecca             	È nuova di zecca...» Dudley cominciò a piangere forte.
+piangere          	piangere          	È nuova di zecca...» Dudley cominciò a piangere forte.
+contorceva        	contorcere        	erano anni che non piangeva sul serio, ma sapeva che se contorceva la faccia e si lagnava la madre gli avrebbe dato qualsiasi cosa lui avesse chiesto.
+lagnava           	lagnarsi          	erano anni che non piangeva sul serio, ma sapeva che se contorceva la faccia e si lagnava la madre gli avrebbe dato qualsiasi cosa lui avesse chiesto.
+permetterà        	permettere        	Mammina non permetterà che quello ti rovini la festa!
+rovini            	rovinare          	Mammina non permetterà che quello ti rovini la festa!
+stringendolo      	stringere         	esclamò stringendolo tra le braccia.
+finto             	finto             	«N-n-non... voglio... che... venga... pure lui!» gridò Dudley tra un finto singhiozzo e l’altro.
+malevola          	malevolo          	«Lui rovina s-s-sempre tutto!» E lanciò a Harry un’occhiata malevola attraverso uno spiraglio tra le braccia della madre.
+attraverso        	attraverso        	«Lui rovina s-s-sempre tutto!» E lanciò a Harry un’occhiata malevola attraverso uno spiraglio tra le braccia della madre.
+spiraglio         	spiraglio         	«Lui rovina s-s-sempre tutto!» E lanciò a Harry un’occhiata malevola attraverso uno spiraglio tra le braccia della madre.
+suonò             	suonare           	In quel preciso momento suonò il campanello:
+campanello        	campanello        	In quel preciso momento suonò il campanello:
+santo             	santo             	«Santo cielo, sono arrivati!
+frenetica         	frenetico         	» esclamò zia Petunia frenetica.
+pelle             	pelle             	Piers era un ragazzo tutto pelle e ossa, con una faccia da topo.
+ossa              	osso              	Piers era un ragazzo tutto pelle e ossa, con una faccia da topo.
+topo              	topo              	Piers era un ragazzo tutto pelle e ossa, con una faccia da topo.
+immobilizzava     	immobilizzare     	Era lui che in genere immobilizzava le persone con le braccia dietro la schiena mentre Dudley le picchiava.
+picchiava         	picchiare         	Era lui che in genere immobilizzava le persone con le braccia dietro la schiena mentre Dudley le picchiava.
+smise             	smettere          	Dudley smise all’istante di far finta di piangere.
+sedile            	sedile            	Mezz’ora più tardi, Harry, che non riusciva a credere a tanta fortuna, si era infilato sul sedile posteriore della macchina dei Dursley insieme a Piers e a Dudley, diretto allo zoo per la prima volta in vita sua.
+posteriore        	posteriore        	Mezz’ora più tardi, Harry, che non riusciva a credere a tanta fortuna, si era infilato sul sedile posteriore della macchina dei Dursley insieme a Piers e a Dudley, diretto allo zoo per la prima volta in vita sua.
+inventarsi        	inventarsi        	Lo zio e la zia non erano riusciti a inventarsi niente di diverso per lui, ma prima di uscire zio Vernon lo aveva preso da parte.
+avverto           	avvertire         	«Ti avverto» gli aveva detto piazzandoglisi davanti col suo faccione paonazzo a un millimetro dal suo naso, «ti avverto una volta per tutte, ragazzino, niente cose strane, niente di niente, intesi?
+piazzandoglisi    	piazzarsi         	«Ti avverto» gli aveva detto piazzandoglisi davanti col suo faccione paonazzo a un millimetro dal suo naso, «ti avverto una volta per tutte, ragazzino, niente cose strane, niente di niente, intesi?
+millimetro        	millimetro        	«Ti avverto» gli aveva detto piazzandoglisi davanti col suo faccione paonazzo a un millimetro dal suo naso, «ti avverto una volta per tutte, ragazzino, niente cose strane, niente di niente, intesi?
+intesi            	inteso            	«Ti avverto» gli aveva detto piazzandoglisi davanti col suo faccione paonazzo a un millimetro dal suo naso, «ti avverto una volta per tutte, ragazzino, niente cose strane, niente di niente, intesi?
+chiuso            	chiuso            	O resterai chiuso in quel ripostiglio fino a Natale».
+Natale            	Natale            	O resterai chiuso in quel ripostiglio fino a Natale».
+serviva           	servire           	Il fatto era che spesso intorno a Harry accadevano fatti strani, e non serviva a niente dire ai Dursley che lui non c’entrava.
+esempio           	esempio           	Per esempio, una volta zia Petunia, stanca di veder tornare Harry dal barbiere come se non ci fosse stato affatto, aveva preso un paio di forbici da cucina e gli aveva tagliato i capelli talmente corti da lasciarlo quasi pelato, tranne per la frangetta, che non aveva toccato per «nascondere quell’orribile cicatrice».
+stanca            	stanco            	Per esempio, una volta zia Petunia, stanca di veder tornare Harry dal barbiere come se non ci fosse stato affatto, aveva preso un paio di forbici da cucina e gli aveva tagliato i capelli talmente corti da lasciarlo quasi pelato, tranne per la frangetta, che non aveva toccato per «nascondere quell’orribile cicatrice».
+barbiere          	barbiere          	Per esempio, una volta zia Petunia, stanca di veder tornare Harry dal barbiere come se non ci fosse stato affatto, aveva preso un paio di forbici da cucina e gli aveva tagliato i capelli talmente corti da lasciarlo quasi pelato, tranne per la frangetta, che non aveva toccato per «nascondere quell’orribile cicatrice».
+forbici           	forbice           	Per esempio, una volta zia Petunia, stanca di veder tornare Harry dal barbiere come se non ci fosse stato affatto, aveva preso un paio di forbici da cucina e gli aveva tagliato i capelli talmente corti da lasciarlo quasi pelato, tranne per la frangetta, che non aveva toccato per «nascondere quell’orribile cicatrice».
+corti             	corto             	Per esempio, una volta zia Petunia, stanca di veder tornare Harry dal barbiere come se non ci fosse stato affatto, aveva preso un paio di forbici da cucina e gli aveva tagliato i capelli talmente corti da lasciarlo quasi pelato, tranne per la frangetta, che non aveva toccato per «nascondere quell’orribile cicatrice».
+pelato            	pelato            	Per esempio, una volta zia Petunia, stanca di veder tornare Harry dal barbiere come se non ci fosse stato affatto, aveva preso un paio di forbici da cucina e gli aveva tagliato i capelli talmente corti da lasciarlo quasi pelato, tranne per la frangetta, che non aveva toccato per «nascondere quell’orribile cicatrice».
+tranne            	tranne            	Per esempio, una volta zia Petunia, stanca di veder tornare Harry dal barbiere come se non ci fosse stato affatto, aveva preso un paio di forbici da cucina e gli aveva tagliato i capelli talmente corti da lasciarlo quasi pelato, tranne per la frangetta, che non aveva toccato per «nascondere quell’orribile cicatrice».
+frangetta         	frangia           	Per esempio, una volta zia Petunia, stanca di veder tornare Harry dal barbiere come se non ci fosse stato affatto, aveva preso un paio di forbici da cucina e gli aveva tagliato i capelli talmente corti da lasciarlo quasi pelato, tranne per la frangetta, che non aveva toccato per «nascondere quell’orribile cicatrice».
+toccato           	toccare           	Per esempio, una volta zia Petunia, stanca di veder tornare Harry dal barbiere come se non ci fosse stato affatto, aveva preso un paio di forbici da cucina e gli aveva tagliato i capelli talmente corti da lasciarlo quasi pelato, tranne per la frangetta, che non aveva toccato per «nascondere quell’orribile cicatrice».
+orribile          	orribile          	Per esempio, una volta zia Petunia, stanca di veder tornare Harry dal barbiere come se non ci fosse stato affatto, aveva preso un paio di forbici da cucina e gli aveva tagliato i capelli talmente corti da lasciarlo quasi pelato, tranne per la frangetta, che non aveva toccato per «nascondere quell’orribile cicatrice».
+scoppiato         	scoppiare         	Dudley era scoppiato a ridere a crepapelle nel vedere Harry così conciato e lui aveva passato una notte insonne al pensiero di come sarebbe andata l’indomani a scuola, dove già tutti lo prendevano in giro per i vestiti sformati e gli occhiali tenuti insieme con lo scotch.
+crepapelle        	crepapelle        	Dudley era scoppiato a ridere a crepapelle nel vedere Harry così conciato e lui aveva passato una notte insonne al pensiero di come sarebbe andata l’indomani a scuola, dove già tutti lo prendevano in giro per i vestiti sformati e gli occhiali tenuti insieme con lo scotch.
+conciato          	conciare          	Dudley era scoppiato a ridere a crepapelle nel vedere Harry così conciato e lui aveva passato una notte insonne al pensiero di come sarebbe andata l’indomani a scuola, dove già tutti lo prendevano in giro per i vestiti sformati e gli occhiali tenuti insieme con lo scotch.
+insonne           	insonne           	Dudley era scoppiato a ridere a crepapelle nel vedere Harry così conciato e lui aveva passato una notte insonne al pensiero di come sarebbe andata l’indomani a scuola, dove già tutti lo prendevano in giro per i vestiti sformati e gli occhiali tenuti insieme con lo scotch.
+indomani          	indomani          	Dudley era scoppiato a ridere a crepapelle nel vedere Harry così conciato e lui aveva passato una notte insonne al pensiero di come sarebbe andata l’indomani a scuola, dove già tutti lo prendevano in giro per i vestiti sformati e gli occhiali tenuti insieme con lo scotch.
+scuola            	scuola            	Dudley era scoppiato a ridere a crepapelle nel vedere Harry così conciato e lui aveva passato una notte insonne al pensiero di come sarebbe andata l’indomani a scuola, dove già tutti lo prendevano in giro per i vestiti sformati e gli occhiali tenuti insieme con lo scotch.
+sformati          	sformato          	Dudley era scoppiato a ridere a crepapelle nel vedere Harry così conciato e lui aveva passato una notte insonne al pensiero di come sarebbe andata l’indomani a scuola, dove già tutti lo prendevano in giro per i vestiti sformati e gli occhiali tenuti insieme con lo scotch.
+scotch            	scotch            	Dudley era scoppiato a ridere a crepapelle nel vedere Harry così conciato e lui aveva passato una notte insonne al pensiero di come sarebbe andata l’indomani a scuola, dove già tutti lo prendevano in giro per i vestiti sformati e gli occhiali tenuti insieme con lo scotch.
+risveglio         	risveglio         	Ma la mattina dopo, al risveglio, aveva trovato i capelli esattamente come erano prima che zia Petunia glieli avesse rapati.
+esattamente       	esattamente       	Ma la mattina dopo, al risveglio, aveva trovato i capelli esattamente come erano prima che zia Petunia glieli avesse rapati.
+rapati            	rapare            	Ma la mattina dopo, al risveglio, aveva trovato i capelli esattamente come erano prima che zia Petunia glieli avesse rapati.
+punito            	punire            	Per questo era stato punito con una settimana di reclusione nel ripostiglio, sebbene avesse cercato di spiegare che non sapeva spiegare come mai gli fossero ricresciuti così in fretta.
+reclusione        	reclusione        	Per questo era stato punito con una settimana di reclusione nel ripostiglio, sebbene avesse cercato di spiegare che non sapeva spiegare come mai gli fossero ricresciuti così in fretta.
+ricresciuti       	ricrescere        	Per questo era stato punito con una settimana di reclusione nel ripostiglio, sebbene avesse cercato di spiegare che non sapeva spiegare come mai gli fossero ricresciuti così in fretta.
+forza             	forza             	Un’altra volta, la zia aveva cercato di infilargli a forza un orrendo maglione smesso di Dudley (marrone con dei pompon arancioni).
+orrendo           	orrendo           	Un’altra volta, la zia aveva cercato di infilargli a forza un orrendo maglione smesso di Dudley (marrone con dei pompon arancioni).
+maglione          	maglione          	Un’altra volta, la zia aveva cercato di infilargli a forza un orrendo maglione smesso di Dudley (marrone con dei pompon arancioni).
+marrone           	marrone           	Un’altra volta, la zia aveva cercato di infilargli a forza un orrendo maglione smesso di Dudley (marrone con dei pompon arancioni).
+arancioni         	arancione         	Un’altra volta, la zia aveva cercato di infilargli a forza un orrendo maglione smesso di Dudley (marrone con dei pompon arancioni).
+rimpiccioliva     	rimpicciolirsi    	Ma più cercava di infilarglielo dalla testa, più il maglione si rimpiccioliva, fino a che avrebbe potuto andar bene a un burattino, ma non certo a Harry.
+burattino         	burattino         	Ma più cercava di infilarglielo dalla testa, più il maglione si rimpiccioliva, fino a che avrebbe potuto andar bene a un burattino, ma non certo a Harry.
+decretato         	decretare         	Zia Petunia aveva decretato che doveva essersi ritirato in lavatrice e questa volta Harry, con suo gran sollievo, non venne punito.
+ritirato          	ritirarsi         	Zia Petunia aveva decretato che doveva essersi ritirato in lavatrice e questa volta Harry, con suo gran sollievo, non venne punito.
+lavatrice         	lavatrice         	Zia Petunia aveva decretato che doveva essersi ritirato in lavatrice e questa volta Harry, con suo gran sollievo, non venne punito.
+sollievo          	sollievo          	Zia Petunia aveva decretato che doveva essersi ritirato in lavatrice e questa volta Harry, con suo gran sollievo, non venne punito.
+tetto             	tetto             	Invece, il giorno che fu trovato sul tetto delle cucine della scuola, passò un guaio terribile.
+terribile         	terribile         	Invece, il giorno che fu trovato sul tetto delle cucine della scuola, passò un guaio terribile.
+banda             	banda             	La banda di amici di Dudley lo stava rincorrendo, come al solito, quando, con immensa sorpresa di Harry e di tutti, lui si era ritrovato seduto sul comignolo.
+rincorrendo       	rincorrere        	La banda di amici di Dudley lo stava rincorrendo, come al solito, quando, con immensa sorpresa di Harry e di tutti, lui si era ritrovato seduto sul comignolo.
+sorpresa          	sorpresa          	La banda di amici di Dudley lo stava rincorrendo, come al solito, quando, con immensa sorpresa di Harry e di tutti, lui si era ritrovato seduto sul comignolo.
+ritrovato         	ritrovarsi        	La banda di amici di Dudley lo stava rincorrendo, come al solito, quando, con immensa sorpresa di Harry e di tutti, lui si era ritrovato seduto sul comignolo.
+comignolo         	comignolo         	La banda di amici di Dudley lo stava rincorrendo, come al solito, quando, con immensa sorpresa di Harry e di tutti, lui si era ritrovato seduto sul comignolo.
+indignata         	indignato         	I Dursley avevano ricevuto una lettera molto indignata della direttrice, la quale li informava che Harry aveva dato la scalata all’edificio scolastico.
+scalata           	scalata           	I Dursley avevano ricevuto una lettera molto indignata della direttrice, la quale li informava che Harry aveva dato la scalata all’edificio scolastico.
+edificio          	edificio          	I Dursley avevano ricevuto una lettera molto indignata della direttrice, la quale li informava che Harry aveva dato la scalata all’edificio scolastico.
+scolastico        	scolastico        	I Dursley avevano ricevuto una lettera molto indignata della direttrice, la quale li informava che Harry aveva dato la scalata all’edificio scolastico.
+sprangata         	sprangare         	Eppure, lui aveva soltanto cercato (come gridò a zio Vernon attraverso la porta sprangata del ripostiglio) di saltare dietro i grossi bidoni della spazzatura fuori dalla cucina.
+spazzatura        	spazzatura        	Eppure, lui aveva soltanto cercato (come gridò a zio Vernon attraverso la porta sprangata del ripostiglio) di saltare dietro i grossi bidoni della spazzatura fuori dalla cucina.
+salto             	salto             	E credeva che, a metà di quel salto, una folata di vento lo avesse sollevato in aria.
+folata            	folata            	E credeva che, a metà di quel salto, una folata di vento lo avesse sollevato in aria.
+vento             	vento             	E credeva che, a metà di quel salto, una folata di vento lo avesse sollevato in aria.
+storto            	storto            	Ma quel giorno niente sarebbe andato storto.
+pena              	pena              	E valeva persino la pena di trascorrere una giornata con Dudley e Piers, pur di passarla da qualche parte che non fosse la scuola, il ripostiglio, o il salotto puzzolente di cavolo della signora Figg.
+salotto           	salotto           	E valeva persino la pena di trascorrere una giornata con Dudley e Piers, pur di passarla da qualche parte che non fosse la scuola, il ripostiglio, o il salotto puzzolente di cavolo della signora Figg.
+puzzolente        	puzzolente        	E valeva persino la pena di trascorrere una giornata con Dudley e Piers, pur di passarla da qualche parte che non fosse la scuola, il ripostiglio, o il salotto puzzolente di cavolo della signora Figg.
+lamentava         	lamentarsi        	Strada facendo, zio Vernon si lamentava con zia Petunia.
+colleghi          	collega           	i colleghi di lavoro, Harry, il consiglio, Harry, la banca, Harry erano solo alcuni dei suoi argomenti preferiti.
+lavoro            	lavoro            	i colleghi di lavoro, Harry, il consiglio, Harry, la banca, Harry erano solo alcuni dei suoi argomenti preferiti.
+consiglio         	consiglio         	i colleghi di lavoro, Harry, il consiglio, Harry, la banca, Harry erano solo alcuni dei suoi argomenti preferiti.
+banca             	banca             	i colleghi di lavoro, Harry, il consiglio, Harry, la banca, Harry erano solo alcuni dei suoi argomenti preferiti.
+pazzi             	pazzo             	«...corrono come pazzi, questi giovani teppisti!
+teppisti          	teppista          	«...corrono come pazzi, questi giovani teppisti!
+sorpassava        	sorpassare        	esclamò mentre una moto li sorpassava.
+improvvisamente   	improvvisamente   	«Anche in un sogno che ho fatto c’era una moto» disse Harry ricordando improvvisamente, «e volava».
+tamponò           	tamponare         	Per poco zio Vernon non tamponò la macchina che lo precedeva.
+precedeva         	precedere         	Per poco zio Vernon non tamponò la macchina che lo precedeva.
+barbabietola      	barbabietola      	Si voltò di scatto e urlò a Harry, con la faccia che assomigliava a una gigantesca barbabietola con i baffi:
+repressero        	reprimere         	«LE MOTOCICLETTE NON VOLANO!» Dudley e Piers repressero una risata.
+pentì             	pentirsi          	Ma si pentì di aver parlato.
+odiavano          	odiare            	Se c’era una cosa che i Dursley odiavano ancor più delle sue domande era sentirlo parlare di cose che non si comportavano come dovevano, anche se si trattava di sogni o di cartoni animati.
+cartoni           	cartone           	Se c’era una cosa che i Dursley odiavano ancor più delle sue domande era sentirlo parlare di cose che non si comportavano come dovevano, anche se si trattava di sogni o di cartoni animati.
+animati           	animato           	Se c’era una cosa che i Dursley odiavano ancor più delle sue domande era sentirlo parlare di cose che non si comportavano come dovevano, anche se si trattava di sogni o di cartoni animati.
+temevano          	temere            	A quanto pareva, temevano che si facesse venire in mente idee pericolose.
+pericolose        	pericoloso        	A quanto pareva, temevano che si facesse venire in mente idee pericolose.
+sabato            	sabato            	Era un sabato assolato e lo zoo era pieno di famigliole.
+assolato          	assolato          	Era un sabato assolato e lo zoo era pieno di famigliole.
+famigliole        	famiglia          	Era un sabato assolato e lo zoo era pieno di famigliole.
+gelati            	gelato            	All’ingresso, i Dursley comprarono a Dudley e a Piers due enormi gelati al cioccolato e poi, siccome la sorridente barista del baracchino aveva chiesto a Harry cosa volesse prima che loro avessero potuto allontanarlo, gli comprarono un economico ghiacciolo al limone.
+cioccolato        	cioccolato        	All’ingresso, i Dursley comprarono a Dudley e a Piers due enormi gelati al cioccolato e poi, siccome la sorridente barista del baracchino aveva chiesto a Harry cosa volesse prima che loro avessero potuto allontanarlo, gli comprarono un economico ghiacciolo al limone.
+siccome           	siccome           	All’ingresso, i Dursley comprarono a Dudley e a Piers due enormi gelati al cioccolato e poi, siccome la sorridente barista del baracchino aveva chiesto a Harry cosa volesse prima che loro avessero potuto allontanarlo, gli comprarono un economico ghiacciolo al limone.
+sorridente        	sorridere         	All’ingresso, i Dursley comprarono a Dudley e a Piers due enormi gelati al cioccolato e poi, siccome la sorridente barista del baracchino aveva chiesto a Harry cosa volesse prima che loro avessero potuto allontanarlo, gli comprarono un economico ghiacciolo al limone.
+barista           	barista           	All’ingresso, i Dursley comprarono a Dudley e a Piers due enormi gelati al cioccolato e poi, siccome la sorridente barista del baracchino aveva chiesto a Harry cosa volesse prima che loro avessero potuto allontanarlo, gli comprarono un economico ghiacciolo al limone.
+baracchino        	baracchino        	All’ingresso, i Dursley comprarono a Dudley e a Piers due enormi gelati al cioccolato e poi, siccome la sorridente barista del baracchino aveva chiesto a Harry cosa volesse prima che loro avessero potuto allontanarlo, gli comprarono un economico ghiacciolo al limone.
+economico         	economico         	All’ingresso, i Dursley comprarono a Dudley e a Piers due enormi gelati al cioccolato e poi, siccome la sorridente barista del baracchino aveva chiesto a Harry cosa volesse prima che loro avessero potuto allontanarlo, gli comprarono un economico ghiacciolo al limone.
+ghiacciolo        	ghiacciolo        	All’ingresso, i Dursley comprarono a Dudley e a Piers due enormi gelati al cioccolato e poi, siccome la sorridente barista del baracchino aveva chiesto a Harry cosa volesse prima che loro avessero potuto allontanarlo, gli comprarono un economico ghiacciolo al limone.
+leccandolo        	leccare           	Non era neanche male, pensò Harry leccandolo, mentre guardavano un gorilla che si grattava la testa e assomigliava terribilmente a Dudley, tranne che non era biondo.
+gorilla           	gorilla           	Non era neanche male, pensò Harry leccandolo, mentre guardavano un gorilla che si grattava la testa e assomigliava terribilmente a Dudley, tranne che non era biondo.
+grattava          	grattare          	Non era neanche male, pensò Harry leccandolo, mentre guardavano un gorilla che si grattava la testa e assomigliava terribilmente a Dudley, tranne che non era biondo.
+cura              	cura              	Ebbe cura di camminare a una certa distanza dai Dursley in modo che Dudley e Piers, che per l’ora di pranzo avevano già cominciato ad annoiarsi degli animali, non tornassero al loro passatempo preferito:
+annoiarsi         	annoiarsi         	Ebbe cura di camminare a una certa distanza dai Dursley in modo che Dudley e Piers, che per l’ora di pranzo avevano già cominciato ad annoiarsi degli animali, non tornassero al loro passatempo preferito:
+animali           	animale           	Ebbe cura di camminare a una certa distanza dai Dursley in modo che Dudley e Piers, che per l’ora di pranzo avevano già cominciato ad annoiarsi degli animali, non tornassero al loro passatempo preferito:
+passatempo        	passatempo        	Ebbe cura di camminare a una certa distanza dai Dursley in modo che Dudley e Piers, che per l’ora di pranzo avevano già cominciato ad annoiarsi degli animali, non tornassero al loro passatempo preferito:
+pranzarono        	pranzare          	Pranzarono al ristorante dello zoo e, quando Dudley fece un capriccio perché il suo Trionfo di Gelato con Panna non era abbastanza grande, zio Vernon gliene comprò un altro e a Harry fu permesso di finire il primo.
+ristorante        	ristorante        	Pranzarono al ristorante dello zoo e, quando Dudley fece un capriccio perché il suo Trionfo di Gelato con Panna non era abbastanza grande, zio Vernon gliene comprò un altro e a Harry fu permesso di finire il primo.
+trionfo           	trionfo           	Pranzarono al ristorante dello zoo e, quando Dudley fece un capriccio perché il suo Trionfo di Gelato con Panna non era abbastanza grande, zio Vernon gliene comprò un altro e a Harry fu permesso di finire il primo.
+panna             	panna             	Pranzarono al ristorante dello zoo e, quando Dudley fece un capriccio perché il suo Trionfo di Gelato con Panna non era abbastanza grande, zio Vernon gliene comprò un altro e a Harry fu permesso di finire il primo.
+seguito           	seguito           	In seguito Harry si disse che avrebbe dovuto sapere che era troppo bello per durare.
+durare            	durare            	In seguito Harry si disse che avrebbe dovuto sapere che era troppo bello per durare.
+rettilario        	rettilario        	Dopo pranzo andarono al rettilario.
+luogo             	luogo             	Il luogo era fresco e semibuio, con teche illuminate lungo tutte le pareti.
+fresco            	fresco            	Il luogo era fresco e semibuio, con teche illuminate lungo tutte le pareti.
+teche             	teca              	Il luogo era fresco e semibuio, con teche illuminate lungo tutte le pareti.
+pareti            	parete            	Il luogo era fresco e semibuio, con teche illuminate lungo tutte le pareti.
+lucertole         	lucertola         	Dietro ai vetri, lucertole e serpenti di ogni specie strisciavano e si arrampicavano su tronchi di legno e sassi.
+serpenti          	serpente          	Dietro ai vetri, lucertole e serpenti di ogni specie strisciavano e si arrampicavano su tronchi di legno e sassi.
+specie            	specie            	Dietro ai vetri, lucertole e serpenti di ogni specie strisciavano e si arrampicavano su tronchi di legno e sassi.
+strisciavano      	strisciare        	Dietro ai vetri, lucertole e serpenti di ogni specie strisciavano e si arrampicavano su tronchi di legno e sassi.
+arrampicavano     	arrampicarsi      	Dietro ai vetri, lucertole e serpenti di ogni specie strisciavano e si arrampicavano su tronchi di legno e sassi.
+tronchi           	tronco            	Dietro ai vetri, lucertole e serpenti di ogni specie strisciavano e si arrampicavano su tronchi di legno e sassi.
+legno             	legno             	Dietro ai vetri, lucertole e serpenti di ogni specie strisciavano e si arrampicavano su tronchi di legno e sassi.
+sassi             	sasso             	Dietro ai vetri, lucertole e serpenti di ogni specie strisciavano e si arrampicavano su tronchi di legno e sassi.
+velenosi          	velenoso          	Dudley e Piers volevano vedere i giganteschi e velenosi cobra e i possenti pitoni capaci di stritolare un uomo.
+cobra             	cobra             	Dudley e Piers volevano vedere i giganteschi e velenosi cobra e i possenti pitoni capaci di stritolare un uomo.
+possenti          	possente          	Dudley e Piers volevano vedere i giganteschi e velenosi cobra e i possenti pitoni capaci di stritolare un uomo.
+pitoni            	pitone            	Dudley e Piers volevano vedere i giganteschi e velenosi cobra e i possenti pitoni capaci di stritolare un uomo.
+capaci            	capace            	Dudley e Piers volevano vedere i giganteschi e velenosi cobra e i possenti pitoni capaci di stritolare un uomo.
+stritolare        	stritolare        	Dudley e Piers volevano vedere i giganteschi e velenosi cobra e i possenti pitoni capaci di stritolare un uomo.
+individuare       	individuare       	Dudley fu molto veloce nell’individuare il serpente più grosso di tutti.
+avvolgersi        	avvolgersi        	Avrebbe potuto benissimo avvolgersi due volte intorno alla macchina di zio Vernon e ridurla alle dimensioni di un bidone per la spazzatura, ma al momento non sembrava in vena.
+ridurla           	ridurre           	Avrebbe potuto benissimo avvolgersi due volte intorno alla macchina di zio Vernon e ridurla alle dimensioni di un bidone per la spazzatura, ma al momento non sembrava in vena.
+dimensioni        	dimensione        	Avrebbe potuto benissimo avvolgersi due volte intorno alla macchina di zio Vernon e ridurla alle dimensioni di un bidone per la spazzatura, ma al momento non sembrava in vena.
+vena              	vena              	Avrebbe potuto benissimo avvolgersi due volte intorno alla macchina di zio Vernon e ridurla alle dimensioni di un bidone per la spazzatura, ma al momento non sembrava in vena.
+spiaccicato       	spiaccicare       	Dudley rimase con il naso spiaccicato contro il vetro, a contemplarne le spire brune e lucenti.
+contemplarne      	contemplare       	Dudley rimase con il naso spiaccicato contro il vetro, a contemplarne le spire brune e lucenti.
+spire             	spira             	Dudley rimase con il naso spiaccicato contro il vetro, a contemplarne le spire brune e lucenti.
+lucenti           	lucente           	Dudley rimase con il naso spiaccicato contro il vetro, a contemplarne le spire brune e lucenti.
+fallo             	fallo             	«Fallo muovere» chiese piagnucolando al padre.
+piagnucolando     	piagnucolare      	«Fallo muovere» chiese piagnucolando al padre.
+ordinò            	ordinare          	«Ancora!» ordinò Dudley.
+bussare           	bussare           	Zio Vernon tornò a bussare forte con le nocche sul vetro, ma il serpente continuò a ronfare.
+nocche            	nocca             	Zio Vernon tornò a bussare forte con le nocche sul vetro, ma il serpente continuò a ronfare.
+ronfare           	ronfare           	Zio Vernon tornò a bussare forte con le nocche sul vetro, ma il serpente continuò a ronfare.
+noia              	noia              	«Che noia!» disse Dudley con voce lagnosa.
+lagnosa           	lagnoso           	«Che noia!» disse Dudley con voce lagnosa.
+spostò            	spostarsi         	Harry si spostò davanti alla vetrina e guardò intensamente il serpente.
+vetrina           	vetrina           	Harry si spostò davanti alla vetrina e guardò intensamente il serpente.
+intensamente      	intensamente      	Harry si spostò davanti alla vetrina e guardò intensamente il serpente.
+stupito           	stupirsi          	Non si sarebbe stupito se anche lui fosse morto di noia, senza altra compagnia che quegli stupidi che tamburellavano tutto il giorno con le dita contro il vetro cercando di disturbarlo.
+compagnia         	compagnia         	Non si sarebbe stupito se anche lui fosse morto di noia, senza altra compagnia che quegli stupidi che tamburellavano tutto il giorno con le dita contro il vetro cercando di disturbarlo.
+peggio            	peggio            	Era peggio che avere per camera da letto un ripostiglio, dove l’unico visitatore era zia Petunia che pestava sulla porta per svegliarti;
+visitatore        	visitatore        	Era peggio che avere per camera da letto un ripostiglio, dove l’unico visitatore era zia Petunia che pestava sulla porta per svegliarti;
+pestava           	pestare           	Era peggio che avere per camera da letto un ripostiglio, dove l’unico visitatore era zia Petunia che pestava sulla porta per svegliarti;
+luccicanti        	luccicante        	D’un tratto il serpente aprì gli occhi piccoli e luccicanti.
+finché            	finché            	Lentamente, molto lentamente, sollevò la testa finché poté guardare dritto in quelli di Harry.
+occhiolino        	occhiolino        	Gli fece l’occhiolino.
+rapido            	rapido            	Poi sbirciò rapido in giro per vedere se qualcuno li osservava.
+strizzatina       	strizzata         	Tornò a fissare il serpente e ricambiò la strizzatina d’occhi.
+equivaleva        	equivalere        	Lanciò a Harry un’occhiata che equivaleva a dire:
+qua               	qua               	«Lo so» mormorò Harry di qua dal vetro, anche se non era sicuro che il serpente potesse udirlo.
+udirlo            	udire             	«Lo so» mormorò Harry di qua dal vetro, anche se non era sicuro che il serpente potesse udirlo.
+fastidioso        	fastidioso        	«Deve essere veramente fastidioso».
+energicamente     	energicamente     	Il serpente annuì energicamente.
+tu                	tu                	«Ma tu da dove vieni?» gli chiese Harry.
+colpì             	colpire           	Il serpente colpì con la coda un cartellino accanto al vetro.
+cartellino        	cartellino        	Il serpente colpì con la coda un cartellino accanto al vetro.
+attentamente      	attentamente      	Harry lo guardò attentamente.
+boa               	boa               	Boa constrictor, Brasile.
+Brasile           	Brasile           	Boa constrictor, Brasile.
+esemplare         	esemplare         	Questo esemplare è nato e cresciuto in cattività.
+nato              	nascere           	Questo esemplare è nato e cresciuto in cattività.
+cattività         	cattività         	Questo esemplare è nato e cresciuto in cattività.
+scosse            	scuotere          	«Ah, capisco, non sei mai stato in Brasile, tu!» Il serpente scosse la testa e in quello stesso momento un grido assordante alle spalle di Harry li fece trasalire entrambi:
+grido             	grido             	«Ah, capisco, non sei mai stato in Brasile, tu!» Il serpente scosse la testa e in quello stesso momento un grido assordante alle spalle di Harry li fece trasalire entrambi:
+assordante        	assordante        	«Ah, capisco, non sei mai stato in Brasile, tu!» Il serpente scosse la testa e in quello stesso momento un grido assordante alle spalle di Harry li fece trasalire entrambi:
+incredibile       	incredibile       	È INCREDIBILE QUEL CHE STA FACENDO!» Dudley caracollò verso di loro più in fretta che poté.
+caracollò         	caracollare       	È INCREDIBILE QUEL CHE STA FACENDO!» Dudley caracollò verso di loro più in fretta che poté.
+mollando          	mollare           	intimò mollando un pugno nelle costole a Harry, che, colto alla sprovvista, cadde a terra come un sacco.
+costole           	costola           	intimò mollando un pugno nelle costole a Harry, che, colto alla sprovvista, cadde a terra come un sacco.
+sprovvista        	sprovvisto        	intimò mollando un pugno nelle costole a Harry, che, colto alla sprovvista, cadde a terra come un sacco.
+seguì             	seguire           	Quel che seguì avvenne così in fretta che nessuno si rese conto del come:
+chini             	chino             	un attimo prima Piers e Dudley erano chini vicinissimi al vetro, e un attimo dopo erano saltati all’indietro tra grida di orrore.
+indietro          	indietro          	un attimo prima Piers e Dudley erano chini vicinissimi al vetro, e un attimo dopo erano saltati all’indietro tra grida di orrore.
+orrore            	orrore            	un attimo prima Piers e Dudley erano chini vicinissimi al vetro, e un attimo dopo erano saltati all’indietro tra grida di orrore.
+boccheggiando     	boccheggiare      	Harry si tirò su a sedere boccheggiando;
+anteriore         	anteriore         	il vetro anteriore della teca del boa constrictor era scomparso.
+svolgendo         	svolgere          	Il grosso serpente stava svolgendo rapidamente le sue spire e scivolando sul pavimento, mentre in tutto il rettilario la gente si metteva a urlare e cominciava a correre verso le uscite.
+rapidamente       	rapidamente       	Il grosso serpente stava svolgendo rapidamente le sue spire e scivolando sul pavimento, mentre in tutto il rettilario la gente si metteva a urlare e cominciava a correre verso le uscite.
+pavimento         	pavimento         	Il grosso serpente stava svolgendo rapidamente le sue spire e scivolando sul pavimento, mentre in tutto il rettilario la gente si metteva a urlare e cominciava a correre verso le uscite.
+uscite            	uscita            	Il grosso serpente stava svolgendo rapidamente le sue spire e scivolando sul pavimento, mentre in tutto il rettilario la gente si metteva a urlare e cominciava a correre verso le uscite.
+giurato           	giurare           	Mentre gli strisciava accanto a tutta velocità, Harry avrebbe giurato di aver udito una voce bassa e sibilante dire:
+sibilante         	sibilante         	Mentre gli strisciava accanto a tutta velocità, Harry avrebbe giurato di aver udito una voce bassa e sibilante dire:
+custode           	custode           	Il custode del rettilario era sotto shock.
+shock             	shock             	Il custode del rettilario era sotto shock.
+preparò           	preparare         	Il direttore dello zoo in persona preparò a zia Petunia una tazza di tè molto forte e zuccherato, e intanto non la finiva più di scusarsi.
+zuccherato        	zuccherato        	Il direttore dello zoo in persona preparò a zia Petunia una tazza di tè molto forte e zuccherato, e intanto non la finiva più di scusarsi.
+farfugliare       	farfugliare       	Piers e Dudley non riuscivano a far altro che farfugliare.
+giocoso           	giocoso           	Per quel che aveva visto Harry, il serpente gli aveva soltanto dato un colpettino giocoso sui tacchi, mentre passava, ma il tempo di tornare tutti nella macchina di zio Vernon e già Dudley raccontava come il boa gli avesse quasi staccato la gamba a morsi, mentre Piers giurava che aveva cercato di soffocarlo nella sua stretta mortale.
+staccato          	staccare          	Per quel che aveva visto Harry, il serpente gli aveva soltanto dato un colpettino giocoso sui tacchi, mentre passava, ma il tempo di tornare tutti nella macchina di zio Vernon e già Dudley raccontava come il boa gli avesse quasi staccato la gamba a morsi, mentre Piers giurava che aveva cercato di soffocarlo nella sua stretta mortale.
+morsi             	morso             	Per quel che aveva visto Harry, il serpente gli aveva soltanto dato un colpettino giocoso sui tacchi, mentre passava, ma il tempo di tornare tutti nella macchina di zio Vernon e già Dudley raccontava come il boa gli avesse quasi staccato la gamba a morsi, mentre Piers giurava che aveva cercato di soffocarlo nella sua stretta mortale.
+soffocarlo        	soffocare         	Per quel che aveva visto Harry, il serpente gli aveva soltanto dato un colpettino giocoso sui tacchi, mentre passava, ma il tempo di tornare tutti nella macchina di zio Vernon e già Dudley raccontava come il boa gli avesse quasi staccato la gamba a morsi, mentre Piers giurava che aveva cercato di soffocarlo nella sua stretta mortale.
+stretta           	stretta           	Per quel che aveva visto Harry, il serpente gli aveva soltanto dato un colpettino giocoso sui tacchi, mentre passava, ma il tempo di tornare tutti nella macchina di zio Vernon e già Dudley raccontava come il boa gli avesse quasi staccato la gamba a morsi, mentre Piers giurava che aveva cercato di soffocarlo nella sua stretta mortale.
+mortale           	mortale           	Per quel che aveva visto Harry, il serpente gli aveva soltanto dato un colpettino giocoso sui tacchi, mentre passava, ma il tempo di tornare tutti nella macchina di zio Vernon e già Dudley raccontava come il boa gli avesse quasi staccato la gamba a morsi, mentre Piers giurava che aveva cercato di soffocarlo nella sua stretta mortale.
+calmarsi          	calmarsi          	Ma il peggio, almeno per Harry, fu che Piers riuscì a calmarsi quel tanto che gli consentì di dire:
+consentì          	consentire        	Ma il peggio, almeno per Harry, fu che Piers riuscì a calmarsi quel tanto che gli consentì di dire:
+stento            	stento            	Era così arrabbiato che parlava a stento.
+malapena          	malapena          	Riuscì a malapena a dire:
+cibo              	cibo              	«Vai... ripostiglio... stai lì... niente cibo» prima di crollare su una sedia, tanto che zia Petunia dovette correre a prendergli un grosso bicchiere di brandy.
+crollare          	crollare          	«Vai... ripostiglio... stai lì... niente cibo» prima di crollare su una sedia, tanto che zia Petunia dovette correre a prendergli un grosso bicchiere di brandy.
+bicchiere         	bicchiere         	«Vai... ripostiglio... stai lì... niente cibo» prima di crollare su una sedia, tanto che zia Petunia dovette correre a prendergli un grosso bicchiere di brandy.
+rischiare         	rischiare         	Fino a quel momento, non poteva rischiare di sgattaiolare in cucina a mangiare qualcosa.
+sgattaiolare      	sgattaiolare      	Fino a quel momento, non poteva rischiare di sgattaiolare in cucina a mangiare qualcosa.
+mangiare          	mangiare          	Fino a quel momento, non poteva rischiare di sgattaiolare in cucina a mangiare qualcosa.
+infelicità        	infelicità        	Viveva con i Dursley da quasi dieci anni, dieci anni di infelicità, per quanto poteva ricordare, fin da quando era piccolo e i suoi genitori erano morti in quell’incidente d’auto.
+morte             	morte             	Non ricordava di essere stato anche lui nella macchina al momento della loro morte.

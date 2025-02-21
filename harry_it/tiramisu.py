@@ -7,5 +7,9 @@ i = 1
 
 for line in fileinput.input():
     line = line.rstrip()
-    print('HPfr%s-%04d\t%s'%(bch,i,line))
-    i+=1  
+    w,s = line.split("\t")[1].rstrip(),line.split("\t")[2].rstrip()
+    if "|" in w:
+        w = w.split("|")[1]
+    line = "\t".join(line.split("\t")[1:])
+    print('HPit%s-%04d\t%s\t%s'%(bch,i,w,s))
+    i+=1 

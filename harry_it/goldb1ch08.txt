@@ -1,0 +1,186 @@
+maestro         	maestro         	MAESTRO DELLE POZIONI «Guarda lì!
+spaziose        	spazioso        	alcune ampie e spaziose;
+pericolanti     	pericolante     	altre strette e pericolanti;
+cortesemente    	cortesemente    	Poi c’erano porte che non si aprivano, a meno di non chiederglielo cortesemente o di non far loro il solletico nel punto giusto, e porte che non erano affatto porte ma solidi muri che facevano finta di esserlo.
+solletico       	solletico       	Poi c’erano porte che non si aprivano, a meno di non chiederglielo cortesemente o di non far loro il solletico nel punto giusto, e porte che non erano affatto porte ma solidi muri che facevano finta di esserlo.
+soggetto        	soggetto        	Era anche molto difficile ricordare dove fossero le cose, perché tutto sembrava soggetto a incessanti spostamenti:
+incessanti      	incessante      	Era anche molto difficile ricordare dove fossero le cose, perché tutto sembrava soggetto a incessanti spostamenti:
+spostamenti     	spostamento     	Era anche molto difficile ricordare dove fossero le cose, perché tutto sembrava soggetto a incessanti spostamenti:
+personaggi      	personaggio     	i personaggi dei ritratti si allontanavano continuamente per farsi visita l’un l’altro e Harry avrebbe giurato che le armature se ne andassero a zonzo.
+visita          	visita          	i personaggi dei ritratti si allontanavano continuamente per farsi visita l’un l’altro e Harry avrebbe giurato che le armature se ne andassero a zonzo.
+zonzo           	zonzo           	i personaggi dei ritratti si allontanavano continuamente per farsi visita l’un l’altro e Harry avrebbe giurato che le armature se ne andassero a zonzo.
+situazione      	situazione      	Neanche i fantasmi contribuivano a rendere più semplice la situazione.
+choc            	choc            	Era sempre un terribile choc quando uno di loro, all’improvviso, scivolava attraverso una porta mentre stavi cercando di aprirla.
+trabocchetto    	trabocchetto    	Nick-Quasi-Senza-Testa era sempre lieto di indicare ai Grifondoro la giusta direzione, ma se incontravi Peeves il Poltergeist quando eri in ritardo per una lezione, era come imbattersi contemporaneamente in due porte sprangate e una scala a trabocchetto.
+cestino         	cesto           	Ti rovesciava in testa il cestino della carta straccia, ti sfilava il tappeto da sotto i piedi, ti lanciava addosso pezzi di gessetto oppure, avvicinatosi di soppiatto, ti afferrava il naso e strillava:
+gessetto        	gessetto        	Ti rovesciava in testa il cestino della carta straccia, ti sfilava il tappeto da sotto i piedi, ti lanciava addosso pezzi di gessetto oppure, avvicinatosi di soppiatto, ti afferrava il naso e strillava:
+soppiatto       	soppiatto       	Ti rovesciava in testa il cestino della carta straccia, ti sfilava il tappeto da sotto i piedi, ti lanciava addosso pezzi di gessetto oppure, avvicinatosi di soppiatto, ti afferrava il naso e strillava:
+sfortunatamente 	sfortunatamente 	Filch li sorprese mentre cercavano di aprire una porta, che sfortunatamente risultò essere l’entrata del corridoio del terzo piano, cui era vietato l’accesso agli studenti.
+entrata         	entrata         	Filch li sorprese mentre cercavano di aprire una porta, che sfortunatamente risultò essere l’entrata del corridoio del terzo piano, cui era vietato l’accesso agli studenti.
+convinto        	convinto        	Non volle credere che si fossero smarriti, convinto com’era che stessero cercando di forzare la porta di proposito.
+forzare         	forzare         	Non volle credere che si fossero smarriti, convinto com’era che stessero cercando di forzare la porta di proposito.
+minacciando     	minacciare      	Li stava giusto minacciando di rinchiuderli nei sotterranei quando il professor Quirrell, che passava di là, li aveva salvati.
+salvati         	salvare         	Li stava giusto minacciando di rinchiuderli nei sotterranei quando il professor Quirrell, che passava di là, li aveva salvati.
+gatta           	gatta           	Filch aveva una gatta di nome Mrs Norris, una creatura grigio cenere, tutta pelle e ossa, con due occhi sporgenti come fari, tale e quale il suo padrone.
+creatura        	creatura        	Filch aveva una gatta di nome Mrs Norris, una creatura grigio cenere, tutta pelle e ossa, con due occhi sporgenti come fari, tale e quale il suo padrone.
+cenere          	cenere          	Filch aveva una gatta di nome Mrs Norris, una creatura grigio cenere, tutta pelle e ossa, con due occhi sporgenti come fari, tale e quale il suo padrone.
+sporgenti       	sporgente       	Filch aveva una gatta di nome Mrs Norris, una creatura grigio cenere, tutta pelle e ossa, con due occhi sporgenti come fari, tale e quale il suo padrone.
+pattugliava     	pattugliare     	La gatta pattugliava i corridoi da sola.
+infrangere      	infrangere      	Bastava infrangere una regola di fronte a lei, mettere appena un piede fuori riga, ed eccola correre in cerca di Filch, che puntualmente appariva due secondi dopo, tutto ansimante.
+puntualmente    	puntualmente    	Bastava infrangere una regola di fronte a lei, mettere appena un piede fuori riga, ed eccola correre in cerca di Filch, che puntualmente appariva due secondi dopo, tutto ansimante.
+ncomprensibili  	incomprensibile 	Come Harry scoprì ben presto, la magia era tutt’altra cosa dall’agitare semplicemente la bacchetta pronunciando parole incomprensibili.
+mercoledì       	mercoledì       	Ogni mercoledì a mezzanotte bisognava studiare la volta celeste con i telescopi e imparare i nomi delle stelle e i movimenti dei pianeti.
+grassottella    	grassottello    	Tre volte alla settimana, ci si doveva recare nelle serre dietro al castello per studiare Erbologia con una strega piccola e grassottella, la professoressa Sprout, che insegnava ai ragazzi a coltivare le piante e i funghi più strani spiegando a cosa servivano.
+coltivare       	coltivare       	Tre volte alla settimana, ci si doveva recare nelle serre dietro al castello per studiare Erbologia con una strega piccola e grassottella, la professoressa Sprout, che insegnava ai ragazzi a coltivare le piante e i funghi più strani spiegando a cosa servivano.
+indubbiamente   	indubbiamente   	Indubbiamente, la lezione più noiosa era Storia della Magia, l’unico corso tenuto da un fantasma.
+noiosa          	noioso          	Indubbiamente, la lezione più noiosa era Storia della Magia, l’unico corso tenuto da un fantasma.
+corso           	corso           	Indubbiamente, la lezione più noiosa era Storia della Magia, l’unico corso tenuto da un fantasma.
+monotona        	monotono        	Binns parlava senza posa con voce monotona, mentre i ragazzi scribacchiavano nomi e date confondendo Emeric il Maligno e Uric Testamatta.
+cattedra        	cattedra        	Invece il professor Flitwick, l’insegnante di Incantesimi, era un mago piccolino che doveva salire sopra una pila di libri per vedere al di là della cattedra.
+registro        	registro        	All’inizio della prima lezione prese il registro e, quando arrivò al nome di Harry, emise un gridolino eccitato e ruzzolò giù, scomparendo alla vista.
+ruzzolò         	ruzzolare       	All’inizio della prima lezione prese il registro e, quando arrivò al nome di Harry, emise un gridolino eccitato e ruzzolò giù, scomparendo alla vista.
+complesse       	complesso       	«La Trasfigurazione è una delle materie più complesse e pericolose che apprenderete a Hogwarts» disse.
+apprenderete    	apprendere      	«La Trasfigurazione è una delle materie più complesse e pericolose che apprenderete a Hogwarts» disse.
+aula            	aula            	«Chiunque faccia confusione nella mia aula sarà spedito fuori e non sarà più riammesso.
+riammesso       	riammettere     	«Chiunque faccia confusione nella mia aula sarà spedito fuori e non sarà più riammesso.
+viceversa       	viceversa       	Poi trasformò la sua cattedra in un maiale e viceversa.
+impressionati   	impressionare   	Tutti rimasero molto impressionati e non vedevano l’ora di cominciare, ma ben presto si resero conto che ci sarebbe voluto un bel po’ di tempo prima che riuscissero a trasformare un mobile in un animale.
+appunti         	appunto         	Presero un mucchio di appunti complicati, dopodiché ricevettero un fiammifero ciascuno e iniziarono a provare a trasformarlo in un ago.
+complicati      	complicare      	Presero un mucchio di appunti complicati, dopodiché ricevettero un fiammifero ciascuno e iniziarono a provare a trasformarlo in un ago.
+dopodiché       	dopodiché       	Presero un mucchio di appunti complicati, dopodiché ricevettero un fiammifero ciascuno e iniziarono a provare a trasformarlo in un ago.
+acuminato       	acuminato       	la professoressa McGonagall mostrò alla classe che era diventato d’argento e acuminato, e gratificò Hermione con uno dei suoi rari sorrisi.
+gratificò       	gratificare     	la professoressa McGonagall mostrò alla classe che era diventato d’argento e acuminato, e gratificò Hermione con uno dei suoi rari sorrisi.
+rari            	raro            	la professoressa McGonagall mostrò alla classe che era diventato d’argento e acuminato, e gratificò Hermione con uno dei suoi rari sorrisi.
+dimostrarono    	dimostrarsi     	Il corso che tutti non vedevano l’ora di frequentare era Difesa contro le Arti Oscure, ma le lezioni di Quirrell si dimostrarono un po’ una barzelletta.
+barzelletta     	barzelletta     	Il corso che tutti non vedevano l’ora di frequentare era Difesa contro le Arti Oscure, ma le lezioni di Quirrell si dimostrarono un po’ una barzelletta.
+odorava         	odorare         	L’aula odorava fortemente di aglio:
+fortemente      	fortemente      	L’aula odorava fortemente di aglio:
+aglio           	aglio           	L’aula odorava fortemente di aglio:
+principe        	principe        	Il turbante, così disse ai suoi allievi, lo aveva ricevuto in dono da un principe africano, come pegno di gratitudine per averlo liberato da un fastidioso zombie;
+africano        	africano        	Il turbante, così disse ai suoi allievi, lo aveva ricevuto in dono da un principe africano, come pegno di gratitudine per averlo liberato da un fastidioso zombie;
+pegno           	pegno           	Il turbante, così disse ai suoi allievi, lo aveva ricevuto in dono da un principe africano, come pegno di gratitudine per averlo liberato da un fastidioso zombie;
+gratitudine     	gratitudine     	Il turbante, così disse ai suoi allievi, lo aveva ricevuto in dono da un principe africano, come pegno di gratitudine per averlo liberato da un fastidioso zombie;
+liberato        	liberare        	Il turbante, così disse ai suoi allievi, lo aveva ricevuto in dono da un principe africano, come pegno di gratitudine per averlo liberato da un fastidioso zombie;
+aleggiava       	aleggiare       	E poi avevano notato che intorno al turbante aleggiava uno strano odore... I gemelli Weasley insistevano che anche quello era imbottito d’aglio, perché Quirrell fosse protetto ovunque andasse.
+insistevano     	insistere       	E poi avevano notato che intorno al turbante aleggiava uno strano odore... I gemelli Weasley insistevano che anche quello era imbottito d’aglio, perché Quirrell fosse protetto ovunque andasse.
+imbottito       	imbottire       	E poi avevano notato che intorno al turbante aleggiava uno strano odore... I gemelli Weasley insistevano che anche quello era imbottito d’aglio, perché Quirrell fosse protetto ovunque andasse.
+protetto        	protetto        	E poi avevano notato che intorno al turbante aleggiava uno strano odore... I gemelli Weasley insistevano che anche quello era imbottito d’aglio, perché Quirrell fosse protetto ovunque andasse.
+ovunque         	ovunque         	E poi avevano notato che intorno al turbante aleggiava uno strano odore... I gemelli Weasley insistevano che anche quello era imbottito d’aglio, perché Quirrell fosse protetto ovunque andasse.
+avvantaggiate   	avvantaggiare   	C’era così tanto da imparare che anche persone come Ron non erano poi molto avvantaggiate.
+zuccherava      	zuccherare      	«Cosa abbiamo oggi?» chiese Harry a Ron mentre zuccherava il suo porridge.
+favorisca       	favorire        	«Piton è il direttore dei Serpeverde e si dice che lui favorisca sempre gli studenti della sua Casa... scopriremo se è vero».
+abitudine       	abitudine       	Ormai Harry ci aveva fatto l’abitudine, ma il primo giorno era rimasto alquanto impressionato quando un centinaio di gufi avevano fatto irruzione all’improvviso nella Sala Grande, durante la colazione, volando in cerchio sopra i tavoli finché, individuato il proprio padrone, non gli lasciavano cadere in grembo lettere e pacchi.
+irruzione       	irruzione       	Ormai Harry ci aveva fatto l’abitudine, ma il primo giorno era rimasto alquanto impressionato quando un centinaio di gufi avevano fatto irruzione all’improvviso nella Sala Grande, durante la colazione, volando in cerchio sopra i tavoli finché, individuato il proprio padrone, non gli lasciavano cadere in grembo lettere e pacchi.
+cerchio         	cerchio         	Ormai Harry ci aveva fatto l’abitudine, ma il primo giorno era rimasto alquanto impressionato quando un centinaio di gufi avevano fatto irruzione all’improvviso nella Sala Grande, durante la colazione, volando in cerchio sopra i tavoli finché, individuato il proprio padrone, non gli lasciavano cadere in grembo lettere e pacchi.
+mordicchiargli  	mordicchiare    	Ogni tanto, veniva per mordicchiargli l’orecchio e farsi dare un pezzetto di pane tostato prima di tornare a dormire nella guferia insieme agli altri pennuti della scuola.
+pennuti         	pennuto         	Ogni tanto, veniva per mordicchiargli l’orecchio e farsi dare un pezzetto di pane tostato prima di tornare a dormire nella guferia insieme agli altri pennuti della scuola.
+zuccheriera     	zuccheriera     	Ma quella mattina si posò fra la zuccheriera e la coppetta della marmellata d’arancia, lasciando cadere un biglietto sul piatto di Harry.
+calligrafia     	calligrafia     	Caro Harry, (c’era scritto con una calligrafia tutta scarabocchi) so che il venerdì hai il pomeriggio libero:
+scarabocchi     	scarabocchio    	Caro Harry, (c’era scritto con una calligrafia tutta scarabocchi) so che il venerdì hai il pomeriggio libero:
+recapitasse     	recapitare      	E la consegnò a Edvige perché la recapitasse.
+fortunatamente  	fortunatamente  	Fortunatamente Harry aveva la piacevole aspettativa del tè con Hagrid, perché la lezione di Pozioni fu la peggior cosa che gli fosse capitata fino a quel momento.
+inaugurale      	inaugurale      	Durante il banchetto inaugurale, Harry aveva avuto l’impressione di non piacere al professor Piton.
+celle           	cella           	Le lezioni di Pozioni si svolgevano in una delle celle sotterranee.
+barattoli       	barattolo       	Qui faceva più freddo che ai piani alti, il che sarebbe bastato a far venire loro la pelle d’oca anche senza tutti quegli animali che galleggiavano nei barattoli di vetro lungo le pareti.
+melliflua       	mellifluo       	«Ah, ecco» disse con voce melliflua, «Harry Potter.
+celebrità       	celebrità       	La nostra nuova... celebrità».
+appello         	appello         	Piton finì di fare l’appello e alzò lo sguardo sulla classe.
+gallerie        	galleria        	Erano gelidi e vuoti, e facevano pensare a due gallerie buie.
+delicata        	delicato        	«Siete qui per imparare la delicata scienza e l’arte esatta delle Pozioni» cominciò.
+scienza         	scienza         	«Siete qui per imparare la delicata scienza e l’arte esatta delle Pozioni» cominciò.
+insulsamente    	insulsamente    	«Poiché qui non si agita insulsamente la bacchetta, molti di voi stenteranno a credere che si tratti di magia.
+stenteranno     	stentare        	«Poiché qui non si agita insulsamente la bacchetta, molti di voi stenteranno a credere che si tratti di magia.
+comprendiate    	comprendere     	Non mi aspetto che comprendiate a fondo la bellezza del calderone che sobbolle a fuoco lento, con i suoi vapori scintillanti, il delicato potere dei liquidi che si insinuano nelle vene umane, stregando la mente, irretendo i sensi... Io posso insegnarvi a imbottigliare la fama, distillare la gloria, addirittura mettere un freno alla morte... sempre che non siate una manica di teste di legno, come in genere sono tutti gli allievi con cui ho a che fare».
+bellezza        	bellezza        	Non mi aspetto che comprendiate a fondo la bellezza del calderone che sobbolle a fuoco lento, con i suoi vapori scintillanti, il delicato potere dei liquidi che si insinuano nelle vene umane, stregando la mente, irretendo i sensi... Io posso insegnarvi a imbottigliare la fama, distillare la gloria, addirittura mettere un freno alla morte... sempre che non siate una manica di teste di legno, come in genere sono tutti gli allievi con cui ho a che fare».
+sobbolle        	sobbollire      	Non mi aspetto che comprendiate a fondo la bellezza del calderone che sobbolle a fuoco lento, con i suoi vapori scintillanti, il delicato potere dei liquidi che si insinuano nelle vene umane, stregando la mente, irretendo i sensi... Io posso insegnarvi a imbottigliare la fama, distillare la gloria, addirittura mettere un freno alla morte... sempre che non siate una manica di teste di legno, come in genere sono tutti gli allievi con cui ho a che fare».
+irretendo       	irretire        	Non mi aspetto che comprendiate a fondo la bellezza del calderone che sobbolle a fuoco lento, con i suoi vapori scintillanti, il delicato potere dei liquidi che si insinuano nelle vene umane, stregando la mente, irretendo i sensi... Io posso insegnarvi a imbottigliare la fama, distillare la gloria, addirittura mettere un freno alla morte... sempre che non siate una manica di teste di legno, come in genere sono tutti gli allievi con cui ho a che fare».
+imbottigliare   	imbottigliare   	Non mi aspetto che comprendiate a fondo la bellezza del calderone che sobbolle a fuoco lento, con i suoi vapori scintillanti, il delicato potere dei liquidi che si insinuano nelle vene umane, stregando la mente, irretendo i sensi... Io posso insegnarvi a imbottigliare la fama, distillare la gloria, addirittura mettere un freno alla morte... sempre che non siate una manica di teste di legno, come in genere sono tutti gli allievi con cui ho a che fare».
+fama            	fama            	Non mi aspetto che comprendiate a fondo la bellezza del calderone che sobbolle a fuoco lento, con i suoi vapori scintillanti, il delicato potere dei liquidi che si insinuano nelle vene umane, stregando la mente, irretendo i sensi... Io posso insegnarvi a imbottigliare la fama, distillare la gloria, addirittura mettere un freno alla morte... sempre che non siate una manica di teste di legno, come in genere sono tutti gli allievi con cui ho a che fare».
+distillare      	distillare      	Non mi aspetto che comprendiate a fondo la bellezza del calderone che sobbolle a fuoco lento, con i suoi vapori scintillanti, il delicato potere dei liquidi che si insinuano nelle vene umane, stregando la mente, irretendo i sensi... Io posso insegnarvi a imbottigliare la fama, distillare la gloria, addirittura mettere un freno alla morte... sempre che non siate una manica di teste di legno, come in genere sono tutti gli allievi con cui ho a che fare».
+gloria          	gloria          	Non mi aspetto che comprendiate a fondo la bellezza del calderone che sobbolle a fuoco lento, con i suoi vapori scintillanti, il delicato potere dei liquidi che si insinuano nelle vene umane, stregando la mente, irretendo i sensi... Io posso insegnarvi a imbottigliare la fama, distillare la gloria, addirittura mettere un freno alla morte... sempre che non siate una manica di teste di legno, come in genere sono tutti gli allievi con cui ho a che fare».
+freno           	freno           	Non mi aspetto che comprendiate a fondo la bellezza del calderone che sobbolle a fuoco lento, con i suoi vapori scintillanti, il delicato potere dei liquidi che si insinuano nelle vene umane, stregando la mente, irretendo i sensi... Io posso insegnarvi a imbottigliare la fama, distillare la gloria, addirittura mettere un freno alla morte... sempre che non siate una manica di teste di legno, come in genere sono tutti gli allievi con cui ho a che fare».
+sconcertato     	sconcertato     	Harry lanciò un’occhiata a Ron, che appariva altrettanto sconcertato;
+incresparono    	incresparsi     	Le labbra di Piton si incresparono in un ghigno.
+alzata          	alzato          	Ignorò la mano alzata di Hermione.
+proviamo        	provare         	«Proviamo ancora.
+sbellicavano    	sbellicarsi     	Cercò di ignorare Malfoy, Crabbe e Goyle che si sbellicavano dalle risate.
+distogliere     	distogliere     	Harry si costrinse a non distogliere lo sguardo da quegli occhi glaciali.
+scorsa          	scorsa          	In realtà aveva dato una scorsa ai libri, quando era ancora dai Dursley, ma Piton si aspettava forse che si ricordasse tutto quel che era scritto in Mille erbe e funghi magici?
+fremente        	fremente        	Piton continuava a ignorare la mano fremente di Hermione.
+luparia         	luparia         	«E... Potter, qual è la differenza tra napello e luparia?» A questo punto, Hermione si alzò in piedi con la mano protesa come a voler toccare il soffitto del sotterraneo.
+protesa         	protendere      	«E... Potter, qual è la differenza tra napello e luparia?» A questo punto, Hermione si alzò in piedi con la mano protesa come a voler toccare il soffitto del sotterraneo.
+ammiccò         	ammiccare       	Harry colse lo sguardo di Seamus che ammiccò in risposta.
+informazione    	informazione    	«Per tua informazione, Potter, asfodelo e artemisia insieme fanno una pozione soporifera talmente potente da andare sotto il nome di Distillato della Morte Vivente.
+soporifera      	soporifero      	«Per tua informazione, Potter, asfodelo e artemisia insieme fanno una pozione soporifera talmente potente da andare sotto il nome di Distillato della Morte Vivente.
+distillato      	distillato      	«Per tua informazione, Potter, asfodelo e artemisia insieme fanno una pozione soporifera talmente potente da andare sotto il nome di Distillato della Morte Vivente.
+vivente         	vivente         	«Per tua informazione, Potter, asfodelo e artemisia insieme fanno una pozione soporifera talmente potente da andare sotto il nome di Distillato della Morte Vivente.
+capre           	capra           	Un bezoar è una pietra che si trova nella pancia delle capre e che salva da molti veleni.
+veleni          	veleno          	Un bezoar è una pietra che si trova nella pancia delle capre e che salva da molti veleni.
+curare          	curare          	Piton li divise in coppie e li mise a preparare una semplice pozione per curare i brufoli.
+brufoli         	brufolo         	Piton li divise in coppie e li mise a preparare una semplice pozione per curare i brufoli.
+ortiche         	ortica          	Intanto, avvolto nel suo lungo mantello nero, si aggirava per la classe osservandoli pesare ortiche secche e schiacciare zanne di serpente, muovendo critiche praticamente a tutti tranne che a Malfoy, che sembrava piacergli.
+critiche        	critica         	Intanto, avvolto nel suo lungo mantello nero, si aggirava per la classe osservandoli pesare ortiche secche e schiacciare zanne di serpente, muovendo critiche praticamente a tutti tranne che a Malfoy, che sembrava piacergli.
+praticamente    	praticamente    	Intanto, avvolto nel suo lungo mantello nero, si aggirava per la classe osservandoli pesare ortiche secche e schiacciare zanne di serpente, muovendo critiche praticamente a tutti tranne che a Malfoy, che sembrava piacergli.
+stufato         	stufare         	Aveva appena cominciato ad attirare l’attenzione di tutti sul modo perfetto in cui Malfoy aveva stufato le sue lumache cornute, quando il sotterraneo fu invaso da una nube di fumo verde acido e da un sibilo potente.
+cornute         	cornuto         	Aveva appena cominciato ad attirare l’attenzione di tutti sul modo perfetto in cui Malfoy aveva stufato le sue lumache cornute, quando il sotterraneo fu invaso da una nube di fumo verde acido e da un sibilo potente.
+acido           	acido           	Aveva appena cominciato ad attirare l’attenzione di tutti sul modo perfetto in cui Malfoy aveva stufato le sue lumache cornute, quando il sotterraneo fu invaso da una nube di fumo verde acido e da un sibilo potente.
+sibilo          	sibilo          	Aveva appena cominciato ad attirare l’attenzione di tutti sul modo perfetto in cui Malfoy aveva stufato le sue lumache cornute, quando il sotterraneo fu invaso da una nube di fumo verde acido e da un sibilo potente.
+fondere         	fondere         	Non si sa come, Neville era riuscito a fondere il calderone di Seamus trasformandolo in un ammasso di metallo contorto, e la loro pozione, colando sul pavimento di pietra, corrodeva le scarpe degli astanti facendoci dei buchi.
+ammasso         	ammasso         	Non si sa come, Neville era riuscito a fondere il calderone di Seamus trasformandolo in un ammasso di metallo contorto, e la loro pozione, colando sul pavimento di pietra, corrodeva le scarpe degli astanti facendoci dei buchi.
+colando         	colare          	Non si sa come, Neville era riuscito a fondere il calderone di Seamus trasformandolo in un ammasso di metallo contorto, e la loro pozione, colando sul pavimento di pietra, corrodeva le scarpe degli astanti facendoci dei buchi.
+corrodeva       	corrodere       	Non si sa come, Neville era riuscito a fondere il calderone di Seamus trasformandolo in un ammasso di metallo contorto, e la loro pozione, colando sul pavimento di pietra, corrodeva le scarpe degli astanti facendoci dei buchi.
+astanti         	astante         	Non si sa come, Neville era riuscito a fondere il calderone di Seamus trasformandolo in un ammasso di metallo contorto, e la loro pozione, colando sul pavimento di pietra, corrodeva le scarpe degli astanti facendoci dei buchi.
+bagnato         	bagnarsi        	In pochi secondi, tutti i ragazzi erano saltati sugli sgabelli, salvo Neville, che si era bagnato con la pozione quando il calderone si era bucato e adesso piangeva di dolore, mentre sulle braccia e sulle gambe gli spuntavano brucianti pustole rosse.
+pustole         	pustola         	In pochi secondi, tutti i ragazzi erano saltati sugli sgabelli, salvo Neville, che si era bagnato con la pozione quando il calderone si era bucato e adesso piangeva di dolore, mentre sulle braccia e sulle gambe gli spuntavano brucianti pustole rosse.
+idiota          	idiota          	«Ragazzino idiota!» sbottò Piton mentre con un sol tocco della bacchetta ripuliva il pavimento dalla pozione versata.
+tocco           	tocco           	«Ragazzino idiota!» sbottò Piton mentre con un sol tocco della bacchetta ripuliva il pavimento dalla pozione versata.
+ripuliva        	ripulire        	«Ragazzino idiota!» sbottò Piton mentre con un sol tocco della bacchetta ripuliva il pavimento dalla pozione versata.
+versata         	versato         	«Ragazzino idiota!» sbottò Piton mentre con un sol tocco della bacchetta ripuliva il pavimento dalla pozione versata.
+aculei          	aculeo          	«Suppongo che tu abbia aggiunto gli aculei di porcospino prima di togliere il calderone dal fuoco.
+porcospino      	porcospino      	«Suppongo che tu abbia aggiunto gli aculei di porcospino prima di togliere il calderone dal fuoco.
+infermeria      	infermeria      	«Portalo in infermeria!» intimò Piton a Seamus in tono sprezzante.
+sprezzante      	sprezzante      	«Portalo in infermeria!» intimò Piton a Seamus in tono sprezzante.
+ingiusta        	ingiusto        	La cosa era così ingiusta che Harry aprì bocca per ribattere, ma Ron gli diede un calcio dietro il calderone.
+esagerare       	esagerare       	«Non esagerare» mormorò.
+morale          	morale          	«Su col morale» disse Ron.
+proibita        	proibito        	Hagrid viveva in una casetta di legno al limitare della Foresta Proibita.
+balestra        	balestra        	Fuori dalla porta erano poggiati una balestra e un paio di stivali di gomma.
+serie           	serie           	Quando Harry bussò, dall’interno si udì un raspare frenetico e una serie di latrati sempre più forti.
+latrati         	latrato         	Quando Harry bussò, dall’interno si udì un raspare frenetico e una serie di latrati sempre più forti.
+socchiusa       	socchiuso       	«Qua, Zanna... qua!» La sua grossa faccia irsuta apparve da dietro la porta socchiusa, prima che la spalancasse.
+collare         	collare         	«Sta’ giù, Zanna!» Li fece entrare, cercando di trattenere per il collare un enorme danese nero.
+danese          	danese          	«Sta’ giù, Zanna!» Li fece entrare, cercando di trattenere per il collare un enorme danese nero.
+prosciutti      	prosciutto      	Dal soffitto pendevano prosciutti e fagiani;
+fagiani         	fagiano         	Dal soffitto pendevano prosciutti e fagiani;
+catasta         	catasta         	sopra una piccola catasta di legna già accesa c’era un bollitore di rame e, in un angolo, un letto imponente coperto con una trapunta patchwork.
+legna           	legna           	sopra una piccola catasta di legna già accesa c’era un bollitore di rame e, in un angolo, un letto imponente coperto con una trapunta patchwork.
+accesa          	acceso          	sopra una piccola catasta di legna già accesa c’era un bollitore di rame e, in un angolo, un letto imponente coperto con una trapunta patchwork.
+imponente       	imponente       	sopra una piccola catasta di legna già accesa c’era un bollitore di rame e, in un angolo, un letto imponente coperto con una trapunta patchwork.
+trapunta        	trapunta        	sopra una piccola catasta di legna già accesa c’era un bollitore di rame e, in un angolo, un letto imponente coperto con una trapunta patchwork.
+avventò         	avventarsi      	«Fate come se foste a casa vostra» disse Hagrid lasciando andare Zanna che si avventò dritto dritto su Ron, cominciando a leccargli le orecchie.
+pari            	pari            	Al pari di Hagrid, Zanna non era poi così feroce come sembrava.
+versava         	versare         	«Ti presento Ron» disse Harry mentre Hagrid versava dell’acqua bollente in una grande teiera e disponeva alcuni biscotti su un piatto.
+bollente        	bollente        	«Ti presento Ron» disse Harry mentre Hagrid versava dell’acqua bollente in una grande teiera e disponeva alcuni biscotti su un piatto.
+finsero         	fingere         	Per poco i biscotti non gli spezzarono i denti, ma Harry e Ron finsero di gradirli moltissimo, mentre facevano a Hagrid il resoconto delle prime lezioni.
+gradirli        	gradire         	Per poco i biscotti non gli spezzarono i denti, ma Harry e Ron finsero di gradirli moltissimo, mentre facevano a Hagrid il resoconto delle prime lezioni.
+resoconto       	resoconto       	Per poco i biscotti non gli spezzarono i denti, ma Harry e Ron finsero di gradirli moltissimo, mentre facevano a Hagrid il resoconto delle prime lezioni.
+sbavando        	sbavare         	Zanna aveva poggiato la testa sulle ginocchia di Harry e gli stava sbavando su tutti i vestiti.
+bearono         	bearsi          	Harry e Ron si bearono a sentire Hagrid chiamare Filch «quel vecchio scimunito».
+scimunito       	scimunito       	Harry e Ron si bearono a sentire Hagrid chiamare Filch «quel vecchio scimunito».
+copriteiera     	copriteiera     	Mentre Ron raccontava a Hagrid che lavoro faceva Charlie con i draghi, Harry prese un pezzetto di carta che era sul tavolo, sotto il copriteiera.
+ritaglio        	ritaglio        	Era il ritaglio di un trafiletto dalla Gazzetta del Profeta:
+trafiletto      	trafiletto      	Era il ritaglio di un trafiletto dalla Gazzetta del Profeta:
+ultimissime     	ultimissime     	ULTIMISSIME SULLA RAPINA ALLA GRINGOTT Proseguono le indagini sulla rapina avvenuta alla Gringott il 31 luglio scorso a opera di ignoti maghi o streghe oscuri.
+indagini        	indagine        	ULTIMISSIME SULLA RAPINA ALLA GRINGOTT Proseguono le indagini sulla rapina avvenuta alla Gringott il 31 luglio scorso a opera di ignoti maghi o streghe oscuri.
+opera           	opera           	ULTIMISSIME SULLA RAPINA ALLA GRINGOTT Proseguono le indagini sulla rapina avvenuta alla Gringott il 31 luglio scorso a opera di ignoti maghi o streghe oscuri.
+ripetutamente   	ripetutamente   	Oggi i goblin della Gringott hanno ripetutamente affermato che nulla è stato trafugato.
+trafugato       	trafugare       	Oggi i goblin della Gringott hanno ripetutamente affermato che nulla è stato trafugato.
+mira            	mira            	Anzi, la camera di sicurezza presa di mira dai rapinatori era stata svuotata il giorno stesso.
+rapinatori      	rapinatore      	Anzi, la camera di sicurezza presa di mira dai rapinatori era stata svuotata il giorno stesso.
+portavoce       	portavoce       	così ha dichiarato oggi pomeriggio il goblin portavoce della Gringott.
+rilesse         	rileggere       	Harry rilesse il trafiletto:
+beninteso       	beninteso       	Hagrid aveva svuotato la camera numero settecentotredici... questo, beninteso, se prelevare il lurido pacchettino che c’era dentro si poteva definire svuotarla.
+prelevare       	prelevare       	Hagrid aveva svuotato la camera numero settecentotredici... questo, beninteso, se prelevare il lurido pacchettino che c’era dentro si poteva definire svuotarla.
+definire        	definire        	Hagrid aveva svuotato la camera numero settecentotredici... questo, beninteso, se prelevare il lurido pacchettino che c’era dentro si poteva definire svuotarla.
+stracolme       	stracolmo       	Quando Harry e Ron fecero ritorno al castello per cena, con le tasche stracolme di biscotti che erano stati troppo beneducati per rifiutare, Harry si disse che nessuna delle lezioni frequentate fino a quel momento gli aveva dato tanto da pensare quanto quell’ora trascorsa a prendere il tè con Hagrid.
+rifiutare       	rifiutare       	Quando Harry e Ron fecero ritorno al castello per cena, con le tasche stracolme di biscotti che erano stati troppo beneducati per rifiutare, Harry si disse che nessuna delle lezioni frequentate fino a quel momento gli aveva dato tanto da pensare quanto quell’ora trascorsa a prendere il tè con Hagrid.

@@ -1,0 +1,1042 @@
+capitolo          	capitolo          	CAPITOLO
+il                	il                	IL BAMBINO CHE È SOPRAVVISSUTO
+bambino           	bambino           	IL BAMBINO CHE È SOPRAVVISSUTO
+che               	che               	IL BAMBINO CHE È SOPRAVVISSUTO
+è                 	essere            	IL BAMBINO CHE È SOPRAVVISSUTO
+sopravvissuto     	sopravvivere      	IL BAMBINO CHE È SOPRAVVISSUTO
+signore           	signore           	Il signore e la signora Dursley, di Privet Drive numero 4, erano orgogliosi di affermare di essere perfettamente normali, e grazie tante.
+e                 	e                 	Il signore e la signora Dursley, di Privet Drive numero 4, erano orgogliosi di affermare di essere perfettamente normali, e grazie tante.
+di                	di                	Il signore e la signora Dursley, di Privet Drive numero 4, erano orgogliosi di affermare di essere perfettamente normali, e grazie tante.
+numero            	numero            	Il signore e la signora Dursley, di Privet Drive numero 4, erano orgogliosi di affermare di essere perfettamente normali, e grazie tante.
+orgogliosi        	orgoglioso        	Il signore e la signora Dursley, di Privet Drive numero 4, erano orgogliosi di affermare di essere perfettamente normali, e grazie tante.
+affermare         	affermare         	Il signore e la signora Dursley, di Privet Drive numero 4, erano orgogliosi di affermare di essere perfettamente normali, e grazie tante.
+perfettamente     	perfettamente     	Il signore e la signora Dursley, di Privet Drive numero 4, erano orgogliosi di affermare di essere perfettamente normali, e grazie tante.
+normali           	normale           	Il signore e la signora Dursley, di Privet Drive numero 4, erano orgogliosi di affermare di essere perfettamente normali, e grazie tante.
+grazie            	grazie            	Il signore e la signora Dursley, di Privet Drive numero 4, erano orgogliosi di affermare di essere perfettamente normali, e grazie tante.
+tante             	tanto             	Il signore e la signora Dursley, di Privet Drive numero 4, erano orgogliosi di affermare di essere perfettamente normali, e grazie tante.
+ultime            	ultimo            	Erano le ultime persone al mondo da cui aspettarsi cose strane o misteriose, perché sciocchezze del genere proprio non le approvavano.
+persone           	persona           	Erano le ultime persone al mondo da cui aspettarsi cose strane o misteriose, perché sciocchezze del genere proprio non le approvavano.
+al                	a                 	Erano le ultime persone al mondo da cui aspettarsi cose strane o misteriose, perché sciocchezze del genere proprio non le approvavano.
+mondo             	mondo             	Erano le ultime persone al mondo da cui aspettarsi cose strane o misteriose, perché sciocchezze del genere proprio non le approvavano.
+da                	da                	Erano le ultime persone al mondo da cui aspettarsi cose strane o misteriose, perché sciocchezze del genere proprio non le approvavano.
+cui               	cui               	Erano le ultime persone al mondo da cui aspettarsi cose strane o misteriose, perché sciocchezze del genere proprio non le approvavano.
+aspettarsi        	aspettarsi        	Erano le ultime persone al mondo da cui aspettarsi cose strane o misteriose, perché sciocchezze del genere proprio non le approvavano.
+cose              	cosa              	Erano le ultime persone al mondo da cui aspettarsi cose strane o misteriose, perché sciocchezze del genere proprio non le approvavano.
+strane            	strano            	Erano le ultime persone al mondo da cui aspettarsi cose strane o misteriose, perché sciocchezze del genere proprio non le approvavano.
+o                 	o                 	Erano le ultime persone al mondo da cui aspettarsi cose strane o misteriose, perché sciocchezze del genere proprio non le approvavano.
+misteriose        	misterioso        	Erano le ultime persone al mondo da cui aspettarsi cose strane o misteriose, perché sciocchezze del genere proprio non le approvavano.
+perché            	perché            	Erano le ultime persone al mondo da cui aspettarsi cose strane o misteriose, perché sciocchezze del genere proprio non le approvavano.
+sciocchezze       	sciocchezza       	Erano le ultime persone al mondo da cui aspettarsi cose strane o misteriose, perché sciocchezze del genere proprio non le approvavano.
+genere            	genere            	Erano le ultime persone al mondo da cui aspettarsi cose strane o misteriose, perché sciocchezze del genere proprio non le approvavano.
+proprio           	proprio           	Erano le ultime persone al mondo da cui aspettarsi cose strane o misteriose, perché sciocchezze del genere proprio non le approvavano.
+non               	non               	Erano le ultime persone al mondo da cui aspettarsi cose strane o misteriose, perché sciocchezze del genere proprio non le approvavano.
+approvavano       	approvare         	Erano le ultime persone al mondo da cui aspettarsi cose strane o misteriose, perché sciocchezze del genere proprio non le approvavano.
+direttore         	direttore         	Il signor Dursley era direttore di una ditta di nome Grunnings, che fabbricava trapani.
+una               	uno               	Il signor Dursley era direttore di una ditta di nome Grunnings, che fabbricava trapani.
+ditta             	ditta             	Il signor Dursley era direttore di una ditta di nome Grunnings, che fabbricava trapani.
+nome              	nome              	Il signor Dursley era direttore di una ditta di nome Grunnings, che fabbricava trapani.
+fabbricava        	fabbricare        	Il signor Dursley era direttore di una ditta di nome Grunnings, che fabbricava trapani.
+trapani           	trapano           	Il signor Dursley era direttore di una ditta di nome Grunnings, che fabbricava trapani.
+uomo              	uomo              	Era un uomo corpulento, nerboruto, quasi senza collo e con un grosso paio di baffi.
+corpulento        	corpulento        	Era un uomo corpulento, nerboruto, quasi senza collo e con un grosso paio di baffi.
+nerboruto         	nerboruto         	Era un uomo corpulento, nerboruto, quasi senza collo e con un grosso paio di baffi.
+quasi             	quasi             	Era un uomo corpulento, nerboruto, quasi senza collo e con un grosso paio di baffi.
+senza             	senza             	Era un uomo corpulento, nerboruto, quasi senza collo e con un grosso paio di baffi.
+collo             	collo             	Era un uomo corpulento, nerboruto, quasi senza collo e con un grosso paio di baffi.
+con               	con               	Era un uomo corpulento, nerboruto, quasi senza collo e con un grosso paio di baffi.
+grosso            	grosso            	Era un uomo corpulento, nerboruto, quasi senza collo e con un grosso paio di baffi.
+paio              	paio              	Era un uomo corpulento, nerboruto, quasi senza collo e con un grosso paio di baffi.
+baffi             	baffo             	Era un uomo corpulento, nerboruto, quasi senza collo e con un grosso paio di baffi.
+magra             	magro             	La signora Dursley era magra, bionda e con un collo quasi due volte più lungo del normale, il che le tornava assai utile, dato che passava gran parte del tempo ad allungarlo oltre la siepe del giardino per spiare i vicini.
+bionda            	biondo            	La signora Dursley era magra, bionda e con un collo quasi due volte più lungo del normale, il che le tornava assai utile, dato che passava gran parte del tempo ad allungarlo oltre la siepe del giardino per spiare i vicini.
+due               	due               	La signora Dursley era magra, bionda e con un collo quasi due volte più lungo del normale, il che le tornava assai utile, dato che passava gran parte del tempo ad allungarlo oltre la siepe del giardino per spiare i vicini.
+volte             	volta             	La signora Dursley era magra, bionda e con un collo quasi due volte più lungo del normale, il che le tornava assai utile, dato che passava gran parte del tempo ad allungarlo oltre la siepe del giardino per spiare i vicini.
+più               	più               	La signora Dursley era magra, bionda e con un collo quasi due volte più lungo del normale, il che le tornava assai utile, dato che passava gran parte del tempo ad allungarlo oltre la siepe del giardino per spiare i vicini.
+lungo             	lungo             	La signora Dursley era magra, bionda e con un collo quasi due volte più lungo del normale, il che le tornava assai utile, dato che passava gran parte del tempo ad allungarlo oltre la siepe del giardino per spiare i vicini.
+tornava           	tornare           	La signora Dursley era magra, bionda e con un collo quasi due volte più lungo del normale, il che le tornava assai utile, dato che passava gran parte del tempo ad allungarlo oltre la siepe del giardino per spiare i vicini.
+assai             	assai             	La signora Dursley era magra, bionda e con un collo quasi due volte più lungo del normale, il che le tornava assai utile, dato che passava gran parte del tempo ad allungarlo oltre la siepe del giardino per spiare i vicini.
+utile             	utile             	La signora Dursley era magra, bionda e con un collo quasi due volte più lungo del normale, il che le tornava assai utile, dato che passava gran parte del tempo ad allungarlo oltre la siepe del giardino per spiare i vicini.
+dato              	dato              	La signora Dursley era magra, bionda e con un collo quasi due volte più lungo del normale, il che le tornava assai utile, dato che passava gran parte del tempo ad allungarlo oltre la siepe del giardino per spiare i vicini.
+passava           	passare           	La signora Dursley era magra, bionda e con un collo quasi due volte più lungo del normale, il che le tornava assai utile, dato che passava gran parte del tempo ad allungarlo oltre la siepe del giardino per spiare i vicini.
+gran              	grande            	La signora Dursley era magra, bionda e con un collo quasi due volte più lungo del normale, il che le tornava assai utile, dato che passava gran parte del tempo ad allungarlo oltre la siepe del giardino per spiare i vicini.
+parte             	parte             	La signora Dursley era magra, bionda e con un collo quasi due volte più lungo del normale, il che le tornava assai utile, dato che passava gran parte del tempo ad allungarlo oltre la siepe del giardino per spiare i vicini.
+tempo             	tempo             	La signora Dursley era magra, bionda e con un collo quasi due volte più lungo del normale, il che le tornava assai utile, dato che passava gran parte del tempo ad allungarlo oltre la siepe del giardino per spiare i vicini.
+allungarlo        	allungare         	La signora Dursley era magra, bionda e con un collo quasi due volte più lungo del normale, il che le tornava assai utile, dato che passava gran parte del tempo ad allungarlo oltre la siepe del giardino per spiare i vicini.
+oltre             	oltre             	La signora Dursley era magra, bionda e con un collo quasi due volte più lungo del normale, il che le tornava assai utile, dato che passava gran parte del tempo ad allungarlo oltre la siepe del giardino per spiare i vicini.
+siepe             	siepe             	La signora Dursley era magra, bionda e con un collo quasi due volte più lungo del normale, il che le tornava assai utile, dato che passava gran parte del tempo ad allungarlo oltre la siepe del giardino per spiare i vicini.
+giardino          	giardino          	La signora Dursley era magra, bionda e con un collo quasi due volte più lungo del normale, il che le tornava assai utile, dato che passava gran parte del tempo ad allungarlo oltre la siepe del giardino per spiare i vicini.
+per               	per               	La signora Dursley era magra, bionda e con un collo quasi due volte più lungo del normale, il che le tornava assai utile, dato che passava gran parte del tempo ad allungarlo oltre la siepe del giardino per spiare i vicini.
+spiare            	spiare            	La signora Dursley era magra, bionda e con un collo quasi due volte più lungo del normale, il che le tornava assai utile, dato che passava gran parte del tempo ad allungarlo oltre la siepe del giardino per spiare i vicini.
+vicini            	vicino            	La signora Dursley era magra, bionda e con un collo quasi due volte più lungo del normale, il che le tornava assai utile, dato che passava gran parte del tempo ad allungarlo oltre la siepe del giardino per spiare i vicini.
+avevano           	avere             	I Dursley avevano un figlioletto di nome Dudley e secondo loro non esisteva al mondo un bambino più bello.
+figlioletto       	figlio            	I Dursley avevano un figlioletto di nome Dudley e secondo loro non esisteva al mondo un bambino più bello.
+secondo           	secondo           	I Dursley avevano un figlioletto di nome Dudley e secondo loro non esisteva al mondo un bambino più bello.
+loro              	loro              	I Dursley avevano un figlioletto di nome Dudley e secondo loro non esisteva al mondo un bambino più bello.
+esisteva          	esistere          	I Dursley avevano un figlioletto di nome Dudley e secondo loro non esisteva al mondo un bambino più bello.
+bello             	bello             	I Dursley avevano un figlioletto di nome Dudley e secondo loro non esisteva al mondo un bambino più bello.
+possedevano       	possedere         	Possedevano tutto quel che si poteva desiderare, ma avevano anche un segreto, e il loro più grande timore era che qualcuno potesse scoprirlo.
+tutto             	tutto             	Possedevano tutto quel che si poteva desiderare, ma avevano anche un segreto, e il loro più grande timore era che qualcuno potesse scoprirlo.
+quel              	quello            	Possedevano tutto quel che si poteva desiderare, ma avevano anche un segreto, e il loro più grande timore era che qualcuno potesse scoprirlo.
+si                	si                	Possedevano tutto quel che si poteva desiderare, ma avevano anche un segreto, e il loro più grande timore era che qualcuno potesse scoprirlo.
+poteva            	potere            	Possedevano tutto quel che si poteva desiderare, ma avevano anche un segreto, e il loro più grande timore era che qualcuno potesse scoprirlo.
+desiderare        	desiderare        	Possedevano tutto quel che si poteva desiderare, ma avevano anche un segreto, e il loro più grande timore era che qualcuno potesse scoprirlo.
+ma                	ma                	Possedevano tutto quel che si poteva desiderare, ma avevano anche un segreto, e il loro più grande timore era che qualcuno potesse scoprirlo.
+anche             	anche             	Possedevano tutto quel che si poteva desiderare, ma avevano anche un segreto, e il loro più grande timore era che qualcuno potesse scoprirlo.
+segreto           	segreto           	Possedevano tutto quel che si poteva desiderare, ma avevano anche un segreto, e il loro più grande timore era che qualcuno potesse scoprirlo.
+timore            	timore            	Possedevano tutto quel che si poteva desiderare, ma avevano anche un segreto, e il loro più grande timore era che qualcuno potesse scoprirlo.
+qualcuno          	qualcuno          	Possedevano tutto quel che si poteva desiderare, ma avevano anche un segreto, e il loro più grande timore era che qualcuno potesse scoprirlo.
+scoprirlo         	scoprire          	Possedevano tutto quel che si poteva desiderare, ma avevano anche un segreto, e il loro più grande timore era che qualcuno potesse scoprirlo.
+credevano         	credere           	Non credevano di poter sopportare che qualcuno venisse a sapere dei Potter.
+sopportare        	sopportare        	Non credevano di poter sopportare che qualcuno venisse a sapere dei Potter.
+venisse           	venire            	Non credevano di poter sopportare che qualcuno venisse a sapere dei Potter.
+sapere            	sapere            	Non credevano di poter sopportare che qualcuno venisse a sapere dei Potter.
+sorella           	sorella           	La signora Potter era la sorella della signora Dursley, ma non si vedevano da anni.
+vedevano          	vedersi           	La signora Potter era la sorella della signora Dursley, ma non si vedevano da anni.
+anni              	anno              	La signora Potter era la sorella della signora Dursley, ma non si vedevano da anni.
+anzi              	anzi              	Anzi, la signora Dursley faceva addirittura finta di non avere sorelle, perché la signora Potter e quel buono a nulla del marito non avrebbero potuto essere più diversi da loro di così.
+faceva            	fare              	Anzi, la signora Dursley faceva addirittura finta di non avere sorelle, perché la signora Potter e quel buono a nulla del marito non avrebbero potuto essere più diversi da loro di così.
+addirittura       	addirittura       	Anzi, la signora Dursley faceva addirittura finta di non avere sorelle, perché la signora Potter e quel buono a nulla del marito non avrebbero potuto essere più diversi da loro di così.
+finta             	finta             	Anzi, la signora Dursley faceva addirittura finta di non avere sorelle, perché la signora Potter e quel buono a nulla del marito non avrebbero potuto essere più diversi da loro di così.
+buono             	buono             	Anzi, la signora Dursley faceva addirittura finta di non avere sorelle, perché la signora Potter e quel buono a nulla del marito non avrebbero potuto essere più diversi da loro di così.
+nulla             	nulla             	Anzi, la signora Dursley faceva addirittura finta di non avere sorelle, perché la signora Potter e quel buono a nulla del marito non avrebbero potuto essere più diversi da loro di così.
+marito            	marito            	Anzi, la signora Dursley faceva addirittura finta di non avere sorelle, perché la signora Potter e quel buono a nulla del marito non avrebbero potuto essere più diversi da loro di così.
+diversi           	diverso           	Anzi, la signora Dursley faceva addirittura finta di non avere sorelle, perché la signora Potter e quel buono a nulla del marito non avrebbero potuto essere più diversi da loro di così.
+così              	così              	Anzi, la signora Dursley faceva addirittura finta di non avere sorelle, perché la signora Potter e quel buono a nulla del marito non avrebbero potuto essere più diversi da loro di così.
+rabbrividivano    	rabbrividire      	I Dursley rabbrividivano al solo pensiero di quel che avrebbero detto i vicini se i Potter si fossero fatti vedere nei paraggi.
+solo              	solo              	I Dursley rabbrividivano al solo pensiero di quel che avrebbero detto i vicini se i Potter si fossero fatti vedere nei paraggi.
+pensiero          	pensiero          	I Dursley rabbrividivano al solo pensiero di quel che avrebbero detto i vicini se i Potter si fossero fatti vedere nei paraggi.
+detto             	dire              	I Dursley rabbrividivano al solo pensiero di quel che avrebbero detto i vicini se i Potter si fossero fatti vedere nei paraggi.
+se                	se                	I Dursley rabbrividivano al solo pensiero di quel che avrebbero detto i vicini se i Potter si fossero fatti vedere nei paraggi.
+nei               	in                	I Dursley rabbrividivano al solo pensiero di quel che avrebbero detto i vicini se i Potter si fossero fatti vedere nei paraggi.
+paraggi           	paraggi           	I Dursley rabbrividivano al solo pensiero di quel che avrebbero detto i vicini se i Potter si fossero fatti vedere nei paraggi.
+piccolo           	piccolo           	Sapevano che i Potter avevano anche loro un figlio piccolo, ma non lo avevano mai visto.
+lo                	lo                	Sapevano che i Potter avevano anche loro un figlio piccolo, ma non lo avevano mai visto.
+mai               	mai               	Sapevano che i Potter avevano anche loro un figlio piccolo, ma non lo avevano mai visto.
+questa            	questo            	E questa era un’altra buona ragione per tenere i Potter a distanza:
+altra             	altro             	E questa era un’altra buona ragione per tenere i Potter a distanza:
+ragione           	ragione           	E questa era un’altra buona ragione per tenere i Potter a distanza:
+tenere            	tenere            	E questa era un’altra buona ragione per tenere i Potter a distanza:
+distanza          	distanza          	E questa era un’altra buona ragione per tenere i Potter a distanza:
+volevano          	volere            	non volevano che Dudley avesse a che fare con un bambino di quel genere.
+quando            	quando            	Quando i coniugi Dursley si svegliarono, la mattina di quel martedì grigio e nuvoloso in cui inizia la nostra storia, nel cielo coperto non c’era nulla che facesse presagire le cose strane e misteriose che di lì a poco sarebbero accadute in tutto il Paese.
+coniugi           	coniuge           	Quando i coniugi Dursley si svegliarono, la mattina di quel martedì grigio e nuvoloso in cui inizia la nostra storia, nel cielo coperto non c’era nulla che facesse presagire le cose strane e misteriose che di lì a poco sarebbero accadute in tutto il Paese.
+svegliarono       	svegliarsi        	Quando i coniugi Dursley si svegliarono, la mattina di quel martedì grigio e nuvoloso in cui inizia la nostra storia, nel cielo coperto non c’era nulla che facesse presagire le cose strane e misteriose che di lì a poco sarebbero accadute in tutto il Paese.
+mattina           	mattina           	Quando i coniugi Dursley si svegliarono, la mattina di quel martedì grigio e nuvoloso in cui inizia la nostra storia, nel cielo coperto non c’era nulla che facesse presagire le cose strane e misteriose che di lì a poco sarebbero accadute in tutto il Paese.
+martedì           	martedì           	Quando i coniugi Dursley si svegliarono, la mattina di quel martedì grigio e nuvoloso in cui inizia la nostra storia, nel cielo coperto non c’era nulla che facesse presagire le cose strane e misteriose che di lì a poco sarebbero accadute in tutto il Paese.
+grigio            	grigio            	Quando i coniugi Dursley si svegliarono, la mattina di quel martedì grigio e nuvoloso in cui inizia la nostra storia, nel cielo coperto non c’era nulla che facesse presagire le cose strane e misteriose che di lì a poco sarebbero accadute in tutto il Paese.
+nuvoloso          	nuvoloso          	Quando i coniugi Dursley si svegliarono, la mattina di quel martedì grigio e nuvoloso in cui inizia la nostra storia, nel cielo coperto non c’era nulla che facesse presagire le cose strane e misteriose che di lì a poco sarebbero accadute in tutto il Paese.
+inizia            	iniziare          	Quando i coniugi Dursley si svegliarono, la mattina di quel martedì grigio e nuvoloso in cui inizia la nostra storia, nel cielo coperto non c’era nulla che facesse presagire le cose strane e misteriose che di lì a poco sarebbero accadute in tutto il Paese.
+nostra            	nostro            	Quando i coniugi Dursley si svegliarono, la mattina di quel martedì grigio e nuvoloso in cui inizia la nostra storia, nel cielo coperto non c’era nulla che facesse presagire le cose strane e misteriose che di lì a poco sarebbero accadute in tutto il Paese.
+storia            	storia            	Quando i coniugi Dursley si svegliarono, la mattina di quel martedì grigio e nuvoloso in cui inizia la nostra storia, nel cielo coperto non c’era nulla che facesse presagire le cose strane e misteriose che di lì a poco sarebbero accadute in tutto il Paese.
+cielo             	cielo             	Quando i coniugi Dursley si svegliarono, la mattina di quel martedì grigio e nuvoloso in cui inizia la nostra storia, nel cielo coperto non c’era nulla che facesse presagire le cose strane e misteriose che di lì a poco sarebbero accadute in tutto il Paese.
+coperto           	coperto           	Quando i coniugi Dursley si svegliarono, la mattina di quel martedì grigio e nuvoloso in cui inizia la nostra storia, nel cielo coperto non c’era nulla che facesse presagire le cose strane e misteriose che di lì a poco sarebbero accadute in tutto il Paese.
+presagire         	presagire         	Quando i coniugi Dursley si svegliarono, la mattina di quel martedì grigio e nuvoloso in cui inizia la nostra storia, nel cielo coperto non c’era nulla che facesse presagire le cose strane e misteriose che di lì a poco sarebbero accadute in tutto il Paese.
+lì                	lì                	Quando i coniugi Dursley si svegliarono, la mattina di quel martedì grigio e nuvoloso in cui inizia la nostra storia, nel cielo coperto non c’era nulla che facesse presagire le cose strane e misteriose che di lì a poco sarebbero accadute in tutto il Paese.
+poco              	poco              	Quando i coniugi Dursley si svegliarono, la mattina di quel martedì grigio e nuvoloso in cui inizia la nostra storia, nel cielo coperto non c’era nulla che facesse presagire le cose strane e misteriose che di lì a poco sarebbero accadute in tutto il Paese.
+accadute          	accadere          	Quando i coniugi Dursley si svegliarono, la mattina di quel martedì grigio e nuvoloso in cui inizia la nostra storia, nel cielo coperto non c’era nulla che facesse presagire le cose strane e misteriose che di lì a poco sarebbero accadute in tutto il Paese.
+paese             	paese             	Quando i coniugi Dursley si svegliarono, la mattina di quel martedì grigio e nuvoloso in cui inizia la nostra storia, nel cielo coperto non c’era nulla che facesse presagire le cose strane e misteriose che di lì a poco sarebbero accadute in tutto il Paese.
+scelse            	scegliere         	Il signor Dursley scelse canticchiando la cravatta più anonima del suo guardaroba e la signora Dursley continuò a chiacchierare ininterrottamente, mentre con grande sforzo costringeva sul seggiolone Dudley che urlava a squarciagola.
+canticchiando     	canticchiare      	Il signor Dursley scelse canticchiando la cravatta più anonima del suo guardaroba e la signora Dursley continuò a chiacchierare ininterrottamente, mentre con grande sforzo costringeva sul seggiolone Dudley che urlava a squarciagola.
+cravatta          	cravatta          	Il signor Dursley scelse canticchiando la cravatta più anonima del suo guardaroba e la signora Dursley continuò a chiacchierare ininterrottamente, mentre con grande sforzo costringeva sul seggiolone Dudley che urlava a squarciagola.
+anonima           	anonimo           	Il signor Dursley scelse canticchiando la cravatta più anonima del suo guardaroba e la signora Dursley continuò a chiacchierare ininterrottamente, mentre con grande sforzo costringeva sul seggiolone Dudley che urlava a squarciagola.
+suo               	suo               	Il signor Dursley scelse canticchiando la cravatta più anonima del suo guardaroba e la signora Dursley continuò a chiacchierare ininterrottamente, mentre con grande sforzo costringeva sul seggiolone Dudley che urlava a squarciagola.
+guardaroba        	guardaroba        	Il signor Dursley scelse canticchiando la cravatta più anonima del suo guardaroba e la signora Dursley continuò a chiacchierare ininterrottamente, mentre con grande sforzo costringeva sul seggiolone Dudley che urlava a squarciagola.
+continuò          	continuare        	Il signor Dursley scelse canticchiando la cravatta più anonima del suo guardaroba e la signora Dursley continuò a chiacchierare ininterrottamente, mentre con grande sforzo costringeva sul seggiolone Dudley che urlava a squarciagola.
+chiacchierare     	chiacchierare     	Il signor Dursley scelse canticchiando la cravatta più anonima del suo guardaroba e la signora Dursley continuò a chiacchierare ininterrottamente, mentre con grande sforzo costringeva sul seggiolone Dudley che urlava a squarciagola.
+ininterrottamente 	ininterrottamente 	Il signor Dursley scelse canticchiando la cravatta più anonima del suo guardaroba e la signora Dursley continuò a chiacchierare ininterrottamente, mentre con grande sforzo costringeva sul seggiolone Dudley che urlava a squarciagola.
+mentre            	mentre            	Il signor Dursley scelse canticchiando la cravatta più anonima del suo guardaroba e la signora Dursley continuò a chiacchierare ininterrottamente, mentre con grande sforzo costringeva sul seggiolone Dudley che urlava a squarciagola.
+sforzo            	sforzo            	Il signor Dursley scelse canticchiando la cravatta più anonima del suo guardaroba e la signora Dursley continuò a chiacchierare ininterrottamente, mentre con grande sforzo costringeva sul seggiolone Dudley che urlava a squarciagola.
+costringeva       	costringere       	Il signor Dursley scelse canticchiando la cravatta più anonima del suo guardaroba e la signora Dursley continuò a chiacchierare ininterrottamente, mentre con grande sforzo costringeva sul seggiolone Dudley che urlava a squarciagola.
+sul               	su                	Il signor Dursley scelse canticchiando la cravatta più anonima del suo guardaroba e la signora Dursley continuò a chiacchierare ininterrottamente, mentre con grande sforzo costringeva sul seggiolone Dudley che urlava a squarciagola.
+seggiolone        	seggiolone        	Il signor Dursley scelse canticchiando la cravatta più anonima del suo guardaroba e la signora Dursley continuò a chiacchierare ininterrottamente, mentre con grande sforzo costringeva sul seggiolone Dudley che urlava a squarciagola.
+urlava            	urlare            	Il signor Dursley scelse canticchiando la cravatta più anonima del suo guardaroba e la signora Dursley continuò a chiacchierare ininterrottamente, mentre con grande sforzo costringeva sul seggiolone Dudley che urlava a squarciagola.
+squarciagola      	squarciagola      	Il signor Dursley scelse canticchiando la cravatta più anonima del suo guardaroba e la signora Dursley continuò a chiacchierare ininterrottamente, mentre con grande sforzo costringeva sul seggiolone Dudley che urlava a squarciagola.
+nessuno           	nessuno           	Nessuno notò il grosso gufo bruno che passò con un frullo d’ali davanti alla finestra.
+notò              	notare            	Nessuno notò il grosso gufo bruno che passò con un frullo d’ali davanti alla finestra.
+gufo              	gufo              	Nessuno notò il grosso gufo bruno che passò con un frullo d’ali davanti alla finestra.
+bruno             	bruno             	Nessuno notò il grosso gufo bruno che passò con un frullo d’ali davanti alla finestra.
+frullo            	frullo            	Nessuno notò il grosso gufo bruno che passò con un frullo d’ali davanti alla finestra.
+ali               	ala               	Nessuno notò il grosso gufo bruno che passò con un frullo d’ali davanti alla finestra.
+davanti           	davanti           	Nessuno notò il grosso gufo bruno che passò con un frullo d’ali davanti alla finestra.
+finestra          	finestra          	Nessuno notò il grosso gufo bruno che passò con un frullo d’ali davanti alla finestra.
+otto              	otto              	Alle otto e mezzo il signor Dursley prese la sua valigetta ventiquattrore, sfiorò con le labbra la guancia della moglie e tentò di dare un bacio a Dudley, ma lo mancò perché, in quel momento, in preda a un furioso capriccio, il bambino stava scagliando i suoi cereali contro il muro.
+mezzo             	mezzo             	Alle otto e mezzo il signor Dursley prese la sua valigetta ventiquattrore, sfiorò con le labbra la guancia della moglie e tentò di dare un bacio a Dudley, ma lo mancò perché, in quel momento, in preda a un furioso capriccio, il bambino stava scagliando i suoi cereali contro il muro.
+prese             	prendere          	Alle otto e mezzo il signor Dursley prese la sua valigetta ventiquattrore, sfiorò con le labbra la guancia della moglie e tentò di dare un bacio a Dudley, ma lo mancò perché, in quel momento, in preda a un furioso capriccio, il bambino stava scagliando i suoi cereali contro il muro.
+valigetta         	valigetta         	Alle otto e mezzo il signor Dursley prese la sua valigetta ventiquattrore, sfiorò con le labbra la guancia della moglie e tentò di dare un bacio a Dudley, ma lo mancò perché, in quel momento, in preda a un furioso capriccio, il bambino stava scagliando i suoi cereali contro il muro.
+sfiorò            	sfiorare          	Alle otto e mezzo il signor Dursley prese la sua valigetta ventiquattrore, sfiorò con le labbra la guancia della moglie e tentò di dare un bacio a Dudley, ma lo mancò perché, in quel momento, in preda a un furioso capriccio, il bambino stava scagliando i suoi cereali contro il muro.
+labbra            	labbro            	Alle otto e mezzo il signor Dursley prese la sua valigetta ventiquattrore, sfiorò con le labbra la guancia della moglie e tentò di dare un bacio a Dudley, ma lo mancò perché, in quel momento, in preda a un furioso capriccio, il bambino stava scagliando i suoi cereali contro il muro.
+guancia           	guancia           	Alle otto e mezzo il signor Dursley prese la sua valigetta ventiquattrore, sfiorò con le labbra la guancia della moglie e tentò di dare un bacio a Dudley, ma lo mancò perché, in quel momento, in preda a un furioso capriccio, il bambino stava scagliando i suoi cereali contro il muro.
+moglie            	moglie            	Alle otto e mezzo il signor Dursley prese la sua valigetta ventiquattrore, sfiorò con le labbra la guancia della moglie e tentò di dare un bacio a Dudley, ma lo mancò perché, in quel momento, in preda a un furioso capriccio, il bambino stava scagliando i suoi cereali contro il muro.
+tentò             	tentare           	Alle otto e mezzo il signor Dursley prese la sua valigetta ventiquattrore, sfiorò con le labbra la guancia della moglie e tentò di dare un bacio a Dudley, ma lo mancò perché, in quel momento, in preda a un furioso capriccio, il bambino stava scagliando i suoi cereali contro il muro.
+bacio             	bacio             	Alle otto e mezzo il signor Dursley prese la sua valigetta ventiquattrore, sfiorò con le labbra la guancia della moglie e tentò di dare un bacio a Dudley, ma lo mancò perché, in quel momento, in preda a un furioso capriccio, il bambino stava scagliando i suoi cereali contro il muro.
+mancò             	mancare           	Alle otto e mezzo il signor Dursley prese la sua valigetta ventiquattrore, sfiorò con le labbra la guancia della moglie e tentò di dare un bacio a Dudley, ma lo mancò perché, in quel momento, in preda a un furioso capriccio, il bambino stava scagliando i suoi cereali contro il muro.
+momento           	momento           	Alle otto e mezzo il signor Dursley prese la sua valigetta ventiquattrore, sfiorò con le labbra la guancia della moglie e tentò di dare un bacio a Dudley, ma lo mancò perché, in quel momento, in preda a un furioso capriccio, il bambino stava scagliando i suoi cereali contro il muro.
+preda             	preda             	Alle otto e mezzo il signor Dursley prese la sua valigetta ventiquattrore, sfiorò con le labbra la guancia della moglie e tentò di dare un bacio a Dudley, ma lo mancò perché, in quel momento, in preda a un furioso capriccio, il bambino stava scagliando i suoi cereali contro il muro.
+furioso           	furioso           	Alle otto e mezzo il signor Dursley prese la sua valigetta ventiquattrore, sfiorò con le labbra la guancia della moglie e tentò di dare un bacio a Dudley, ma lo mancò perché, in quel momento, in preda a un furioso capriccio, il bambino stava scagliando i suoi cereali contro il muro.
+capriccio         	capriccio         	Alle otto e mezzo il signor Dursley prese la sua valigetta ventiquattrore, sfiorò con le labbra la guancia della moglie e tentò di dare un bacio a Dudley, ma lo mancò perché, in quel momento, in preda a un furioso capriccio, il bambino stava scagliando i suoi cereali contro il muro.
+stava             	stare             	Alle otto e mezzo il signor Dursley prese la sua valigetta ventiquattrore, sfiorò con le labbra la guancia della moglie e tentò di dare un bacio a Dudley, ma lo mancò perché, in quel momento, in preda a un furioso capriccio, il bambino stava scagliando i suoi cereali contro il muro.
+scagliando        	scagliare         	Alle otto e mezzo il signor Dursley prese la sua valigetta ventiquattrore, sfiorò con le labbra la guancia della moglie e tentò di dare un bacio a Dudley, ma lo mancò perché, in quel momento, in preda a un furioso capriccio, il bambino stava scagliando i suoi cereali contro il muro.
+cereali           	cereale           	Alle otto e mezzo il signor Dursley prese la sua valigetta ventiquattrore, sfiorò con le labbra la guancia della moglie e tentò di dare un bacio a Dudley, ma lo mancò perché, in quel momento, in preda a un furioso capriccio, il bambino stava scagliando i suoi cereali contro il muro.
+contro            	contro            	Alle otto e mezzo il signor Dursley prese la sua valigetta ventiquattrore, sfiorò con le labbra la guancia della moglie e tentò di dare un bacio a Dudley, ma lo mancò perché, in quel momento, in preda a un furioso capriccio, il bambino stava scagliando i suoi cereali contro il muro.
+muro              	muro              	Alle otto e mezzo il signor Dursley prese la sua valigetta ventiquattrore, sfiorò con le labbra la guancia della moglie e tentò di dare un bacio a Dudley, ma lo mancò perché, in quel momento, in preda a un furioso capriccio, il bambino stava scagliando i suoi cereali contro il muro.
+monello           	monello           	«Piccolo monello!» commentò ridendo il signor Dursley mentre usciva di casa.
+commentò          	commentare        	«Piccolo monello!» commentò ridendo il signor Dursley mentre usciva di casa.
+ridendo           	ridere            	«Piccolo monello!» commentò ridendo il signor Dursley mentre usciva di casa.
+usciva            	uscire            	«Piccolo monello!» commentò ridendo il signor Dursley mentre usciva di casa.
+casa              	casa              	«Piccolo monello!» commentò ridendo il signor Dursley mentre usciva di casa.
+salì              	salire            	Salì in macchina e percorse in retromarcia il vialetto del numero 4.
+macchina          	macchina          	Salì in macchina e percorse in retromarcia il vialetto del numero 4.
+percorse          	percorrere        	Salì in macchina e percorse in retromarcia il vialetto del numero 4.
+retromarcia       	retromarcia       	Salì in macchina e percorse in retromarcia il vialetto del numero 4.
+vialetto          	viale             	Salì in macchina e percorse in retromarcia il vialetto del numero 4.
+angolo            	angolo            	Fu all’angolo della strada che notò le prime avvisaglie di qualcosa di strano:
+strada            	strada            	Fu all’angolo della strada che notò le prime avvisaglie di qualcosa di strano:
+prime             	primo             	Fu all’angolo della strada che notò le prime avvisaglie di qualcosa di strano:
+avvisaglie        	avvisaglia        	Fu all’angolo della strada che notò le prime avvisaglie di qualcosa di strano:
+qualcosa          	qualcosa          	Fu all’angolo della strada che notò le prime avvisaglie di qualcosa di strano:
+gatto             	gatto             	un gatto che leggeva una mappa.
+leggeva           	leggere           	un gatto che leggeva una mappa.
+mappa             	mappa             	un gatto che leggeva una mappa.
+attimo            	attimo            	Per un attimo, il signor Dursley non si rese conto di quel che aveva visto;
+rese              	rendere           	Per un attimo, il signor Dursley non si rese conto di quel che aveva visto;
+conto             	conto             	Per un attimo, il signor Dursley non si rese conto di quel che aveva visto;
+poi               	poi               	poi girò di scatto la testa e guardò di nuovo.
+girò              	girare            	poi girò di scatto la testa e guardò di nuovo.
+scatto            	scatto            	poi girò di scatto la testa e guardò di nuovo.
+testa             	testa             	poi girò di scatto la testa e guardò di nuovo.
+guardò            	guardare          	poi girò di scatto la testa e guardò di nuovo.
+nuovo             	nuovo             	poi girò di scatto la testa e guardò di nuovo.
+effetti           	effetto           	In effetti c’era un gatto soriano all’angolo di Privet Drive, ma di mappe nemmeno l’ombra.
+soriano           	soriano           	In effetti c’era un gatto soriano all’angolo di Privet Drive, ma di mappe nemmeno l’ombra.
+nemmeno           	nemmeno           	In effetti c’era un gatto soriano all’angolo di Privet Drive, ma di mappe nemmeno l’ombra.
+ombra             	ombra             	In effetti c’era un gatto soriano all’angolo di Privet Drive, ma di mappe nemmeno l’ombra.
+diavolo           	diavolo           	Ma che diavolo aveva per la testa?
+luce              	luce              	La luce doveva avergli giocato qualche brutto tiro.
+doveva            	dovere            	La luce doveva avergli giocato qualche brutto tiro.
+giocato           	giocare           	La luce doveva avergli giocato qualche brutto tiro.
+qualche           	qualche           	La luce doveva avergli giocato qualche brutto tiro.
+brutto            	brutto            	La luce doveva avergli giocato qualche brutto tiro.
+tiro              	tiro              	La luce doveva avergli giocato qualche brutto tiro.
+stropicciò        	stropicciare      	Si stropicciò gli occhi e fissò il gatto, che gli ricambiò l’occhiata.
+occhi             	occhio            	Si stropicciò gli occhi e fissò il gatto, che gli ricambiò l’occhiata.
+fissò             	fissare           	Si stropicciò gli occhi e fissò il gatto, che gli ricambiò l’occhiata.
+gli               	gli               	Si stropicciò gli occhi e fissò il gatto, che gli ricambiò l’occhiata.
+ricambiò          	ricambiare        	Si stropicciò gli occhi e fissò il gatto, che gli ricambiò l’occhiata.
+occhiata          	occhiata          	Si stropicciò gli occhi e fissò il gatto, che gli ricambiò l’occhiata.
+auto              	auto              	Mentre l’auto girava l’angolo e percorreva un tratto di strada, il signor Dursley tenne d’occhio il gatto nello specchietto retrovisore.
+tratto            	tratto            	Mentre l’auto girava l’angolo e percorreva un tratto di strada, il signor Dursley tenne d’occhio il gatto nello specchietto retrovisore.
+specchietto       	specchietto       	Mentre l’auto girava l’angolo e percorreva un tratto di strada, il signor Dursley tenne d’occhio il gatto nello specchietto retrovisore.
+retrovisore       	retrovisore       	Mentre l’auto girava l’angolo e percorreva un tratto di strada, il signor Dursley tenne d’occhio il gatto nello specchietto retrovisore.
+felino            	felino            	In quel momento il felino stava leggendo il cartello stradale che indicava Privet Drive.
+cartello          	cartello          	In quel momento il felino stava leggendo il cartello stradale che indicava Privet Drive.
+stradale          	stradale          	In quel momento il felino stava leggendo il cartello stradale che indicava Privet Drive.
+indicava          	indicare          	In quel momento il felino stava leggendo il cartello stradale che indicava Privet Drive.
+no                	no                	No, lo stava guardando;
+neanche           	neanche           	i gatti non sanno leggere le mappe e neanche i cartelli stradali.
+riscosse          	riscuotersi       	Il signor Dursley si riscosse da quei pensieri e allontanò il gatto dalla mente.
+allontanò         	allontanare       	Il signor Dursley si riscosse da quei pensieri e allontanò il gatto dalla mente.
+mente             	mente             	Il signor Dursley si riscosse da quei pensieri e allontanò il gatto dalla mente.
+dirigeva          	dirigere          	Mentre si dirigeva in città, non pensò ad altro che al grosso ordine di trapani che sperava di ricevere quel giorno.
+città             	città             	Mentre si dirigeva in città, non pensò ad altro che al grosso ordine di trapani che sperava di ricevere quel giorno.
+pensò             	pensare           	Mentre si dirigeva in città, non pensò ad altro che al grosso ordine di trapani che sperava di ricevere quel giorno.
+ordine            	ordine            	Mentre si dirigeva in città, non pensò ad altro che al grosso ordine di trapani che sperava di ricevere quel giorno.
+sperava           	sperare           	Mentre si dirigeva in città, non pensò ad altro che al grosso ordine di trapani che sperava di ricevere quel giorno.
+ricevere          	ricevere          	Mentre si dirigeva in città, non pensò ad altro che al grosso ordine di trapani che sperava di ricevere quel giorno.
+giorno            	giorno            	Mentre si dirigeva in città, non pensò ad altro che al grosso ordine di trapani che sperava di ricevere quel giorno.
+giunto            	giungere          	Ma una volta giunto alla periferia della città, avvenne qualcos’altro che gli fece dimenticare i trapani.
+periferia         	periferia         	Ma una volta giunto alla periferia della città, avvenne qualcos’altro che gli fece dimenticare i trapani.
+avvenne           	avvenire          	Ma una volta giunto alla periferia della città, avvenne qualcos’altro che gli fece dimenticare i trapani.
+dimenticare       	dimenticare       	Ma una volta giunto alla periferia della città, avvenne qualcos’altro che gli fece dimenticare i trapani.
+bloccato          	bloccare          	Bloccato nel solito ingorgo del mattino, non poté fare a meno di notare che in giro c’erano un sacco di persone vestite in modo strano.
+solito            	solito            	Bloccato nel solito ingorgo del mattino, non poté fare a meno di notare che in giro c’erano un sacco di persone vestite in modo strano.
+ingorgo           	ingorgo           	Bloccato nel solito ingorgo del mattino, non poté fare a meno di notare che in giro c’erano un sacco di persone vestite in modo strano.
+mattino           	mattino           	Bloccato nel solito ingorgo del mattino, non poté fare a meno di notare che in giro c’erano un sacco di persone vestite in modo strano.
+meno              	meno              	Bloccato nel solito ingorgo del mattino, non poté fare a meno di notare che in giro c’erano un sacco di persone vestite in modo strano.
+giro              	giro              	Bloccato nel solito ingorgo del mattino, non poté fare a meno di notare che in giro c’erano un sacco di persone vestite in modo strano.
+sacco             	sacco             	Bloccato nel solito ingorgo del mattino, non poté fare a meno di notare che in giro c’erano un sacco di persone vestite in modo strano.
+vestite           	vestire           	Bloccato nel solito ingorgo del mattino, non poté fare a meno di notare che in giro c’erano un sacco di persone vestite in modo strano.
+modo              	modo              	Bloccato nel solito ingorgo del mattino, non poté fare a meno di notare che in giro c’erano un sacco di persone vestite in modo strano.
+gente             	gente             	Gente con indosso dei mantelli.
+indosso           	indosso           	Gente con indosso dei mantelli.
+mantelli          	mantello          	Gente con indosso dei mantelli.
+stravagante       	stravagante       	Il signor Dursley non sopportava le persone che si vestivano in modo stravagante:
+bastava           	bastare           	bastava vedere come si conciavano certi giovani!
+come              	come              	bastava vedere come si conciavano certi giovani!
+conciavano        	conciarsi         	bastava vedere come si conciavano certi giovani!
+certi             	certo             	bastava vedere come si conciavano certi giovani!
+giovani           	giovane           	bastava vedere come si conciavano certi giovani!
+immaginò          	immaginare        	Immaginò che si trattasse di qualche stupidissima nuova moda.
+trattasse         	trattare          	Immaginò che si trattasse di qualche stupidissima nuova moda.
+stupidissima      	stupido           	Immaginò che si trattasse di qualche stupidissima nuova moda.
+moda              	moda              	Immaginò che si trattasse di qualche stupidissima nuova moda.
+tamburellava      	tamburellare      	Mentre tamburellava con le dita sul volante, lo sguardo gli cadde su un capannello di quegli strampalati, vicinissimo a lui.
+dita              	dito              	Mentre tamburellava con le dita sul volante, lo sguardo gli cadde su un capannello di quegli strampalati, vicinissimo a lui.
+volante           	volante           	Mentre tamburellava con le dita sul volante, lo sguardo gli cadde su un capannello di quegli strampalati, vicinissimo a lui.
+sguardo           	sguardo           	Mentre tamburellava con le dita sul volante, lo sguardo gli cadde su un capannello di quegli strampalati, vicinissimo a lui.
+cadde             	cadere            	Mentre tamburellava con le dita sul volante, lo sguardo gli cadde su un capannello di quegli strampalati, vicinissimo a lui.
+capannello        	capannello        	Mentre tamburellava con le dita sul volante, lo sguardo gli cadde su un capannello di quegli strampalati, vicinissimo a lui.
+strampalati       	strampalato       	Mentre tamburellava con le dita sul volante, lo sguardo gli cadde su un capannello di quegli strampalati, vicinissimo a lui.
+lui               	lui               	Mentre tamburellava con le dita sul volante, lo sguardo gli cadde su un capannello di quegli strampalati, vicinissimo a lui.
+bisbigliando      	bisbigliare       	Si stavano bisbigliando qualcosa tutti eccitati.
+eccitati          	eccitato          	Si stavano bisbigliando qualcosa tutti eccitati.
+sentì             	sentire           	Il signor Dursley sentì montare la rabbia nel constatare che un paio di loro erano tutt’altro che giovani.
+montare           	montare           	Il signor Dursley sentì montare la rabbia nel constatare che un paio di loro erano tutt’altro che giovani.
+rabbia            	rabbia            	Il signor Dursley sentì montare la rabbia nel constatare che un paio di loro erano tutt’altro che giovani.
+constatare        	constatare        	Il signor Dursley sentì montare la rabbia nel constatare che un paio di loro erano tutt’altro che giovani.
+roba              	roba              	Ma che roba!
+anziano           	anziano           	Quello lì doveva essere più anziano di lui e portava un mantello verde smeraldo!
+!portava          	portare           	Quello lì doveva essere più anziano di lui e portava un mantello verde smeraldo!
+verde             	verde             	Quello lì doveva essere più anziano di lui e portava un mantello verde smeraldo!
+smeraldo          	smeraldo          	Quello lì doveva essere più anziano di lui e portava un mantello verde smeraldo!
+tosta             	tosto             	Che faccia tosta!
+però              	però|pero_2       	Poi però pensò che potesse trattarsi di qualche sciocca trovata.
+sciocca           	sciocco           	Poi però pensò che potesse trattarsi di qualche sciocca trovata.
+trovata           	trovata           	Poi però pensò che potesse trattarsi di qualche sciocca trovata.
+colletta          	colletta          	Era gente che faceva una colletta per qualche motivo.
+motivo            	motivo            	Era gente che faceva una colletta per qualche motivo.
+sì                	sì|si_2           	Sì, doveva essere proprio così.
+traffico          	traffico          	Poi, il traffico riprese a scorrere e alcuni minuti più tardi il signor Dursley giunse al parcheggio della Grunnings con la mente di nuovo tutta presa dai trapani.
+riprese           	riprendere        	Poi, il traffico riprese a scorrere e alcuni minuti più tardi il signor Dursley giunse al parcheggio della Grunnings con la mente di nuovo tutta presa dai trapani.
+scorrere          	scorrere          	Poi, il traffico riprese a scorrere e alcuni minuti più tardi il signor Dursley giunse al parcheggio della Grunnings con la mente di nuovo tutta presa dai trapani.
+alcuni            	alcuno            	Poi, il traffico riprese a scorrere e alcuni minuti più tardi il signor Dursley giunse al parcheggio della Grunnings con la mente di nuovo tutta presa dai trapani.
+minuti            	minuto            	Poi, il traffico riprese a scorrere e alcuni minuti più tardi il signor Dursley giunse al parcheggio della Grunnings con la mente di nuovo tutta presa dai trapani.
+tardi             	tardi             	Poi, il traffico riprese a scorrere e alcuni minuti più tardi il signor Dursley giunse al parcheggio della Grunnings con la mente di nuovo tutta presa dai trapani.
+parcheggio        	parcheggio        	Poi, il traffico riprese a scorrere e alcuni minuti più tardi il signor Dursley giunse al parcheggio della Grunnings con la mente di nuovo tutta presa dai trapani.
+ufficio           	ufficio           	Nel suo ufficio, al nono piano, il signor Dursley sedeva sempre con la schiena rivolta alla finestra.
+nono              	nono              	Nel suo ufficio, al nono piano, il signor Dursley sedeva sempre con la schiena rivolta alla finestra.
+piano             	piano             	Nel suo ufficio, al nono piano, il signor Dursley sedeva sempre con la schiena rivolta alla finestra.
+!sedeva           	sedere            	Nel suo ufficio, al nono piano, il signor Dursley sedeva sempre con la schiena rivolta alla finestra.
+sempre            	sempre            	Nel suo ufficio, al nono piano, il signor Dursley sedeva sempre con la schiena rivolta alla finestra.
+schiena           	schiena           	Nel suo ufficio, al nono piano, il signor Dursley sedeva sempre con la schiena rivolta alla finestra.
+rivolta           	rivolgere         	Nel suo ufficio, al nono piano, il signor Dursley sedeva sempre con la schiena rivolta alla finestra.
+ancor             	ancora            	Se così non fosse stato, quella mattina avrebbe avuto ancor più difficoltà a concentrarsi sui suoi trapani.
+difficoltà        	difficoltà        	Se così non fosse stato, quella mattina avrebbe avuto ancor più difficoltà a concentrarsi sui suoi trapani.
+concentrarsi      	concentrarsi      	Se così non fosse stato, quella mattina avrebbe avuto ancor più difficoltà a concentrarsi sui suoi trapani.
+volare            	volare            	Lui non vide i gufi volare a sciami in pieno giorno, ma la gente per strada sì.
+sciami            	sciame            	Lui non vide i gufi volare a sciami in pieno giorno, ma la gente per strada sì.
+pieno             	pieno             	Lui non vide i gufi volare a sciami in pieno giorno, ma la gente per strada sì.
+li                	li                	E li additavano, a bocca aperta, guardandoli passare a tutta velocità, uno dopo l’altro sopra le loro teste.
+additavano        	additare          	E li additavano, a bocca aperta, guardandoli passare a tutta velocità, uno dopo l’altro sopra le loro teste.
+bocca             	bocca             	E li additavano, a bocca aperta, guardandoli passare a tutta velocità, uno dopo l’altro sopra le loro teste.
+aperta            	aperto            	E li additavano, a bocca aperta, guardandoli passare a tutta velocità, uno dopo l’altro sopra le loro teste.
+velocità          	velocità          	E li additavano, a bocca aperta, guardandoli passare a tutta velocità, uno dopo l’altro sopra le loro teste.
+dopo              	dopo              	E li additavano, a bocca aperta, guardandoli passare a tutta velocità, uno dopo l’altro sopra le loro teste.
+sopra             	sopra             	E li additavano, a bocca aperta, guardandoli passare a tutta velocità, uno dopo l’altro sopra le loro teste.
+maggior           	maggiore          	La maggior parte di quelle persone non aveva mai visto un gufo neanche di notte.
+notte             	notte             	La maggior parte di quelle persone non aveva mai visto un gufo neanche di notte.
+ciononostante     	ciononostante     	Ciononostante, il signor Dursley ebbe il privilegio di una mattinata perfettamente normale, del tutto immune dai gufi.
+privilegio        	privilegio        	Ciononostante, il signor Dursley ebbe il privilegio di una mattinata perfettamente normale, del tutto immune dai gufi.
+mattinata         	mattinata         	Ciononostante, il signor Dursley ebbe il privilegio di una mattinata perfettamente normale, del tutto immune dai gufi.
+immune            	immune            	Ciononostante, il signor Dursley ebbe il privilegio di una mattinata perfettamente normale, del tutto immune dai gufi.
+gangheri          	ganghero          	Uscì dai gangheri con cinque persone diverse.
+cinque            	cinque            	Uscì dai gangheri con cinque persone diverse.
+molte             	molto             	Fece molte telefonate importanti e qualche altro urlaccio.
+telefonate        	telefonata        	Fece molte telefonate importanti e qualche altro urlaccio.
+importanti        	importante        	Fece molte telefonate importanti e qualche altro urlaccio.
+urlaccio          	urlo              	Fece molte telefonate importanti e qualche altro urlaccio.
+fino              	fino              	Fino all’ora di pranzo, il suo umore si mantenne ottimo.
+ora               	ora               	Fino all’ora di pranzo, il suo umore si mantenne ottimo.
+pranzo            	pranzo            	Fino all’ora di pranzo, il suo umore si mantenne ottimo.
+umore             	umore             	Fino all’ora di pranzo, il suo umore si mantenne ottimo.
+mantenne          	mantenersi        	Fino all’ora di pranzo, il suo umore si mantenne ottimo.
+ottimo            	ottimo            	Fino all’ora di pranzo, il suo umore si mantenne ottimo.
+punto             	punto             	A quel punto decise che, per sgranchirsi le gambe, avrebbe attraversato la strada per andare a comprarsi una ciambella dal fornaio di fronte.
+decise            	decidere          	A quel punto decise che, per sgranchirsi le gambe, avrebbe attraversato la strada per andare a comprarsi una ciambella dal fornaio di fronte.
+!sgranchirsi      	sgranchire        	A quel punto decise che, per sgranchirsi le gambe, avrebbe attraversato la strada per andare a comprarsi una ciambella dal fornaio di fronte.
+gambe             	gamba             	A quel punto decise che, per sgranchirsi le gambe, avrebbe attraversato la strada per andare a comprarsi una ciambella dal fornaio di fronte.
+attraversato      	attraversare      	A quel punto decise che, per sgranchirsi le gambe, avrebbe attraversato la strada per andare a comprarsi una ciambella dal fornaio di fronte.
+andare            	andare            	A quel punto decise che, per sgranchirsi le gambe, avrebbe attraversato la strada per andare a comprarsi una ciambella dal fornaio di fronte.
+comprarsi         	comprare          	A quel punto decise che, per sgranchirsi le gambe, avrebbe attraversato la strada per andare a comprarsi una ciambella dal fornaio di fronte.
+ciambella         	ciambella         	A quel punto decise che, per sgranchirsi le gambe, avrebbe attraversato la strada per andare a comprarsi una ciambella dal fornaio di fronte.
+fornaio           	fornaio           	A quel punto decise che, per sgranchirsi le gambe, avrebbe attraversato la strada per andare a comprarsi una ciambella dal fornaio di fronte.
+fronte            	fronte            	A quel punto decise che, per sgranchirsi le gambe, avrebbe attraversato la strada per andare a comprarsi una ciambella dal fornaio di fronte.
+completamente     	completamente     	Aveva completamente dimenticato le persone con il mantello fino a che non ne superò un gruppetto proprio accanto al fornaio.
+ne                	ne                	Aveva completamente dimenticato le persone con il mantello fino a che non ne superò un gruppetto proprio accanto al fornaio.
+superò            	superare          	Aveva completamente dimenticato le persone con il mantello fino a che non ne superò un gruppetto proprio accanto al fornaio.
+gruppetto         	gruppetto         	Aveva completamente dimenticato le persone con il mantello fino a che non ne superò un gruppetto proprio accanto al fornaio.
+accanto           	accanto           	Aveva completamente dimenticato le persone con il mantello fino a che non ne superò un gruppetto proprio accanto al fornaio.
+scoccò            	scoccare          	Mentre passava, scoccò loro un’occhiata furente.
+furente           	furente           	Mentre passava, scoccò loro un’occhiata furente.
+mettevano         	mettere           	Non sapeva perché, ma lo mettevano a disagio.
+disagio           	disagio           	Non sapeva perché, ma lo mettevano a disagio.
+cassette          	cassetta          	Anche queste bisbigliavano tutte eccitate, ma di cassette per raccogliere le offerte non ne vide neanche una.
+raccogliere       	raccogliere       	Anche queste bisbigliavano tutte eccitate, ma di cassette per raccogliere le offerte non ne vide neanche una.
+offerte           	offerta           	Anche queste bisbigliavano tutte eccitate, ma di cassette per raccogliere le offerte non ne vide neanche una.
+ritorno           	ritorno           	Fu passando loro accanto di ritorno dal fornaio, con un’enorme ciambella in un sacchetto, che colse qualcosa di quello che stavano dicendo.
+enorme            	enorme            	Fu passando loro accanto di ritorno dal fornaio, con un’enorme ciambella in un sacchetto, che colse qualcosa di quello che stavano dicendo.
+sacchetto         	sacchetto         	Fu passando loro accanto di ritorno dal fornaio, con un’enorme ciambella in un sacchetto, che colse qualcosa di quello che stavano dicendo.
+colse             	cogliere          	Fu passando loro accanto di ritorno dal fornaio, con un’enorme ciambella in un sacchetto, che colse qualcosa di quello che stavano dicendo.
+già               	già               	«I Potter, proprio così, è quel che ho sentito...» «...già, il figlio, Harry...» Il signor Dursley si fermò di colpo.
+fermò             	fermarsi          	«I Potter, proprio così, è quel che ho sentito...» «...già, il figlio, Harry...» Il signor Dursley si fermò di colpo.
+colpo             	colpo             	«I Potter, proprio così, è quel che ho sentito...» «...già, il figlio, Harry...» Il signor Dursley si fermò di colpo.
+invaso            	invadere          	Fu invaso dalla paura.
+paura             	paura             	Fu invaso dalla paura.
+voltò             	voltarsi          	Si voltò a guardare il capannello come se volesse dire qualcosa, ma poi ci ripensò.
+ci                	ci                	Si voltò a guardare il capannello come se volesse dire qualcosa, ma poi ci ripensò.
+ripensò           	ripensare         	Si voltò a guardare il capannello come se volesse dire qualcosa, ma poi ci ripensò.
+precipitosamente  	precipitosamente  	Attraversò la strada precipitosamente e raggiunse in tutta fretta il suo ufficio;
+raggiunse         	raggiungere       	Attraversò la strada precipitosamente e raggiunse in tutta fretta il suo ufficio;
+fretta            	fretta            	Attraversò la strada precipitosamente e raggiunse in tutta fretta il suo ufficio;
+intimò            	intimare          	intimò alla segretaria di non disturbarlo per nessuna ragione, afferrò il telefono, e aveva quasi finito di fare il numero di casa quando cambiò idea.
+segretaria        	segretario        	intimò alla segretaria di non disturbarlo per nessuna ragione, afferrò il telefono, e aveva quasi finito di fare il numero di casa quando cambiò idea.
+disturbarlo       	disturbare        	intimò alla segretaria di non disturbarlo per nessuna ragione, afferrò il telefono, e aveva quasi finito di fare il numero di casa quando cambiò idea.
+afferrò           	afferrare         	intimò alla segretaria di non disturbarlo per nessuna ragione, afferrò il telefono, e aveva quasi finito di fare il numero di casa quando cambiò idea.
+telefono          	telefono          	intimò alla segretaria di non disturbarlo per nessuna ragione, afferrò il telefono, e aveva quasi finito di fare il numero di casa quando cambiò idea.
+finito            	finire            	intimò alla segretaria di non disturbarlo per nessuna ragione, afferrò il telefono, e aveva quasi finito di fare il numero di casa quando cambiò idea.
+cambiò            	cambiare          	intimò alla segretaria di non disturbarlo per nessuna ragione, afferrò il telefono, e aveva quasi finito di fare il numero di casa quando cambiò idea.
+idea              	idea              	intimò alla segretaria di non disturbarlo per nessuna ragione, afferrò il telefono, e aveva quasi finito di fare il numero di casa quando cambiò idea.
+giù               	giù               	Mise giù il ricevitore, si lisciò i baffi, pensando... no, era stato uno stupido.
+ricevitore        	ricevitore        	Mise giù il ricevitore, si lisciò i baffi, pensando... no, era stato uno stupido.
+lisciò            	lisciare          	Mise giù il ricevitore, si lisciò i baffi, pensando... no, era stato uno stupido.
+insolito          	insolito          	Potter non era poi un nome così insolito.
+miriadi           	miriade           	Era certo che esistessero miriadi di persone che si chiamavano Potter e avevano un figlio di nome Harry.
+chiamavano        	chiamarsi         	Era certo che esistessero miriadi di persone che si chiamavano Potter e avevano un figlio di nome Harry.
+sicuro            	sicuro            	E poi, ora che ci pensava, non era neanche tanto sicuro che suo nipote si chiamasse proprio Harry.
+nipote            	nipote            	E poi, ora che ci pensava, non era neanche tanto sicuro che suo nipote si chiamasse proprio Harry.
+resto             	resto             	Del resto, non lo aveva neanche mai visto.
+impensierire      	impensierire      	Non c’era ragione di impensierire la signora Dursley;
+la                	la                	se la prendeva tanto ogni volta che le si parlava della sorella!
+ogni              	ogni              	se la prendeva tanto ogni volta che le si parlava della sorella!
+parlava           	parlare           	se la prendeva tanto ogni volta che le si parlava della sorella!
+darle             	dare              	E non poteva darle torto:
+torto             	torto             	E non poteva darle torto:
+tuttavia          	tuttavia          	Tuttavia, quella gente avvolta nei mantelli... Quel pomeriggio trovò molto più difficile concentrarsi sui suoi trapani e quando lasciò l’ufficio alle cinque in punto era ancora talmente assorto che, appena varcata la soglia del palazzo, andò a sbattere dritto dritto contro qualcuno.
+avvolta           	avvolgere         	Tuttavia, quella gente avvolta nei mantelli... Quel pomeriggio trovò molto più difficile concentrarsi sui suoi trapani e quando lasciò l’ufficio alle cinque in punto era ancora talmente assorto che, appena varcata la soglia del palazzo, andò a sbattere dritto dritto contro qualcuno.
+pomeriggio        	pomeriggio        	Tuttavia, quella gente avvolta nei mantelli... Quel pomeriggio trovò molto più difficile concentrarsi sui suoi trapani e quando lasciò l’ufficio alle cinque in punto era ancora talmente assorto che, appena varcata la soglia del palazzo, andò a sbattere dritto dritto contro qualcuno.
+difficile         	difficile         	Tuttavia, quella gente avvolta nei mantelli... Quel pomeriggio trovò molto più difficile concentrarsi sui suoi trapani e quando lasciò l’ufficio alle cinque in punto era ancora talmente assorto che, appena varcata la soglia del palazzo, andò a sbattere dritto dritto contro qualcuno.
+lasciò            	lasciare          	Tuttavia, quella gente avvolta nei mantelli... Quel pomeriggio trovò molto più difficile concentrarsi sui suoi trapani e quando lasciò l’ufficio alle cinque in punto era ancora talmente assorto che, appena varcata la soglia del palazzo, andò a sbattere dritto dritto contro qualcuno.
+talmente          	talmente          	Tuttavia, quella gente avvolta nei mantelli... Quel pomeriggio trovò molto più difficile concentrarsi sui suoi trapani e quando lasciò l’ufficio alle cinque in punto era ancora talmente assorto che, appena varcata la soglia del palazzo, andò a sbattere dritto dritto contro qualcuno.
+assorto           	assorto           	Tuttavia, quella gente avvolta nei mantelli... Quel pomeriggio trovò molto più difficile concentrarsi sui suoi trapani e quando lasciò l’ufficio alle cinque in punto era ancora talmente assorto che, appena varcata la soglia del palazzo, andò a sbattere dritto dritto contro qualcuno.
+appena            	appena            	Tuttavia, quella gente avvolta nei mantelli... Quel pomeriggio trovò molto più difficile concentrarsi sui suoi trapani e quando lasciò l’ufficio alle cinque in punto era ancora talmente assorto che, appena varcata la soglia del palazzo, andò a sbattere dritto dritto contro qualcuno.
+varcata           	varcare           	Tuttavia, quella gente avvolta nei mantelli... Quel pomeriggio trovò molto più difficile concentrarsi sui suoi trapani e quando lasciò l’ufficio alle cinque in punto era ancora talmente assorto che, appena varcata la soglia del palazzo, andò a sbattere dritto dritto contro qualcuno.
+soglia            	soglia            	Tuttavia, quella gente avvolta nei mantelli... Quel pomeriggio trovò molto più difficile concentrarsi sui suoi trapani e quando lasciò l’ufficio alle cinque in punto era ancora talmente assorto che, appena varcata la soglia del palazzo, andò a sbattere dritto dritto contro qualcuno.
+palazzo           	palazzo           	Tuttavia, quella gente avvolta nei mantelli... Quel pomeriggio trovò molto più difficile concentrarsi sui suoi trapani e quando lasciò l’ufficio alle cinque in punto era ancora talmente assorto che, appena varcata la soglia del palazzo, andò a sbattere dritto dritto contro qualcuno.
+sbattere          	sbattere          	Tuttavia, quella gente avvolta nei mantelli... Quel pomeriggio trovò molto più difficile concentrarsi sui suoi trapani e quando lasciò l’ufficio alle cinque in punto era ancora talmente assorto che, appena varcata la soglia del palazzo, andò a sbattere dritto dritto contro qualcuno.
+dritto            	dritto            	Tuttavia, quella gente avvolta nei mantelli... Quel pomeriggio trovò molto più difficile concentrarsi sui suoi trapani e quando lasciò l’ufficio alle cinque in punto era ancora talmente assorto che, appena varcata la soglia del palazzo, andò a sbattere dritto dritto contro qualcuno.
+scusi             	scusare           	«Scusi» bofonchiò, mentre il poveretto – un uomo anziano e mingherlino – inciampava e per poco non finiva lungo disteso.
+bofonchiò         	bofonchiare       	«Scusi» bofonchiò, mentre il poveretto – un uomo anziano e mingherlino – inciampava e per poco non finiva lungo disteso.
+poveretto         	povero            	«Scusi» bofonchiò, mentre il poveretto – un uomo anziano e mingherlino – inciampava e per poco non finiva lungo disteso.
+mingherlino       	mingherlino       	«Scusi» bofonchiò, mentre il poveretto – un uomo anziano e mingherlino – inciampava e per poco non finiva lungo disteso.
+inciampava        	inciampare        	«Scusi» bofonchiò, mentre il poveretto – un uomo anziano e mingherlino – inciampava e per poco non finiva lungo disteso.
+disteso           	disteso           	«Scusi» bofonchiò, mentre il poveretto – un uomo anziano e mingherlino – inciampava e per poco non finiva lungo disteso.
+indossava         	indossare         	Ci volle qualche secondo perché il signor Dursley si rendesse conto che l’uomo indossava un mantello viola.
+viola             	viola             	Ci volle qualche secondo perché il signor Dursley si rendesse conto che l’uomo indossava un mantello viola.
+ometto            	ometto            	L’ometto però non sembrava per niente offeso dal fatto di essere stato quasi scaraventato a terra.
+sembrava          	sembrare          	L’ometto però non sembrava per niente offeso dal fatto di essere stato quasi scaraventato a terra.
+niente            	niente            	L’ometto però non sembrava per niente offeso dal fatto di essere stato quasi scaraventato a terra.
+offeso            	offeso            	L’ometto però non sembrava per niente offeso dal fatto di essere stato quasi scaraventato a terra.
+fatto             	fatto             	L’ometto però non sembrava per niente offeso dal fatto di essere stato quasi scaraventato a terra.
+scaraventato      	scaraventare      	L’ometto però non sembrava per niente offeso dal fatto di essere stato quasi scaraventato a terra.
+terra             	terra             	L’ometto però non sembrava per niente offeso dal fatto di essere stato quasi scaraventato a terra.
+contrario         	contrario         	Al contrario, un largo sorriso gli illuminò il volto e con una vocina stridula che destò l’attenzione dei passanti disse:
+largo             	largo             	Al contrario, un largo sorriso gli illuminò il volto e con una vocina stridula che destò l’attenzione dei passanti disse:
+sorriso           	sorriso           	Al contrario, un largo sorriso gli illuminò il volto e con una vocina stridula che destò l’attenzione dei passanti disse:
+illuminò          	illuminare        	Al contrario, un largo sorriso gli illuminò il volto e con una vocina stridula che destò l’attenzione dei passanti disse:
+volto             	volto             	Al contrario, un largo sorriso gli illuminò il volto e con una vocina stridula che destò l’attenzione dei passanti disse:
+vocina            	voce              	Al contrario, un largo sorriso gli illuminò il volto e con una vocina stridula che destò l’attenzione dei passanti disse:
+stridula          	stridulo          	Al contrario, un largo sorriso gli illuminò il volto e con una vocina stridula che destò l’attenzione dei passanti disse:
+destò             	destare           	Al contrario, un largo sorriso gli illuminò il volto e con una vocina stridula che destò l’attenzione dei passanti disse:
+attenzione        	attenzione        	Al contrario, un largo sorriso gli illuminò il volto e con una vocina stridula che destò l’attenzione dei passanti disse:
+passanti          	passante          	Al contrario, un largo sorriso gli illuminò il volto e con una vocina stridula che destò l’attenzione dei passanti disse:
+scusi             	scusarsi          	«Non si scusi, mio caro signore, perché oggi non c’è niente che possa turbarmi!
+mio               	mio               	«Non si scusi, mio caro signore, perché oggi non c’è niente che possa turbarmi!
+caro              	caro              	«Non si scusi, mio caro signore, perché oggi non c’è niente che possa turbarmi!
+oggi              	oggi              	«Non si scusi, mio caro signore, perché oggi non c’è niente che possa turbarmi!
+turbarmi          	turbare           	«Non si scusi, mio caro signore, perché oggi non c’è niente che possa turbarmi!
+rallegri          	rallegrarsi       	Si rallegri, perché Lei-Sa-Chi finalmente se n’è andato!
+finalmente        	finalmente        	Si rallegri, perché Lei-Sa-Chi finalmente se n’è andato!
+lei               	lei               	Anche i Babbani come lei dovrebbero festeggiare questo felice, felicissimo giorno!» A quel punto, il vecchietto abbracciò il signor Dursley cingendolo alla vita e poi si allontanò.
+festeggiare       	festeggiare       	Anche i Babbani come lei dovrebbero festeggiare questo felice, felicissimo giorno!» A quel punto, il vecchietto abbracciò il signor Dursley cingendolo alla vita e poi si allontanò.
+felice            	felice            	Anche i Babbani come lei dovrebbero festeggiare questo felice, felicissimo giorno!» A quel punto, il vecchietto abbracciò il signor Dursley cingendolo alla vita e poi si allontanò.
+vecchietto        	vecchio           	Anche i Babbani come lei dovrebbero festeggiare questo felice, felicissimo giorno!» A quel punto, il vecchietto abbracciò il signor Dursley cingendolo alla vita e poi si allontanò.
+abbracciò         	abbracciare       	Anche i Babbani come lei dovrebbero festeggiare questo felice, felicissimo giorno!» A quel punto, il vecchietto abbracciò il signor Dursley cingendolo alla vita e poi si allontanò.
+cingendolo        	cingere           	Anche i Babbani come lei dovrebbero festeggiare questo felice, felicissimo giorno!» A quel punto, il vecchietto abbracciò il signor Dursley cingendolo alla vita e poi si allontanò.
+vita              	vita              	Anche i Babbani come lei dovrebbero festeggiare questo felice, felicissimo giorno!» A quel punto, il vecchietto abbracciò il signor Dursley cingendolo alla vita e poi si allontanò.
+rimase            	rimanere          	Il signor Dursley rimase lì impalato.
+impalato          	impalato          	Il signor Dursley rimase lì impalato.
+perfetto          	perfetto          	Era stato abbracciato da un perfetto sconosciuto.
+sconosciuto       	sconosciuto       	Era stato abbracciato da un perfetto sconosciuto.
+tale              	tale              	Poi pensò che quel tale lo aveva chiamato ‘Babbano’, qualsiasi cosa volesse dire.
+qualsiasi         	qualsiasi         	Poi pensò che quel tale lo aveva chiamato ‘Babbano’, qualsiasi cosa volesse dire.
+esterrefatto      	esterrefatto      	Era esterrefatto.
+affrettò          	affrettarsi       	Si affrettò a raggiungere la macchina e partì alla volta di casa, sperando di aver lavorato di fantasia, cosa che non aveva mai sperato prima perché non approvava le fantasie.
+partì             	partire           	Si affrettò a raggiungere la macchina e partì alla volta di casa, sperando di aver lavorato di fantasia, cosa che non aveva mai sperato prima perché non approvava le fantasie.
+lavorato          	lavorare          	Si affrettò a raggiungere la macchina e partì alla volta di casa, sperando di aver lavorato di fantasia, cosa che non aveva mai sperato prima perché non approvava le fantasie.
+fantasia          	fantasia          	Si affrettò a raggiungere la macchina e partì alla volta di casa, sperando di aver lavorato di fantasia, cosa che non aveva mai sperato prima perché non approvava le fantasie.
+prima             	prima             	Si affrettò a raggiungere la macchina e partì alla volta di casa, sperando di aver lavorato di fantasia, cosa che non aveva mai sperato prima perché non approvava le fantasie.
+imboccato         	imboccare         	Non appena ebbe imboccato il vialetto del numero 4 di Privet Drive, la prima cosa che scorse – e che certo non contribuì a migliorare il suo umore – fu il gatto soriano che aveva visto la mattina.
+scorse            	scorgere          	Non appena ebbe imboccato il vialetto del numero 4 di Privet Drive, la prima cosa che scorse – e che certo non contribuì a migliorare il suo umore – fu il gatto soriano che aveva visto la mattina.
+contribuì         	contribuire       	Non appena ebbe imboccato il vialetto del numero 4 di Privet Drive, la prima cosa che scorse – e che certo non contribuì a migliorare il suo umore – fu il gatto soriano che aveva visto la mattina.
+migliorare        	migliorare        	Non appena ebbe imboccato il vialetto del numero 4 di Privet Drive, la prima cosa che scorse – e che certo non contribuì a migliorare il suo umore – fu il gatto soriano che aveva visto la mattina.
+cinta             	cinta             	Seduto sul muro di cinta del giardino.
+assolutamente     	assolutamente     	Era assolutamente certo che fosse lo stesso:
+stesso            	stesso            	Era assolutamente certo che fosse lo stesso:
+segni             	segno             	i segni intorno agli occhi erano identici.
+intorno           	intorno           	i segni intorno agli occhi erano identici.
+identici          	identico          	i segni intorno agli occhi erano identici.
+gridò             	gridare           	«Sciò!» gli gridò il signor Dursley.
+mosse             	muoversi          	Il gatto non si mosse.
+limitò            	limitarsi         	Si limitò a fissarlo con sguardo severo.
+severo            	severo            	Si limitò a fissarlo con sguardo severo.
+chiese            	chiedere          	Il signor Dursley si chiese se normalmente i gatti si comportassero così.
+normalmente       	normalmente       	Il signor Dursley si chiese se normalmente i gatti si comportassero così.
+comportassero     	comportarsi       	Il signor Dursley si chiese se normalmente i gatti si comportassero così.
+cercando          	cercare           	Cercando di riprendersi, entrò in casa.
+riprendersi       	riprendersi       	Cercando di riprendersi, entrò in casa.
+entrò             	entrare           	Cercando di riprendersi, entrò in casa.
+giornata          	giornata          	La signora Dursley aveva passato una buona giornata, in tutto e per tutto normale.
+cena              	cena              	A cena, gli raccontò per filo e per segno i guai che la signora Della-Porta-Accanto aveva con la figlia, e poi che Dudley aveva imparato una nuova frase:
+raccontò          	raccontare        	A cena, gli raccontò per filo e per segno i guai che la signora Della-Porta-Accanto aveva con la figlia, e poi che Dudley aveva imparato una nuova frase:
+filo              	filo              	A cena, gli raccontò per filo e per segno i guai che la signora Della-Porta-Accanto aveva con la figlia, e poi che Dudley aveva imparato una nuova frase:
+guai              	guaio             	A cena, gli raccontò per filo e per segno i guai che la signora Della-Porta-Accanto aveva con la figlia, e poi che Dudley aveva imparato una nuova frase:
+figlia            	figlia            	A cena, gli raccontò per filo e per segno i guai che la signora Della-Porta-Accanto aveva con la figlia, e poi che Dudley aveva imparato una nuova frase:
+imparato          	imparare          	A cena, gli raccontò per filo e per segno i guai che la signora Della-Porta-Accanto aveva con la figlia, e poi che Dudley aveva imparato una nuova frase:
+frase             	frase             	A cena, gli raccontò per filo e per segno i guai che la signora Della-Porta-Accanto aveva con la figlia, e poi che Dudley aveva imparato una nuova frase:
+letto             	letto             	Una volta messo a letto Dudley, se ne andò nel soggiorno appena in tempo per sentire l’ultimo telegiornale.
+soggiorno         	soggiorno         	Una volta messo a letto Dudley, se ne andò nel soggiorno appena in tempo per sentire l’ultimo telegiornale.
+telegiornale      	telegiornale      	Una volta messo a letto Dudley, se ne andò nel soggiorno appena in tempo per sentire l’ultimo telegiornale.
+infine            	infine            	«E infine, da tutte le postazioni gli avvistatori di uccelli riferiscono che oggi, sull’intero territorio nazionale, i gufi hanno manifestato un comportamento molto insolito.
+postazioni        	postazione        	«E infine, da tutte le postazioni gli avvistatori di uccelli riferiscono che oggi, sull’intero territorio nazionale, i gufi hanno manifestato un comportamento molto insolito.
+avvistatori       	avvisatore        	«E infine, da tutte le postazioni gli avvistatori di uccelli riferiscono che oggi, sull’intero territorio nazionale, i gufi hanno manifestato un comportamento molto insolito.
+uccelli           	uccello           	«E infine, da tutte le postazioni gli avvistatori di uccelli riferiscono che oggi, sull’intero territorio nazionale, i gufi hanno manifestato un comportamento molto insolito.
+riferiscono       	riferire          	«E infine, da tutte le postazioni gli avvistatori di uccelli riferiscono che oggi, sull’intero territorio nazionale, i gufi hanno manifestato un comportamento molto insolito.
+intero            	intero            	«E infine, da tutte le postazioni gli avvistatori di uccelli riferiscono che oggi, sull’intero territorio nazionale, i gufi hanno manifestato un comportamento molto insolito.
+territorio        	territorio        	«E infine, da tutte le postazioni gli avvistatori di uccelli riferiscono che oggi, sull’intero territorio nazionale, i gufi hanno manifestato un comportamento molto insolito.
+nazionale         	nazionale         	«E infine, da tutte le postazioni gli avvistatori di uccelli riferiscono che oggi, sull’intero territorio nazionale, i gufi hanno manifestato un comportamento molto insolito.
+manifestato       	manifestare       	«E infine, da tutte le postazioni gli avvistatori di uccelli riferiscono che oggi, sull’intero territorio nazionale, i gufi hanno manifestato un comportamento molto insolito.
+comportamento     	comportamento     	«E infine, da tutte le postazioni gli avvistatori di uccelli riferiscono che oggi, sull’intero territorio nazionale, i gufi hanno manifestato un comportamento molto insolito.
+sebbene           	sebbene           	Sebbene normalmente escano di notte a caccia di prede e ben di rado vengano avvistati di giorno, fin dall’alba sono stati segnalati centinaia di gufi che volavano in tutte le direzioni.
+caccia            	caccia            	Sebbene normalmente escano di notte a caccia di prede e ben di rado vengano avvistati di giorno, fin dall’alba sono stati segnalati centinaia di gufi che volavano in tutte le direzioni.
+ben               	bene              	Sebbene normalmente escano di notte a caccia di prede e ben di rado vengano avvistati di giorno, fin dall’alba sono stati segnalati centinaia di gufi che volavano in tutte le direzioni.
+rado              	rado              	Sebbene normalmente escano di notte a caccia di prede e ben di rado vengano avvistati di giorno, fin dall’alba sono stati segnalati centinaia di gufi che volavano in tutte le direzioni.
+avvistati         	avvistare         	Sebbene normalmente escano di notte a caccia di prede e ben di rado vengano avvistati di giorno, fin dall’alba sono stati segnalati centinaia di gufi che volavano in tutte le direzioni.
+alba              	alba              	Sebbene normalmente escano di notte a caccia di prede e ben di rado vengano avvistati di giorno, fin dall’alba sono stati segnalati centinaia di gufi che volavano in tutte le direzioni.
+segnalati         	segnalare         	Sebbene normalmente escano di notte a caccia di prede e ben di rado vengano avvistati di giorno, fin dall’alba sono stati segnalati centinaia di gufi che volavano in tutte le direzioni.
+centinaia         	centinaio         	Sebbene normalmente escano di notte a caccia di prede e ben di rado vengano avvistati di giorno, fin dall’alba sono stati segnalati centinaia di gufi che volavano in tutte le direzioni.
+direzioni         	direzione         	Sebbene normalmente escano di notte a caccia di prede e ben di rado vengano avvistati di giorno, fin dall’alba sono stati segnalati centinaia di gufi che volavano in tutte le direzioni.
+esperti           	esperto           	Gli esperti non sanno spiegare perché, tutt’a un tratto, i gufi abbiano modificato il loro ritmo sonno/veglia».
+spiegare          	spiegare          	Gli esperti non sanno spiegare perché, tutt’a un tratto, i gufi abbiano modificato il loro ritmo sonno/veglia».
+modificato        	modificare        	Gli esperti non sanno spiegare perché, tutt’a un tratto, i gufi abbiano modificato il loro ritmo sonno/veglia».
+ritmo             	ritmo             	Gli esperti non sanno spiegare perché, tutt’a un tratto, i gufi abbiano modificato il loro ritmo sonno/veglia».
+sonno             	sonno             	Gli esperti non sanno spiegare perché, tutt’a un tratto, i gufi abbiano modificato il loro ritmo sonno/veglia».
+veglia            	veglia            	Gli esperti non sanno spiegare perché, tutt’a un tratto, i gufi abbiano modificato il loro ritmo sonno/veglia».
+speaker           	speaker           	Lo speaker si lasciò scappare una risatina.
+scappare          	scappare          	Lo speaker si lasciò scappare una risatina.
+risatina          	risata            	Lo speaker si lasciò scappare una risatina.
+parola            	parola            	E ora, la parola a Jim McGuffin per le previsioni del tempo.
+previsioni        	previsione        	E ora, la parola a Jim McGuffin per le previsioni del tempo.
+prevedono         	prevedere         	Si prevedono altri scrosci di gufi, stanotte, Jim?
+scrosci           	scroscio          	Si prevedono altri scrosci di gufi, stanotte, Jim?
+stanotte          	stanotte          	Si prevedono altri scrosci di gufi, stanotte, Jim?
+francamente       	francamente       	» «Francamente, Ted» rispose il meteorologo, «su questo non so dirti niente, ma quest’oggi non sono stati soltanto i gufi a comportarsi in modo strano.
+rispose           	rispondere        	» «Francamente, Ted» rispose il meteorologo, «su questo non so dirti niente, ma quest’oggi non sono stati soltanto i gufi a comportarsi in modo strano.
+meteorologo       	meteorologo       	» «Francamente, Ted» rispose il meteorologo, «su questo non so dirti niente, ma quest’oggi non sono stati soltanto i gufi a comportarsi in modo strano.
+soltanto          	soltanto          	» «Francamente, Ted» rispose il meteorologo, «su questo non so dirti niente, ma quest’oggi non sono stati soltanto i gufi a comportarsi in modo strano.
+osservatori       	osservatore       	Gli osservatori di località distanti fra loro come il Kent, lo Yorkshire e Dundee mi hanno telefonato per informarmi che, al posto della pioggia che avevo promesso ieri, hanno avuto un diluvio di stelle cadenti.
+località          	località          	Gli osservatori di località distanti fra loro come il Kent, lo Yorkshire e Dundee mi hanno telefonato per informarmi che, al posto della pioggia che avevo promesso ieri, hanno avuto un diluvio di stelle cadenti.
+distanti          	distante          	Gli osservatori di località distanti fra loro come il Kent, lo Yorkshire e Dundee mi hanno telefonato per informarmi che, al posto della pioggia che avevo promesso ieri, hanno avuto un diluvio di stelle cadenti.
+fra               	fra               	Gli osservatori di località distanti fra loro come il Kent, lo Yorkshire e Dundee mi hanno telefonato per informarmi che, al posto della pioggia che avevo promesso ieri, hanno avuto un diluvio di stelle cadenti.
+mi                	mi                	Gli osservatori di località distanti fra loro come il Kent, lo Yorkshire e Dundee mi hanno telefonato per informarmi che, al posto della pioggia che avevo promesso ieri, hanno avuto un diluvio di stelle cadenti.
+telefonato        	telefonare        	Gli osservatori di località distanti fra loro come il Kent, lo Yorkshire e Dundee mi hanno telefonato per informarmi che, al posto della pioggia che avevo promesso ieri, hanno avuto un diluvio di stelle cadenti.
+informarmi        	informare         	Gli osservatori di località distanti fra loro come il Kent, lo Yorkshire e Dundee mi hanno telefonato per informarmi che, al posto della pioggia che avevo promesso ieri, hanno avuto un diluvio di stelle cadenti.
+posto             	posto             	Gli osservatori di località distanti fra loro come il Kent, lo Yorkshire e Dundee mi hanno telefonato per informarmi che, al posto della pioggia che avevo promesso ieri, hanno avuto un diluvio di stelle cadenti.
+pioggia           	pioggia           	Gli osservatori di località distanti fra loro come il Kent, lo Yorkshire e Dundee mi hanno telefonato per informarmi che, al posto della pioggia che avevo promesso ieri, hanno avuto un diluvio di stelle cadenti.
+promesso          	promettere        	Gli osservatori di località distanti fra loro come il Kent, lo Yorkshire e Dundee mi hanno telefonato per informarmi che, al posto della pioggia che avevo promesso ieri, hanno avuto un diluvio di stelle cadenti.
+ieri              	ieri              	Gli osservatori di località distanti fra loro come il Kent, lo Yorkshire e Dundee mi hanno telefonato per informarmi che, al posto della pioggia che avevo promesso ieri, hanno avuto un diluvio di stelle cadenti.
+diluvio           	diluvio           	Gli osservatori di località distanti fra loro come il Kent, lo Yorkshire e Dundee mi hanno telefonato per informarmi che, al posto della pioggia che avevo promesso ieri, hanno avuto un diluvio di stelle cadenti.
+stelle            	stella            	Gli osservatori di località distanti fra loro come il Kent, lo Yorkshire e Dundee mi hanno telefonato per informarmi che, al posto della pioggia che avevo promesso ieri, hanno avuto un diluvio di stelle cadenti.
+cadenti           	cadente           	Gli osservatori di località distanti fra loro come il Kent, lo Yorkshire e Dundee mi hanno telefonato per informarmi che, al posto della pioggia che avevo promesso ieri, hanno avuto un diluvio di stelle cadenti.
+chissà            	chissà            	Chissà?
+forse             	forse             	Forse si è festeggiata in anticipo la Notte dei falò.
+anticipo          	anticipo          	Forse si è festeggiata in anticipo la Notte dei falò.
+falò              	falò              	Forse si è festeggiata in anticipo la Notte dei falò.
+tra               	tra               	Ma, gente, la Notte dei falò è soltanto tra una settimana!
+settimana         	settimana         	Ma, gente, la Notte dei falò è soltanto tra una settimana!
+comunque          	comunque          	Comunque, posso assicurare che stanotte pioverà».
+assicurare        	assicurare        	Comunque, posso assicurare che stanotte pioverà».
+pioverà           	piovere           	Comunque, posso assicurare che stanotte pioverà».
+poltrona          	poltrona          	Il signor Dursley rimase seduto in poltrona, come paralizzato.
+paralizzato       	paralizzato       	Il signor Dursley rimase seduto in poltrona, come paralizzato.
+bretagna          	Bretagna          	Stelle cadenti in tutta la Gran Bretagna?
+aggira            	aggirarsi         	Gente misteriosa che si aggira dappertutto avvolta in mantelli?
+dappertutto       	dappertutto       	Gente misteriosa che si aggira dappertutto avvolta in mantelli?
+bisbigli          	bisbiglio         	E quelle voci, quei bisbigli sui Potter... La signora Dursley entrò in soggiorno portando due tazze di tè.
+tazze             	tazza             	E quelle voci, quei bisbigli sui Potter... La signora Dursley entrò in soggiorno portando due tazze di tè.
+tè                	tè|te_2           	E quelle voci, quei bisbigli sui Potter... La signora Dursley entrò in soggiorno portando due tazze di tè.
+schiarì           	schiarire         	Si schiarì nervosamente la voce.
+nervosamente      	nervosamente      	Si schiarì nervosamente la voce.
+petunia           	petunia           	«Ehm, Petunia, mia cara... non è che per caso hai sentito tua sorella, ultimamente?» Come aveva previsto, la signora Dursley assunse un’aria esterrefatta e adirata.
+caso              	caso              	«Ehm, Petunia, mia cara... non è che per caso hai sentito tua sorella, ultimamente?» Come aveva previsto, la signora Dursley assunse un’aria esterrefatta e adirata.
+tua               	tuo               	«Ehm, Petunia, mia cara... non è che per caso hai sentito tua sorella, ultimamente?» Come aveva previsto, la signora Dursley assunse un’aria esterrefatta e adirata.
+ultimamente       	ultimamente       	«Ehm, Petunia, mia cara... non è che per caso hai sentito tua sorella, ultimamente?» Come aveva previsto, la signora Dursley assunse un’aria esterrefatta e adirata.
+assunse           	assumere          	«Ehm, Petunia, mia cara... non è che per caso hai sentito tua sorella, ultimamente?» Come aveva previsto, la signora Dursley assunse un’aria esterrefatta e adirata.
+aria              	aria              	«Ehm, Petunia, mia cara... non è che per caso hai sentito tua sorella, ultimamente?» Come aveva previsto, la signora Dursley assunse un’aria esterrefatta e adirata.
+adirata           	adirato           	«Ehm, Petunia, mia cara... non è che per caso hai sentito tua sorella, ultimamente?» Come aveva previsto, la signora Dursley assunse un’aria esterrefatta e adirata.
+fin               	fine              	In fin dei conti, erano abituati a far finta che non avesse una sorella.
+abituati          	abituare          	In fin dei conti, erano abituati a far finta che non avesse una sorella.
+seccamente        	seccamente        	«No» rispose seccamente.
+mah               	mah               	«Perché?» «Mah, non so... al telegiornale hanno detto cose strane» bofonchiò il signor Dursley.
+allora            	allora            	«Gufi... stelle cadenti... e oggi, in città, un sacco di gente strampalata...» «E allora?
+sbottò            	sbottare          	» sbottò la signora Dursley.
+capito            	capire            	«Niente, pensavo soltanto... forse... qualcosa che avesse a che fare con... hai capito, no?
+sorseggiò         	sorseggiare       	La signora Dursley sorseggiò il tè a labbra strette.
+strette           	stretto           	La signora Dursley sorseggiò il tè a labbra strette.
+intanto           	intanto           	Il signor Dursley si chiedeva intanto se avrebbe mai osato dirle di aver sentito pronunciare il nome ‘Potter’.
+osato             	osare             	Il signor Dursley si chiedeva intanto se avrebbe mai osato dirle di aver sentito pronunciare il nome ‘Potter’.
+pronunciare       	pronunciare       	Il signor Dursley si chiedeva intanto se avrebbe mai osato dirle di aver sentito pronunciare il nome ‘Potter’.
+invece            	invece            	E invece, con il tono più naturale che gli riuscì di trovare, disse:
+tono              	tono              	E invece, con il tono più naturale che gli riuscì di trovare, disse:
+naturale          	naturale          	E invece, con il tono più naturale che gli riuscì di trovare, disse:
+riuscì            	riuscire          	E invece, con il tono più naturale che gli riuscì di trovare, disse:
+età               	età               	«Il figlio... dovrebbe avere la stessa età di Dudley, giusto?
+giusto            	giusto            	«Il figlio... dovrebbe avere la stessa età di Dudley, giusto?
+rigida            	rigido            	» «Credo di sì» rispose la signora Dursley, rigida come un manico di scopa.
+manico            	manico            	» «Credo di sì» rispose la signora Dursley, rigida come un manico di scopa.
+scopa             	scopa             	» «Credo di sì» rispose la signora Dursley, rigida come un manico di scopa.
+terribilmente     	terribilmente     	Che poi è un nome terribilmente ordinario, se proprio lo vuoi sapere».
+ordinario         	ordinario         	Che poi è un nome terribilmente ordinario, se proprio lo vuoi sapere».
+tuffo             	tuffo             	«Eh già» disse il signor Dursley con un tuffo al cuore.
+cuore             	cuore             	«Eh già» disse il signor Dursley con un tuffo al cuore.
+accordo           	accordo           	«Sono proprio d’accordo».
+camera            	camera            	Salirono in camera per andare a dormire senza più dire una parola sull’argomento.
+dormire           	dormire           	Salirono in camera per andare a dormire senza più dire una parola sull’argomento.
+argomento         	argomento         	Salirono in camera per andare a dormire senza più dire una parola sull’argomento.
+bagno             	bagno             	Mentre la moglie era in bagno, il signor Dursley si avvicinò guardingo alla finestra della camera da letto e sbirciò fuori, nel giardino.
+avvicinò          	avvicinarsi       	Mentre la moglie era in bagno, il signor Dursley si avvicinò guardingo alla finestra della camera da letto e sbirciò fuori, nel giardino.
+guardingo         	guardingo         	Mentre la moglie era in bagno, il signor Dursley si avvicinò guardingo alla finestra della camera da letto e sbirciò fuori, nel giardino.
+sbirciò           	sbirciare         	Mentre la moglie era in bagno, il signor Dursley si avvicinò guardingo alla finestra della camera da letto e sbirciò fuori, nel giardino.
+fuori             	fuori             	Mentre la moglie era in bagno, il signor Dursley si avvicinò guardingo alla finestra della camera da letto e sbirciò fuori, nel giardino.
+scrutando         	scrutare          	Stava scrutando Privet Drive, come se aspettasse qualcosa.
+aspettasse        	aspettare         	Stava scrutando Privet Drive, come se aspettasse qualcosa.
+galoppava         	galoppare         	La sua fantasia galoppava troppo?
+troppo            	troppo            	La sua fantasia galoppava troppo?
+cioè              	cioè              	Se sì... cioè, se veniva fuori che loro erano parenti di una coppia di... be’, non credeva proprio di poterlo sopportare.
+parenti           	parente           	Se sì... cioè, se veniva fuori che loro erano parenti di una coppia di... be’, non credeva proprio di poterlo sopportare.
+coppia            	coppia            	Se sì... cioè, se veniva fuori che loro erano parenti di una coppia di... be’, non credeva proprio di poterlo sopportare.
+misero            	misero            	Si misero a letto.
+addormentò        	addormentarsi     	Lei si addormentò subito, ma lui rimase lì steso, con gli occhi sbarrati, a rimuginare.
+subito            	subito            	Lei si addormentò subito, ma lui rimase lì steso, con gli occhi sbarrati, a rimuginare.
+steso             	stendere          	Lei si addormentò subito, ma lui rimase lì steso, con gli occhi sbarrati, a rimuginare.
+sbarrati          	sbarrato          	Lei si addormentò subito, ma lui rimase lì steso, con gli occhi sbarrati, a rimuginare.
+rimuginare        	rimuginare        	Lei si addormentò subito, ma lui rimase lì steso, con gli occhi sbarrati, a rimuginare.
+confortante       	confortante       	L’ultimo, confortante pensiero prima di addormentarsi fu che, se anche i Potter avevano veramente qualcosa a che vedere con quella faccenda, non era affatto detto che dovessero farsi vivi con lui e sua moglie.
+veramente         	veramente         	L’ultimo, confortante pensiero prima di addormentarsi fu che, se anche i Potter avevano veramente qualcosa a che vedere con quella faccenda, non era affatto detto che dovessero farsi vivi con lui e sua moglie.
+faccenda          	faccenda          	L’ultimo, confortante pensiero prima di addormentarsi fu che, se anche i Potter avevano veramente qualcosa a che vedere con quella faccenda, non era affatto detto che dovessero farsi vivi con lui e sua moglie.
+affatto           	affatto           	L’ultimo, confortante pensiero prima di addormentarsi fu che, se anche i Potter avevano veramente qualcosa a che vedere con quella faccenda, non era affatto detto che dovessero farsi vivi con lui e sua moglie.
+farsi             	farsi             	L’ultimo, confortante pensiero prima di addormentarsi fu che, se anche i Potter avevano veramente qualcosa a che vedere con quella faccenda, non era affatto detto che dovessero farsi vivi con lui e sua moglie.
+vivi              	vivo              	L’ultimo, confortante pensiero prima di addormentarsi fu che, se anche i Potter avevano veramente qualcosa a che vedere con quella faccenda, non era affatto detto che dovessero farsi vivi con lui e sua moglie.
+risma             	risma             	I Potter sapevano molto bene quel che lui e Petunia pensavano di loro e di quelli della loro risma... Non vedeva proprio come potessero venire coinvolti, di qualsiasi cosa si trattasse – e qui sbadigliò e si girò dall’altra parte – la cosa non poteva riguardarli... Ma si sbagliava di grosso.
+coinvolti         	coinvolgere       	I Potter sapevano molto bene quel che lui e Petunia pensavano di loro e di quelli della loro risma... Non vedeva proprio come potessero venire coinvolti, di qualsiasi cosa si trattasse – e qui sbadigliò e si girò dall’altra parte – la cosa non poteva riguardarli... Ma si sbagliava di grosso.
+qui               	qui               	I Potter sapevano molto bene quel che lui e Petunia pensavano di loro e di quelli della loro risma... Non vedeva proprio come potessero venire coinvolti, di qualsiasi cosa si trattasse – e qui sbadigliò e si girò dall’altra parte – la cosa non poteva riguardarli... Ma si sbagliava di grosso.
+sbadigliò         	sbadigliare       	I Potter sapevano molto bene quel che lui e Petunia pensavano di loro e di quelli della loro risma... Non vedeva proprio come potessero venire coinvolti, di qualsiasi cosa si trattasse – e qui sbadigliò e si girò dall’altra parte – la cosa non poteva riguardarli... Ma si sbagliava di grosso.
+riguardarli       	riguardare        	I Potter sapevano molto bene quel che lui e Petunia pensavano di loro e di quelli della loro risma... Non vedeva proprio come potessero venire coinvolti, di qualsiasi cosa si trattasse – e qui sbadigliò e si girò dall’altra parte – la cosa non poteva riguardarli... Ma si sbagliava di grosso.
+sbagliava         	sbagliarsi        	I Potter sapevano molto bene quel che lui e Petunia pensavano di loro e di quelli della loro risma... Non vedeva proprio come potessero venire coinvolti, di qualsiasi cosa si trattasse – e qui sbadigliò e si girò dall’altra parte – la cosa non poteva riguardarli... Ma si sbagliava di grosso.
+scivolato         	scivolare         	Se il signor Dursley era scivolato in un sonno agitato, il gatto, seduto sul muretto di fuori, non dava alcun segno di aver sonno.
+agitato           	agitato           	Se il signor Dursley era scivolato in un sonno agitato, il gatto, seduto sul muretto di fuori, non dava alcun segno di aver sonno.
+immobile          	immobile          	Sedeva immobile come una statua, con gli occhi fissi e senza batter ciglio, all’angolo opposto di Privet Drive.
+statua            	statua            	Sedeva immobile come una statua, con gli occhi fissi e senza batter ciglio, all’angolo opposto di Privet Drive.
+fissi             	fisso             	Sedeva immobile come una statua, con gli occhi fissi e senza batter ciglio, all’angolo opposto di Privet Drive.
+batter            	battere           	Sedeva immobile come una statua, con gli occhi fissi e senza batter ciglio, all’angolo opposto di Privet Drive.
+ciglio            	ciglio            	Sedeva immobile come una statua, con gli occhi fissi e senza batter ciglio, all’angolo opposto di Privet Drive.
+opposto           	opposto           	Sedeva immobile come una statua, con gli occhi fissi e senza batter ciglio, all’angolo opposto di Privet Drive.
+minimo            	minimo            	E non ebbe il minimo soprassalto neanche quando, nella strada accanto, la portiera di una macchina sbatté forte, né quando due gufi gli sfrecciarono sopra la testa.
+soprassalto       	soprassalto       	E non ebbe il minimo soprassalto neanche quando, nella strada accanto, la portiera di una macchina sbatté forte, né quando due gufi gli sfrecciarono sopra la testa.
+portiera          	portiera          	E non ebbe il minimo soprassalto neanche quando, nella strada accanto, la portiera di una macchina sbatté forte, né quando due gufi gli sfrecciarono sopra la testa.
+forte             	forte             	E non ebbe il minimo soprassalto neanche quando, nella strada accanto, la portiera di una macchina sbatté forte, né quando due gufi gli sfrecciarono sopra la testa.
+né                	né|ne_2           	E non ebbe il minimo soprassalto neanche quando, nella strada accanto, la portiera di una macchina sbatté forte, né quando due gufi gli sfrecciarono sopra la testa.
+sfrecciarono      	sfrecciare        	E non ebbe il minimo soprassalto neanche quando, nella strada accanto, la portiera di una macchina sbatté forte, né quando due gufi gli sfrecciarono sopra la testa.
+mezzanotte        	mezzanotte        	Dovette farsi quasi mezzanotte prima che il gatto facesse il minimo movimento.
+movimento         	movimento         	Dovette farsi quasi mezzanotte prima che il gatto facesse il minimo movimento.
+apparve           	apparire          	Un uomo apparve all’angolo della strada che il gatto stava tenendo d’occhio;
+improvviso        	improvviso        	ma apparve così all’improvviso e silenziosamente che si sarebbe detto fosse spuntato direttamente dal terreno.
+silenziosamente   	silenziosamente   	ma apparve così all’improvviso e silenziosamente che si sarebbe detto fosse spuntato direttamente dal terreno.
+spuntato          	spuntare          	ma apparve così all’improvviso e silenziosamente che si sarebbe detto fosse spuntato direttamente dal terreno.
+direttamente      	direttamente      	ma apparve così all’improvviso e silenziosamente che si sarebbe detto fosse spuntato direttamente dal terreno.
+terreno           	terreno           	ma apparve così all’improvviso e silenziosamente che si sarebbe detto fosse spuntato direttamente dal terreno.
+coda              	coda              	La coda del gatto ebbe un guizzo e gli occhi divennero due fessure.
+guizzo            	guizzo            	La coda del gatto ebbe un guizzo e gli occhi divennero due fessure.
+divennero         	divenire          	La coda del gatto ebbe un guizzo e gli occhi divennero due fessure.
+fessure           	fessura           	La coda del gatto ebbe un guizzo e gli occhi divennero due fessure.
+simile            	simile            	In Privet Drive non s’era mai visto niente di simile.
+alto              	alto              	Era alto, magro e molto vecchio, a giudicare dall’argento dei capelli e della barba, talmente lunghi che li teneva infilati nella cintura.
+giudicare         	giudicare         	Era alto, magro e molto vecchio, a giudicare dall’argento dei capelli e della barba, talmente lunghi che li teneva infilati nella cintura.
+argento           	argento           	Era alto, magro e molto vecchio, a giudicare dall’argento dei capelli e della barba, talmente lunghi che li teneva infilati nella cintura.
+capelli           	capello           	Era alto, magro e molto vecchio, a giudicare dall’argento dei capelli e della barba, talmente lunghi che li teneva infilati nella cintura.
+barba             	barba             	Era alto, magro e molto vecchio, a giudicare dall’argento dei capelli e della barba, talmente lunghi che li teneva infilati nella cintura.
+infilati          	infilare          	Era alto, magro e molto vecchio, a giudicare dall’argento dei capelli e della barba, talmente lunghi che li teneva infilati nella cintura.
+cintura           	cintura           	Era alto, magro e molto vecchio, a giudicare dall’argento dei capelli e della barba, talmente lunghi che li teneva infilati nella cintura.
+tunica            	tunica            	Indossava una tunica, un mantello color porpora che strusciava per terra e stivali con i tacchi alti e le fibbie.
+color             	colore            	Indossava una tunica, un mantello color porpora che strusciava per terra e stivali con i tacchi alti e le fibbie.
+porpora           	porpora           	Indossava una tunica, un mantello color porpora che strusciava per terra e stivali con i tacchi alti e le fibbie.
+strusciava        	strusciare        	Indossava una tunica, un mantello color porpora che strusciava per terra e stivali con i tacchi alti e le fibbie.
+stivali           	stivale           	Indossava una tunica, un mantello color porpora che strusciava per terra e stivali con i tacchi alti e le fibbie.
+tacchi            	tacco             	Indossava una tunica, un mantello color porpora che strusciava per terra e stivali con i tacchi alti e le fibbie.
+fibbie            	fibbia            	Indossava una tunica, un mantello color porpora che strusciava per terra e stivali con i tacchi alti e le fibbie.
+dietro            	dietro            	Dietro gli occhiali a mezzaluna aveva occhi azzurro chiaro, luminosi e scintillanti, e il naso era molto lungo e ricurvo, come se l’avesse rotto almeno un paio di volte.
+occhiali          	occhiali          	Dietro gli occhiali a mezzaluna aveva occhi azzurro chiaro, luminosi e scintillanti, e il naso era molto lungo e ricurvo, come se l’avesse rotto almeno un paio di volte.
+mezzaluna         	mezzaluna         	Dietro gli occhiali a mezzaluna aveva occhi azzurro chiaro, luminosi e scintillanti, e il naso era molto lungo e ricurvo, come se l’avesse rotto almeno un paio di volte.
+azzurro           	azzurro           	Dietro gli occhiali a mezzaluna aveva occhi azzurro chiaro, luminosi e scintillanti, e il naso era molto lungo e ricurvo, come se l’avesse rotto almeno un paio di volte.
+chiaro            	chiaro            	Dietro gli occhiali a mezzaluna aveva occhi azzurro chiaro, luminosi e scintillanti, e il naso era molto lungo e ricurvo, come se l’avesse rotto almeno un paio di volte.
+luminosi          	luminoso          	Dietro gli occhiali a mezzaluna aveva occhi azzurro chiaro, luminosi e scintillanti, e il naso era molto lungo e ricurvo, come se l’avesse rotto almeno un paio di volte.
+scintillanti      	scintillante      	Dietro gli occhiali a mezzaluna aveva occhi azzurro chiaro, luminosi e scintillanti, e il naso era molto lungo e ricurvo, come se l’avesse rotto almeno un paio di volte.
+naso              	naso              	Dietro gli occhiali a mezzaluna aveva occhi azzurro chiaro, luminosi e scintillanti, e il naso era molto lungo e ricurvo, come se l’avesse rotto almeno un paio di volte.
+ricurvo           	ricurvo           	Dietro gli occhiali a mezzaluna aveva occhi azzurro chiaro, luminosi e scintillanti, e il naso era molto lungo e ricurvo, come se l’avesse rotto almeno un paio di volte.
+rotto             	rompere           	Dietro gli occhiali a mezzaluna aveva occhi azzurro chiaro, luminosi e scintillanti, e il naso era molto lungo e ricurvo, come se l’avesse rotto almeno un paio di volte.
+almeno            	almeno            	Dietro gli occhiali a mezzaluna aveva occhi azzurro chiaro, luminosi e scintillanti, e il naso era molto lungo e ricurvo, come se l’avesse rotto almeno un paio di volte.
+rendersi          	rendersi          	Albus Silente non sembrava rendersi conto di essere appena arrivato in una strada dove tutto, dal suo nome ai suoi stivali, risultava sgradito.
+arrivato          	arrivare          	Albus Silente non sembrava rendersi conto di essere appena arrivato in una strada dove tutto, dal suo nome ai suoi stivali, risultava sgradito.
+dove              	dove              	Albus Silente non sembrava rendersi conto di essere appena arrivato in una strada dove tutto, dal suo nome ai suoi stivali, risultava sgradito.
+risultava         	risultare         	Albus Silente non sembrava rendersi conto di essere appena arrivato in una strada dove tutto, dal suo nome ai suoi stivali, risultava sgradito.
+sgradito          	sgradito          	Albus Silente non sembrava rendersi conto di essere appena arrivato in una strada dove tutto, dal suo nome ai suoi stivali, risultava sgradito.
+rovistare         	rovistare         	Si dava un gran da fare a rovistare sotto il mantello, in cerca di qualcosa.
+sotto             	sotto             	Si dava un gran da fare a rovistare sotto il mantello, in cerca di qualcosa.
+cerca             	cerca             	Si dava un gran da fare a rovistare sotto il mantello, in cerca di qualcosa.
+osservato         	osservare         	Sembrò invece rendersi conto di essere osservato, perché all’improvviso guardò il gatto, che lo stava ancora fissando dall’estremità opposta della strada.
+estremità         	estremità         	Sembrò invece rendersi conto di essere osservato, perché all’improvviso guardò il gatto, che lo stava ancora fissando dall’estremità opposta della strada.
+ignota            	ignoto            	Per qualche ignota ragione, la vista del gatto sembrò divertirlo.
+vista             	vista             	Per qualche ignota ragione, la vista del gatto sembrò divertirlo.
+divertirlo        	divertire         	Per qualche ignota ragione, la vista del gatto sembrò divertirlo.
+ridacchiò         	ridacchiare       	Ridacchiò tra sé borbottando:
+sé                	sé|se_2           	Ridacchiò tra sé borbottando:
+borbottando       	borbottare        	Ridacchiò tra sé borbottando:
+tasca             	tasca             	Aveva trovato quel che stava cercando nella tasca interna del mantello.
+interna           	interno           	Aveva trovato quel che stava cercando nella tasca interna del mantello.
+accendino         	accendino         	Sembrava un accendino d’argento.
+aprì              	aprire            	Aprì il cappuccio, lo sollevò in aria e lo fece scattare.
+cappuccio         	cappuccio         	Aprì il cappuccio, lo sollevò in aria e lo fece scattare.
+sollevò           	sollevare         	Aprì il cappuccio, lo sollevò in aria e lo fece scattare.
+scattare          	scattare          	Aprì il cappuccio, lo sollevò in aria e lo fece scattare.
+lampione          	lampione          	Il lampione più vicino si fulminò con un piccolo schiocco.
+fulminò           	fulminarsi        	Il lampione più vicino si fulminò con un piccolo schiocco.
+schiocco          	schiocco          	Il lampione più vicino si fulminò con un piccolo schiocco.
+appresso          	appresso          	L’uomo lo fece scattare di nuovo, e questa volta si fulminò il lampione appresso.
+dodici            	dodici            	Dodici volte fece funzionare quel suo ‘spegnino’, fino a che l’unica illuminazione rimasta in tutta la strada furono due capocchie di spillo in lontananza:
+funzionare        	funzionare        	Dodici volte fece funzionare quel suo ‘spegnino’, fino a che l’unica illuminazione rimasta in tutta la strada furono due capocchie di spillo in lontananza:
+unica             	unico             	Dodici volte fece funzionare quel suo ‘spegnino’, fino a che l’unica illuminazione rimasta in tutta la strada furono due capocchie di spillo in lontananza:
+illuminazione     	illuminazione     	Dodici volte fece funzionare quel suo ‘spegnino’, fino a che l’unica illuminazione rimasta in tutta la strada furono due capocchie di spillo in lontananza:
+capocchie         	capocchia         	Dodici volte fece funzionare quel suo ‘spegnino’, fino a che l’unica illuminazione rimasta in tutta la strada furono due capocchie di spillo in lontananza:
+spillo            	spillo            	Dodici volte fece funzionare quel suo ‘spegnino’, fino a che l’unica illuminazione rimasta in tutta la strada furono due capocchie di spillo in lontananza:
+lontananza        	lontananza        	Dodici volte fece funzionare quel suo ‘spegnino’, fino a che l’unica illuminazione rimasta in tutta la strada furono due capocchie di spillo in lontananza:
+perfino           	perfino           	Se in quel momento qualcuno – perfino quell’occhio di lince del signor Dursley – avesse guardato fuori dalla finestra, non sarebbe riuscito a vedere niente di quel che stava accadendo in strada.
+lince             	lince             	Se in quel momento qualcuno – perfino quell’occhio di lince del signor Dursley – avesse guardato fuori dalla finestra, non sarebbe riuscito a vedere niente di quel che stava accadendo in strada.
+ripose            	riporre           	Silente ripose nuovamente il suo spegnino nella tasca del mantello e si incamminò verso il numero 4 di Privet Drive, dove si mise a sedere sul muretto, accanto al gatto.
+nuovamente        	nuovamente        	Silente ripose nuovamente il suo spegnino nella tasca del mantello e si incamminò verso il numero 4 di Privet Drive, dove si mise a sedere sul muretto, accanto al gatto.
+incamminò         	incamminarsi      	Silente ripose nuovamente il suo spegnino nella tasca del mantello e si incamminò verso il numero 4 di Privet Drive, dove si mise a sedere sul muretto, accanto al gatto.
+verso             	verso             	Silente ripose nuovamente il suo spegnino nella tasca del mantello e si incamminò verso il numero 4 di Privet Drive, dove si mise a sedere sul muretto, accanto al gatto.
+combinazione      	combinazione      	«Che combinazione!
+professoressa     	professore        	Anche lei qui, professoressa McGonagall?
+scomparso         	scomparire        	» Si voltò con un sorriso verso il soriano, ma questo era scomparso.
+donna             	donna             	Al suo posto, davanti a lui, c’era una donna dall’aspetto piuttosto severo, che portava un paio di occhiali squadrati di forma identica ai segni che il gatto aveva intorno agli occhi.
+aspetto           	aspetto           	Al suo posto, davanti a lui, c’era una donna dall’aspetto piuttosto severo, che portava un paio di occhiali squadrati di forma identica ai segni che il gatto aveva intorno agli occhi.
+piuttosto         	piuttosto         	Al suo posto, davanti a lui, c’era una donna dall’aspetto piuttosto severo, che portava un paio di occhiali squadrati di forma identica ai segni che il gatto aveva intorno agli occhi.
+squadrati         	squadrare         	Al suo posto, davanti a lui, c’era una donna dall’aspetto piuttosto severo, che portava un paio di occhiali squadrati di forma identica ai segni che il gatto aveva intorno agli occhi.
+forma             	forma             	Al suo posto, davanti a lui, c’era una donna dall’aspetto piuttosto severo, che portava un paio di occhiali squadrati di forma identica ai segni che il gatto aveva intorno agli occhi.
+neri              	nero              	I capelli neri erano raccolti in uno chignon.
+chignon           	chignon           	I capelli neri erano raccolti in uno chignon.
+decisamente       	decisamente       	Aveva l’aria decisamente scombussolata.
+scombussolata     	scombussolare     	Aveva l’aria decisamente scombussolata.
+io                	io                	«Come faceva a sapere che ero io?» chiese.
+posa              	posa              	«Perché, mia cara professoressa, non ho mai visto un gatto seduto in una posa così rigida».
+mattoni           	mattone           	«Anche lei sarebbe rigido se fosse rimasto seduto tutto il giorno su un muretto di mattoni» lo rimbeccò la professoressa McGonagall.
+rimbeccò          	rimbeccare        	«Anche lei sarebbe rigido se fosse rimasto seduto tutto il giorno su un muretto di mattoni» lo rimbeccò la professoressa McGonagall.
+imbattuto         	imbattersi        	Venendo qui mi sono imbattuto in una decina e più di feste e banchetti».
+decina            	decina            	Venendo qui mi sono imbattuto in una decina e più di feste e banchetti».
+feste             	festa             	Venendo qui mi sono imbattuto in una decina e più di feste e banchetti».
+banchetti         	banchetto         	Venendo qui mi sono imbattuto in una decina e più di feste e banchetti».
+tirò              	tirare            	La professoressa McGonagall tirò su sdegnosamente col naso.
+sdegnosamente     	sdegnosamente     	La professoressa McGonagall tirò su sdegnosamente col naso.
+impaziente        	impaziente        	«Eh già, stanno proprio tutti festeggiando» disse con tono impaziente.
+prudenti          	prudente          	«Ci si sarebbe potuti aspettare che fossero un po’ più prudenti, macché... anche i Babbani hanno notato che sta succedendo qualcosa.
+macché            	macché            	«Ci si sarebbe potuti aspettare che fossero un po’ più prudenti, macché... anche i Babbani hanno notato che sta succedendo qualcosa.
+succedendo        	succedere         	«Ci si sarebbe potuti aspettare che fossero un po’ più prudenti, macché... anche i Babbani hanno notato che sta succedendo qualcosa.
+buia              	buio              	E così dicendo si voltò verso la finestra buia del soggiorno dei Dursley.
+personalmente     	personalmente     	«L’ho sentito personalmente.
+stormi            	stormo            	Stormi di gufi... stelle cadenti...
+mica              	mica              	Be’, non sono mica del tutto stupidi.
+scommetto         	scommettere       	Stelle cadenti nel Kent... Ci scommetto che è stato Dedalus Diggle.
+svitato           	svitato           	È sempre stato un po’ svitato».
+dolcezza          	dolcezza          	«Non gli si può dar torto» disse Silente con dolcezza.
+undici            	undici            	«Per undici anni abbiamo avuto ben poco da festeggiare».
+irritato          	irritato          	«Lo so, lo so» disse la professoressa McGonagall in tono irritato.
+perdere           	perdere           	«Ma non è una buona ragione per perdere la testa.
+commettendo       	commettere        	Stanno commettendo una vera imprudenza a girare per la strada in pieno giorno, senza neanche vestirsi da Babbani, scambiandosi indiscrezioni».
+vera              	vero              	Stanno commettendo una vera imprudenza a girare per la strada in pieno giorno, senza neanche vestirsi da Babbani, scambiandosi indiscrezioni».
+imprudenza        	imprudenza        	Stanno commettendo una vera imprudenza a girare per la strada in pieno giorno, senza neanche vestirsi da Babbani, scambiandosi indiscrezioni».
+vestirsi          	vestirsi          	Stanno commettendo una vera imprudenza a girare per la strada in pieno giorno, senza neanche vestirsi da Babbani, scambiandosi indiscrezioni».
+scambiandosi      	scambiarsi        	Stanno commettendo una vera imprudenza a girare per la strada in pieno giorno, senza neanche vestirsi da Babbani, scambiandosi indiscrezioni».
+indiscrezioni     	indiscrezione     	Stanno commettendo una vera imprudenza a girare per la strada in pieno giorno, senza neanche vestirsi da Babbani, scambiandosi indiscrezioni».
+lanciò            	lanciare          	A quel punto, lanciò a Silente un’occhiata obliqua e penetrante, sperando che lui dicesse qualcosa;
+obliqua           	obliquo           	A quel punto, lanciò a Silente un’occhiata obliqua e penetrante, sperando che lui dicesse qualcosa;
+penetrante        	penetrante        	A quel punto, lanciò a Silente un’occhiata obliqua e penetrante, sperando che lui dicesse qualcosa;
+noi               	noi               	«Sarebbe un bel guaio se, proprio il giorno in cui sembra che Lei-Sa-Chi sia finalmente scomparso, i Babbani dovessero venire a sapere di noi.
+grati             	grato             	«Dobbiamo essere molto grati.
+caramella         	caramella         	È una caramella dei Babbani:
+matto             	matto             	io ne vado matto».
+freddamente       	freddamente       	«No grazie» rispose freddamente la professoressa McGonagall, come a voler dire che non era il momento adatto per le caramelle.
+adatto            	adatto            	«No grazie» rispose freddamente la professoressa McGonagall, come a voler dire che non era il momento adatto per le caramelle.
+buonsenso         	buonsenso         	«Come dicevo, anche se Lei-Sa-Chi se ne è veramente andato...» «Mia cara professoressa, una persona di buonsenso come lei potrebbe decidersi a chiamarlo anche per nome!
+decidersi         	decidersi         	«Come dicevo, anche se Lei-Sa-Chi se ne è veramente andato...» «Mia cara professoressa, una persona di buonsenso come lei potrebbe decidersi a chiamarlo anche per nome!
+chiamarlo         	chiamare          	«Come dicevo, anche se Lei-Sa-Chi se ne è veramente andato...» «Mia cara professoressa, una persona di buonsenso come lei potrebbe decidersi a chiamarlo anche per nome!
+allusioni         	allusione         	Tutte queste allusioni a ‘Lei-Sa-Chi’ sono una vera stupidaggine... Sono undici anni che cerco di convincere la gente a chiamarlo col suo vero nome:
+stupidaggine      	stupidaggine      	Tutte queste allusioni a ‘Lei-Sa-Chi’ sono una vera stupidaggine... Sono undici anni che cerco di convincere la gente a chiamarlo col suo vero nome:
+convincere        	convincere        	Tutte queste allusioni a ‘Lei-Sa-Chi’ sono una vera stupidaggine... Sono undici anni che cerco di convincere la gente a chiamarlo col suo vero nome:
+trasalì           	trasalire         	La professoressa McGonagall trasalì, ma Silente, che era impegnato a separare due caramelle che si erano incollate, sembrò non farvi caso.
+impegnato         	impegnato         	La professoressa McGonagall trasalì, ma Silente, che era impegnato a separare due caramelle che si erano incollate, sembrò non farvi caso.
+separare          	separare          	La professoressa McGonagall trasalì, ma Silente, che era impegnato a separare due caramelle che si erano incollate, sembrò non farvi caso.
+incollate         	incollarsi        	La professoressa McGonagall trasalì, ma Silente, che era impegnato a separare due caramelle che si erano incollate, sembrò non farvi caso.
+crea              	creare            	«Crea tanta di quella confusione continuare a dire ‘Lei-Sa-Chi’.
+confusione        	confusione        	«Crea tanta di quella confusione continuare a dire ‘Lei-Sa-Chi’.
+quale             	quale             	Non ho mai capito per quale ragione si debba avere tanta paura di pronunciare il nome di Voldemort».
+metà              	metà|meta_2       	«Io lo so bene» disse la professoressa McGonagall, in tono a metà fra l’esasperato e l’ammirato.
+esasperato        	esasperato        	«Io lo so bene» disse la professoressa McGonagall, in tono a metà fra l’esasperato e l’ammirato.
+ammirato          	ammirare          	«Io lo so bene» disse la professoressa McGonagall, in tono a metà fra l’esasperato e l’ammirato.
+oh                	oh                	Lo sanno tutti che lei è il solo di cui Lei-Sa... oh, d’accordo:
+lusinga           	lusingare         	«Lei mi lusinga» disse Silente con calma.
+calma             	calma             	«Lei mi lusinga» disse Silente con calma.
+nobile            	nobile            	«Soltanto perché lei è troppo... troppo nobile per usarli».
+usarli            	usare             	«Soltanto perché lei è troppo... troppo nobile per usarli».
+male              	male              	«Meno male che è buio.
+arrossivo         	arrossire         	Non arrossivo così da quella volta che Madame Pomfrey mi disse quanto le piacevano i miei nuovi paraorecchi».
+quanto            	quanto            	Non arrossivo così da quella volta che Madame Pomfrey mi disse quanto le piacevano i miei nuovi paraorecchi».
+piacevano         	piacere           	Non arrossivo così da quella volta che Madame Pomfrey mi disse quanto le piacevano i miei nuovi paraorecchi».
+paraorecchi       	paraorecchie      	Non arrossivo così da quella volta che Madame Pomfrey mi disse quanto le piacevano i miei nuovi paraorecchi».
+confronto         	confronto         	«I gufi sono niente in confronto alle voci che sono state messe in giro.
+premeva           	premere           	Su quel che l’ha fermato una buona volta?» Sembrava che la professoressa McGonagall fosse giunta al punto che più le premeva discutere, la vera ragione per cui era rimasta in attesa tutto il giorno su quel muretto freddo e duro, perché mai – né da gatto né da donna – aveva fissato Silente con uno sguardo così intenso.
+discutere         	discutere         	Su quel che l’ha fermato una buona volta?» Sembrava che la professoressa McGonagall fosse giunta al punto che più le premeva discutere, la vera ragione per cui era rimasta in attesa tutto il giorno su quel muretto freddo e duro, perché mai – né da gatto né da donna – aveva fissato Silente con uno sguardo così intenso.
+attesa            	attesa            	Su quel che l’ha fermato una buona volta?» Sembrava che la professoressa McGonagall fosse giunta al punto che più le premeva discutere, la vera ragione per cui era rimasta in attesa tutto il giorno su quel muretto freddo e duro, perché mai – né da gatto né da donna – aveva fissato Silente con uno sguardo così intenso.
+freddo            	freddo            	Su quel che l’ha fermato una buona volta?» Sembrava che la professoressa McGonagall fosse giunta al punto che più le premeva discutere, la vera ragione per cui era rimasta in attesa tutto il giorno su quel muretto freddo e duro, perché mai – né da gatto né da donna – aveva fissato Silente con uno sguardo così intenso.
+duro              	duro              	Su quel che l’ha fermato una buona volta?» Sembrava che la professoressa McGonagall fosse giunta al punto che più le premeva discutere, la vera ragione per cui era rimasta in attesa tutto il giorno su quel muretto freddo e duro, perché mai – né da gatto né da donna – aveva fissato Silente con uno sguardo così intenso.
+intenso           	intenso           	Su quel che l’ha fermato una buona volta?» Sembrava che la professoressa McGonagall fosse giunta al punto che più le premeva discutere, la vera ragione per cui era rimasta in attesa tutto il giorno su quel muretto freddo e duro, perché mai – né da gatto né da donna – aveva fissato Silente con uno sguardo così intenso.
+mormorassero      	mormorare         	Era chiaro che qualsiasi cosa ‘tutti’ mormorassero, lei non ci avrebbe creduto sin quando Silente non le avesse detto che era vero.
+sin               	sino              	Era chiaro che qualsiasi cosa ‘tutti’ mormorassero, lei non ci avrebbe creduto sin quando Silente non le avesse detto che era vero.
+occupato          	occupato          	Ma lui era occupato a scegliere un’altra Frizlemon e non rispose.
+incalzò           	incalzare         	«Quel che vanno dicendo» incalzò lei, «è che la notte scorsa Voldemort è spuntato fuori a Godric’s Hollow.
+corre             	correre           	Corre voce che Lily e James Potter siano... siano... insomma, siano morti».
+insomma           	insomma           	Corre voce che Lily e James Potter siano... siano... insomma, siano morti».
+morti             	morto             	Corre voce che Lily e James Potter siano... siano... insomma, siano morti».
+annuì             	annuire           	Silente annuì silenziosamente.
+sussulto          	sussulto          	La professoressa McGonagall ebbe un sussulto.
+mano              	mano              	«Lily e James... Non posso crederci... Non volevo crederci... Oh, Albus...» Silente allungò la mano e le diede un colpetto sulla spalla.
+spalla            	spalla            	«Lily e James... Non posso crederci... Non volevo crederci... Oh, Albus...» Silente allungò la mano e le diede un colpetto sulla spalla.
+gravemente        	gravemente        	«Lo so... lo so...» disse gravemente.
+proseguì          	proseguire        	La McGonagall proseguì con voce tremante:
+tremante          	tremante          	La McGonagall proseguì con voce tremante:
+uccidere          	uccidere          	Dicono che ha anche cercato di uccidere il figlio dei Potter, Harry.
+piccino           	piccino           	Quel piccino, non è riuscito a ucciderlo.
+ce                	ce                	Nessuno sa né come né perché, ma dicono che quando Voldemort non ce l’ha fatta a uccidere Harry Potter, in qualche modo il suo potere è venuto meno... ed è per questo che se n’è andato».
+triste            	triste            	Silente annuì triste.
+balbettò          	balbettare        	» balbettò la professoressa McGonagall.
+ammazzato         	ammazzare         	«Dopo tutto quel che ha fatto... dopo tutti quelli che ha ammazzato... non è riuscito a uccidere un bambino indifeso?
+indifeso          	indifeso          	«Dopo tutto quel che ha fatto... dopo tutti quelli che ha ammazzato... non è riuscito a uccidere un bambino indifeso?
+strabiliante      	strabiliante      	È strabiliante... di tutte le cose che avrebbero potuto fermarlo...
+fermarlo          	fermare           	È strabiliante... di tutte le cose che avrebbero potuto fermarlo...
+congetture        	congettura        	» «Possiamo solo fare congetture» disse Silente.
+fazzoletto        	fazzoletto        	La professoressa McGonagall tirò fuori un fazzoletto di trina e si asciugò le lacrime dietro gli occhiali.
+trina             	trina             	La professoressa McGonagall tirò fuori un fazzoletto di trina e si asciugò le lacrime dietro gli occhiali.
+asciugò           	asciugare         	La professoressa McGonagall tirò fuori un fazzoletto di trina e si asciugò le lacrime dietro gli occhiali.
+lacrime           	lacrima           	La professoressa McGonagall tirò fuori un fazzoletto di trina e si asciugò le lacrime dietro gli occhiali.
+profondo          	profondo          	Con un profondo sospiro, Silente estrasse dalla tasca un orologio d’oro e lo esaminò.
+sospiro           	sospiro           	Con un profondo sospiro, Silente estrasse dalla tasca un orologio d’oro e lo esaminò.
+estrasse          	estrarre          	Con un profondo sospiro, Silente estrasse dalla tasca un orologio d’oro e lo esaminò.
+orologio          	orologio          	Con un profondo sospiro, Silente estrasse dalla tasca un orologio d’oro e lo esaminò.
+oro               	oro               	Con un profondo sospiro, Silente estrasse dalla tasca un orologio d’oro e lo esaminò.
+esaminò           	esaminare         	Con un profondo sospiro, Silente estrasse dalla tasca un orologio d’oro e lo esaminò.
+lancette          	lancetta          	Aveva dodici lancette, ma al posto dei numeri c’erano alcuni piccoli pianeti che si muovevano lungo il bordo del quadrante.
+pianeti           	pianeta           	Aveva dodici lancette, ma al posto dei numeri c’erano alcuni piccoli pianeti che si muovevano lungo il bordo del quadrante.
+!muovevano        	muovere           	Aveva dodici lancette, ma al posto dei numeri c’erano alcuni piccoli pianeti che si muovevano lungo il bordo del quadrante.
+bordo             	bordo             	Aveva dodici lancette, ma al posto dei numeri c’erano alcuni piccoli pianeti che si muovevano lungo il bordo del quadrante.
+quadrante         	quadrante         	Aveva dodici lancette, ma al posto dei numeri c’erano alcuni piccoli pianeti che si muovevano lungo il bordo del quadrante.
+ritardo           	ritardo           	«Hagrid è in ritardo.
+proposito         	proposito         	A proposito, suppongo sia stato lui a dirle che sarei venuto qui».
+!suppongo         	supporre          	A proposito, suppongo sia stato lui a dirle che sarei venuto qui».
+zii               	zio               	«Sono venuto a portare Harry dai suoi zii.
+abitano           	abitare           	«Non vorrà mica dire... Non saranno mica quei due che abitano lì!
+esclamò           	esclamare         	» esclamò la McGonagall balzando in piedi e indicando il numero 4.
+balzando          	balzare           	» esclamò la McGonagall balzando in piedi e indicando il numero 4.
+piedi             	piede             	» esclamò la McGonagall balzando in piedi e indicando il numero 4.
+calci             	calco             	E poi quel bambino che hanno... l’ho visto prendere a calci sua madre per tutta la strada, urlando che voleva le caramelle!
+madre             	madre             	E poi quel bambino che hanno... l’ho visto prendere a calci sua madre per tutta la strada, urlando che voleva le caramelle!
+migliore          	migliore          	» «È il posto migliore per lui» disse Silente con fermezza.
+fermezza          	fermezza          	» «È il posto migliore per lui» disse Silente con fermezza.
+zia               	zia               	«La zia e lo zio potranno spiegargli tutto quando sarà più grande.
+scritto           	scrivere          	Ho scritto loro una lettera».
+lettera           	lettera           	Ho scritto loro una lettera».
+eco               	eco               	» gli fece eco la McGonagall con un filo di voce, tornando a sedersi sul muretto.
+sedersi           	sedersi           	» gli fece eco la McGonagall con un filo di voce, tornando a sedersi sul muretto.
+davvero           	davvero           	«Ma davvero, Silente, crede di poter spiegare tutto questo per lettera?
+diventerà         	diventare         	Lui diventerà famoso... leggendario!
+famoso            	famoso            	Lui diventerà famoso... leggendario!
+leggendario       	leggendario       	Lui diventerà famoso... leggendario!
+stupirebbe        	stupire           	Non mi stupirebbe se in futuro la giornata di oggi venisse designata come l’Harry Potter Day.
+futuro            	futuro            	Non mi stupirebbe se in futuro la giornata di oggi venisse designata come l’Harry Potter Day.
+designata         	designare         	Non mi stupirebbe se in futuro la giornata di oggi venisse designata come l’Harry Potter Day.
+volumi            	volume            	Si scriveranno volumi su di lui, tutti i bambini del nostro mondo conosceranno il suo nome!
+conosceranno      	conoscere         	Si scriveranno volumi su di lui, tutti i bambini del nostro mondo conosceranno il suo nome!
+serio             	serio             	«Proprio così» disse Silente fissandola tutto serio da sopra gli occhiali a mezzaluna.
+abbastanza        	abbastanza        	«Ce ne sarebbe abbastanza per far girare la testa a qualsiasi ragazzo.
+ragazzo           	ragazzo           	«Ce ne sarebbe abbastanza per far girare la testa a qualsiasi ragazzo.
+camminare         	camminare         	Famoso prima ancora di camminare e di parlare!
+!conservato       	conservare        	Famoso per qualcosa di cui non avrà conservato neanche il ricordo!
+ricordo           	ricordo           	Famoso per qualcosa di cui non avrà conservato neanche il ricordo!
+meglio            	meglio            	Non riesce a capire quanto starà meglio, se crescerà lontano da tutto questo fino al giorno in cui sarà pronto per reggerlo?» La professoressa McGonagall aprì bocca per rispondere, poi cambiò idea, deglutì e disse:
+crescerà          	crescere          	Non riesce a capire quanto starà meglio, se crescerà lontano da tutto questo fino al giorno in cui sarà pronto per reggerlo?» La professoressa McGonagall aprì bocca per rispondere, poi cambiò idea, deglutì e disse:
+lontano           	lontano           	Non riesce a capire quanto starà meglio, se crescerà lontano da tutto questo fino al giorno in cui sarà pronto per reggerlo?» La professoressa McGonagall aprì bocca per rispondere, poi cambiò idea, deglutì e disse:
+pronto            	pronto            	Non riesce a capire quanto starà meglio, se crescerà lontano da tutto questo fino al giorno in cui sarà pronto per reggerlo?» La professoressa McGonagall aprì bocca per rispondere, poi cambiò idea, deglutì e disse:
+reggerlo          	reggere           	Non riesce a capire quanto starà meglio, se crescerà lontano da tutto questo fino al giorno in cui sarà pronto per reggerlo?» La professoressa McGonagall aprì bocca per rispondere, poi cambiò idea, deglutì e disse:
+deglutì           	deglutire         	Non riesce a capire quanto starà meglio, se crescerà lontano da tutto questo fino al giorno in cui sarà pronto per reggerlo?» La professoressa McGonagall aprì bocca per rispondere, poi cambiò idea, deglutì e disse:
+naturalmente      	naturalmente      	«Sì... sì, lei ha ragione, naturalmente.
+nascosto          	nascosto          	D’un tratto guardò il mantello di Silente come se pensasse che Harry potesse essere nascosto lì sotto.
+pare              	parere            	«E a lei pare... saggio... affidare a Hagrid un compito tanto importante?
+saggio            	saggio            	«E a lei pare... saggio... affidare a Hagrid un compito tanto importante?
+affidare          	affidare          	«E a lei pare... saggio... affidare a Hagrid un compito tanto importante?
+compito           	compito           	«E a lei pare... saggio... affidare a Hagrid un compito tanto importante?
+ammettere         	ammettere         	«Non dico che non abbia cuore» dovette ammettere la McGonagall, «ma non può negare che sia uno sventato.
+negare            	negare            	«Non dico che non abbia cuore» dovette ammettere la McGonagall, «ma non può negare che sia uno sventato.
+sventato          	sventato          	«Non dico che non abbia cuore» dovette ammettere la McGonagall, «ma non può negare che sia uno sventato.
+tende             	tendere           	Tende a... Ma cosa è stato?» Il silenzio che li circondava era stato lacerato da un rombo cupo.
+silenzio          	silenzio          	Tende a... Ma cosa è stato?» Il silenzio che li circondava era stato lacerato da un rombo cupo.
+circondava        	circondare        	Tende a... Ma cosa è stato?» Il silenzio che li circondava era stato lacerato da un rombo cupo.
+lacerato          	lacerare          	Tende a... Ma cosa è stato?» Il silenzio che li circondava era stato lacerato da un rombo cupo.
+rombo             	rombo             	Tende a... Ma cosa è stato?» Il silenzio che li circondava era stato lacerato da un rombo cupo.
+cupo              	cupo              	Tende a... Ma cosa è stato?» Il silenzio che li circondava era stato lacerato da un rombo cupo.
+fari              	faro              	Mentre Silente e la McGonagall percorrevano con lo sguardo la strada per vedere se si avvicinassero dei fari, il rumore si fece sempre più forte, fino a diventare un boato.
+rumore            	rumore            	Mentre Silente e la McGonagall percorrevano con lo sguardo la strada per vedere se si avvicinassero dei fari, il rumore si fece sempre più forte, fino a diventare un boato.
+boato             	boato             	Mentre Silente e la McGonagall percorrevano con lo sguardo la strada per vedere se si avvicinassero dei fari, il rumore si fece sempre più forte, fino a diventare un boato.
+entrambi          	entrambi          	Entrambi levarono lo sguardo al cielo e dall’aria piovve una gigantesca motocicletta che atterrò sull’asfalto proprio davanti a loro.
+levarono          	levare            	Entrambi levarono lo sguardo al cielo e dall’aria piovve una gigantesca motocicletta che atterrò sull’asfalto proprio davanti a loro.
+gigantesca        	gigantesco        	Entrambi levarono lo sguardo al cielo e dall’aria piovve una gigantesca motocicletta che atterrò sull’asfalto proprio davanti a loro.
+motocicletta      	motocicletta      	Entrambi levarono lo sguardo al cielo e dall’aria piovve una gigantesca motocicletta che atterrò sull’asfalto proprio davanti a loro.
+atterrò           	atterrare         	Entrambi levarono lo sguardo al cielo e dall’aria piovve una gigantesca motocicletta che atterrò sull’asfalto proprio davanti a loro.
+asfalto           	asfalto           	Entrambi levarono lo sguardo al cielo e dall’aria piovve una gigantesca motocicletta che atterrò sull’asfalto proprio davanti a loro.
+pur               	pure              	Pur colossale com’era, la moto sembrava niente a confronto con l’uomo che la inforcava.
+colossale         	colossale         	Pur colossale com’era, la moto sembrava niente a confronto con l’uomo che la inforcava.
+moto              	moto              	Pur colossale com’era, la moto sembrava niente a confronto con l’uomo che la inforcava.
+inforcava         	inforcare         	Pur colossale com’era, la moto sembrava niente a confronto con l’uomo che la inforcava.
+circa             	circa             	Era alto circa due volte un uomo normale e almeno cinque volte più grosso.
+semplicemente     	semplicemente     	Sembrava semplicemente troppo per essere vero, e aveva un aspetto terribilmente selvaggio:
+selvaggio         	selvaggio         	Sembrava semplicemente troppo per essere vero, e aveva un aspetto terribilmente selvaggio:
+ciocche           	ciocca            	lunghe ciocche di ispidi capelli neri e una folta barba gli nascondevano gran parte del volto;
+ispidi            	ispido            	lunghe ciocche di ispidi capelli neri e una folta barba gli nascondevano gran parte del volto;
+folta             	folto             	lunghe ciocche di ispidi capelli neri e una folta barba gli nascondevano gran parte del volto;
+coperchio         	coperchio         	ogni mano era grande come il coperchio di un bidone dei rifiuti e i piedi, che calzavano stivali di cuoio, sembravano due piccoli delfini.
+bidone            	bidone            	ogni mano era grande come il coperchio di un bidone dei rifiuti e i piedi, che calzavano stivali di cuoio, sembravano due piccoli delfini.
+rifiuti           	rifiuto           	ogni mano era grande come il coperchio di un bidone dei rifiuti e i piedi, che calzavano stivali di cuoio, sembravano due piccoli delfini.
+calzavano         	calzare           	ogni mano era grande come il coperchio di un bidone dei rifiuti e i piedi, che calzavano stivali di cuoio, sembravano due piccoli delfini.
+cuoio             	cuoio             	ogni mano era grande come il coperchio di un bidone dei rifiuti e i piedi, che calzavano stivali di cuoio, sembravano due piccoli delfini.
+delfini           	delfino           	ogni mano era grande come il coperchio di un bidone dei rifiuti e i piedi, che calzavano stivali di cuoio, sembravano due piccoli delfini.
+braccia           	braccio           	Tra le braccia immense e muscolose reggeva un fagotto di coperte.
+immense           	immenso           	Tra le braccia immense e muscolose reggeva un fagotto di coperte.
+muscolose         	muscoloso         	Tra le braccia immense e muscolose reggeva un fagotto di coperte.
+fagotto           	fagotto           	Tra le braccia immense e muscolose reggeva un fagotto di coperte.
+prestito          	prestito          	» «Ce l’ho in prestito, professor Silente, signore» e così dicendo, il gigante scese con circospezione dalla moto.
+gigante           	gigante           	» «Ce l’ho in prestito, professor Silente, signore» e così dicendo, il gigante scese con circospezione dalla moto.
+scese             	scendere          	» «Ce l’ho in prestito, professor Silente, signore» e così dicendo, il gigante scese con circospezione dalla moto.
+circospezione     	circospezione     	» «Ce l’ho in prestito, professor Silente, signore» e così dicendo, il gigante scese con circospezione dalla moto.
+me                	me                	«Me l’ha data il giovane Sirius Black.
+problemi          	problema          	«Ci sono stati problemi?
+distrutta         	distruggere       	la casa era distrutta, diciamo, ma io sono riuscito a tirarlo fuori prima che i Babbani cominciassero a ficcare il naso.
+cominciassero     	cominciare        	la casa era distrutta, diciamo, ma io sono riuscito a tirarlo fuori prima che i Babbani cominciassero a ficcare il naso.
+ficcare           	ficcare           	la casa era distrutta, diciamo, ma io sono riuscito a tirarlo fuori prima che i Babbani cominciassero a ficcare il naso.
+chinarono         	chinarsi          	Silente e la McGonagall si chinarono sul fagotto.
+dentro            	dentro            	Dentro, appena visibile, c’era un bambino profondamente addormentato.
+visibile          	visibile          	Dentro, appena visibile, c’era un bambino profondamente addormentato.
+profondamente     	profondamente     	Dentro, appena visibile, c’era un bambino profondamente addormentato.
+ciuffo            	ciuffo            	Sotto il ciuffo di capelli corvini che gli ricadeva sulla fronte, scorsero il segno di un taglio dalla forma bizzarra, simile a una saetta.
+corvini           	corvino           	Sotto il ciuffo di capelli corvini che gli ricadeva sulla fronte, scorsero il segno di un taglio dalla forma bizzarra, simile a una saetta.
+ricadeva          	ricadere          	Sotto il ciuffo di capelli corvini che gli ricadeva sulla fronte, scorsero il segno di un taglio dalla forma bizzarra, simile a una saetta.
+taglio            	taglio            	Sotto il ciuffo di capelli corvini che gli ricadeva sulla fronte, scorsero il segno di un taglio dalla forma bizzarra, simile a una saetta.
+bizzarra          	bizzarro          	Sotto il ciuffo di capelli corvini che gli ricadeva sulla fronte, scorsero il segno di un taglio dalla forma bizzarra, simile a una saetta.
+saetta            	saetta            	Sotto il ciuffo di capelli corvini che gli ricadeva sulla fronte, scorsero il segno di un taglio dalla forma bizzarra, simile a una saetta.
+cicatrice         	cicatrice         	«Questa cicatrice se la terrà per sempre».
+terrà             	tenersi           	«Questa cicatrice se la terrà per sempre».
+ginocchio         	ginocchio         	Anch’io ne ho una, sopra il ginocchio sinistro, che è una piantina perfetta della metropolitana di Londra.
+sinistro          	sinistro          	Anch’io ne ho una, sopra il ginocchio sinistro, che è una piantina perfetta della metropolitana di Londra.
+piantina          	piantina          	Anch’io ne ho una, sopra il ginocchio sinistro, che è una piantina perfetta della metropolitana di Londra.
+metropolitana     	metropolitano     	Anch’io ne ho una, sopra il ginocchio sinistro, che è una piantina perfetta della metropolitana di Londra.
+Londra            	Londra            	Anch’io ne ho una, sopra il ginocchio sinistro, che è una piantina perfetta della metropolitana di Londra.
+concludere        	concludere        	vediamo di concludere».
+salutino          	saluto            	«Posso... posso fargli un salutino, signore?» chiese Hagrid.
+chinò             	chinare           	Chinò la grossa e ispida testa su Harry e gli diede un bacio rasposo per via di tutta quella barba.
+rasposo           	rasposo           	Chinò la grossa e ispida testa su Harry e gli diede un bacio rasposo per via di tutta quella barba.
+via               	via               	Chinò la grossa e ispida testa su Harry e gli diede un bacio rasposo per via di tutta quella barba.
+ululò             	ululare           	Poi, d’un tratto, ululò come un cane ferito.
+cane              	cane              	Poi, d’un tratto, ululò come un cane ferito.
+ferito            	ferito            	Poi, d’un tratto, ululò come un cane ferito.
+sibilò            	sibilare          	«Shhh!» sibilò la McGonagall.
+sveglierai        	svegliare         	«Sveglierai i Babbani!» «S-s-scusatemi...» singhiozzò Hagrid tirando fuori un immenso fazzoletto a pallini e seppellendoci il viso dentro, «ma proprio n-n-non ce la faccio... Lily e James morti... e il povero piccolo Harry che se ne va a vivere coi Babbani...» «Sì, certo, è molto triste, ma vedi di controllarti, Hagrid, o ci scopriranno» sussurrò la McGonagall battendogli con cautela un colpetto sul braccio mentre Silente, scavalcando il basso muretto del giardino, si avviava verso la porta d’ingresso.
+singhiozzò        	singhiozzare      	«Sveglierai i Babbani!» «S-s-scusatemi...» singhiozzò Hagrid tirando fuori un immenso fazzoletto a pallini e seppellendoci il viso dentro, «ma proprio n-n-non ce la faccio... Lily e James morti... e il povero piccolo Harry che se ne va a vivere coi Babbani...» «Sì, certo, è molto triste, ma vedi di controllarti, Hagrid, o ci scopriranno» sussurrò la McGonagall battendogli con cautela un colpetto sul braccio mentre Silente, scavalcando il basso muretto del giardino, si avviava verso la porta d’ingresso.
+pallini           	pallino           	«Sveglierai i Babbani!» «S-s-scusatemi...» singhiozzò Hagrid tirando fuori un immenso fazzoletto a pallini e seppellendoci il viso dentro, «ma proprio n-n-non ce la faccio... Lily e James morti... e il povero piccolo Harry che se ne va a vivere coi Babbani...» «Sì, certo, è molto triste, ma vedi di controllarti, Hagrid, o ci scopriranno» sussurrò la McGonagall battendogli con cautela un colpetto sul braccio mentre Silente, scavalcando il basso muretto del giardino, si avviava verso la porta d’ingresso.
+seppellendoci     	seppellire        	«Sveglierai i Babbani!» «S-s-scusatemi...» singhiozzò Hagrid tirando fuori un immenso fazzoletto a pallini e seppellendoci il viso dentro, «ma proprio n-n-non ce la faccio... Lily e James morti... e il povero piccolo Harry che se ne va a vivere coi Babbani...» «Sì, certo, è molto triste, ma vedi di controllarti, Hagrid, o ci scopriranno» sussurrò la McGonagall battendogli con cautela un colpetto sul braccio mentre Silente, scavalcando il basso muretto del giardino, si avviava verso la porta d’ingresso.
+viso              	viso              	«Sveglierai i Babbani!» «S-s-scusatemi...» singhiozzò Hagrid tirando fuori un immenso fazzoletto a pallini e seppellendoci il viso dentro, «ma proprio n-n-non ce la faccio... Lily e James morti... e il povero piccolo Harry che se ne va a vivere coi Babbani...» «Sì, certo, è molto triste, ma vedi di controllarti, Hagrid, o ci scopriranno» sussurrò la McGonagall battendogli con cautela un colpetto sul braccio mentre Silente, scavalcando il basso muretto del giardino, si avviava verso la porta d’ingresso.
+vivere            	vivere            	«Sveglierai i Babbani!» «S-s-scusatemi...» singhiozzò Hagrid tirando fuori un immenso fazzoletto a pallini e seppellendoci il viso dentro, «ma proprio n-n-non ce la faccio... Lily e James morti... e il povero piccolo Harry che se ne va a vivere coi Babbani...» «Sì, certo, è molto triste, ma vedi di controllarti, Hagrid, o ci scopriranno» sussurrò la McGonagall battendogli con cautela un colpetto sul braccio mentre Silente, scavalcando il basso muretto del giardino, si avviava verso la porta d’ingresso.
+controllarti      	controllarsi      	«Sveglierai i Babbani!» «S-s-scusatemi...» singhiozzò Hagrid tirando fuori un immenso fazzoletto a pallini e seppellendoci il viso dentro, «ma proprio n-n-non ce la faccio... Lily e James morti... e il povero piccolo Harry che se ne va a vivere coi Babbani...» «Sì, certo, è molto triste, ma vedi di controllarti, Hagrid, o ci scopriranno» sussurrò la McGonagall battendogli con cautela un colpetto sul braccio mentre Silente, scavalcando il basso muretto del giardino, si avviava verso la porta d’ingresso.
+sussurrò          	sussurrare        	«Sveglierai i Babbani!» «S-s-scusatemi...» singhiozzò Hagrid tirando fuori un immenso fazzoletto a pallini e seppellendoci il viso dentro, «ma proprio n-n-non ce la faccio... Lily e James morti... e il povero piccolo Harry che se ne va a vivere coi Babbani...» «Sì, certo, è molto triste, ma vedi di controllarti, Hagrid, o ci scopriranno» sussurrò la McGonagall battendogli con cautela un colpetto sul braccio mentre Silente, scavalcando il basso muretto del giardino, si avviava verso la porta d’ingresso.
+cautela           	cautela           	«Sveglierai i Babbani!» «S-s-scusatemi...» singhiozzò Hagrid tirando fuori un immenso fazzoletto a pallini e seppellendoci il viso dentro, «ma proprio n-n-non ce la faccio... Lily e James morti... e il povero piccolo Harry che se ne va a vivere coi Babbani...» «Sì, certo, è molto triste, ma vedi di controllarti, Hagrid, o ci scopriranno» sussurrò la McGonagall battendogli con cautela un colpetto sul braccio mentre Silente, scavalcando il basso muretto del giardino, si avviava verso la porta d’ingresso.
+scavalcando       	scavalcare        	«Sveglierai i Babbani!» «S-s-scusatemi...» singhiozzò Hagrid tirando fuori un immenso fazzoletto a pallini e seppellendoci il viso dentro, «ma proprio n-n-non ce la faccio... Lily e James morti... e il povero piccolo Harry che se ne va a vivere coi Babbani...» «Sì, certo, è molto triste, ma vedi di controllarti, Hagrid, o ci scopriranno» sussurrò la McGonagall battendogli con cautela un colpetto sul braccio mentre Silente, scavalcando il basso muretto del giardino, si avviava verso la porta d’ingresso.
+basso             	basso             	«Sveglierai i Babbani!» «S-s-scusatemi...» singhiozzò Hagrid tirando fuori un immenso fazzoletto a pallini e seppellendoci il viso dentro, «ma proprio n-n-non ce la faccio... Lily e James morti... e il povero piccolo Harry che se ne va a vivere coi Babbani...» «Sì, certo, è molto triste, ma vedi di controllarti, Hagrid, o ci scopriranno» sussurrò la McGonagall battendogli con cautela un colpetto sul braccio mentre Silente, scavalcando il basso muretto del giardino, si avviava verso la porta d’ingresso.
+avviava           	avviarsi          	«Sveglierai i Babbani!» «S-s-scusatemi...» singhiozzò Hagrid tirando fuori un immenso fazzoletto a pallini e seppellendoci il viso dentro, «ma proprio n-n-non ce la faccio... Lily e James morti... e il povero piccolo Harry che se ne va a vivere coi Babbani...» «Sì, certo, è molto triste, ma vedi di controllarti, Hagrid, o ci scopriranno» sussurrò la McGonagall battendogli con cautela un colpetto sul braccio mentre Silente, scavalcando il basso muretto del giardino, si avviava verso la porta d’ingresso.
+porta             	porta             	«Sveglierai i Babbani!» «S-s-scusatemi...» singhiozzò Hagrid tirando fuori un immenso fazzoletto a pallini e seppellendoci il viso dentro, «ma proprio n-n-non ce la faccio... Lily e James morti... e il povero piccolo Harry che se ne va a vivere coi Babbani...» «Sì, certo, è molto triste, ma vedi di controllarti, Hagrid, o ci scopriranno» sussurrò la McGonagall battendogli con cautela un colpetto sul braccio mentre Silente, scavalcando il basso muretto del giardino, si avviava verso la porta d’ingresso.
+ingresso          	ingresso          	«Sveglierai i Babbani!» «S-s-scusatemi...» singhiozzò Hagrid tirando fuori un immenso fazzoletto a pallini e seppellendoci il viso dentro, «ma proprio n-n-non ce la faccio... Lily e James morti... e il povero piccolo Harry che se ne va a vivere coi Babbani...» «Sì, certo, è molto triste, ma vedi di controllarti, Hagrid, o ci scopriranno» sussurrò la McGonagall battendogli con cautela un colpetto sul braccio mentre Silente, scavalcando il basso muretto del giardino, si avviava verso la porta d’ingresso.
+depose            	deporre           	Depose dolcemente Harry sul gradino, tirò fuori dal mantello una lettera, l’infilò tra le coperte che avvolgevano Harry e tornò verso gli altri due.
+dolcemente        	dolcemente        	Depose dolcemente Harry sul gradino, tirò fuori dal mantello una lettera, l’infilò tra le coperte che avvolgevano Harry e tornò verso gli altri due.
+gradino           	gradino           	Depose dolcemente Harry sul gradino, tirò fuori dal mantello una lettera, l’infilò tra le coperte che avvolgevano Harry e tornò verso gli altri due.
+coperte           	coperta           	Depose dolcemente Harry sul gradino, tirò fuori dal mantello una lettera, l’infilò tra le coperte che avvolgevano Harry e tornò verso gli altri due.
+tre               	tre               	Per un lungo minuto i tre rimasero lì a guardare quel fagottino;
+scosso            	scosso            	Hagrid era scosso dai singhiozzi, la professoressa McGonagall non faceva che battere le palpebre, e lo scintillio che normalmente emanava dagli occhi di Silente sembrava svanito.
+singhiozzi        	singhiozzo        	Hagrid era scosso dai singhiozzi, la professoressa McGonagall non faceva che battere le palpebre, e lo scintillio che normalmente emanava dagli occhi di Silente sembrava svanito.
+palpebre          	palpebra          	Hagrid era scosso dai singhiozzi, la professoressa McGonagall non faceva che battere le palpebre, e lo scintillio che normalmente emanava dagli occhi di Silente sembrava svanito.
+scintillio        	scintillio        	Hagrid era scosso dai singhiozzi, la professoressa McGonagall non faceva che battere le palpebre, e lo scintillio che normalmente emanava dagli occhi di Silente sembrava svanito.
+emanava           	emanare           	Hagrid era scosso dai singhiozzi, la professoressa McGonagall non faceva che battere le palpebre, e lo scintillio che normalmente emanava dagli occhi di Silente sembrava svanito.
+svanito           	svanire           	Hagrid era scosso dai singhiozzi, la professoressa McGonagall non faceva che battere le palpebre, e lo scintillio che normalmente emanava dagli occhi di Silente sembrava svanito.
+ecco              	ecco              	«Be’» disse infine Silente, «ecco fatto.
+restare           	restare           	Non c’è più ragione di restare qui.
+vale              	valere            	Tanto vale che andiamo a prender parte ai festeggiamenti».
+festeggiamenti    	festeggiamenti    	Tanto vale che andiamo a prender parte ai festeggiamenti».
+soffocata         	soffocato         	«Già» disse Hagrid con voce soffocata, «allora io porto via la moto.
+inondati          	inondare          	Asciugandosi gli occhi inondati di lacrime con la manica della giacca, Hagrid si rimise a cavalcioni della motocicletta e accese il motore;
+manica            	manica            	Asciugandosi gli occhi inondati di lacrime con la manica della giacca, Hagrid si rimise a cavalcioni della motocicletta e accese il motore;
+giacca            	giacca            	Asciugandosi gli occhi inondati di lacrime con la manica della giacca, Hagrid si rimise a cavalcioni della motocicletta e accese il motore;
+rimise            	rimettere         	Asciugandosi gli occhi inondati di lacrime con la manica della giacca, Hagrid si rimise a cavalcioni della motocicletta e accese il motore;
+cavalcioni        	cavalcioni        	Asciugandosi gli occhi inondati di lacrime con la manica della giacca, Hagrid si rimise a cavalcioni della motocicletta e accese il motore;
+accese            	accendere         	Asciugandosi gli occhi inondati di lacrime con la manica della giacca, Hagrid si rimise a cavalcioni della motocicletta e accese il motore;
+motore            	motore            	Asciugandosi gli occhi inondati di lacrime con la manica della giacca, Hagrid si rimise a cavalcioni della motocicletta e accese il motore;
+sparì             	sparire           	si sollevò in aria con un rombo e sparì nella notte.
+rivedremo         	rivedersi         	«Penso che ci rivedremo presto, professoressa McGonagall» disse Silente facendole un cenno col capo.
+presto            	presto            	«Penso che ci rivedremo presto, professoressa McGonagall» disse Silente facendole un cenno col capo.
+cenno             	cenno             	«Penso che ci rivedremo presto, professoressa McGonagall» disse Silente facendole un cenno col capo.
+capo              	capo              	«Penso che ci rivedremo presto, professoressa McGonagall» disse Silente facendole un cenno col capo.
+risposta          	risposta          	Per tutta risposta, lei si soffiò il naso.
+soffiò            	soffiare          	Per tutta risposta, lei si soffiò il naso.
+sfere             	sfera             	Uno scatto, e dodici sfere luminose si riaccesero di colpo nei lampioni, illuminando Privet Drive di un bagliore aranciato.
+riaccesero        	riaccendersi      	Uno scatto, e dodici sfere luminose si riaccesero di colpo nei lampioni, illuminando Privet Drive di un bagliore aranciato.
+bagliore          	bagliore          	Uno scatto, e dodici sfere luminose si riaccesero di colpo nei lampioni, illuminando Privet Drive di un bagliore aranciato.
+aranciato         	aranciato         	Uno scatto, e dodici sfere luminose si riaccesero di colpo nei lampioni, illuminando Privet Drive di un bagliore aranciato.
+chiarore          	chiarore          	In quel chiarore vide un gatto soriano che se la svignava dietro l’angolo all’altro capo della strada.
+svignava          	svignarsela       	In quel chiarore vide un gatto soriano che se la svignava dietro l’angolo all’altro capo della strada.
+mucchietto        	mucchio           	Da quella distanza scorgeva appena il mucchietto di coperte sul gradino del numero 4.
+fortuna           	fortuna           	«Buona fortuna, Harry» mormorò.
+fruscio           	fruscio           	Poi girò sui tacchi e, con un fruscio del mantello, sparì.
+lieve             	lieve             	Una lieve brezza scompigliava le siepi ben potate di Privet Drive, che riposava, ordinata e silenziosa, sotto il cielo nero come l’inchiostro.
+brezza            	brezza            	Una lieve brezza scompigliava le siepi ben potate di Privet Drive, che riposava, ordinata e silenziosa, sotto il cielo nero come l’inchiostro.
+scompigliava      	scompigliare      	Una lieve brezza scompigliava le siepi ben potate di Privet Drive, che riposava, ordinata e silenziosa, sotto il cielo nero come l’inchiostro.
+potate            	potare            	Una lieve brezza scompigliava le siepi ben potate di Privet Drive, che riposava, ordinata e silenziosa, sotto il cielo nero come l’inchiostro.
+riposava          	riposare          	Una lieve brezza scompigliava le siepi ben potate di Privet Drive, che riposava, ordinata e silenziosa, sotto il cielo nero come l’inchiostro.
+ordinata          	ordinato          	Una lieve brezza scompigliava le siepi ben potate di Privet Drive, che riposava, ordinata e silenziosa, sotto il cielo nero come l’inchiostro.
+silenziosa        	silenzioso        	Una lieve brezza scompigliava le siepi ben potate di Privet Drive, che riposava, ordinata e silenziosa, sotto il cielo nero come l’inchiostro.
+inchiostro        	inchiostro        	Una lieve brezza scompigliava le siepi ben potate di Privet Drive, che riposava, ordinata e silenziosa, sotto il cielo nero come l’inchiostro.
+stupefacenti      	stupefacente      	L’ultimo posto dove ci si sarebbe aspettati di veder accadere cose stupefacenti.
+girò              	girarsi           	Sotto le sue coperte, Harry Potter si girò dall’altra parte senza svegliarsi.
+richiuse          	richiudersi       	Una manina si richiuse sulla lettera che aveva accanto e lui continuò a dormire, senza sapere che era speciale, senza sapere che era famoso, senza sapere che di lì a qualche ora sarebbe stato svegliato dall’urlo della signora Dursley che apriva la porta di casa per mettere fuori le bottiglie del latte, né che le settimane successive le avrebbe trascorse a farsi riempire di spintoni e pizzicotti dal cugino Dudley... Non poteva sapere che, in quello stesso istante, da un capo all’altro del Paese, c’erano persone che si riunivano in segreto e levavano i calici per brindare «a Harry Potter, il bambino che è sopravvissuto».
+speciale          	speciale          	Una manina si richiuse sulla lettera che aveva accanto e lui continuò a dormire, senza sapere che era speciale, senza sapere che era famoso, senza sapere che di lì a qualche ora sarebbe stato svegliato dall’urlo della signora Dursley che apriva la porta di casa per mettere fuori le bottiglie del latte, né che le settimane successive le avrebbe trascorse a farsi riempire di spintoni e pizzicotti dal cugino Dudley... Non poteva sapere che, in quello stesso istante, da un capo all’altro del Paese, c’erano persone che si riunivano in segreto e levavano i calici per brindare «a Harry Potter, il bambino che è sopravvissuto».
+bottiglie         	bottiglia         	Una manina si richiuse sulla lettera che aveva accanto e lui continuò a dormire, senza sapere che era speciale, senza sapere che era famoso, senza sapere che di lì a qualche ora sarebbe stato svegliato dall’urlo della signora Dursley che apriva la porta di casa per mettere fuori le bottiglie del latte, né che le settimane successive le avrebbe trascorse a farsi riempire di spintoni e pizzicotti dal cugino Dudley... Non poteva sapere che, in quello stesso istante, da un capo all’altro del Paese, c’erano persone che si riunivano in segreto e levavano i calici per brindare «a Harry Potter, il bambino che è sopravvissuto».
+latte             	latte             	Una manina si richiuse sulla lettera che aveva accanto e lui continuò a dormire, senza sapere che era speciale, senza sapere che era famoso, senza sapere che di lì a qualche ora sarebbe stato svegliato dall’urlo della signora Dursley che apriva la porta di casa per mettere fuori le bottiglie del latte, né che le settimane successive le avrebbe trascorse a farsi riempire di spintoni e pizzicotti dal cugino Dudley... Non poteva sapere che, in quello stesso istante, da un capo all’altro del Paese, c’erano persone che si riunivano in segreto e levavano i calici per brindare «a Harry Potter, il bambino che è sopravvissuto».
+successive        	successivo        	Una manina si richiuse sulla lettera che aveva accanto e lui continuò a dormire, senza sapere che era speciale, senza sapere che era famoso, senza sapere che di lì a qualche ora sarebbe stato svegliato dall’urlo della signora Dursley che apriva la porta di casa per mettere fuori le bottiglie del latte, né che le settimane successive le avrebbe trascorse a farsi riempire di spintoni e pizzicotti dal cugino Dudley... Non poteva sapere che, in quello stesso istante, da un capo all’altro del Paese, c’erano persone che si riunivano in segreto e levavano i calici per brindare «a Harry Potter, il bambino che è sopravvissuto».
+trascorse         	trascorrere       	Una manina si richiuse sulla lettera che aveva accanto e lui continuò a dormire, senza sapere che era speciale, senza sapere che era famoso, senza sapere che di lì a qualche ora sarebbe stato svegliato dall’urlo della signora Dursley che apriva la porta di casa per mettere fuori le bottiglie del latte, né che le settimane successive le avrebbe trascorse a farsi riempire di spintoni e pizzicotti dal cugino Dudley... Non poteva sapere che, in quello stesso istante, da un capo all’altro del Paese, c’erano persone che si riunivano in segreto e levavano i calici per brindare «a Harry Potter, il bambino che è sopravvissuto».
+!riempire         	riempire          	Una manina si richiuse sulla lettera che aveva accanto e lui continuò a dormire, senza sapere che era speciale, senza sapere che era famoso, senza sapere che di lì a qualche ora sarebbe stato svegliato dall’urlo della signora Dursley che apriva la porta di casa per mettere fuori le bottiglie del latte, né che le settimane successive le avrebbe trascorse a farsi riempire di spintoni e pizzicotti dal cugino Dudley... Non poteva sapere che, in quello stesso istante, da un capo all’altro del Paese, c’erano persone che si riunivano in segreto e levavano i calici per brindare «a Harry Potter, il bambino che è sopravvissuto».
+spintoni          	spintone          	Una manina si richiuse sulla lettera che aveva accanto e lui continuò a dormire, senza sapere che era speciale, senza sapere che era famoso, senza sapere che di lì a qualche ora sarebbe stato svegliato dall’urlo della signora Dursley che apriva la porta di casa per mettere fuori le bottiglie del latte, né che le settimane successive le avrebbe trascorse a farsi riempire di spintoni e pizzicotti dal cugino Dudley... Non poteva sapere che, in quello stesso istante, da un capo all’altro del Paese, c’erano persone che si riunivano in segreto e levavano i calici per brindare «a Harry Potter, il bambino che è sopravvissuto».
+pizzicotti        	pizzicotto        	Una manina si richiuse sulla lettera che aveva accanto e lui continuò a dormire, senza sapere che era speciale, senza sapere che era famoso, senza sapere che di lì a qualche ora sarebbe stato svegliato dall’urlo della signora Dursley che apriva la porta di casa per mettere fuori le bottiglie del latte, né che le settimane successive le avrebbe trascorse a farsi riempire di spintoni e pizzicotti dal cugino Dudley... Non poteva sapere che, in quello stesso istante, da un capo all’altro del Paese, c’erano persone che si riunivano in segreto e levavano i calici per brindare «a Harry Potter, il bambino che è sopravvissuto».
+cugino            	cugino            	Una manina si richiuse sulla lettera che aveva accanto e lui continuò a dormire, senza sapere che era speciale, senza sapere che era famoso, senza sapere che di lì a qualche ora sarebbe stato svegliato dall’urlo della signora Dursley che apriva la porta di casa per mettere fuori le bottiglie del latte, né che le settimane successive le avrebbe trascorse a farsi riempire di spintoni e pizzicotti dal cugino Dudley... Non poteva sapere che, in quello stesso istante, da un capo all’altro del Paese, c’erano persone che si riunivano in segreto e levavano i calici per brindare «a Harry Potter, il bambino che è sopravvissuto».
+istante           	istante           	Una manina si richiuse sulla lettera che aveva accanto e lui continuò a dormire, senza sapere che era speciale, senza sapere che era famoso, senza sapere che di lì a qualche ora sarebbe stato svegliato dall’urlo della signora Dursley che apriva la porta di casa per mettere fuori le bottiglie del latte, né che le settimane successive le avrebbe trascorse a farsi riempire di spintoni e pizzicotti dal cugino Dudley... Non poteva sapere che, in quello stesso istante, da un capo all’altro del Paese, c’erano persone che si riunivano in segreto e levavano i calici per brindare «a Harry Potter, il bambino che è sopravvissuto».
+riunivano         	riunirsi          	Una manina si richiuse sulla lettera che aveva accanto e lui continuò a dormire, senza sapere che era speciale, senza sapere che era famoso, senza sapere che di lì a qualche ora sarebbe stato svegliato dall’urlo della signora Dursley che apriva la porta di casa per mettere fuori le bottiglie del latte, né che le settimane successive le avrebbe trascorse a farsi riempire di spintoni e pizzicotti dal cugino Dudley... Non poteva sapere che, in quello stesso istante, da un capo all’altro del Paese, c’erano persone che si riunivano in segreto e levavano i calici per brindare «a Harry Potter, il bambino che è sopravvissuto».
+calici            	calice            	Una manina si richiuse sulla lettera che aveva accanto e lui continuò a dormire, senza sapere che era speciale, senza sapere che era famoso, senza sapere che di lì a qualche ora sarebbe stato svegliato dall’urlo della signora Dursley che apriva la porta di casa per mettere fuori le bottiglie del latte, né che le settimane successive le avrebbe trascorse a farsi riempire di spintoni e pizzicotti dal cugino Dudley... Non poteva sapere che, in quello stesso istante, da un capo all’altro del Paese, c’erano persone che si riunivano in segreto e levavano i calici per brindare «a Harry Potter, il bambino che è sopravvissuto».
+brindare          	brindare          	Una manina si richiuse sulla lettera che aveva accanto e lui continuò a dormire, senza sapere che era speciale, senza sapere che era famoso, senza sapere che di lì a qualche ora sarebbe stato svegliato dall’urlo della signora Dursley che apriva la porta di casa per mettere fuori le bottiglie del latte, né che le settimane successive le avrebbe trascorse a farsi riempire di spintoni e pizzicotti dal cugino Dudley... Non poteva sapere che, in quello stesso istante, da un capo all’altro del Paese, c’erano persone che si riunivano in segreto e levavano i calici per brindare «a Harry Potter, il bambino che è sopravvissuto».
