@@ -21,6 +21,8 @@ s = '''
     <ul>
 '''
 tail = '''
+    <li></li>
+    <li></li>
     </ul>
   </div>
   <span style="font-size:30px;cursor:pointer" id="hamburger">&#9776;</span>
