@@ -13,12 +13,15 @@ with open(word, "r") as f:
         lines.append(line)
         words.append(line.split("|")[0].rstrip())
 n = len(words)
-#print(n)
 cur = 0
 with open(text,"r") as f:
     doc = nlp(f.read())
     for token in doc:
         token_w = token.text
+        if token_w.startswith('-¿'):
+            token_w = token_w[2:]
+        if token_w.startswith('-¡'):
+            token_w = token_w[2:]
         if token_w.startswith('-'):
             token_w = token_w[1:]
         if token_w.endswith('-'):
