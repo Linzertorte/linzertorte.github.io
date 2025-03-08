@@ -1,174 +1,241 @@
-pelotón        |pelotón
-fusilamiento   |fusilamiento
-remota         |remoto
-cañabrava      |cañabrava
-diáfanas       |diáfano
-lecho          |lecho
-pulidas        |pulido
-carecían       |carecer
-desarrapados   |desarrapado
-carpa          |carpa
-alboroto       |alboroto
-pitos          |pito
-timbales       |timbal
-Primero        |primero
-montaraz       |montaraz
-gorrión        |gorrión
-truculenta     |truculento
-octava         |octavo
-maravilla      |maravilla
-sabios         |sabio
-lingotes       |lingote
-espantó        |espantarse
-calderos       |caldero
-pailas         |paila
-tenazas        |tenazas
-anafes         |anafe
-crujían        |crujir
-tornillos      |tornillo
-desenclavarse  |desenclavarse
-arrastraban    |arrastrarse
-desbandada     |desbandada
-turbulenta     |turbulento
-pregonaba      |pregonar
-acento         |acento
-desaforada     |desaforado
-ingenio        |ingenio
-milagro        |milagro
-desentrañar    |desentrañar
-honrado        |honrado
-previno        |prevenir
-mulo           |mulo
-partida        |partida
-chivos         |chivo
-imantados      |imantar
-ensanchar      |ensanchar
-desmedrado     |desmedrado
-patrimonio     |patrimonio
-disuadirlo     |disuadir
-sobrarnos      |sobrar
-empedrar       |empedrar
-empeñó         |empeñarse
-acierto        |acierto
-conjeturas     |conjetura
-palmo          |palmo
-inclusive      |inclusive
-conjuro        |conjuro
-desenterrar    |desenterrar
-armadura       |armadura
-soldadas       |soldado
-cascote        |cascote
-óxido          |óxido
-resonancia     |resonancia
-hueca          |hueco
-calabazo       |calabazo
-desarticular   |desarticular
-esqueleto      |esqueleto
-calcificado    |calcificado
-colgado        |colgar
-relicario      |relicario
-cobre          |cobre
-rizo           |rizo
-catalejo       |catalejo
-lupa           |lupa
-tambor         |tambor
-judíos         |judío
-Mediante       |mediante
-asomaba        |asomarse
-asombrosa      |asombroso
-montón         |montón
-consternación  |consternación
-cofre          |cofre
-privaciones    |privación
-enterrado      |enterrar
-tácticos       |táctico
-abnegación     |abnegación
-expuso         |exponerse
-quemaduras     |quemadura
-úlceras        |úlcera
-sanar          |sanar
-inventiva      |inventiva
-novedosa       |novedoso
-didáctica      |didáctico
-testimonios    |testimonio
-pliegos        |pliego
-sierra         |sierra
-extravió       |extraviarse
-pantanos       |pantano
-desmesurados   |desmesurado
-remontó        |remontar
-perecer        |perecer
-azote          |azote
-peste          |peste
-enlace         |enlace
-pesar          |pesar
-lamentó        |lamentarse
-iniciativa     |iniciativa
-puño           |puño
-apretada       |apretado
-monje          |monje
-astrolabio     |astrolabio
-brújula        |brújula
-sextante       |sextante
-encerrado      |encerrado
-perturbara     |perturbar
-permaneció     |permanecer
-patio          |patio
-contraer       |contraer
-insolación     |insolación
-trabar         |trabar
-gabinete       |gabinete
-paseándose     |pasearse
-partían        |partirse
-espinazo       |espinazo
-plátano        |plátano
-malanga        |malanga
-yuca           |yuca
-ñame           |ñame
-ahuyama        |ahuyama
-berenjena      |berenjena
-hechizado      |hechizado
-sartal         |sartal
-soltó          |soltar
-cabecera       |cabecera
-devastado      |devastar
-vigilia        |vigilia
-encono         |encono
-inculcar       |inculcar
-impasible      |impasible
-amedrentar     |amedrentar
-rapto          |rapto
-cólera         |cólera
-destrozó       |destrozar
-Exaltó         |exaltar
-comprobada     |comprobar
-terminante     |terminante
-envejecido     |envejecer
-descomunal     |descomunal
-derribar       |derribar
-agarrándolo    |agarrarse
-estragado      |estragado
-dolencia       |dolencia
-tenaz          |tenaz
-husmeándole    |husmear
-zarpazo        |zarpazo
-fugitivo       |fugitivo
-plagas         |plaga
-flagelado      |flagelar
-pelagra        |pelagra
-escorbuto      |escorbuto
-lepra          |lepra
-beriberi       |beriberi
-bubónica       |bubónico
-multitudinario |multitudinario
-estrecho       |estrecho
-lúgubre        |lúgubre
-envuelto       |envolver
-aura           |aura
-extendidas     |extender
-terciopelo     |terciopelo
-patinado       |patinado
-verdín         |verdín
-sabiduría      |sabiduría
-ámbito         |ámbito
-enredado       |enredado
+pelotón       | pelotón
+fusilamiento  | fusilamiento
+remota        | remoto
+cañabrava     | cañabrava
+diáfanas      | diáfano
+lecho         | lecho
+pulidas       | pulido
+carecían      | carecer
+desarrapados  | desarrapado
+carpa         | carpa
+alboroto      | alboroto
+pitos         | pito
+timbales      | timbal
+Primero       | primero
+montaraz      | montaraz
+gorrión       | gorrión
+truculenta    | truculento
+octava        | octavo
+maravilla     | maravilla
+sabios        | sabio
+lingotes      | lingote
+espantó       | espantarse
+calderos      | caldero
+pailas        | paila
+tenazas       | tenazas
+anafes        | anafe
+crujían       | crujir
+tornillos     | tornillo
+desenclavarse | desenclavarse
+arrastraban   | arrastrarse
+desbandada    | desbandada
+turbulenta    | turbulento
+pregonaba     | pregonar
+acento        | acento
+desaforada    | desaforado
+ingenio       | ingenio
+milagro       | milagro
+desentrañar   | desentrañar
+honrado       | honrado
+previno       | prevenir
+mulo          | mulo
+partida       | partida
+chivos        | chivo
+imantados     | imantar
+ensanchar     | ensanchar
+desmedrado    | desmedrado
+patrimonio    | patrimonio
+disuadirlo    | disuadir
+sobrarnos     | sobrar
+empedrar      | empedrar
+empeñó        | empeñarse
+acierto       | acierto
+conjeturas    | conjetura
+palmo         | palmo
+inclusive     | inclusive
+conjuro       | conjuro
+desenterrar   | desenterrar
+armadura      | armadura
+soldadas      | soldado
+cascote       | cascote
+óxido         | óxido
+resonancia    | resonancia
+hueca         | hueco
+calabazo      | calabazo
+desarticular  | desarticular
+esqueleto     | esqueleto
+calcificado   | calcificado
+colgado       | colgar
+relicario     | relicario
+cobre         | cobre
+rizo          | rizo
+catalejo      | catalejo
+lupa          | lupa
+tambor        | tambor
+judíos        | judío
+Mediante      | mediante
+asomaba       | asomarse
+asombrosa     | asombroso
+montón        | montón
+consternación | consternación
+cofre         | cofre
+privaciones   | privación
+enterrado     | enterrar
+tácticos      | táctico
+abnegación    | abnegación
+expuso        | exponerse
+quemaduras    | quemadura
+úlceras       | úlcera
+sanar         | sanar
+inventiva     | inventiva
+novedosa      | novedoso
+didáctica     | didáctico
+testimonios   | testimonio
+pliegos       | pliego
+sierra        | sierra
+extravió      | extraviarse
+pantanos      | pantano
+desmesurados  | desmesurado
+remontó       | remontar
+perecer       | perecer
+azote         | azote
+peste         | peste
+enlace        | enlace
+pesar         | pesar
+lamentó       | lamentarse
+iniciativa    | iniciativa
+puño          | puño
+apretada      | apretado
+monje         | monje
+astrolabio    | astrolabio
+brújula       | brújula
+sextante      | sextante
+encerrado     | encerrado
+perturbara    | perturbar
+permaneció    | permanecer
+patio         | patio
+contraer      | contraer
+insolación    | insolación
+trabar        | trabar
+gabinete      | gabinete
+paseándose    | pasearse
+partían       | partirse
+espinazo      | espinazo
+plátano       | plátano
+malanga       | malanga
+yuca          | yuca
+ñame          | ñame
+ahuyama       | ahuyama
+berenjena     | berenjena
+hechizado     | hechizado
+sartal        | sartal
+soltó         | soltar
+cabecera      | cabecera
+devastado     | devastar
+vigilia       | vigilia
+encono        | encono
+inculcar      | inculcar
+impasible     | impasible
+amedrentar    | amedrentar
+rapto         | rapto
+cólera        | cólera
+destrozó      | destrozar
+Exaltó        | exaltar
+comprobada    | comprobar
+terminante    | terminante
+envejecido    | envejecer
+descomunal    | descomunal
+derribar      | derribar
+agarrándolo   | agarrarse
+estragado     | estragado
+dolencia      | dolencia
+tenaz         | tenaz
+husmeándole   | husmear
+zarpazo       | zarpazo
+fugitivo      | fugitivo
+plagas        | plaga
+flagelado     | flagelar
+pelagra       | pelagra
+escorbuto     | escorbuto
+lepra         | lepra
+beriberi      | beriberi
+bubónica      | bubónico
+multitudinario| multitudinario
+estrecho      | estrecho
+lúgubre       | lúgubre
+envuelto      | envolver
+aura          | aura
+extendidas    | extender
+terciopelo    | terciopelo
+patinado      | patinado
+verdín        | verdín
+sabiduría     | sabiduría
+ámbito        | ámbito
+enredado      | enredado
+percances     | percance
+certidumbre   | certidumbre
+asombraron    | asombrarse
+reverberante  | reverberar
+alumbrando    | alumbrar
+chorreaba     | chorrear
+sienes        | sien
+derretida     | derretido
+frasco        | frasco
+bicloruro     | bicloruro
+sulfúricas    | sulfúrico
+solimán       | solimán
+diabólicas    | diabólico
+cinabrio      | cinabrio
+rezar         | rezar
+vinculado     | vincular
+profusión     | profusión
+cazuelas      | cazuela
+embudos       | embudo
+retortas      | retorta
+coladores     | colador
+atanor        | atanor
+probeta       | probeta
+angosto       | angosto
+alambique     | alambique
+Magisterio    | magisterio
+cortejó       | cortejar
+azogue        | azogue
+inquebrantable| inquebrantable
+raspadura     | raspadura
+oropimente    | oropimente
+plomo         | plomo
+hervir        | hervir
+ricino        | ricino
+jarabe        | jarabe
+espeso        | espeso
+pestilente    | pestilente
+azarosos      | azaroso
+hermético     | hermético
+vitriolo      | vitriolo
+Chipre        | Chipre
+cocer         | cocer
+manteca       | manteca
+rábano        | rábano
+chicharrón    | chicharrón
+desprendido   | desprender
+predispuesto  | predisponer
+ensordecedor  | ensordecedor
+pregonero     | pregonero
+hallazgo      | hallazgo
+repuesto      | reponerse
+desarrugado   | desarrugar
+dentadura     | dentadura
+encías        | encía
+fláccidas     | fláccido
+marchitos     | marchito
+estremecieron | estremecerse
+pavor         | pavor
+sacó          | sacar
+engastados    | engastar
+fugaz         | fugaz
+decrépito     | decrépito
+dominio       | dominio
+pleno         | pleno
+alborozo      | alborozo
+postiza       | postizo
+pasaba        | pasarse
