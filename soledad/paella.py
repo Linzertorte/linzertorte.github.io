@@ -53,7 +53,7 @@ for l in fileinput.input():
   l = l.rstrip()
   if l == "":
     continue
-  word = l.split("|")[1].rstrip()
+  word = l.split("|")[1].rstrip().lstrip()
   if "," in word:
     h,w = word.split(",")[0],word.split(",")[1]
     print('      <li><a href="%s" data-sent="%s">%s</a></li>'%(h,l.split("|")[2],w))
