@@ -1,0 +1,665 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Italiano Compatto</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+<style>
+    body {
+        margin-left:20%;
+        margin-right:20%;
+    }
+    img {
+        width:100%;
+    }
+    #page_num{
+            display: none;
+    }
+    @media only screen and (max-width: 768px) {
+        body {
+            padding-left:8px;
+            margin-left:0%;
+            margin-right:0%;
+        }
+        img {
+            width:100%;
+        }
+        #page_num{
+            display: inline;
+        }
+    }
+    @media only screen and (min-device-width: 768px) and (max-device-width: 1024px) {
+        body {
+            margin-left:10%;
+            margin-right:10%;
+        }
+        img {
+            width:100%;
+        }
+    }
+</style>
+<script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+</head>
+<body>
+<h1>Italiano Compatto</h1>
+<input type="text" id="word" name="word"><button type="button" id="btn">Search</button>
+<div>
+<button type="button" id="prev">Prev</button>
+<button type="button" id="next">Next</button>
+<span id="page_num"></span>
+</div>
+<div id="page"></div>
+</body>
+<script charset="utf-8">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+word_list = `
+a
+abbellimento
+abbronzatura
+abnegazione
+accalorare
+accenno
+acciambellare
+accomunare
+accreditare
+acqua-aria
+acropoli
+addirittura
+aderenza
+adulare
+affamare
+affidabile
+affollato
+agganciamento
+aggravamento
+agnosticismo
+aikido
+albicocca
+algoritmo
+allegare
+allocco
+alone
+altoatesino
+amareggiare
+ambrato
+ammassare
+ammontare
+amplesso
+analogico
+andito
+angoliera
+animosità
+annullamento
+anteponessi
+antifascista
+antisociale
+Ape
+appaiare
+appellativo
+appoggio
+approssimarsi
+aracnide
+arcinoto
+aria-acqua
+armonica
+arrendevole
+arrossire
+articolato
+ascia
+asperrimo
+assegnare
+assideramento
+assolutismo
+astanteria
+ateneo
+atteggiamento
+attinenza
+attribuire
+ausilio
+Autogrill
+autoscuola
+avere
+avventore
+avviso
+b
+bacinella
+bagnasciuga
+balistica
+bamboccio
+bandierina
+barbarismo
+barracuda
+bassofondo
+batteria
+bauxite
+bed and breakfast
+benaccetto
+benestare
+berrò
+biancore
+bidonville
+bilanciare
+bioetica
+birra
+bistrato
+bloccare
+bocchino
+bollino
+bonomia
+borsa
+bottiglieria
+bracciolo
+bravura
+brik
+brontolare
+brut
+bufalo
+buondi
+burqa
+c
+caco
+calamo
+caleidoscopio
+calotta
+cambusa
+campagnolo
+camposanto
+candidato
+cannoniere
+cantoria
+capitale
+caporedattore
+capriccio
+carbonaio
+cardiopatico
+carme
+carrellata
+cartaceo
+casacca
+casolare
+castano
+catastale
+cattolicesimo
+cavallone
+CD
+cellula
+centilitro
+cera
+certosa
+cetaceo
+chiacchierare
+chiavica
+chinotto
+ci
+ciclico
+ciliegio
+cinghia
+ciondolo
+circostanziato
+ciuffo
+classicismo
+clima
+cobra
+codifica
+col
+collegamento
+colloidale
+colorificio
+colto
+comedone
+commiato
+companatico
+competenza
+complicare
+compratore
+comune
+concentrico
+conclamato
+condensare
+conduco
+confezione
+confortevole
+congiuntivo
+connettività
+consegna
+consiglio
+consultivo
+contegnoso
+contingentare
+contraddire
+contrattaccare
+controllata
+convenire
+convivenza
+copia
+copulazione
+coriandolo
+corporale
+corressi
+corsaro
+cosa
+costare
+costrutto
+cowboy
+creditizio
+crescione
+cristalleria
+crocicchio
+crostaceo
+cuccare
+cultore
+curaro
+d
+danneggiato
+dattilo-
+decaduto
+declamazione
+decrescita
+definitivo
+del
+deluso
+denominatore
+depistaggio
+derby
+designare
+detenere
+dettare
+diagnosticare
+dicessi
+difatti
+diffusi
+dilettantistico
+dimostrazione
+diporto
+dirittura
+disattento
+disco-music
+disdica
+disgustato
+dislessia
+disperato
+disquisizione
+dissonante
+distogliere
+disuso
+divertimento
+dizione
+dolcevita
+dominatore
+dopoguerra
+dosso
+drammatizzare
+duce
+e
+eccetera
+ecologista
+edipico
+effettuazione
+elaborato
+elessi
+elettropositivo
+eliso
+ematite
+emigrazione
+empatia
+endorfina
+enoteca
+enunciare
+episodico
+equilibrismo
+erbaceo
+ermetismo
+eruttivo
+esattore
+escluso
+esemplificazione
+-esimo
+espansionismo
+esploratore
+esprimere
+essoterico
+estetismo
+estremo
+etero
+ettogrammo
+evanescenza
+evoluzione
+f
+facile
+falangetta
+falsetto
+fanciullo
+fantomatico
+farfugliare
+fasciatura
+fatidico
+favela
+fecale
+feeling
+fenice
+fermezza
+fertile
+feudo
+fibrillazione
+fievole
+filamentoso
+filmare
+finale
+fingere
+fiorato
+fischiettare
+fitto
+fleboclisi
+fluoridrico
+föhn
+fondatezza
+fonografico
+foresta
+formatore
+foro
+forzare
+fotocromatico
+fraintesi
+frantumazione
+fraudolenza
+frego
+friggitoria
+frontaliero
+fruttare
+fulmicotone
+funicolare
+fuoribusta
+furtivo
+g
+galera
+-gamia
+garretto
+gattoni
+gelosia
+generativo
+gentildonna
+gerente
+gesuita
+ghiera
+gianduiotto
+gingillarsi
+giogo
+giovanile
+girevole
+giudizioso
+giustappunto
+gliele
+gnocca
+golden goal
+gongolante
+governo
+graduatoria
+grana
+granoturco
+grattugiare
+grembiale
+grinzoso
+grunge
+guardapesca
+guastatore
+guidato
+h
+henné
+hot dog
+i
+iconografico
+idio-
+idrosfera
+igroscopio
+illustre
+imbeccare
+imbottita
+immaginario
+immettere
+immunodepressione
+imparentare
+impegnativa
+imperialista
+impianto
+imploso
+impossibilità
+impressi
+improvvisare
+in-
+inappagabile
+incagliarsi
+incaricato
+incendiario
+inchiostro
+inclinato
+incomodo
+incontentabile
+incostanza
+incubazione
+indecenza
+indicativo
+indignato
+indisposto
+indoor
+industriale
+inesperienza
+infaticabile
+infettivo
+infinocchiare
+informare
+infuocare
+ingenuo
+ingolfare
+ingrossare
+innaffiare
+innumerevole
+inqualificabile
+insaponata
+insensibile
+insinuazione
+insormontabile
+insufficiente
+integralismo
+intenditore
+intercorrere
+interim
+interpellanza
+interrotto
+intestatario
+intonare
+intramuscolare
+intrippato
+inumano
+invecchiato
+investitore
+invocazione
+iperteso
+ippo-
+irrazionale
+irrigare
+ISBN
+isomorfo
+isterismo
+istupidire
+j
+k
+kilt
+l
+lacerante
+lago
+lampadario
+lanciatore
+large
+laserterapia
+latrocinio
+lavanda
+lavoro
+led
+leggendario
+legnata
+leone
+letterale
+levata
+liberalizzazione
+libido
+lievitare
+limitrofo
+linguaccia
+liquerizia
+listello
+livido
+locazione
+loglio
+lontra
+LP
+ludibrio
+lungaggine
+luppolo
+m
+macchinetta
+macrobiotico
+maestoso
+maggiorenne
+magnete
+mail
+malattia
+maledizione
+malleabile
+mammalucco
+mandarino
+mangiabile
+manicomio
+mannequin
+mansione
+mappa
+marcia
+margotta
+maronita
+marziale
+`
+var cur_page = 0;
+function clean_word(word) {
+
+    word = word.toLowerCase();
+    word = word.replaceAll("á","a");
+    word = word.replaceAll("à","a");
+    word = word.replaceAll("é","e");
+    word = word.replaceAll("è","e");
+    word = word.replaceAll("í","i");
+    word = word.replaceAll("ì","i");
+    word = word.replaceAll("ó","o");
+    word = word.replaceAll("ò","o");
+    word = word.replaceAll("ö","o");
+    word = word.replaceAll("ú","u");
+    word = word.replaceAll("ù","u");
+    word = word.replace(/^\s+|\s+$/g,'');
+
+    word = word.replaceAll("-", "");
+    word = word.replaceAll("!", "");
+    word = word.replaceAll(" ", "");
+    return word;
+}
+
+var words = word_list.split("\n").filter((word) => word.length > 0);;
+//console.log(words);
+const zeroPad = (num, places) => String(num).padStart(places, '0')
+
+var pic_prefix = "https://langenscheidt.s3.amazonaws.com/italiano-compatto-";
+//var pic_prefix = "yihan-";
+
+function get_cur_page(words,word) {
+    word = clean_word(word);
+    var i = 0;
+    for(i = 0; i < words.length; i += 1) {
+        words[i] = clean_word(words[i]);
+    }
+    i = 0
+    while(i < words.length && (words[i]=='$' || words[i] <= word)){
+        i+=1;
+    }
+    if(i>0) i-=1;
+    while (i>=0 && words[i]=='$'){
+        i-=1;
+    }
+    return i;
+}
+
+$("#btn").on("click", function (e) {
+    var word =  document.getElementById("word").value;
+    cur_page = get_cur_page(words,word);
+    var html = "<img src=\""+pic_prefix+zeroPad(cur_page+1,3)+".png\">"
+    $("#page").html(html)
+    $("#page_num").text(cur_page + 9);
+});
+$("#prev").on("click", function (e) {
+    if(cur_page > 0) {
+        cur_page -= 1;
+        var html = "<img src=\""+pic_prefix+zeroPad(cur_page+1,3)+".png\">"
+        $("#page").html(html)
+        $("#page_num").text(cur_page + 9);
+    }
+});
+$("#next").on("click", function (e) {
+    if(cur_page < words.length - 1){
+        cur_page += 1;
+        var html = "<img src=\""+pic_prefix+zeroPad(cur_page+1,3)+".png\">"
+        $("#page").html(html)
+        $("#page_num").text(cur_page + 9);
+    }
+});
+</script>
+</html>
+
