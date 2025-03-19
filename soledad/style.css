@@ -56,13 +56,13 @@ img {
 	#words {
 		background-color: white;
 		position: fixed;
-		height: 90%;
+		height: 95%;
 		width: 0;
 		z-index: 1;
 		top: 0;
 		left: 0;
 		overflow-x: hidden;
-		padding-bottom: 3%;
+		padding-bottom: 5%;
 		transition: 0.5s;
 		padding-left: 0;
 	}
