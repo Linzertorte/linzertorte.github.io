@@ -1601,7 +1601,7 @@ adj
 Είμαι σίγουρος ότι έκλεισα την κουζίνα.
 -I'm sure that I turned off the stove.
 
-230 vα to; here, there
+230 να to; here, there
 con; prt
 na
 
