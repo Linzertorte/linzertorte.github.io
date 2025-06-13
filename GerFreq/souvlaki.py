@@ -8,7 +8,7 @@ for i in range(0,len(txt), 7):
     head = txt[i].split(" ")
     j = 2
     #while not is_english(head[j]): j+=1
-    print('frequent-german-%04d,%s,"'%(int(head[0])," ".join(head[1:j])))
+    print('frequent-german-%05d,%s,"'%(int(head[0])," ".join(head[1:j])))
     print('<div class=""trans"">%s</div>'%" ".join(head[j:]))
     print(txt[i+1])
     print('<br>')
