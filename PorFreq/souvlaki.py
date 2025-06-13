@@ -1,0 +1,18 @@
+def is_english(word):
+    c = word[0].lower()
+    return (c>='a' and c<='z') or (c>='0' and c<='9')
+
+f = open("sl.txt", "r")
+txt = f.read().split("\n")
+for i in range(0,len(txt), 8):
+    head = txt[i].split(" ")
+    j = 2
+    #if "się" in head[j]: j+=1
+    #while not is_english(head[j]): j+=1
+    print('frequent-portuguese-%05d,%s,"'%(int(head[0])," ".join(head[1:])))
+    print('<div class=""trans"">%s</div>'%txt[i+4])
+    print(txt[i+1])
+    print('<br>')
+    print(txt[i+5].replace('"','""'))
+    print('<div class=""trans"">%s</div>'%txt[i+6].replace('"','""'))
+    print('"')
