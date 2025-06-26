@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Swipe to Dismiss</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {
+      background: #f5f5f5;
+      font-family: sans-serif;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
+
+    #card-container {
+      width: 300px;
+    }
+
+    .card {
+      background: white;
+      padding: 20px;
+      margin: 10px 0;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+      border-radius: 8px;
+      transition: transform 0.3s ease, opacity 0.3s ease;
+      touch-action: pan-y;
+    }
+
+    .card.removed {
+      opacity: 0;
+      transform: translateX(500px);
+    }
+  </style>
+</head>
+<body>
+
+<div id="card-container">
+  <div class="card">Card 1</div>
+  <div class="card">Card 2</div>
+  <div class="card">Card 3</div>
+</div>
+
+<script>
+  const cards = document.querySelectorAll('.card');
+
+  cards.forEach(card => {
+    let startX = 0;
+    let currentX = 0;
+    let dragging = false;
+
+    card.addEventListener('touchstart', e => {
+      startX = e.touches[0].clientX;
+      dragging = true;
+    });
+
+    card.addEventListener('touchmove', e => {
+      if (!dragging) return;
+      currentX = e.touches[0].clientX;
+      const dx = currentX - startX;
+      card.style.transform = `translateX(${dx}px)`;
+    });
+
+    card.addEventListener('touchend', () => {
+      dragging = false;
+      const dx = currentX - startX;
+
+      if (Math.abs(dx) > 100) {
+        // 移除卡片动画
+        card.classList.add('removed');
+        setTimeout(() => card.remove(), 300);
+      } else {
+        // 回弹
+        card.style.transform = 'translateX(0)';
+      }
+    });
+  });
+</script>
+
+</body>
+</html>
