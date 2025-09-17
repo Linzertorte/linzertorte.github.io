@@ -1,0 +1,86 @@
+puño         | puño         | «Y ésa es tía Petunia llamando a la puerta», pensó con el corazón en un puño.
+picado       | picado       | El búho bajó en picado y dejó el periódico sobre Hagrid, que no se despertó.
+manojos      | manojo       | El abrigo de Hagrid parecía hecho sólo de bolsillos, con contenidos de todo tipo: manojos de llaves, veneno para babosas, ovillos de cordel, caramelos de menta, bolsitas de té...
+babosas      | babosa       | El abrigo de Hagrid parecía hecho sólo de bolsillos, con contenidos de todo tipo: manojos de llaves, veneno para babosas, ovillos de cordel, caramelos de menta, bolsitas de té...
+cordel       | cordel       | El abrigo de Hagrid parecía hecho sólo de bolsillos, con contenidos de todo tipo: manojos de llaves, veneno para babosas, ovillos de cordel, caramelos de menta, bolsitas de té...
+puñado       | puñado       | Finalmente, Harry sacó un puñado de monedas de aspecto extraño.
+soñoliento   | soñoliento   | —Dale cinco knuts —dijo soñoliento Hagrid.
+desperezó    | desperezarse | Hagrid bostezó con fuerza, se sentó y se desperezó.
+duendes      | duende       | Lo dirigen los duendes.
+irguió       | erguirse     | —Hagrid se irguió con orgullo—.
+lástima      | lástima      | —Sin embargo, me parece una lástima tener que remar —dijo Hagrid, dirigiendo a Harry una mirada de soslayo—.
+chapucero    | chapucero    | Nunca ha existido nadie tan chapucero.
+muelle       | muelle       | En aquel momento, el bote dio un leve golpe contra la pared del muelle.
+transeúntes  | transeúnte   | Los transeúntes miraban mucho a Hagrid mientras recorrían el pueblecito camino de la estación, y Harry no podía reprochárselo: Hagrid no sólo era el doble de alto que cualquiera, sino que señalaba cosas totalmente corrientes, como los parquímetros, diciendo en voz alta: —¿Ves eso, Harry?
+correteaba   | corretear    | —Hagrid —dijo Harry, jadeando un poco mientras correteaba para seguirlo—, ¿no dijiste que había dragones en Gringotts?
+puntiagudo   | puntiagudo   | — Un sombrero puntiagudo (negro) para uso diario.
+broches      | broche       | — Una capa de invierno (negra, con broches plateados).
+reglamentario| reglamentario| LIBROS Todos los alumnos deben tener un ejemplar de los siguientes libros: —        Libro reglamentario de hechizos, primer curso, Miranda Goshawk.
+hongos       | hongo        | —        Mil hierbas y hongos mágicos, Phyllida Spore.
+Filtros      | filtro       | —        Filtros y pociones mágicas, Arsenius Jigger.
+redomas      | redoma       | 1 juego de redomas de vidrio o cristal.
+estropeada   | estropeado   | —No sé cómo los muggles se las arreglan sin magia —comentó mientras subían por una escalera mecánica estropeada que los condujo a una calle llena de tiendas.
+muchedumbre  | muchedumbre  | Hagrid era tan corpulento que separaba fácilmente a la muchedumbre.
+Chorreante   | chorrear     | El Caldero Chorreante.
+mugriento    | mugriento    | Era un bar diminuto y de aspecto mugriento.
+reparado     | reparar      | Si Hagrid no lo hubiera señalado, Harry no habría reparado en él.
+destartalado | destartalado | Para ser un lugar famoso, estaba muy oscuro y destartalado.
+jerez        | jerez        | Unas ancianas estaban sentadas en un rincón, tomando copitas de jerez.
+nuez         | nuez         | Un hombre bajito que llevaba un sombrero de copa hablaba con el viejo cantinero, que era completamente calvo y parecía una nuez blanda.
+barullo      | barullo      | Al fin, Hagrid se hizo oír por encima del barullo.
+torbellino   | torbellino   | La cabeza de Harry era un torbellino.
+botica       | botica       | Una mujer regordeta negaba con la cabeza en la puerta de una botica cuando ellos pasaron, diciendo: «Hígado de dragón a dieciséis sickles la onza, están locos...» Un suave ulular llegaba de una tienda oscura que tenía un rótulo que decía: «Emporio del Búho.
+murciélago   | murciélago   | Escaparates repletos de barriles de bazos de murciélago y ojos de anguila, tambaleantes montones de libros de encantamientos, plumas y rollos de pergamino, frascos con pociones, globos con mapas de la luna... —Gringotts —dijo Hagrid.
+codicia      | codicia      | Entra, desconocido, pero ten cuidado con lo que le espera al pecado de la codicia, porque aquellos que cogen, pero no se lo han ganado, deberán pagar en cambio mucho más, así que si buscas debajo de nuestro suelo un tesoro que nunca fue tuyo, ladrón, te hemos advertido, ten cuidado de encontrar aquí algo más que un tesoro.
+centenar     | centenar     | Un centenar de duendes estaban sentados en altos taburetes, detrás de un largo mostrador, escribiendo en grandes libros de cuentas, pesando monedas en balanzas de latón y examinando piedras preciosas con lentes.
+escocían     | escocer      | A Harry le escocían los ojos por las ráfagas de aire frío, pero los mantuvo muy abiertos.
+ráfagas      | ráfaga       | A Harry le escocían los ojos por las ráfagas de aire frío, pero los mantuvo muy abiertos.
+estruendo    | estruendo    | —¡Nunca lo he sabido! —gritó Harry a Hagrid, para hacerse oír sobre el estruendo del carro—.
+oleada       | oleada       | Una oleada de humo verde los envolvió.
+montículos   | montículo    | Dentro había montículos de monedas de oro.
+recodos      | recodo       | El aire era cada vez más frío, mientras doblaban por estrechos recodos.
+sacudidas    | sacudida     | Llegaron entre sacudidas al otro lado de un barranco subterráneo, y Harry se inclinó hacia un costado para ver qué había en el fondo oscuro, pero Hagrid gruñó y lo enderezó, cogiéndolo del cuello.
+barranco     | barranco     | Llegaron entre sacudidas al otro lado de un barranco subterráneo, y Harry se inclinó hacia un costado para ver qué había en el fondo oscuro, pero Hagrid gruñó y lo enderezó, cogiéndolo del cuello.
+costado      | costado      | Llegaron entre sacudidas al otro lado de un barranco subterráneo, y Harry se inclinó hacia un costado para ver qué había en el fondo oscuro, pero Hagrid gruñó y lo enderezó, cogiéndolo del cuello.
+succionado   | succionar    | Si alguien que no sea un duende de Gringotts lo intenta, será succionado por la puerta y quedará atrapado —añadió.
+deslizó      | deslizar     | Madame Malkin colocó a Harry en un escabel al lado del otro, le deslizó por la cabeza una larga túnica y comenzó a marcarle el largo apropiado.
+fastidiar    | fastidiar    | Creo que voy a fastidiar a mi padre hasta que me compre una y la meteré de contrabando de alguna manera.
+emborracha   | emborracharse| He oído decir que es una especie de salvaje, que vive en una cabaña en los terrenos del colegio y que de vez en cuando se emborracha, trata de hacer magia y termina prendiendo fuego a su cama.
+frambuesa    | frambuesa    | Harry estaba muy silencioso mientras comía el helado que Hagrid le había comprado (chocolate y frambuesa con trozos de nueces).
+forrados     | forrado      | Había unos grandiosos forrados en piel, otros del tamaño de un sello, con tapas de seda, otros llenos de símbolos raros y unos pocos sin nada impreso en sus páginas.
+venganzas    | venganza     | Hagrid casi tuvo que arrastrar a Harry para que dejara Hechizos y contrahechizos (encante a sus amigos y confunda a sus enemigos con las más recientes venganzas: Pérdida de Cabello, Piernas de Mantequilla, Lengua Atada y más, mucho más), del profesor Vindictus Viridian.
+macizo       | macizo       | Hagrid tampoco dejó que Harry comprara un caldero de oro macizo (en la lista decía de peltre), pero consiguieron una bonita balanza para pesar los ingredientes de las pociones y un telescopio plegable de latón.
+hedor        | hedor        | Luego visitaron la botica, tan fascinante como para hacer olvidar el horrible hedor, una mezcla de huevos pasados y repollo podrido.
+podrido      | podrido      | Luego visitaron la botica, tan fascinante como para hacer olvidar el horrible hedor, una mezcla de huevos pasados y repollo podrido.
+viscosa      | viscoso      | En el suelo había barriles llenos de una sustancia viscosa y botes con hierbas.
+hileras      | hilera       | Raíces secas y polvos brillantes llenaban las paredes, y manojos de plumas e hileras de colmillos y garras colgaban del techo.
+colmillos    | colmillo     | Raíces secas y polvos brillantes llenaban las paredes, y manojos de plumas e hileras de colmillos y garras colgaban del techo.
+surtido      | surtido      | Mientras Hagrid preguntaba al hombre que estaba detrás del mostrador por un surtido de ingredientes básicos para pociones, Harry examinaba cuernos de unicornio plateados, a veintiún galeones cada uno, y minúsculos ojos negros y brillantes de escarabajos (cinco knuts la cucharada).
+cucharada    | cucharada    | Mientras Hagrid preguntaba al hombre que estaba detrás del mostrador por un surtido de ingredientes básicos para pociones, Harry examinaba cuernos de unicornio plateados, a veintiún galeones cada uno, y minúsculos ojos negros y brillantes de escarabajos (cinco knuts la cucharada).
+ruborizaba   | ruborizar    | Harry sintió que se ruborizaba.
+aleteos      | aleteo       | Veinte minutos más tarde, salieron del Emporio del Búho, que era oscuro y estaba lleno de ojos brillantes, susurros y aleteos.
+aspereza     | aspereza     | —No es nada —dijo Hagrid con aspereza—.
+cojín        | cojín        | Sobre la puerta, en letras doradas, se leía: «Ollivander: fabricantes de excelentes varitas desde el 382 a.C.» En el polvoriento escaparate, sobre un cojín de desteñido color púrpura, se veía una única varita.
+desteñido    | desteñido    | Sobre la puerta, en letras doradas, se leía: «Ollivander: fabricantes de excelentes varitas desde el 382 a.C.» En el polvoriento escaparate, sobre un cojín de desteñido color púrpura, se veía una única varita.
+endeble      | endeble      | Era un lugar pequeño y vacío, salvo por una silla endeble donde Hagrid se sentó a esperar.
+comezón      | comezón      | Por alguna razón, sintió una comezón en la nuca.
+picara       | picar        | El polvo y el silencio parecían hacer que le picara por alguna magia secreta.
+torpeza      | torpeza      | —Hola —dijo Harry con torpeza.
+sauce        | sauce        | Veintiséis centímetros de largo, elástica, de sauce.
+caoba        | caoba        | —Su padre, por otra parte, prefirió una varita de caoba.
+velados      | velado       | Harry podía ver su reflejo en aquellos ojos velados.
+Roble        | roble        | Roble, cuarenta centímetros y medio, flexible... ¿Era así?
+vivacidad    | vivacidad    | Sin embargo, todavía tengo los pedazos —añadió con vivacidad.
+sequedad     | sequedad     | —preguntó con sequedad.
+agarraba     | agarrar      | Harry se dio cuenta de que agarraba con fuerza su paraguas rosado.
+axila        | axila        | —Midió al niño del hombro al dedo, luego de la muñeca al codo, del hombro al suelo, de la rodilla a la axila y alrededor de la cabeza.
+fosas        | fosa         | De pronto, Harry se dio cuenta de que la cinta métrica, que en aquel momento lo medía entre las fosas nasales, iba sola.
+revoloteando | revolotear   | El señor Ollivander estaba revoloteando entre los estantes, sacando cajas.
+haya         | haya         | Madera de haya y nervios de corazón de dragón.
+Arce         | arce         | —Arce y pluma de fénix.
+Ébano        | ébano        | Ébano y pelo de unicornio, veintiún centímetros y medio.
+acebo        | acebo        | sí, por qué no, una combinación poco usual, acebo y pluma de fénix, veintiocho centímetros, bonita y flexible.
+chispas      | chispa       | La levantó sobre su cabeza, la hizo bajar silbando por el aire polvoriento, y una corriente de chispas rojas y doradas estallaron en la punta como fuegos artificiales, arrojando manchas de luz que bailaban en las paredes.
+vitoreó      | vitorear     | Hagrid lo vitoreó y aplaudió y el señor Ollivander dijo: —¡Oh, bravo! Oh, sí, oh, muy bien.
+enmarañada   | enmarañado   | Detrás de la barba enmarañada y las espesas cejas había una sonrisa muy bondadosa.
+espesas      | espeso       | Detrás de la barba enmarañada y las espesas cejas había una sonrisa muy bondadosa.

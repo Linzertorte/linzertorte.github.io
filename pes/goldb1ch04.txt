@@ -1,0 +1,60 @@
+crujido         | crujido      | Se oyó un crujido detrás de ellos y tío Vernon apareció en la habitación.
+goznes          | gozne        | La puerta fue empujada con tal fuerza que se salió de los goznes y, con un golpe sordo, aterrizó en el suelo.
+maraña          | maraña       | Su rostro estaba prácticamente oculto por una larga maraña de pelo y una barba desaliñada, pero podían verse sus ojos, que brillaban como escarabajos negros bajo aquella pelambrera.
+escarabajos     | escarabajo   | Su rostro estaba prácticamente oculto por una larga maraña de pelo y una barba desaliñada, pero podían verse sus ojos, que brillaban como escarabajos negros bajo aquella pelambrera.
+pelambrera      | pelambrera   | Su rostro estaba prácticamente oculto por una larga maraña de pelo y una barba desaliñada, pero podían verse sus ojos, que brillaban como escarabajos negros bajo aquella pelambrera.
+escurrió        | escurrirse   | El gigante se escurrió hacia el interior de la cabaña agachándose para que su cabeza sólo rozara el techo.
+desparramó      | desparramarse| No ha sido un viaje fácil... Se desparramó en el sofá donde Dudley estaba petrificado de miedo.
+agazapada       | agazaparse   | Dudley chilló y corrió a esconderse detrás de su madre, que estaba agazapada, aterrorizada, detrás de tío Vernon.
+peludo          | peludo       | Harry levantó la vista ante el rostro, feroz, salvaje y peludo, y vio que los ojos negros le sonreían arrugados.
+allanamiento    | allanamiento | ¡Esto es allanamiento de morada! —
+morada          | morada       | ¡Esto es allanamiento de morada! —
+majadero        | majadero     | Bah, cierra la boca, Dursley, grandísimo majadero —dijo el gigante.
+arrebató        | arrebatar    | Se estiró, arrebató el rifle a tío Vernon, lo retorció como si fuera de goma y lo arrojó a un rincón de la habitación.
+pisarlo         | pisar        | Tío Vernon hizo otro ruido extraño, como un ratón al pisarlo.
+pegajoso        | pegajoso     | En el interior había un gran pastel de chocolate pegajoso, con «Feliz Cumpleaños, Harry» escrito en verde.
+sacudió         | sacudir      | Extendió una mano gigantesca y sacudió todo el brazo de Harry.
+clavaron        | clavarse     | Sus ojos se clavaron en el hogar apagado, con las bolsas de patatas fritas arrugadas, y dejó escapar una risa despectiva.
+parpadeante     | parpadeante  | Los demás no podían ver qué estaba haciendo, pero, cuando un momento después se dio la vuelta, había un fuego encendido, que inundó de luz parpadeante toda la húmeda cabaña.
+hundió          | hundirse     | El gigante volvió a sentarse en el sofá, que se hundió bajo su peso, y comenzó a sacar toda clase de cosas de los bolsillos de su abrigo: un hervidor de cobre, un paquete de salchichas, un atizador, una tetera, varias tazas agrietadas y una botella de un líquido color ámbar, de la que tomó un trago antes de empezar a preparar el té.
+salchichas      | salchicha    | El gigante volvió a sentarse en el sofá, que se hundió bajo su peso, y comenzó a sacar toda clase de cosas de los bolsillos de su abrigo: un hervidor de cobre, un paquete de salchichas, un atizador, una tetera, varias tazas agrietadas y una botella de un líquido color ámbar, de la que tomó un trago antes de empezar a preparar el té.
+agrietadas      | agrietado    | El gigante volvió a sentarse en el sofá, que se hundió bajo su peso, y comenzó a sacar toda clase de cosas de los bolsillos de su abrigo: un hervidor de cobre, un paquete de salchichas, un atizador, una tetera, varias tazas agrietadas y una botella de un líquido color ámbar, de la que tomó un trago antes de empezar a preparar el té.
+trago           | trago        | El gigante volvió a sentarse en el sofá, que se hundió bajo su peso, y comenzó a sacar toda clase de cosas de los bolsillos de su abrigo: un hervidor de cobre, un paquete de salchichas, un atizador, una tetera, varias tazas agrietadas y una botella de un líquido color ámbar, de la que tomó un trago antes de empezar a preparar el té.
+chisporroteantes| chisporrotear| Muy pronto, la cabaña estaba llena del aroma de las salchichas chisporroteantes.
+grasientas      | grasiento    | Nadie dijo una palabra mientras el gigante trabajaba, pero cuando sacó del atizador las primeras seis salchichas grasientas, jugosas y ligeramente quemadas, Dudley comenzó a impacientarse.
+hambriento      | hambriento   | Le sirvió las salchichas a Harry, el cual estaba tan hambriento que pensó que nunca había probado algo tan maravilloso, pero todavía no podía quitarle los ojos de encima al gigante.
+sorbo           | sorbo        | El gigante tomó un sorbo de té y se secó la boca con el dorso de la mano.
+dorso           | dorso        | El gigante tomó un sorbo de té y se secó la boca con el dorso de la mano.
+impresionado    | impresionado | Hagrid parecía impresionado.
+retrocedieron   | retroceder   | —¿Lo lamento? —preguntó Hagrid, volviéndose a mirar a los Dursley, que retrocedieron hasta quedar ocultos por las sombras—.
+acobardado      | acobardarse  | ¡Deténgase ahora mismo, señor! ¡Le prohíbo que le diga nada al muchacho! Un hombre más valiente que Vernon Dursley se habría acobardado ante la mirada furiosa que le dirigió Hagrid.
+aterrado        | aterrar      | —¡DETÉNGASE! ¡SE LO PROHÍBO! —rugió tío Vernon, aterrado.
+silbido         | silbido      | Sólo podía oírse el mar y el silbido del viento.
+entrecortada    | entrecortado | —¿Que soy qué? —dijo Harry con voz entrecortada.
+HECHICERÍA      | hechicería   | Sacó la carta y leyó: COLEGIO HOGWARTS DE MAGIA Y HECHICERÍA Director: Albus Dumbledore (Orden de Merlín, Primera Clase, Gran Hechicero, Jefe de Magos, Jefe Supremo, Confederación Internacional de Magos).
+Hechicero       | hechicero    | Sacó la carta y leyó: COLEGIO HOGWARTS DE MAGIA Y HECHICERÍA Director: Albus Dumbledore (Orden de Merlín, Primera Clase, Gran Hechicero, Jefe de Magos, Jefe Supremo, Confederación Internacional de Magos).
+erizadas        | erizado      | De otro bolsillo sacó un búho (un búho de verdad, vivo y con las plumas algo erizadas), una gran pluma y un rollo de pergamino.
+ceniza          | ceniza       | Pero en aquel momento tío Vernon, todavía con el rostro color ceniza pero muy enfadado, se acercó a la chimenea.
+monstruosidad   | monstruosidad| Yo era la única que la veía tal como era: ¡una monstruosidad! Pero para mi madre y mi padre, oh, no, para ellos era «Lily hizo esto» y «Lily hizo aquello».
+ultraje         | ultraje      | ¡Eso es un ultraje! ¡Un escándalo! ¡Que Harry Potter no conozca su propia historia, cuando todos los chicos de nuestro mundo conocen su nombre! —
+apremio         | apremio      | ¿Qué sucedió? —preguntó Harry con tono de apremio.
+apoderando      | apoderarse   | Se estaba apoderando de todo.
+opusieron       | oponerse     | Por supuesto, algunos se le opusieron y él los mató.
+corneta         | corneta      | Fue a vuestra casa y... y... De pronto, Hagrid sacó un pañuelo muy sucio y se sonó la nariz con un sonido como el de una corneta.
+sarta           | sarta        | Y te llevé con esta gente... —Una sarta de disparates —dijo tío Vernon.
+disparates      | disparate    | Y te llevé con esta gente... —Una sarta de disparates —dijo tío Vernon.
+respingo        | respingo     | Harry dio un respingo.
+paliza          | paliza       | —Ahora escucha esto, chico —gruñó—: acepto que hay algo extraño en ti, probablemente nada que no hubiera curado una buena paliza.
+alanceado       | alancear     | Ante el peligro de ser alanceado con la punta de un paraguas empuñado por un gigante barbudo, el valor de tío Vernon desapareció otra vez.
+empuñado        | empuñar      | Ante el peligro de ser alanceado con la punta de un paraguas empuñado por un gigante barbudo, el valor de tío Vernon desapareció otra vez.
+esfumó          | esfumarse    | Se esfumó.
+complacido      | complacido   | Hagrid miró a Harry con afecto y respeto brillando en sus ojos, pero Harry, en lugar de sentirse complacido y orgulloso, estaba casi seguro de que había una terrible equivocación.
+sapos           | sapo         | Si realmente era un mago, ¿por qué no se habían convertido en sapos llenos de verrugas cada vez que habían intentado encerrarlo en la alacena?
+derrotó         | derrotar     | Si alguna vez derrotó al más grande brujo del mundo, ¿cómo es que Dudley siempre podía pegarle patadas como a una pelota? —
+varitas         | varita       | Ya he leído esas cartas y necesitará toda clase de porquerías: libros de hechizos, varitas y... —Si él quiere ir, un gran muggle como usted no lo detendrá —gruñó Hagrid—.
+CHIFLADO        | chiflado     | Estará con jóvenes de su misma clase, para variar, y con el más grande director que Hogwarts haya tenido: Albus Dumbled... —¡NO VOY A PAGAR PARA QUE UN CHIFLADO VIEJO TONTO LE ENSEÑE TRUCOS DE MAGIA! —gritó tío Vernon.
+silbó           | silbar       | —¡NUNCA... —bramó— INSULTE-A-ALBUS-DUMBLEDORE- EN-MI-PRESENCIA! Bajó el paraguas, que silbó en el aire, para apuntar a Dudley.
+rizada          | rizado       | Cuando les dio la espalda, Harry vio una rizada cola de cerdo que salía a través de un agujero en los pantalones.
+reojo           | reojo        | Miró de reojo a Harry, bajo sus cejas pobladas.
+cejas           | ceja         | Miró de reojo a Harry, bajo sus cejas pobladas.
+lirones         | lirón        | Creo que todavía tengo lirones en un bolsillo.

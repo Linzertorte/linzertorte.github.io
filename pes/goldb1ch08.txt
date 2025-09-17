@@ -1,0 +1,46 @@
+despejadas    | despejado     | En Hogwarts había 142 escaleras, algunas amplias y despejadas, otras estrechas y destartaladas.
+escalón       | escalón       | Otras tenían un escalón que desaparecía a mitad de camino y había que recordarlo para saltar.
+cosquillas    | cosquillas    | Después había puertas que no se abrían, a menos que uno lo pidiera con amabilidad o les hiciera cosquillas en el lugar exacto, y puertas que, en realidad, no eran sino sólidas paredes que fingían ser puertas.
+deslizara     | deslizarse    | Siempre era una desagradable sorpresa que alguno se deslizara súbitamente a través de la puerta que se intentaba abrir.
+papeleras     | papelera      | También les lanzaba papeleras a la cabeza, tiraba de las alfombras debajo de los pies del que pasaba, les arrojaba tizas o, invisible, se deslizaba por detrás, cogía la nariz de alguno y gritaba: ¡TENGO TU NARIZ! Pero aún peor que Peeves, si eso era posible, era el celador, Argus Filch.
+tizas         | tiza          | También les lanzaba papeleras a la cabeza, tiraba de las alfombras debajo de los pies del que pasaba, les arrojaba tizas o, invisible, se deslizaba por detrás, cogía la nariz de alguno y gritaba: ¡TENGO TU NARIZ! Pero aún peor que Peeves, si eso era posible, era el celador, Argus Filch.
+calabozos     | calabozo      | No les creyó cuando dijeron que estaban perdidos, estaba convencido de que querían entrar a propósito y estaba amenazándolos con encerrarlos en los calabozos cuando el profesor Quirrell, que pasaba por allí, los rescató.
+rescató       | rescatar      | No les creyó cuando dijeron que estaban perdidos, estaba convencido de que querían entrar a propósito y estaba amenazándolos con encerrarlos en los calabozos cuando el profesor Quirrell, que pasaba por allí, los rescató.
+saltones      | saltón        | Filch tenía una gata llamada Señora Norris, una criatura flacucha y de color arena, con ojos saltones como linternas, iguales a los de Filch.
+Patrullaba    | patrullar     | Patrullaba sola por los pasillos.
+soñada        | soñado        | Todos los estudiantes lo detestaban, y la más soñada ambición de muchos era darle una buena patada a la Señora Norris.
+Malvado       | malvado       | Binns hablaba monótonamente, mientras escribía nombres y fechas, y confundía Emerico el Malvado con Ulrico el Chiflado.
+charla        | charla        | Estricta e inteligente, el primer día de clase dio una charla en cuanto se sentaron.
+anotaciones   | anotación     | Después de hacer una cantidad de complicadas anotaciones, les dio a cada uno una cerilla para que intentaran convertirla en una aguja.
+mordisquearle | mordisquear   | Algunas veces volaba para mordisquearle una oreja y conseguir una tostada, antes de volver a dormir con los otros búhos del colegio.
+azucarero     | azucarero     | Sin embargo, aquella mañana pasó volando entre la mermelada y el azucarero y dejó caer un sobre en el plato de Harry.
+mazmorra      | mazmorra      | Las clases de Pociones se daban en una mazmorra.
+tétrico       | tétrico       | Hacía mucho más frío allí que arriba, en la parte principal del castillo, y habría sido igualmente tétrico sin todos aquellos animales conservados, flotando en frascos de vidrio, por todas las paredes.
+frascos       | frasco        | Hacía mucho más frío allí que arriba, en la parte principal del castillo, y habría sido igualmente tétrico sin todos aquellos animales conservados, flotando en frascos de vidrio, por todas las paredes.
+alcornoques   | alcornoque    | Puedo enseñaros cómo embotellar la fama, preparar la gloria, hasta detener la muerte... si sois algo más que los alcornoques a los que habitualmente tengo que enseñar.
+ajenjo        | ajenjo        | ¿Qué obtendré si añado polvo de raíz de asfódelo a una infusión de ajenjo? ¿Polvo de raíz de qué a una infusión de qué?
+desternillaban| desternillarse| Trató de no mirar a Malfoy y a sus amigos, que se desternillaban de risa.
+omiso         | omiso         | Snape seguía haciendo caso omiso de la mano temblorosa de Hermione.
+acónito       | acónito       | —¿Cuál es la diferencia, Potter, entre acónito y luparia?
+descaro       | descaro       | Por encima del ruido, Snape dijo: —Y se le restará un punto a la casa Gryffindor por tu descaro, Potter.
+forúnculos    | forúnculo     | Snape los puso en parejas para que mezclaran una poción sencilla para curar forúnculos.
+ortiga        | ortiga        | Se paseó con su larga capa negra, observando cómo pesaban ortiga seca y aplastaban colmillos de serpiente, criticando a todo el mundo salvo a Malfoy, que parecía gustarle.
+ingeniado     | ingeniarse    | De alguna forma, Neville se las había ingeniado para convertir el caldero de Seamus en una masa retorcida, y la poción que contenía se derramaba por el suelo y quemaba los zapatos de los alumnos, haciendo agujeros.
+derramaba     | derramarse    | De alguna forma, Neville se las había ingeniado para convertir el caldero de Seamus en una masa retorcida, y la poción que contenía se derramaba por el suelo y quemaba los zapatos de los alumnos, haciendo agujeros.
+empapado      | empaparse     | En segundos, toda la clase estaba subida a sus taburetes, mientras que Neville, que se había empapado en la poción al volcarse sobre él el caldero, gemía de dolor; por sus brazos y piernas aparecían pústulas rojas.
+volcarse      | volcarse      | En segundos, toda la clase estaba subida a sus taburetes, mientras que Neville, que se había empapado en la poción al volcarse sobre él el caldero, gemía de dolor; por sus brazos y piernas aparecían pústulas rojas.
+pústulas      | pústula       | En segundos, toda la clase estaba subida a sus taburetes, mientras que Neville, que se había empapado en la poción al volcarse sobre él el caldero, gemía de dolor; por sus brazos y piernas aparecían pústulas rojas.
+púas          | púa           | Supongo que has añadido las púas de erizo antes de sacar el caldero del fuego, ¿no?
+erizo         | erizo         | Supongo que has añadido las púas de erizo antes de sacar el caldero del fuego, ¿no?
+linde         | linde         | Hagrid vivía en una pequeña casa de madera, en la linde del bosque prohibido.
+ballesta      | ballesta      | Una ballesta y un par de botas de goma estaban junto a la puerta delantera.
+rasguños      | rasguño       | Cuando Harry llamó, oyeron unos frenéticos rasguños y varios ladridos.
+ladridos      | ladrido       | Cuando Harry llamó, oyeron unos frenéticos rasguños y varios ladridos.
+estancia      | estancia      | Había una sola estancia.
+cazuela       | cazuela       | Del techo colgaban jamones y faisanes, una cazuela de cobre hervía en el fuego y en un rincón había una cama enorme con una manta hecha de remiendos.
+remiendos     | remiendo      | Del techo colgaban jamones y faisanes, una cazuela de cobre hervía en el fuego y en un rincón había una cama enorme con una manta hecha de remiendos.
+lamerle       | lamer         | —Estáis en vuestra casa —dijo Hagrid, soltando a Fang, que se lanzó contra Ron y comenzó a lamerle las orejas.
+referente     | referente     | El pastel casi les rompió los dientes, pero Harry y Ron fingieron que les gustaba, mientras le contaban a Hagrid todo lo referente a sus primeras clases.
+babeaba       | babear        | Fang tenía la cabeza apoyada sobre la rodilla de Harry y babeaba sobre su túnica.
+pétreo        | pétreo        | Mientras Harry y Ron regresaban al castillo para cenar, con los bolsillos llenos del pétreo pastel que fueron demasiado amables para rechazar, Harry pensaba que ninguna de las clases le había hecho reflexionar tanto como aquella merienda con Hagrid.
+rechazar      | rechazar      | Mientras Harry y Ron regresaban al castillo para cenar, con los bolsillos llenos del pétreo pastel que fueron demasiado amables para rechazar, Harry pensaba que ninguna de las clases le había hecho reflexionar tanto como aquella merienda con Hagrid.

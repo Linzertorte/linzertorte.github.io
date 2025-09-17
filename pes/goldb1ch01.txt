@@ -1,0 +1,115 @@
+rollizo      | rollizo      | Era un hombre corpulento y rollizo, casi sin cuello, aunque con un bigote inmenso.
+bigote       | bigote       | Era un hombre corpulento y rollizo, casi sin cuello, aunque con un bigote inmenso.
+estirándolo  | estirar      | La señora Dursley era delgada, rubia y tenía un cuello casi el doble de largo de lo habitual, lo que le resultaba muy útil, ya que pasaba la mayor parte del tiempo estirándolo por encima de las vallas de los jardines para espiar a sus vecinos.
+estremecían  | estremecerse | Los Dursley se estremecían al pensar qué dirían los vecinos si los Potter apareciesen por la acera.
+juntara      | juntarse     | El niño era otra buena razón para mantener alejados a los Potter: no querían que Dudley se juntara con un niño como aquél.
+sombrío      | sombrío      | Cuando el señor y la señora Dursley se despertaron el sombrío y gris martes en el que nuestra historia comienza, no había nada en aquel cielo nublado que sugiriera los acontecimientos extraños y misteriosos que poco después tendrían lugar en toda la región.
+parloteaba   | parlotear    | El señor Dursley canturreaba mientras se ponía su corbata más sosa para ir al trabajo, y la señora Dursley parloteaba alegremente mientras instalaba al ruidoso Dudley en la trona.
+ruidoso      | ruidoso      | El señor Dursley canturreaba mientras se ponía su corbata más sosa para ir al trabajo, y la señora Dursley parloteaba alegremente mientras instalaba al ruidoso Dudley en la trona.
+trona        | trona        | El señor Dursley canturreaba mientras se ponía su corbata más sosa para ir al trabajo, y la señora Dursley parloteaba alegremente mientras instalaba al ruidoso Dudley en la trona.
+pardo        | pardo        | Ninguno vio el gran búho pardo que pasaba volando por la ventana.
+berrinche    | berrinche    | A las ocho y media, el señor Dursley cogió su maletín, besó a la señora Dursley en la mejilla y trató de despedirse de Dudley con un beso, aunque no pudo, ya que el niño tenía un berrinche y estaba arrojando los cereales contra las paredes.
+Pillastre    | pillastre    | «Pillastre», dijo entre dientes el señor Dursley mientras salía de la casa.
+atigrado     | atigrado     | Sí había un gato atigrado en la esquina de Privet Drive, pero no se veía ningún plano.
+parpadeó     | parpadear    | El señor Dursley parpadeó y contempló al gato.
+rótulo       | rótulo       | Mientras el señor Dursley daba la vuelta a la esquina y subía por la calle, observó al gato por el espejo retrovisor: en aquel momento el felino estaba leyendo el rótulo que decía «Privet Drive» (no podía ser, los gatos no saben leer los rótulos ni los planos).
+negó         | negar        | El señor Dursley negó con la cabeza y alejó al gato de sus pensamientos.
+apartó       | apartar      | Pero en las afueras ocurrió algo que apartó los taladros de su mente.
+advertir     | advertir     | Mientras esperaba en el habitual embotellamiento matutino, no pudo dejar de advertir una gran cantidad de gente vestida de forma extraña.
+conjuntos    | conjunto     | ¡Ah, los conjuntos que llevaban los jóvenes! Supuso que debía de ser una moda nueva.
+Tamborileó   | tamborilear  | Tamborileó con los dedos sobre el volante y su mirada se posó en unos extraños que estaban cerca de él.
+Cuchicheaban | cuchichear   | Cuchicheaban entre sí, muy excitados.
+enfureció    | enfurecerse  | El señor Dursley se enfureció al darse cuenta de que dos de los desconocidos no eran jóvenes.
+incluso      | incluso      | Vamos, uno era incluso mayor que él, ¡y vestía una capa verde esmeralda! ¡Qué valor! Pero entonces se le ocurrió que debía de ser alguna tontería publicitaria; era evidente que aquella gente hacía una colecta para algo.
+valor        | valor        | Vamos, uno era incluso mayor que él, ¡y vestía una capa verde esmeralda! ¡Qué valor! Pero entonces se le ocurrió que debía de ser alguna tontería publicitaria; era evidente que aquella gente hacía una colecta para algo.
+desfilaban   | desfilar     | No vio los búhos que volaban en pleno día, aunque en la calle sí que los veían y los señalaban con la boca abierta, mientras las aves desfilaban una tras otra.
+susurraba    | susurrar     | Aquel grupo también susurraba con agitación y no llevaba ni una hucha.
+hucha        | hucha        | Aquel grupo también susurraba con agitación y no llevaba ni una hucha.
+contuvo      | contenerse   | Se volvió hacia los que murmuraban, como si quisiera decirles algo, pero se contuvo.
+apresuró     | apresurarse  | Se apresuró a cruzar la calle y echó a correr hasta su oficina.
+marcar       | marcar       | Dijo a gritos a su secretaria que no quería que lo molestaran, cogió el teléfono y, cuando casi había terminado de marcar los números de su casa, cambió de idea.
+atusó        | atusarse     | Dejó el aparato y se atusó el bigote mientras pensaba... No, estaba comportándose como un estúpido.
+trastornaba  | trastornarse | No valía la pena preocupar a la señora Dursley, siempre se trastornaba mucho ante cualquier mención de su hermana.
+reprochárselo| reprochar    | Y no podía reprochárselo.
+gruñó        | gruñir       | —Perdón —gruñó, mientras el diminuto viejo se tambaleaba y casi caía al suelo.
+tambaleaba   | tambalearse  | —Perdón —gruñó, mientras el diminuto viejo se tambaleaba y casi caía al suelo.
+rostro       | rostro       | Al contrario, su rostro se iluminó con una amplia sonrisa, mientras decía con una voz tan chillona que llamaba la atención de los que pasaban: —¡No se disculpe, mi querido señor, porque hoy nada puede molestarme! ¡Hay que alegrarse, porque Quien-usted-sabe finalmente se ha ido! ¡Hasta los muggles como usted deberían celebrar este feliz día!
+chillona     | chillón      | Al contrario, su rostro se iluminó con una amplia sonrisa, mientras decía con una voz tan chillona que llamaba la atención de los que pasaban: —¡No se disculpe, mi querido señor, porque hoy nada puede molestarme! ¡Hay que alegrarse, porque Quien-usted-sabe finalmente se ha ido! ¡Hasta los muggles como usted deberían celebrar este feliz día!
+Contigua     | contiguo     | Mientras comían, le informó de los problemas de la señora Puerta Contigua con su hija, y le contó que Dudley había aprendido una nueva frase («¡no lo haré!»).
+Pese         | pese         | Pese a que los búhos habitualmente cazan durante la noche y es muy difícil verlos a la luz del día, se han producido cientos de avisos sobre el vuelo de estas aves en todas direcciones, desde la salida del sol.
+mueca        | mueca        | —El locutor se permitió una mueca irónica—.
+chaparrón    | chaparrón    | Telespectadores de lugares tan apartados como Kent, Yorkshire y Dundee han telefoneado para decirme que, en lugar de la lluvia que prometí ayer, ¡ha caído un chaparrón de estrellas fugaces!
+Hogueras     | hoguera      | Tal vez la gente ha comenzado a celebrar antes de tiempo la Noche de las Hogueras.
+cuchicheo    | cuchicheo    | Y aquel rumor, aquel cuchicheo sobre los Potter... La señora Dursley entró en el comedor con dos tazas de té.
+masculló     | mascullar    | ¿Por qué? —Hay cosas muy extrañas en las noticias —masculló el señor Dursley—.
+fruncidos    | fruncir      | La señora Dursley bebió su té con los labios fruncidos.
+espantosa    | espantoso    | —Oh, sí —dijo el señor Dursley, con una espantosa sensación de abatimiento—.
+abatimiento  | abatimiento  | —Oh, sí —dijo el señor Dursley, con una espantosa sensación de abatimiento—.
+escudriñó    | escudriñar   | Mientras la señora Dursley estaba en el cuarto de baño, el señor Dursley se acercó lentamente hasta la ventana del dormitorio y escudriñó el jardín delantero.
+Bostezó      | bostezar     | Bostezó y se dio la vuelta.
+adormecerse  | adormecerse  | ¡Qué equivocado estaba! El señor Dursley cayó en un sueño intranquilo, pero el gato que estaba sentado en la pared del jardín no mostraba señales de adormecerse.
+pestañear    | pestañear    | Estaba tan inmóvil como una estatua, con los ojos fijos, sin pestañear, en la esquina de Privet Drive.
+súbita       | súbito       | Un hombre apareció en la esquina que el gato había estado observando, y lo hizo tan súbita y silenciosamente que se podría pensar que había surgido de la tierra.
+surgido      | surgir       | Un hombre apareció en la esquina que el gato había estado observando, y lo hizo tan súbita y silenciosamente que se podría pensar que había surgido de la tierra.
+entornaron   | entornar     | La cola del gato se agitó y sus ojos se entornaron.
+plateados    | plateado     | Era alto, delgado y muy anciano, a juzgar por su pelo y barba plateados, tan largos que habría podido sujetarlos con el cinturón.
+túnica       | túnica       | Llevaba una túnica larga, una capa color púrpura que barría el suelo y botas con tacón alto y hebillas.
+púrpura      | púrpura      | Llevaba una túnica larga, una capa color púrpura que barría el suelo y botas con tacón alto y hebillas.
+hebillas     | hebilla      | Llevaba una túnica larga, una capa color púrpura que barría el suelo y botas con tacón alto y hebillas.
+centelleaban | centellear   | Sus ojos azules eran claros, brillantes y centelleaban detrás de unas gafas de cristales de media luna, y su nariz era muy larga y torcida, como si se la hubiera fracturado alguna vez.
+revolviendo  | revolver     | Estaba muy ocupado revolviendo en su capa, buscando algo, pero pareció darse cuenta de que lo observaban porque, de pronto, miró al gato, que todavía lo contemplaba con fijeza desde la otra punta de la calle.
+encendedor   | encendedor   | Parecía un encendedor de plata.
+sostuvo      | sostener     | Lo abrió, lo sostuvo alto en el aire y lo encendió.
+estallido    | estallido    | La luz más cercana de la calle se apagó con un leve estallido.
+lejanos      | lejano       | Doce veces hizo funcionar el Apagador, hasta que las únicas luces que quedaron en toda la calle fueron dos puntitos lejanos: los ojos del gato que lo observaba.
+cuentas      | cuenta       | Si alguien hubiera mirado por la ventana en aquel momento, aunque fuera la señora Dursley con sus ojos como cuentas, pequeños y brillantes, no habría podido ver lo que sucedía en la calle.
+montura      | montura      | En su lugar, le dirigía la sonrisa a una mujer de aspecto severo que llevaba gafas de montura cuadrada, idénticas a las líneas que había alrededor de los ojos del gato.
+cuadrada     | cuadrado     | En su lugar, le dirigía la sonrisa a una mujer de aspecto severo que llevaba gafas de montura cuadrada, idénticas a las líneas que había alrededor de los ojos del gato.
+cabello      | cabello      | Su cabello negro estaba recogido en un moño.
+tieso        | tieso        | —Mi querida profesora, nunca he visto a un gato tan tieso.
+ladrillo     | ladrillo     | —Usted también estaría tieso si llevara todo el día sentado sobre un muro de ladrillo —respondió la profesora McGonagall.
+resopló      | resoplar     | La profesora McGonagall resopló enfadada.
+Torció       | torcer       | —Torció la cabeza en dirección a la ventana del oscuro salón de los Dursley—.
+Bandadas     | bandada      | Bandadas de búhos, estrellas fugaces... Bueno, no son totalmente estúpidos.
+afable       | afable       | —No puede reprochárselo —dijo Dumbledore con tono afable—.
+soslayo      | soslayo      | Lanzó una mirada cortante y de soslayo hacia Dumbledore, como si esperara que éste le contestara algo.
+frialdad     | frialdad     | —No, muchas gracias —respondió con frialdad la profesora McGonagall, como si considerara que aquél no era un momento apropiado para caramelos—.
+sensata      | sensato      | Como le decía, aunque Quien-usted-sabe se haya ido... —Mi querida profesora, estoy seguro de que una persona sensata como usted puede llamarlo por su nombre, ¿verdad?
+desenvolver  | desenvolver  | —La profesora McGonagall se echó hacia atrás con temor, pero Dumbledore, ocupado en desenvolver dos caramelos de limón, pareció no darse cuenta—.
+ruborizaba   | ruborizarse  | No me ruborizaba tanto desde que la señora Pomfrey me dijo que le gustaban mis nuevas orejeras.
+tapia        | tapia        | Parecía que la profesora McGonagall había llegado al punto que más deseosa estaba por discutir, la verdadera razón por la que había esperado todo el día en una fría tapia, pues, ni como gato ni como mujer, había mirado nunca a Dumbledore con tal intensidad como lo hacía en aquel momento.
+asintió      | asentir      | Dumbledore asintió con la cabeza, apesadumbrado.
+apesadumbrado| apesadumbrado| Dumbledore asintió con la cabeza, apesadumbrado.
+tartamudeó   | tartamudear  | —tartamudeó la profesora McGonagall—.
+puntilla     | puntilla     | La profesora McGonagall sacó un pañuelo con puntilla y se lo pasó por los ojos, por detrás de las gafas.
+manecillas   | manecilla    | Tenía doce manecillas y ningún número; pequeños planetas se movían por el perímetro del círculo.
+patadas      | patada       | Y ese hijo que tienen... Lo he visto dando patadas a su madre mientras subían por la escalera, pidiendo caramelos a gritos.
+regañadientes| regañadientes| —No estoy diciendo que su corazón no esté donde debe estar —dijo a regañadientes la profesora McGonagall—.
+calzada      | calzada      | Aumentó hasta ser un rugido mientras los dos miraban hacia el cielo, y entonces una pesada moto cayó del aire y aterrizó en la calzada, frente a ellos.
+desaliñado   | desaliñado   | Se podía decir que era demasiado grande para que lo aceptaran y, además, tan desaliñado...
+revuelto     | revuelto     | Cabello negro, largo y revuelto, y una barba que le cubría casi toda la cara.
+bulto        | bulto        | En sus enormes brazos musculosos sostenía un bulto envuelto en mantas.
+mantas       | manta        | En sus enormes brazos musculosos sostenía un bulto envuelto en mantas.
+aliviado     | aliviado     | —Hagrid —dijo Dumbledore, aliviado—.
+mata         | mata         | Bajo una mata de pelo negro azabache, sobre la frente, pudieron ver una cicatriz con una forma curiosa, como un relámpago.
+azabache     | azabache     | Bajo una mata de pelo negro azabache, sobre la frente, pudieron ver una cicatriz con una forma curiosa, como un relámpago.
+desgreñada   | desgreñado   | Inclinó la gran cabeza desgreñada sobre Harry y le dio un beso, raspándolo con la barba.
+raspándolo   | raspar       | Inclinó la gran cabeza desgreñada sobre Harry y le dio un beso, raspándolo con la barba.
+siseó        | sisear       | —¡Chist! —siseó la profesora McGonagall—.
+lloriqueó    | lloriquear   | Lo... siento —lloriqueó Hagrid, y se limpió la cara con un gran pañuelo—.
+domínate     | dominarse    | Pero no puedo soportarlo... Lily y James, muertos... y el pobrecito Harry tendrá que vivir con muggles... —Sí, sí, es todo muy triste, pero domínate, Hagrid, o van a descubrirnos —susurró la profesora McGonagall, dando una palmada en un brazo de Hagrid, mientras Dumbledore pasaba sobre la verja del jardín e iba hasta la puerta que había enfrente.
+verja        | verja        | Pero no puedo soportarlo... Lily y James, muertos... y el pobrecito Harry tendrá que vivir con muggles... —Sí, sí, es todo muy triste, pero domínate, Hagrid, o van a descubrirnos —susurró la profesora McGonagall, dando una palmada en un brazo de Hagrid, mientras Dumbledore pasaba sobre la verja del jardín e iba hasta la puerta que había enfrente.
+umbral       | umbral       | Dejó suavemente a Harry en el umbral, sacó la carta de su capa, la escondió entre las mantas del niño y luego volvió con los otros dos.
+titilante    | titilante    | La luz titilante que los ojos de Dumbledore irradiaban habitualmente parecía haberlos abandonado.
+irradiaban   | irradiar     | La luz titilante que los ojos de Dumbledore irradiaban habitualmente parecía haberlos abandonado.
+ronca        | ronco        | —Ajá —respondió Hagrid con voz ronca—.
+palanca      | palanca      | Hagrid se secó las lágrimas con la manga de la chaqueta, se subió a la moto y accionó con el pie la palanca para poner el motor en marcha.
+estrépito    | estrépito    | Con un estrépito se elevó en el aire y desapareció en la noche.
+sonó         | sonarse      | La profesora McGonagall se sonó la nariz por toda respuesta.
+escabullía   | escabullirse | Lo hizo funcionar una vez y todas las luces de la calle se encendieron, de manera que Privet Drive se iluminó con un resplandor anaranjado, y pudo ver a un gato atigrado que se escabullía por una esquina, en el otro extremo de la calle.
+pulcros      | pulcro       | Una brisa agitó los pulcros setos de Privet Drive, que se disponían silenciosos y ordenados bajo un cielo de color tinta.
+setos        | seto         | Una brisa agitó los pulcros setos de Privet Drive, que se disponían silenciosos y ordenados bajo un cielo de color tinta.
+tinta        | tinta        | Una brisa agitó los pulcros setos de Privet Drive, que se disponían silenciosos y ordenados bajo un cielo de color tinta.
+pinchado     | pinchar      | Una mano pequeña se cerró sobre la carta y el niño siguió durmiendo, sin saber que era famoso, sin saber que al cabo de unas pocas horas lo despertaría el grito de la señora Dursley, cuando abriera la puerta principal para sacar las botellas de leche, ni que iba a pasar las próximas semanas pinchado y pellizcado por su primo Dudley...
+pellizcado   | pellizcar    | Una mano pequeña se cerró sobre la carta y el niño siguió durmiendo, sin saber que era famoso, sin saber que al cabo de unas pocas horas lo despertaría el grito de la señora Dursley, cuando abriera la puerta principal para sacar las botellas de leche, ni que iba a pasar las próximas semanas pinchado y pellizcado por su primo Dudley...
+quedas       | quedo        | No podía saber tampoco que, en aquel mismo momento, las personas que se reunían en secreto por todo el país estaban levantando sus copas y diciendo, con voces quedas:

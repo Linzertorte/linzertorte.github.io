@@ -1,0 +1,62 @@
+repisa         | repisa         | Sólo las fotos de la repisa de la chimenea eran testimonio del tiempo que había pasado.
+gorros         | gorro          | Diez años antes, había una gran cantidad de retratos de lo que parecía una gran pelota rosada con gorros de diferentes colores, pero Dudley Dursley ya no era un niño pequeño, y en aquel momento las fotos mostraban a un chico grande y rubio montando su primera bicicleta, en un tiovivo en la feria, jugando con su padre en el ordenador, besado y abrazado por su madre.
+tiovivo        | tiovivo        | Diez años antes, había una gran cantidad de retratos de lo que parecía una gran pelota rosada con gorros de diferentes colores, pero Dudley Dursley ya no era un niño pequeño, y en aquel momento las fotos mostraban a un chico grande y rubio montando su primera bicicleta, en un tiovivo en la feria, jugando con su padre en el ordenador, besado y abrazado por su madre.
+roce           | roce           | Harry oyó sus pasos en dirección a la cocina, y después el roce de la sartén contra el fogón.
+fogón          | fogón          | Harry oyó sus pasos en dirección a la cocina, y después el roce de la sartén contra el fogón.
+refunfuñó      | refunfuñar     | Harry refunfuñó.
+alacena        | alacena        | Estaba acostumbrado a las arañas, porque la alacena que había debajo de las escaleras estaba llena de ellas, y allí era donde dormía.
+recibidor      | recibidor      | Cuando estuvo vestido, salió al recibidor y entró en la cocina.
+aborrecía      | aborrecer      | La razón exacta por la que Dudley podía querer una bicicleta era un misterio para Harry, ya que Dudley estaba muy gordo y aborrecía el ejercicio, excepto si conllevaba pegar a alguien, por supuesto.
+conllevaba     | conllevar      | La razón exacta por la que Dudley podía querer una bicicleta era un misterio para Harry, ya que Dudley estaba muy gordo y aborrecía el ejercicio, excepto si conllevaba pegar a alguien, por supuesto.
+prendas        | prenda         | Además, parecía más pequeño y delgado de lo que realmente era, porque toda la ropa que llevaba eran prendas viejas de Dudley, y su primo era cuatro veces más grande que él.
+huesudas       | huesudo        | Harry tenía el rostro delgado, rodillas huesudas, pelo negro y ojos de color verde brillante.
+bramó          | bramar         | —¡Péinate! —bramó como saludo matinal.
+acuoso         | acuoso         | Tenía la cara grande y rosada, poco cuello, ojos pequeños de un tono azul acuoso, y abundante pelo rubio que cubría su gruesa cabeza.
+gruesa         | grueso         | Tenía la cara grande y rosada, poco cuello, ojos pequeños de un tono azul acuoso, y abundante pelo rubio que cubría su gruesa cabeza.
+ensombreció    | ensombrecerse  | Su cara se ensombreció.
+volcaba        | volcar         | Harry, que podía ver venir un gran berrinche de Dudley, comenzó a comerse el beicon lo más rápido posible, por si volcaba la mesa.
+pichoncito     | pichón         | ¿Qué te parece, pichoncito?
+dulzura        | dulzor         | Por último, dijo lentamente: —Entonces tendré treinta y... treinta y... —Treinta y nueve, dulzura —dijo tía Petunia.
+desembalando   | desembalar     | En aquel momento sonó el teléfono y tía Petunia fue a cogerlo, mientras Harry y tío Vernon miraban a Dudley, que estaba desembalando la bicicleta de carreras, la videocámara, el avión con control remoto, dieciséis juegos nuevos para el ordenador y un vídeo.
+envoltorio     | envoltorio     | Estaba rompiendo el envoltorio de un reloj de oro cuando tía Petunia volvió, enfadada y preocupada a la vez.
+manzanas       | manzana        | Cada año, Harry se quedaba con la señora Figg, una anciana loca que vivía a dos manzanas.
+repollo        | repollo        | Toda la casa olía a repollo y la señora Figg le hacía mirar las fotos de todos los gatos que había tenido.
+gusano         | gusano         | Los Dursley hablaban a menudo sobre Harry de aquella manera, como si no estuviera allí, o más bien como si pensaran que era tan tonto que no podía entenderlos, algo así como un gusano.
+rezongó        | rezongar       | —rezongó.
+retorcía       | retorcer       | En realidad no lloraba, hacía años que no lloraba de verdad, pero sabía que, si retorcía la cara y gritaba, su madre le daría cualquier cosa que quisiera.
+sollozos       | sollozo        | —¡Yo... no... quiero... que... él venga! —exclamó Dudley entre fingidos sollozos—.
+burlona        | burlón         | ¡Siempre lo estropea todo! —Le hizo una mueca burlona a Harry desde los brazos de su madre.
+flacucho       | flacucho       | Piers era un chico flacucho con cara de rata.
+rape           | rape           | En una ocasión, tía Petunia, cansada de que Harry volviera de la peluquería como si no hubiera ido, cogió unas tijeras de la cocina y le cortó el pelo casi al rape, exceptuando el flequillo, que le dejó «para ocultar la horrible cicatriz».
+exceptuando    | exceptuar      | En una ocasión, tía Petunia, cansada de que Harry volviera de la peluquería como si no hubiera ido, cogió unas tijeras de la cocina y le cortó el pelo casi al rape, exceptuando el flequillo, que le dejó «para ocultar la horrible cicatriz».
+flequillo      | flequillo      | En una ocasión, tía Petunia, cansada de que Harry volviera de la peluquería como si no hubiera ido, cogió unas tijeras de la cocina y le cortó el pelo casi al rape, exceptuando el flequillo, que le dejó «para ocultar la horrible cicatriz».
+holgada        | holgado        | Dudley se rió como un tonto, burlándose de Harry, que pasó la noche sin dormir imaginando lo que sucedería en el colegio al día siguiente, donde ya se reían de su ropa holgada y sus gafas remendadas.
+manchas        | mancha         | Otra vez, tía Petunia había tratado de meterlo dentro de un repugnante jersey viejo de Dudley (marrón, con manchas naranjas).
+encogido       | encogerse      | Tía Petunia creyó que debía de haberse encogido al lavarlo y, para su gran alivio, Harry no fue castigado.
+tejado         | tejado         | Por otra parte, había tenido un problema terrible cuando lo encontraron en el tejado de la cocina del colegio.
+amenazadora    | amenazador     | Los Dursley recibieron una carta amenazadora de la directora, diciéndoles que Harry andaba trepando por los edificios del colegio.
+trepando       | trepar         | Los Dursley recibieron una carta amenazadora de la directora, diciéndoles que Harry andaba trepando por los edificios del colegio.
+gamberros      | gamberro       | —...haciendo ruido como locos esos gamberros —dijo mientras una moto los adelantaba.
+remolacha      | remolacha      | Se dio la vuelta en el asiento y gritó a Harry: —¡LAS MOTOS NO VUELAN! Su rostro era como una gigantesca remolacha con bigote.
+disimuladamente| disimuladamente| Dudley y Piers se rieron disimuladamente.
+desagradaba    | desagradar     | Si había algo que desagradaba a los Dursley aún más que las preguntas que Harry hacía, era que hablara de cualquier cosa que no se desarrollara de la forma adecuada, ya fuera un sueño o un dibujo animado; parecían pensar que podía llegar a tener ideas peligrosas.
+polo           | polo           | Los Dursley compraron a Dudley y a Piers unos grandes helados de chocolate en la entrada, y luego, como la sonriente señora del puesto preguntó a Harry qué quería antes de que pudieran alejarse, le compraron un polo de limón barato.
+rascaba        | rascarse       | Aquello tampoco estaba mal, pensó Harry, chupándolo mientras observaban a un gorila que se rascaba la cabeza y se parecía notablemente a Dudley, salvo que no era rubio.
+rabieta        | rabieta        | Comieron en el restaurante del zoológico, y cuando Dudley tuvo una rabieta porque su bocadillo no era lo suficientemente grande, tío Vernon le compró otro y Harry tuvo permiso para terminarse el primero.
+vidrieras      | vidriera       | Estaba oscuro y hacía frío, y había vidrieras iluminadas a lo largo de las paredes.
+lagartos       | lagarto        | Detrás de los vidrios, toda clase de serpientes y lagartos se arrastraban y se deslizaban por las piedras y los troncos.
+estrujaban     | estrujar       | Dudley y Piers querían ver las gigantescas cobras venenosas y las gruesas pitones que estrujaban a los hombres.
+nudillos       | nudillo        | Tío Vernon golpeó con los nudillos, pero el animal siguió dormitando.
+dormitando     | dormitar       | Tío Vernon golpeó con los nudillos, pero el animal siguió dormitando.
+ojillos        | ojillos        | De pronto, la serpiente abrió sus ojillos, pequeños y brillantes como cuentas.
+Guiñó          | guiñar         | Guiñó un ojo.
+ensordecedor   | ensordecedor   | Mientras la serpiente negaba con la cabeza, un grito ensordecedor detrás de Harry los hizo saltar.
+contoneándose  | contonearse    | Dudley se acercó contoneándose, lo más rápido que pudo.
+incorporó      | incorporarse   | Harry se incorporó y se quedó boquiabierto: el vidrio que cerraba el cubículo de la boa constrictor había desaparecido.
+desenrollado   | desenrollarse  | La descomunal serpiente se había desenrollado rápidamente y en aquel momento se arrastraba por el suelo.
+conmocionado   | conmocionado   | El encargado de los reptiles se encontraba totalmente conmocionado.
+trasero        | trasero        | Por lo que Harry había visto, la serpiente no había hecho más que darles un golpe juguetón en los pies, pero cuando volvieron al asiento trasero del coche de tío Vernon, Dudley les contó que casi lo había mordido en la pierna, mientras Piers juraba que había intentado estrangularlo.
+desplomarse    | desplomarse    | —Ve... alacena... quédate... no hay comida —logró decir, antes de desplomarse en una silla.
+desgraciados   | desgraciado    | Había vivido con los Dursley casi diez años, diez años desgraciados, hasta donde podía acordarse, desde que era un niño pequeño y sus padres habían muerto en un accidente de coche.
+estrafalario   | estrafalario   | Una anciana con aspecto estrafalario, toda vestida de verde, también lo había saludado alegremente en un autobús.
+estrechado     | estrechar      | Un hombre calvo, con un abrigo largo, color púrpura, le había estrechado la mano en la calle y se había alejado sin decir una palabra.

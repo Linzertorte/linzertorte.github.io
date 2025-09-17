@@ -1,0 +1,63 @@
+resplandecientes| resplandeciente | Las paredes de piedra estaban iluminadas con resplandecientes antorchas como las de Gringotts, el techo era tan alto que apenas se percibía y una magnífica escalera de mármol, frente a ellos, conducía a los pisos superiores.
+peluca          | peluca          | Nunca había estado tan nervioso, nunca, ni siquiera cuando tuvo que llevar a los Dursley un informe del colegio que decía que él, de alguna manera, había vuelto azul la peluca de su maestro.
+bote            | bote            | Entonces sucedió algo que le hizo dar un bote de un palmo... Muchos de los que estaban atrás gritaron.
+palmo           | palmo           | Entonces sucedió algo que le hizo dar un bote de un palmo... Muchos de los que estaban atrás gritaron.
+gorguera        | gorguera        | Un fantasma, con gorguera y medias, se había dado cuenta de pronto de la presencia de los de primer año.
+neblinoso       | neblinoso       | Situados entre los estudiantes, los fantasmas tenían un neblinoso brillo plateado.
+terciopelo      | terciopelo      | Para evitar todas las miradas, Harry levantó la vista y vio un techo de terciopelo negro, salpicado de estrellas.
+salpicado       | salpicado       | Para evitar todas las miradas, Harry levantó la vista y vio un techo de terciopelo negro, salpicado de estrellas.
+remendado       | remendar        | El sombrero estaba remendado, raído y muy sucio.
+raído           | raído           | El sombrero estaba remendado, raído y muy sucio.
+irreflexivamente| irreflexivamente| Tal vez tenían que intentar sacar un conejo del sombrero, pensó Harry algo irreflexivamente, eso era lo típico de... Al darse cuenta de que todos los del comedor contemplaban el sombrero, Harry también lo hizo.
+rasgadura       | rasgadura       | Una rasgadura cerca del borde se abrió, ancha como una boca, y el sombrero comenzó a cantar: Oh, podrás pensar que no soy bonito, pero no juzgues por lo que ves.
+bombines        | bombín          | Puedes tener bombines negros, sombreros de copa altos y elegantes.
+osadía          | osadía          | Su osadía, temple y caballerosidad distinguen a los de Gryffindor.
+temple          | temple          | Su osadía, temple y caballerosidad distinguen a los de Gryffindor.
+caballerosidad  | caballerosidad  | Su osadía, temple y caballerosidad distinguen a los de Gryffindor.
+sabiduría       | sabiduría       | O tal vez a la antigua sabiduría de Ravenclaw, si tienes una mente dispuesta, porque los inteligentes y eruditos siempre encontrarán allí a sus semejantes.
+bofetada        | bofetada        | ¡Así que pruébame! ¡No tengas miedo! ¡Y no recibirás una bofetada! Estás en buenas manos (aunque yo no las tenga).
+trenzas         | trenza          | ¡Abbott, Hannah! Una niña de rostro rosado y trenzas rubias salió de la fila, se puso el sombrero, que la tapó hasta los ojos, y se sentó.
+escogía         | escoger         | Recordó lo que pasaba en las clases de gimnasia de su antiguo colegio, cuando se escogía a los jugadores para los equipos.
+tropezó         | tropezarse      | Cuando Neville Longbottom, el chico que perdía su sapo, fue llamado, se tropezó con el taburete.
+propinó         | propinar        | Éste le propinó a Harry una palmada en el brazo, dándole la horrible sensación de haberlo metido en un cubo de agua helada.
+pulgares        | pulgar          | En el extremo más cercano estaba Hagrid, que lo miró y levantó los pulgares.
+verdosa         | verdoso         | Tenía una palidez verdosa y Harry cruzó los dedos debajo de la mesa.
+displicencia    | displicencia    | —dijo Percy con displicencia—.
+chuletas        | chuleta         | Nunca había visto tantas cosas que le gustara comer sobre una mesa: carne asada, pollo asado, chuletas de cerdo y de cordero, salchichas, beicon y filetes, patatas cocidas, asadas y fritas, pudin de Yorkshire, guisantes, zanahorias, salsa de carne, kétchup y, por alguna extraña razón, caramelos de menta.
+cordero         | cordero         | Nunca había visto tantas cosas que le gustara comer sobre una mesa: carne asada, pollo asado, chuletas de cerdo y de cordero, salchichas, beicon y filetes, patatas cocidas, asadas y fritas, pudin de Yorkshire, guisantes, zanahorias, salsa de carne, kétchup y, por alguna extraña razón, caramelos de menta.
+filetes         | filete          | Nunca había visto tantas cosas que le gustara comer sobre una mesa: carne asada, pollo asado, chuletas de cerdo y de cordero, salchichas, beicon y filetes, patatas cocidas, asadas y fritas, pudin de Yorkshire, guisantes, zanahorias, salsa de carne, kétchup y, por alguna extraña razón, caramelos de menta.
+bisagra         | bisagra         | Toda la cabeza se separó del cuello y le cayó sobre el hombro, como si tuviera una bisagra.
+demacrado       | demacrado       | Harry miró hacia la mesa de Slytherin y vio un fantasma horrible sentado allí, con ojos fijos y sin expresión, un rostro demacrado y las ropas manchadas de sangre plateada.
+melaza          | melaza          | Bloques de helado de todos los sabores que uno se pudiera imaginar, pasteles de manzana, tartas de melaza, pastelitos de chocolate, rosquillas de mermelada, bizcochos borrachos, fresas, jalea, arroz con leche... Mientras Harry se servía una tarta de melaza, la conversación se centró en las familias.
+rosquillas      | rosquilla       | Bloques de helado de todos los sabores que uno se pudiera imaginar, pasteles de manzana, tartas de melaza, pastelitos de chocolate, rosquillas de mermelada, bizcochos borrachos, fresas, jalea, arroz con leche... Mientras Harry se servía una tarta de melaza, la conversación se centró en las familias.
+bizcochos       | bizcocho        | Bloques de helado de todos los sabores que uno se pudiera imaginar, pasteles de manzana, tartas de melaza, pastelitos de chocolate, rosquillas de mermelada, bizcochos borrachos, fresas, jalea, arroz con leche... Mientras Harry se servía una tarta de melaza, la conversación se centró en las familias.
+borrachos       | borracho        | Bloques de helado de todos los sabores que uno se pudiera imaginar, pasteles de manzana, tartas de melaza, pastelitos de chocolate, rosquillas de mermelada, bizcochos borrachos, fresas, jalea, arroz con leche... Mientras Harry se servía una tarta de melaza, la conversación se centró en las familias.
+jalea           | jalea           | Bloques de helado de todos los sabores que uno se pudiera imaginar, pasteles de manzana, tartas de melaza, pastelitos de chocolate, rosquillas de mermelada, bizcochos borrachos, fresas, jalea, arroz con leche... Mientras Harry se servía una tarta de melaza, la conversación se centró en las familias.
+desprevenido    | desprevenido    | Mi tío abuelo Algie trataba de pillarme desprevenido y forzarme a que saliera algo de magia de mí.
+tobillos        | tobillo         | El tío abuelo Algie había venido a tomar el té y me tenía cogido de los tobillos y colgando de una ventana del piso de arriba, cuando mi tía abuela Enid le ofreció un merengue y él, accidentalmente, me soltó.
+merengue        | merengue        | El tío abuelo Algie había venido a tomar el té y me tenía cogido de los tobillos y colgando de una ventana del piso de arriba, cuando mi tía abuela Enid le ofreció un merengue y él, accidentalmente, me soltó.
+reboté          | rebotar         | Pero yo reboté por el jardín hasta llegar a la calle.
+cerillas        | cerilla         | Hay que empezar con cosas pequeñas, como cerillas en agujas y todo eso...») Harry, que comenzaba a sentirse reconfortado y soñoliento, miró otra vez hacia la mesa de los profesores.
+copiosamente    | copiosamente    | Hagrid bebía copiosamente de su copa.
+ganchuda        | ganchudo        | El profesor Quirrell, con su absurdo turbante, conversaba con un profesor de grasiento pelo negro, nariz ganchuda y piel cetrina.
+cetrina         | cetrino         | El profesor Quirrell, con su absurdo turbante, conversaba con un profesor de grasiento pelo negro, nariz ganchuda y piel cetrina.
+celador         | celador         | —El señor Filch, el celador, me ha pedido que os recuerde que no debéis hacer magia en los recreos ni en los pasillos.
+recreos         | recreo          | —El señor Filch, el celador, me ha pedido que os recuerde que no debéis hacer magia en los recreos ni en los pasillos.
+ceñudo          | ceñudo          | —Eso creo —dijo Percy, mirando ceñudo a Dumbledore—.
+vociferó        | vociferar       | Y todo el colegio vociferó: Hogwarts, Hogwarts, Hogwarts, enséñanos algo, por favor.
+pulgas          | pulga           | Porque ahora están vacías y llenas de aire, pulgas muertas y un poco de pelusa.
+pelusa          | pelusa          | Porque ahora están vacías y llenas de aire, pulgas muertas y un poco de pelusa.
+enjugándose     | enjugarse       | —¡Ah, la música! —dijo, enjugándose los ojos—.
+trote           | trote           | ¡Salid al trote! Los de primer año de Gryffindor siguieron a Percy a través de grupos bulliciosos, salieron del Gran Comedor y subieron por la escalera de mármol.
+bulliciosos     | bullicioso      | ¡Salid al trote! Los de primer año de Gryffindor siguieron a Percy a través de grupos bulliciosos, salieron del Gran Comedor y subieron por la escalera de mármol.
+corredizos      | corredizo       | Estaba tan dormido que ni se sorprendió al ver que la gente de los retratos, a lo largo de los pasillos, susurraba y los señalaba al pasar, o cuando Percy, en dos oportunidades, los hizo pasar por puertas ocultas detrás de paneles corredizos y tapices que colgaban de las paredes.
+grosero         | grosero         | La respuesta fue un ruido fuerte y grosero, como si se desinflara un globo.
+desinflara      | desinflar       | La respuesta fue un ruido fuerte y grosero, como si se desinflara un globo.
+chasquido       | chasquido       | Se produjo un chasquido y un hombrecito de ojos oscuros y perversos y boca ancha apareció flotando en el aire, con las piernas cruzadas y empuñando los bastones.
+cacareo         | cacareo         | —¡Oooooh! —dijo, con un maligno cacareo—.
+novatos         | novato          | ¡Los horribles novatos! ¡Qué divertido!
+abalanzó        | abalanzarse     | De pronto se abalanzó sobre ellos.
+balanceó        | balancearse     | —Caput draconis —dijo Percy, y el retrato se balanceó hacia delante y dejó ver un agujero redondo en la pared.
+amontonaron     | amontonarse     | Todos se amontonaron para pasar (Neville necesitó ayuda) y se encontraron en la sala común de Gryffindor, una habitación redonda y acogedora, llena de cómodos sillones.
+caracol         | caracol         | Al final de una escalera de caracol (era evidente que estaban en una de las torres) encontraron, por fin, sus camas, cinco camas con baldaquín y cortinas de terciopelo rojo oscuro.
+empapado        | empapado        | Luego Malfoy se convirtió en el profesor de nariz ganchuda, Snape, cuya risa se volvía cada vez más fuerte y fría... Se produjo un estallido de luz verde y Harry se despertó, temblando y empapado en sudor.

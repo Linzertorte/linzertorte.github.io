@@ -1,0 +1,68 @@
+acarreó     | acarrear    | CAPÍTULO 3 Las cartas de nadie La fuga de la boa constrictor le acarreó a Harry el castigo más largo de su vida.
+estrellara  | estrellarse | Cuando le dieron permiso para salir de su alacena ya habían comenzado las vacaciones de verano y Dudley había roto su nueva videocámara, conseguido que su avión con control remoto se estrellara y, en la primera salida que hizo con su bicicleta de carreras, había atropellado a la anciana señora Figg cuando cruzaba Privet Drive con sus muletas.
+muletas     | muleta      | Cuando le dieron permiso para salir de su alacena ya habían comenzado las vacaciones de verano y Dudley había roto su nueva videocámara, conseguido que su avión con control remoto se estrellara y, en la primera salida que hizo con su bicicleta de carreras, había atropellado a la anciana señora Figg cuando cruzaba Privet Drive con sus muletas.
+ensayar     | ensayar     | ¿Quieres venir arriba y ensayar?
+frac        | frac        | Los muchachos de Smeltings llevaban frac granate, pantalones bombachos de color naranja y sombrero de paja, rígido y plano, llamado canotié.
+granate     | granate     | Los muchachos de Smeltings llevaban frac granate, pantalones bombachos de color naranja y sombrero de paja, rígido y plano, llamado canotié.
+bombachos   | bombacho    | Los muchachos de Smeltings llevaban frac granate, pantalones bombachos de color naranja y sombrero de paja, rígido y plano, llamado canotié.
+estalló     | estallar    | Tía Petunia estalló en lágrimas y dijo que no podía creer que aquél fuera su pequeño Dudley, tan apuesto y crecido.
+apuesto     | apuesto     | Tía Petunia estalló en lágrimas y dijo que no podía creer que aquél fuera su pequeño Dudley, tan apuesto y crecido.
+fregadero   | fregadero   | Parecía proceder de un gran cubo de metal que estaba en el fregadero.
+trapos      | trapo       | El cubo estaba lleno de lo que parecían trapos sucios flotando en agua gris.
+tiñendo     | teñir       | Estoy tiñendo de gris algunas cosas viejas de Dudley.
+felpudo     | felpudo     | Todos oyeron el ruido en el buzón y las cartas que caían sobre el felpudo.
+amarillento | amarillento | Señor H. Potter Alacena Debajo de la Escalera Privet Drive, 4 Little Whinging Surrey El sobre era grueso y pesado, hecho de pergamino amarillento, y la dirección estaba escrita con tinta verde esmeralda.
+lacre       | lacre       | Con las manos temblorosas, Harry le dio la vuelta al sobre y vio un sello de lacre púrpura con un escudo de armas: un león, un águila, un tejón y una serpiente, que rodeaban una gran letra H. —¡Date prisa, chico! —exclamó tío Vernon desde la cocina—.
+escudo      | escudo      | Con las manos temblorosas, Harry le dio la vuelta al sobre y vio un sello de lacre púrpura con un escudo de armas: un león, un águila, un tejón y una serpiente, que rodeaban una gran letra H. —¡Date prisa, chico! —exclamó tío Vernon desde la cocina—.
+tejón       | tejón       | Con las manos temblorosas, Harry le dio la vuelta al sobre y vio un sello de lacre púrpura con un escudo de armas: un león, un águila, un tejón y una serpiente, que rodeaban una gran letra H. —¡Date prisa, chico! —exclamó tío Vernon desde la cocina—.
+desdoblar   | desdoblar   | ¡Papá, Harry ha recibido algo! Harry estaba a punto de desdoblar su carta, que estaba escrita en el mismo pergamino que el sobre, cuando tío Vernon se la arrancó de la mano.
+despectivo  | despectivo  | —dijo con tono despectivo tío Vernon, abriendo la carta con una mano y echándole una mirada.
+grisáceo    | grisáceo    | En segundos adquirió el blanco grisáceo de unas gachas de avena resecas.
+gachas      | gacha       | En segundos adquirió el blanco grisáceo de unas gachas de avena resecas.
+avena       | avena       | En segundos adquirió el blanco grisáceo de unas gachas de avena resecas.
+resecas     | reseco      | En segundos adquirió el blanco grisáceo de unas gachas de avena resecas.
+bufó        | bufar       | —¡Pe... Pe... Petunia! —bufó.
+desmayarse  | desmayarse  | Durante un momento pareció que iba a desmayarse.
+cogote      | cogote      | —¡FUERA! —gritó tío Vernon, y, cogiendo a Harry y a Dudley por el cogote, los arrojó al recibidor y cerró la puerta de la cocina.
+cerradura   | cerradura   | Harry y Dudley iniciaron una lucha, furiosa pero callada, para ver quién espiaba por el ojo de la cerradura.
+colgando    | colgar      | Ganó Dudley, así que Harry, con las gafas colgando de una oreja, se tiró al suelo para escuchar por la rendija entre la puerta y el suelo.
+rendija     | rendija     | Ganó Dudley, así que Harry, con las gafas colgando de una oreja, se tiró al suelo para escuchar por la rendija entre la puerta y el suelo.
+mudes       | mudarse     | Pensamos que estaría bien que te mudes al segundo dormitorio de Dudley.
+loro        | loro        | También había una gran jaula que alguna vez tuvo dentro un loro, pero Dudley lo cambió en el colegio por un rifle de aire comprimido, que en aquel momento estaba en un estante con la punta torcida, porque Dudley se había sentado encima.
+forcejear   | forcejear   | Allí tuvo que forcejear con su hijo para quitarle la carta, lo que le resultaba difícil porque Harry le tiraba del cuello.
+enderezó    | enderezarse | Después de un minuto de confusa lucha, en la que todos recibieron golpes del bastón, tío Vernon se enderezó con la carta de Harry arrugada en la mano, jadeando para recuperar la respiración.
+arrugada    | arrugado    | Después de un minuto de confusa lucha, en la que todos recibieron golpes del bastón, tío Vernon se enderezó con la carta de Harry arrugada en la mano, jadeando para recuperar la respiración.
+jadeando    | jadear      | Después de un minuto de confusa lucha, en la que todos recibieron golpes del bastón, tío Vernon se enderezó con la carta de Harry arrugada en la mano, jadeando para recuperar la respiración.
+fallaran    | fallar      | Y esta vez se aseguraría de que no fallaran.
+latía       | latir       | El corazón le latía aceleradamente mientras atravesaba el recibidor oscuro hacia la puerta.
+fofo        | fofo        | Había tropezado con algo grande y fofo que estaba en el felpudo...
+tulipanes   | tulipán     | Mientras trabajaba, tarareaba De puntillas entre los tulipanes y se sobresaltaba con cualquier ruido.
+estafeta    | estafeta    | Mientras tío Vernon llamaba a la estafeta y a la lechería, tratando de encontrar a alguien para quejarse, tía Petunia trituraba las cartas en la picadora.
+trituraba   | triturar    | Mientras tío Vernon llamaba a la estafeta y a la lechería, tratando de encontrar a alguien para quejarse, tía Petunia trituraba las cartas en la picadora.
+picadora    | picadora    | Mientras tío Vernon llamaba a la estafeta y a la lechería, tratando de encontrar a alguien para quejarse, tía Petunia trituraba las cartas en la picadora.
+zumbando    | zumbar      | Algo llegó zumbando por la chimenea de la cocina mientras él hablaba y lo golpeó con fuerza en la nuca.
+disparadas  | disparado   | Al momento siguiente, treinta o cuarenta cartas salieron disparadas de la chimenea como balas.
+portazo     | portazo     | Cuando tía Petunia y Dudley salieron corriendo, cubriéndose la cara con las manos, tío Vernon cerró de un portazo.
+afluyendo   | afluir      | Podían oír el ruido de las cartas, que seguían afluyendo en la habitación, golpeando contra las paredes y el suelo.
+tapiadas    | tapiar      | Diez minutos después se habían abierto camino a través de las puertas tapiadas y estaban en el coche, avanzando velozmente hacia la autopista.
+pilló       | pillar      | Dudley lloriqueaba en el asiento trasero, pues su padre le había pegado en la cabeza cuando lo pilló tratando de guardar el televisor, el vídeo y el ordenador en la bolsa.
+gastadas    | gastado     | Dudley y Harry compartieron una habitación con camas gemelas y sábanas húmedas y gastadas.
+roncaba     | roncar      | Dudley roncaba, pero Harry permaneció despierto, sentado en el alféizar de la ventana, contemplando las luces de los coches que pasaban y deseando saber... Al día siguiente desayunaron copos de trigo rancios y tomates de lata fríos sobre tostadas.
+copos       | copo        | Dudley roncaba, pero Harry permaneció despierto, sentado en el alféizar de la ventana, contemplando las luces de los coches que pasaban y deseando saber... Al día siguiente desayunaron copos de trigo rancios y tomates de lata fríos sobre tostadas.
+rancios     | rancio      | Dudley roncaba, pero Harry permaneció despierto, sentado en el alféizar de la ventana, contemplando las luces de los coches que pasaban y deseando saber... Al día siguiente desayunaron copos de trigo rancios y tomates de lata fríos sobre tostadas.
+gimoteaba   | gimotear    | Dudley gimoteaba.
+percha      | percha      | Claro que sus cumpleaños nunca habían sido exactamente divertidos: el año anterior, por ejemplo, los Dursley le regalaron una percha y un par de calcetines viejos de tío Vernon.
+Encaramada  | encaramar   | Encaramada en ella se veía la más miserable choza que uno se pudiera imaginar.
+salpicaba   | salpicar    | El mar congelado los salpicaba, la lluvia les golpeaba la cabeza y un viento gélido les azotaba el rostro.
+peñasco     | peñasco     | Después de lo que pareció una eternidad, llegaron al peñasco, donde tío Vernon, resbalando y patinando, los condujo hasta la desvencijada casa.
+resbalando  | resbalar    | Después de lo que pareció una eternidad, llegaron al peñasco, donde tío Vernon, resbalando y patinando, los condujo hasta la desvencijada casa.
+desvencijada| desvencijado| Después de lo que pareció una eternidad, llegaron al peñasco, donde tío Vernon, resbalando y patinando, los condujo hasta la desvencijada casa.
+colaba      | colarse     | El interior era horrible: había un fuerte olor a algas, el viento se colaba por las rendijas de las paredes de madera y la chimenea estaba vacía y húmeda.
+halló       | hallar      | Tía Petunia halló unas pocas mantas mohosas en la otra habitación y preparó una cama para Dudley en el apolillado sofá.
+mohosas     | mohoso      | Tía Petunia halló unas pocas mantas mohosas en la otra habitación y preparó una cama para Dudley en el apolillado sofá.
+apolillado  | apolillado  | Tía Petunia halló unas pocas mantas mohosas en la otra habitación y preparó una cama para Dudley en el apolillado sofá.
+ovillo      | ovillo      | Ella y tío Vernon se acostaron en una cama llena de bultos en la habitación contigua, y Harry tuvo que contentarse con el trozo de suelo más blando que pudo encontrar y se hizo un ovillo bajo la manta más delgada y andrajosa.
+andrajosa   | andrajoso   | Ella y tío Vernon se acostaron en una cama llena de bultos en la habitación contigua, y Harry tuvo que contentarse con el trozo de suelo más blando que pudo encontrar y se hizo un ovillo bajo la manta más delgada y andrajosa.
+ronquidos   | ronquido    | Los ronquidos de Dudley quedaron amortiguados por los truenos que estallaron cerca de la medianoche.
+truenos     | trueno      | Los ronquidos de Dudley quedaron amortiguados por los truenos que estallaron cerca de la medianoche.
+crujía      | crujir      | Harry oyó algo que crujía fuera.
