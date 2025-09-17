@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Swipe with Background</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {
+      background: #f5f5f5;
+      font-family: sans-serif;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
+
+    #card-container {
+      width: 300px;
+    }
+
+    .card-wrapper {
+      position: relative;
+      overflow: hidden;
+      margin: 10px 0;
+      height: 80px;
+    }
+
+    .card-bg {
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background-color: #e74c3c; /* 红色背景 */
+      z-index: 0;
+    }
+
+    .card {
+      position: relative;
+      background: white;
+      padding: 20px;
+      height: 100%;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+      border-radius: 8px;
+      transition: transform 0.3s ease;
+      z-index: 1;
+      touch-action: pan-y;
+      user-select: none;
+    }
+
+    .card.removed {
+      opacity: 0;
+      transform: translateX(500px);
+    }
+  </style>
+</head>
+<body>
+
+<div id="card-container">
+  <div class="card-wrapper">
+    <div class="card-bg"></div>
+    <div class="card">Card 1</div>
+  </div>
+  <div class="card-wrapper">
+    <div class="card-bg"></div>
+    <div class="card">Card 2</div>
+  </div>
+  <div class="card-wrapper">
+    <div class="card-bg"></div>
+    <div class="card">Card 3</div>
+  </div>
+</div>
+
+<script>
+  const cards = document.querySelectorAll('.card');
+
+  cards.forEach(card => {
+    let startX = 0;
+    let dx = 0;
+    let dragging = false;
+
+    card.addEventListener('touchstart', e => {
+      startX = e.touches[0].clientX;
+      dragging = true;
+      dx = 0;
+    });
+
+    card.addEventListener('touchmove', e => {
+      if (!dragging) return;
+      const currentX = e.touches[0].clientX;
+      dx = currentX - startX;
+      card.style.transform = `translateX(${dx}px)`;
+    });
+
+    card.addEventListener('touchend', () => {
+      dragging = false;
+      if (Math.abs(dx) > 100) {
+        card.classList.add('removed');
+        setTimeout(() => card.parentElement.remove(), 300);
+      } else {
+        card.style.transform = 'translateX(0)';
+      }
+    });
+  });
+</script>
+
+</body>
+</html>
