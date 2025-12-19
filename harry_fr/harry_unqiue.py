@@ -5,7 +5,7 @@ from bs4 import BeautifulSoup
 
 
 b = [0,17,18,22,37]
-b = [0,17,5,22,37]
+b = [0,17,7,22,37]
 uniq_words = {}
 
 
