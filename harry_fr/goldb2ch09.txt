@@ -1,0 +1,101 @@
+assassiner    	 C’est vous qui avez assassiné ma chatte !
+emboîter      	 Lockhart, l’air important et surexcité, emboîta le pas de Dumbledore, suivi par les professeurs McGonagall et Rogue.
+bigoudi       	 Harry vit plusieurs portraits s’éclipser, des bigoudis dans les cheveux.
+ausculter     	 Il l’auscultait soigneusement derrière ses lunettes en demi-lune, ses longs doigts explorant le corps avec douceur.
+explorer      	 Il l’auscultait soigneusement derrière ses lunettes en demi-lune, ses longs doigts explorant le corps avec douceur.
+plisser       	 Le professeur McGonagall était penchée presque aussi près, les yeux plissés.
+papillonner  	 Lockhart, lui, papillonnait autour d’eux en donnant son avis.
+parade        	 Je connais la parade qui permet d’annuler ses effets… Ses commentaires étaient ponctués par les sanglots déchirants de Rusard.
+affalé        	 Affalé sur une chaise, le visage dans les mains, il n’avait pas le courage de regarder Miss Teigne.
+expulser      	 Car si Dumbledore croyait ce qu’avait dit Rusard, il serait certainement expulsé.
+empailler     	 Mais rien ne se produisit : on aurait dit qu’elle était empaillée.
+amulette      	 J’ai distribué aux habitants de la ville diverses amulettes qui ont aussitôt résolu le problème… Sur les murs, les photographies de Lockhart hochaient la tête en signe d’approbation pendant qu’il parlait.
+photographie  	 J’ai distribué aux habitants de la ville diverses amulettes qui ont aussitôt résolu le problème… Sur les murs, les photographies de Lockhart hochaient la tête en signe d’approbation pendant qu’il parlait.
+gêne          	 protesta Harry d’une voix forte, sentant avec gêne tous les regards tournés vers lui, y compris ceux des portraits de Lockhart accrochés aux murs.
+grincer        	 – Mensonges ! grinça Rusard.
+soupçon       	 Mais il est vrai qu’il y a de quoi nourrir des soupçons.
+désincarné   	 Il y avait tout à parier que personne ne croirait à son histoire de voix désincarnée qu’il était le seul à pouvoir entendre.
+satisfaire    	 Je ne savais pas que les fantômes offraient de quoi satisfaire l’appétit des vivants au cours de leurs fêtes.
+malfaisant    	 Le sourire malfaisant de Rogue s’élargit.
+privilège     	 Peut-être ne serait-il pas inutile de le priver de certains privilèges jusqu’à ce qu’il se décide à nous raconter ce qui s’est véritablement passé.
+consentir     	 Personnellement, je pense qu’il ne devrait plus avoir le droit de jouer dans l’équipe de Quidditch de Gryffondor jusqu’à ce qu’il consente à dire la vérité.
+répréhensible 	 Et il n’y a aucune preuve que Potter ait fait quelque chose de répréhensible.
+guérir        	 – Nous parviendrons à la guérir, Argus, assura Dumbledore d’un ton patient.
+patient       	 – Nous parviendrons à la guérir, Argus, assura Dumbledore d’un ton patient.
+plant         	 Le professeur Chourave a réussi à se procurer des plants de mandragore.
+maturité      	 Dès qu’ils auront atteint leur maturité, je m’en servirai pour fabriquer une potion qui ramènera Miss Teigne à la vie.
+philtre       	 Je suis capable de préparer un philtre régénérateur à la mandragore dans mon sommeil…
+régénérateur  	 Je suis capable de préparer un philtre régénérateur à la mandragore dans mon sommeil…
+supérieur     	 Lorsqu’ils eurent atteint l’étage supérieur, ils pénétrèrent dans une classe vide et refermèrent soigneusement la porte derrière eux.
+hésitation    	 Non, répondit Ron sans la moindre hésitation.
+graffiti      	 Et d’abord, qu’est-ce que ça voulait dire, ce graffiti ?
+vaguement     	 Ça me rappelle vaguement quelque chose, dit lentement Ron.
+aigri         	 – Il est aigri, dit-il.
+furtif        	 Lorsque Rusard n’était pas en train de surveiller les lieux du crime, il rôdait dans les couloirs à pas furtifs, les yeux rougis, et se précipitait sur des élèves sans méfiance en essayant de leur donner des retenues pour des motifs aussi divers que « respirait trop fort » ou « paraissait heureux ».
+méfiance      	 Lorsque Rusard n’était pas en train de surveiller les lieux du crime, il rôdait dans les couloirs à pas furtifs, les yeux rougis, et se précipitait sur des élèves sans méfiance en essayant de leur donner des retenues pour des motifs aussi divers que « respirait trop fort » ou « paraissait heureux ».
+agression     	 L’agression contre Miss Teigne avait aussi eu un effet sur Hermione.
+occupation    	 La lecture avait toujours été une de ses occupations favorites mais à présent, elle ne faisait plus rien d’autre que de se plonger dans les livres.
+marin         	 À la fin du cours de potions, Harry avait été retenu par Rogue qui lui avait fait gratter les vers marins restés collés sur les tables.
+évaluer       	 Harry trouva Ron au fond de la bibliothèque où il était en train d’évaluer son devoir d’histoire de la magie.
+assemblée     	 Le professeur Binns leur avait demandé de remplir quatre-vingt-dix centimètres de parchemin sur l’Assemblée médiévale des sorciers d’Europe.
+médiéval      	 Le professeur Binns leur avait demandé de remplir quatre-vingt-dix centimètres de parchemin sur l’Assemblée médiévale des sorciers d’Europe.
+europe        	 Le professeur Binns leur avait demandé de remplir quatre-vingt-dix centimètres de parchemin sur l’Assemblée médiévale des sorciers d’Europe.
+enrouler    	 – C’est fou, il me manque encore vingt centimètres… dit Ron avec fureur en laissant tomber son parchemin qui se réenroula aussitôt sur lui-même.
+attente       	 Et il y a une liste d’attente de deux semaines.
+débiter       	 Toujours aussi terne, le professeur Binns consulta ses notes et commença à débiter son cours d’une voix monotone, comme un vieil aspirateur essoufflé.
+monotone      	 Toujours aussi terne, le professeur Binns consulta ses notes et commença à débiter son cours d’une voix monotone, comme un vieil aspirateur essoufflé.
+aspirateur    	 Toujours aussi terne, le professeur Binns consulta ses notes et commença à débiter son cours d’une voix monotone, comme un vieil aspirateur essoufflé.
+exposé        	 Le professeur Binns, levant les yeux en plein milieu d’un exposé mortellement ennuyeux sur la Convention des Sorciers de 1289, parut stupéfait.
+mortellement  	 Le professeur Binns, levant les yeux en plein milieu d’un exposé mortellement ennuyeux sur la Convention des Sorciers de 1289, parut stupéfait.
+menton        	 Lavande Brown, qui se tenait le menton dans les mains, releva brusquement la tête et le coude de Neville glissa de sa table.
+mythe         	 Je m’occupe de faits, Miss Granger, pas de mythes ou de légendes.
+sarde         	 Il s’éclaircit la gorge en produisant un bruit semblable à un morceau de craie qu’on casse en deux, et poursuivit : – Au mois de septembre de cette même année, un sous-comité de sorciers sardes…
+bafouiller    	 Il s’interrompit en bafouillant.
+ensemble       	 Ils ont bâti ce château ensemble, hors de la vue des Moldus, car en ce temps-là, les gens du peuple avaient peur de la magie et les sorciers subissaient de terribles persécutions.
+peuple        	 Ils ont bâti ce château ensemble, hors de la vue des Moldus, car en ce temps-là, les gens du peuple avaient peur de la magie et les sorciers subissaient de terribles persécutions.
+persécution   	 Ils ont bâti ce château ensemble, hors de la vue des Moldus, car en ce temps-là, les gens du peuple avaient peur de la magie et les sorciers subissaient de terribles persécutions.
+fondateur     	 Pendant quelques années, les fondateurs de l’école travaillèrent ensemble dans une parfaite harmonie.
+désaccord     	 Mais peu à peu, des désaccords apparurent.
+conflit       	 Un conflit éclata entre Serpentard et les autres.
+sélectif      	 Serpentard voulait qu’on se montre plus sélectif dans le choix des élèves admis à Poudlard.
+ridé         	 Il avait l’air d’une vieille tortue toute ridée.
+source        	 Voilà ce qu’on peut dire à partir de sources historiques dignes de foi, reprit-il.
+historique    	 Voilà ce qu’on peut dire à partir de sources historiques dignes de foi, reprit-il.
+foi           	 Voilà ce qu’on peut dire à partir de sources historiques dignes de foi, reprit-il.
+authentique   	 Mais ces faits authentiques ont été obscurcis par la légende hautement fantaisiste de la Chambre des Secrets.
+obscurcir     	 Mais ces faits authentiques ont été obscurcis par la légende hautement fantaisiste de la Chambre des Secrets.
+hautement     	 Mais ces faits authentiques ont été obscurcis par la légende hautement fantaisiste de la Chambre des Secrets.
+fantaisiste   	 Mais ces faits authentiques ont été obscurcis par la légende hautement fantaisiste de la Chambre des Secrets.
+sceller       	 Serpentard aurait ensuite scellé l’entrée de la Chambre des Secrets de telle sorte que personne ne puisse l’ouvrir jusqu’à ce que son authentique héritier arrive à l’école.
+assoupissement	 Mais ce n’était pas le silence qui accompagnait habituellement l’assoupissement des élèves.
+conclusion    	 Et la conclusion, c’est qu’elle n’existe pas.
+affabulation  	 Ce n’est qu’une affabulation destinée à faire peur aux naïfs.
+naïf          	 Ce n’est qu’une affabulation destinée à faire peur aux naïfs.
+objecter       	 – Mais, Monsieur, objecta Seamus Finnigan, si la Chambre ne peut être ouverte que par l’héritier de Serpentard, il est normal que personne d’autre ne soit capable de la trouver, non ?
+excéder       	 répliqua le professeur Binns d’un ton excédé.
+succéder      	 Si les directeurs et directrices de Poudlard qui se sont succédé au cours des siècles n’ont rien découvert…
+vérifiable    	 Et maintenant, si vous le voulez bien, nous allons retourner à l’histoire, c’est-à-dire à des faits établis et vérifiables !
+torpeur       	 Et quelques minutes plus tard, les élèves avaient replongé dans leur torpeur habituelle.
+envisager     	 Harry n’avait jamais dit à Ron et à Hermione que le Choixpeau magique avait sérieusement envisagé de l’envoyer lui à Serpentard.
+marée         	 – Harry, il y a un type dans ma classe qui a dit que tu es… Mais Colin était trop petit, il ne pouvait pas résister à la marée des élèves qui l’entraînait en direction de la Grande Salle.
+montée        	 Un long fil d’argent pendait comme une corde, comme si elles étaient toutes montées par là dans leur hâte de fuir au-dehors.
+miniature     	 Quand j’avais trois ans, Fred a changé mon ours en peluche en une grosse araignée répugnante sous prétexte que j’avais cassé son balai miniature.
+rouille       	 Des lavabos ébréchés s’alignaient sous un grand miroir cassé par endroits et constellé de taches de rouille.
+bougeoir      	 Le carrelage humide reflétait la faible lumière que diffusaient quelques bouts de chandelles brûlant dans leurs bougeoirs.
+réservoir     	 Mimi Geignarde flottait au-dessus du réservoir de la chasse d’eau.
+chuchoter      	 – Qu’est-ce que tu chuchotes, toi ?
+sangloter    	 Rien, répondit précipitamment Harry, nous voulions savoir si… – J’aimerais bien qu’on arrête de parler de moi derrière mon dos ! s’exclama Mimi d’une voix sanglotante.
+agresser      	 Il y a une chatte qui a été agressée devant ta porte le soir d’Halloween.
+énervé        	 Peeves m’avait tellement énervée que je suis revenue ici pour essayer de me suicider.
+suicider      	 Peeves m’avait tellement énervée que je suis revenue ici pour essayer de me suicider.
+tragique      	 Mimi poussa alors un sanglot tragique.
+cuvette       	 -face et plongea tête la première dans la cuvette en les éclaboussant de la tête aux pieds.
+évacuation    	 D’après ses sanglots étouffés, elle devait s’être arrêtée quelque part dans le tuyau d’évacuation.
+tuyauterie    	 Harry venait de refermer la porte sur les sanglots étouffés de Mimi qui continuait de pleurer dans la tuyauterie lorsqu’une voix sonore les fit sursauter tous les trois.
+fougue        	 répondit Ron avec fougue, le regard furieux.
+bouleverser   	 Je ne l’ai jamais vue aussi bouleversée, elle n’arrêtait pas de pleurer.
+détective     	 Et toi, tu arrêtes de jouer les détectives ou alors j’écris à Maman !
+distraitement 	 Lorsqu’il pointa distraitement sa baguette magique pour les effacer, le parchemin prit feu.
+perplexe      	 Oui, ça, on se le demande… dit Ron en faisant semblant d’avoir l’air perplexe.
+sceptique     	 murmura Hermione, d’un ton sceptique.
+théorie       	 – Si on fait semblant de s’intéresser uniquement à la théorie, on aura peut-être une chance, dit Hermione.

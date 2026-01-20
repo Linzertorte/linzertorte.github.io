@@ -1,0 +1,134 @@
+octobre       	 Octobre
+infirmier     	 Madame Pomfresh, l’infirmière, dut faire face à une épidémie de rhumes parmi les élèves et les enseignants.
+épidémie      	 Madame Pomfresh, l’infirmière, dut faire face à une épidémie de rhumes parmi les élèves et les enseignants.
+rhume         	 Madame Pomfresh, l’infirmière, dut faire face à une épidémie de rhumes parmi les élèves et les enseignants.
+enseignant    	 Madame Pomfresh, l’infirmière, dut faire face à une épidémie de rhumes parmi les élèves et les enseignants.
+secondaire    	 La Pimentine, une potion qu’elle fabriquait elle-même, se révélait d’une efficacité fulgurante, mais elle avait pour effet secondaire de faire fumer les oreilles pendant plusieurs heures.
+outil         	 Le niveau du lac monta, les massifs de fleurs se transformèrent en mares de boue et les citrouilles de Hagrid eurent bientôt la taille d’une cabane à outils.
+pluvieux      	 L’enthousiasme d’Olivier Dubois pour les séances d’entraînement n’avait pas faibli, cependant, et c’est ainsi qu’un samedi après-midi particulièrement pluvieux, Harry rentra trempé et maculé de boue dans la tour de Gryffondor.
+abstraction   	 Même en faisant abstraction de la pluie et du vent, la séance d’entraînement ne s’était pas bien passée.
+performance   	 Fred et George qui avaient espionné l’équipe des Serpentard, avaient vu les performances des nouveaux Nimbus 2001.
+traînée       	 D’après eux, les Serpentard allaient si vite qu’on ne voyait plus d’eux que des traînées vertes qui sillonnaient les airs à la vitesse d’un avion.
+morose        	 Nick Quasi-Sans-Tête, le fantôme de la tour de Gryffondor, regardait par la fenêtre d’un air morose.
+pourpoint     	 Il avait coiffé un magnifique chapeau à plume sur ses longs cheveux bouclés et portait un pourpoint orné d’une fraise qui dissimulait son cou presque entièrement tranché.
+orner         	 Il avait coiffé un magnifique chapeau à plume sur ses longs cheveux bouclés et portait un pourpoint orné d’une fraise qui dissimulait son cou presque entièrement tranché.
+torrentiel    	 Il était pâle comme un panache de fumée et Harry voyait au travers de son corps le ciel sombre d’où s’abattait une pluie torrentielle.
+gracieux      	 Oh, ce n’est pas très important, répondit Nick Quasi-Sans-Tête avec un mouvement gracieux de la main.
+candidature   	 Bien sûr, j’ai envoyé ma candidature, mais il paraît que je ne remplis pas « les conditions requises ».
+requérir      	 Bien sûr, j’ai envoyé ma candidature, mais il paraît que je ne remplis pas « les conditions requises ».
+hache         	 – Mais quand même, s’exclama-t-il soudain en sortant la lettre de sa poche, on pourrait penser que recevoir dans la nuque quarante-cinq coups d’une hache émoussée suffirait à vous faire admettre au club des Chasseurs sans tête, non ?
+émousser      	 – Mais quand même, s’exclama-t-il soudain en sortant la lettre de sa poche, on pourrait penser que recevoir dans la nuque quarante-cinq coups d’une hache émoussée suffirait à vous faire admettre au club des Chasseurs sans tête, non ?
+chasseur     	 – Mais quand même, s’exclama-t-il soudain en sortant la lettre de sa poche, on pourrait penser que recevoir dans la nuque quarante-cinq coups d’une hache émoussée suffirait à vous faire admettre au club des Chasseurs sans tête, non ?
+approbation   	 – Certainement, répondit Harry dont il attendait, de toute évidence, l’approbation.
+proprement    	 – Personne plus que moi n’aurait souhaité que le travail soit fait proprement et que ma tête soit tranchée net.
+activité      	 Vous comprendrez bien que, dans le cas contraire, il nous serait impossible de participer à des activités telles que le lancer de tête à cheval, ou la course sans tête.
+agréer        	 Nous vous prions d’agréer, etc… et c’est signé : Sir Patrick Delaney-Podmore.
+etc           	 Nous vous prions d’agréer, etc… et c’est signé : Sir Patrick Delaney-Podmore.
+tendon        	 – Ma tête ne tient que par un centimètre de peau et de tendon, Harry !
+coupé         	 Ce n’est pas encore assez pour ce monsieur Coupé
+tracasser     	 – Et vous, Harry, qu’est-ce qui vous tracasse ainsi ?
+miaulement    	 La fin de la phrase de Harry fut étouffée par un miaulement perçant qui retentit près de ses chevilles.
+efflanqué    	 C’était Miss Teigne, la chatte grise et efflanquée qui jouait le rôle d’assistante d’Argus Rusard, le concierge, dans son implacable bataille contre les élèves de Poudlard.
+implacable    	 C’était Miss Teigne, la chatte grise et efflanquée qui jouait le rôle d’assistante d’Argus Rusard, le concierge, dans son implacable bataille contre les élèves de Poudlard.
+grippe        	 Il a la grippe et des élèves de troisième année ont accidentellement projeté de la cervelle de crapaud au plafond du cachot n° 5.
+cervelle      	 Il a la grippe et des élèves de troisième année ont accidentellement projeté de la cervelle de crapaud au plafond du cachot n° 5.
+accusateur    	 – Vous avez raison, dit Harry en fuyant le regard accusateur de Miss Teigne.
+bajoue        	 s’écria-t-il, les bajoues frémissantes, les yeux exorbités.
+cochonnerie   	 – Désordre et cochonneries !
+pétrole       	 La pièce, misérable et dépourvue de fenêtres, était éclairée par une simple lampe à pétrole suspendue au plafond bas.
+poisson       	 Une vague odeur de poisson frit flottait dans l’air.
+frit          	 Une vague odeur de poisson frit flottait dans l’air.
+casier        	 Fred et George Weasley avaient droit à un casier entier pour eux tout seuls.
+menotte       	 Une collection de chaînes et de menottes soigneusement astiquées était accrochée au mur, derrière le bureau de Rusard.
+notoriété     	 Il était de notoriété publique qu’il avait toujours demandé à Dumbledore l’autorisation de suspendre les élèves au plafond par les chevilles.
+quête         	 Rusard prit une plume sur son bureau et fouilla autour de lui en quête d’un morceau de parchemin.
+intestin      	 Des cervelles de grenouille… Des intestins de rat…
+formulaire    	 Où est le formulaire…
+tiroir        	 Ah, voilà… Il dénicha dans un tiroir de son bureau un grand rouleau de parchemin et l’étala devant lui, trempant sa longue plume noire dans l’encrier.
+récurer       	 Pour vous, ce n’est qu’un peu de boue, mon garçon, mais pour moi, c’est une heure de plus passée à récurer vos saletés !
+souillure     	 Nous disions donc, crime : souillure du château…
+sentence      	 La plume en l’air, Rusard lança un regard sournois à Harry qui attendait en retenant son souffle que tombe la sentence.
+permanent     	 Peeves était l’esprit frappeur de l’école : une menace permanente qui flottait dans les airs en répandant sur son passage désordre et consternation.
+consternation 	 Peeves était l’esprit frappeur de l’école : une menace permanente qui flottait dans les airs en répandant sur son passage désordre et consternation.
+correspondance	 Cours par correspondance pour sorciers débutants
+intrigué      	 Intrigué
+texte         	 , retira le morceau de parchemin qu’elle contenait et lut le texte qu’il avait sous les yeux :
+déboussoler   	 Vous vous sentez déboussolé dans le nouveau monde de la magie ?
+méthode       	 VITMAGIC est une méthode entièrement nouvelle, rapide, facile, aux résultats garantis.
+vedette       	 Maintenant, après avoir suivi la méthode VITMAGIC, je suis la vedette de toutes les soirées et mes amies me supplient de révéler la recette de ma poudre à Briller !
+recette       	 Maintenant, après avoir suivi la méthode VITMAGIC, je suis la vedette de toutes les soirées et mes amies me supplient de révéler la recette de ma poudre à Briller !
+charme        	 Le sorcier D. J. Prod, de Didsbury, nous dit : Mon épouse se moquait de la faiblesse de mes charmes mais après m’être plongé un mois dans votre fabuleuse méthode VITMAGIC, j’ai réussi à la transformer en zébu !
+zébu          	 Le sorcier D. J. Prod, de Didsbury, nous dit : Mon épouse se moquait de la faiblesse de mes charmes mais après m’être plongé un mois dans votre fabuleuse méthode VITMAGIC, j’ai réussi à la transformer en zébu !
+prospectus    	 Fasciné, Harry jeta un coup d’œil aux autres prospectus qu’il trouva dans l’enveloppe.
+mignon        	 Cette fois-ci, ma mignonne, Peeves est coincé !
+néanmoins     	 Néanmoins…
+flasque       	 Ses yeux lui sortaient de la tête, ses joues flasques étaient agitées de tics et l’écharpe écossaise n’arrangeait rien.
+centième      	 – Le jour d’Halloween sera le cinq centième anniversaire de ma mort, dit Nick Quasi-Sans-Tête en se rengorgeant.
+rengorger     	 – Le jour d’Halloween sera le cinq centième anniversaire de ma mort, dit Nick Quasi-Sans-Tête en se rengorgeant.
+organiser     	 – À cette occasion, j’organise une petite fête dans le plus grand des cachots.
+éventuellement	 – croyez-vous que vous pourriez éventuellement dire à Sir Patrick combien vous me trouvez impressionnant et même terrifiant ?
+bougonner     	 bougonna Ron qui était en train de faire ses devoirs.
+salamandre    	 Fred et George, eux, avaient voulu savoir ce qui se passerait si on donnait à manger des pétards du Dr Flibuste à une salamandre.
+oranger       	 Fred avait « sauvé » le lézard orange vif, habitué des flammes, à la fin d’un cours de Soins aux créatures magiques et l’animal était en train de se consumer doucement sur une table entourée d’un groupe de spectateurs curieux.
+assourdir     	 Harry était sur le point de raconter à Ron et à Hermione ce qui s’était passé dans le bureau de Rusard, notamment sa découverte du prospectus de VITMAGIC, lorsque la salamandre s’éleva soudain dans les airs et se mit à tournoyer autour de la pièce en crachant des étincelles dans un bruit d’explosion assourdissant.
+hâtivement    	 Lorsque arriva le jour d’Halloween, Harry regretta d’avoir promis un peu hâtivement d’assister à la fête de Nick Quasi-Sans-Tête.
+troupe        	 La Grande Salle était décorée avec des chauves-souris vivantes, les énormes citrouilles de Hagrid avaient été évidées pour en faire des lanternes où on aurait pu s’asseoir à trois et, d’après les rumeurs, Dumbledore avait fait venir une troupe de squelettes dansants pour assurer le spectacle.
+squelette     	 La Grande Salle était décorée avec des chauves-souris vivantes, les énormes citrouilles de Hagrid avaient été évidées pour en faire des lanternes où on aurait pu s’asseoir à trois et, d’après les rumeurs, Dumbledore avait fait venir une troupe de squelettes dansants pour assurer le spectacle.
+résistant     	 Ainsi, à sept heures du soir, Harry, Ron et Hermione passèrent sans y entrer devant la Grande Salle bondée, résistant à l’attraction des assiettes d’or et des chandelles qui scintillaient de toutes parts, et prirent la direction des cachots.
+scintiller    	 Ainsi, à sept heures du soir, Harry, Ron et Hermione passèrent sans y entrer devant la Grande Salle bondée, résistant à l’attraction des assiettes d’or et des chandelles qui scintillaient de toutes parts, et prirent la direction des cachots.
+bleuâtre      	 L’étroit passage qui menait à l’endroit où se passait la fête de Nick Quasi-Sans-Tête était éclairé par des chandelles fines et noires dont la lueur bleuâtre leur donnait à eux aussi l’aspect de fantômes.
+crisser       	 Bientôt, ils entendirent un son épouvantable, comme des centaines d’ongles crissant sur un énorme tableau noir.
+embrasure     	 Derrière un angle du couloir, ils virent soudain Nick Quasi-Sans-Tête qui se tenait dans l’embrasure d’une porte tendue de draperies noires.
+draperie      	 Derrière un angle du couloir, ils virent soudain Nick Quasi-Sans-Tête qui se tenait dans l’embrasure d’une porte tendue de draperies noires.
+lugubre       	 – Mes chers amis, dit le fantôme d’un ton lugubre, soyez les bienvenus…
+translucide   	 Des centaines de silhouettes translucides, d’une couleur gris perle, glissaient autour d’une piste de danse bondée où d’autres formes spectrales valsaient au son terrifiant d’une trentaine de scies musicales jouées par des musiciens rassemblés sur une estrade tendue de noir.
+spectral      	 Des centaines de silhouettes translucides, d’une couleur gris perle, glissaient autour d’une piste de danse bondée où d’autres formes spectrales valsaient au son terrifiant d’une trentaine de scies musicales jouées par des musiciens rassemblés sur une estrade tendue de noir.
+valser        	 Des centaines de silhouettes translucides, d’une couleur gris perle, glissaient autour d’une piste de danse bondée où d’autres formes spectrales valsaient au son terrifiant d’une trentaine de scies musicales jouées par des musiciens rassemblés sur une estrade tendue de noir.
+trentaine     	 Des centaines de silhouettes translucides, d’une couleur gris perle, glissaient autour d’une piste de danse bondée où d’autres formes spectrales valsaient au son terrifiant d’une trentaine de scies musicales jouées par des musiciens rassemblés sur une estrade tendue de noir.
+scie          	 Des centaines de silhouettes translucides, d’une couleur gris perle, glissaient autour d’une piste de danse bondée où d’autres formes spectrales valsaient au son terrifiant d’une trentaine de scies musicales jouées par des musiciens rassemblés sur une estrade tendue de noir.
+musical       	 Des centaines de silhouettes translucides, d’une couleur gris perle, glissaient autour d’une piste de danse bondée où d’autres formes spectrales valsaient au son terrifiant d’une trentaine de scies musicales jouées par des musiciens rassemblés sur une estrade tendue de noir.
+musicien      	 Des centaines de silhouettes translucides, d’une couleur gris perle, glissaient autour d’une piste de danse bondée où d’autres formes spectrales valsaient au son terrifiant d’une trentaine de scies musicales jouées par des musiciens rassemblés sur une estrade tendue de noir.
+estrade       	 Des centaines de silhouettes translucides, d’une couleur gris perle, glissaient autour d’une piste de danse bondée où d’autres formes spectrales valsaient au son terrifiant d’une trentaine de scies musicales jouées par des musiciens rassemblés sur une estrade tendue de noir.
+diffuser      	 Au plafond, un lustre formé d’un bon millier de chandelles noires diffusait une lumière d’un bleu éclatant.
+buée          	 Harry, Ron et Hermione virent de la buée sortir de leur bouche.
+nonne         	 Ils s’avancèrent alors dans la pièce et passèrent devant un groupe de nonnes à la mine
+haillon       	 funèbre, un homme en haillons couvert de chaînes et le Moine Gras, le joyeux fantôme de Poufsouffle,
+chevalier     	 en grande conversation avec un chevalier dont le front était transpercé d’une flèche.
+mimi          	 Vite, demi-tour, je ne veux pas parler à Mimi Geignarde…
+inondation    	 Elles ont été inutilisables pendant toute l’année parce qu’elle n’arrêtait pas de piquer des crises en provoquant des inondations.
+gourmand      	 Ils s’en approchèrent d’un air gourmand mais se figèrent soudain sur place avec une grimace horrifiée.
+amoncellement 	 De gros poissons pourris s’étalaient sur des plats d’argent, entre des amoncellements de gâteaux brûlés comme du charbon.
+grouillant    	 Il y avait aussi un énorme hachis grouillant de vers et un morceau de fromage couvert de moisissure verdâtre.
+moisissure    	 Il y avait aussi un énorme hachis grouillant de vers et un morceau de fromage couvert de moisissure verdâtre.
+tombal        	 Au milieu de la table, à la place d’honneur, se dressait un gigantesque gâteau en forme de pierre tombale sur lequel était écrit en lettres noires : Sir Nicholas de Mimsy-Porpington mort le 31 octobre 1492
+corpulent     	 , Harry regarda un fantôme corpulent s’approcher de la table, s’accroupir et s’avancer, la bouche grande ouverte, pour traverser l’un des saumons pestilentiels.
+docte         	 – J’imagine qu’ils ont tout laissé pourrir pour donner un goût plus fort, dit Hermione d’un air docte.
+putride       	 Elle se pinça le nez et se pencha pour examiner le hachis putride.
+aimablement   	 proposa-t-il aimablement en leur tendant un bol rempli de cacahuètes pourries.
+trapu         	 Mimi était un fantôme de jeune fille, petite et trapue avec le visage le plus maussade qu’on puisse imaginer, à demi caché sous de longs cheveux pendants et une paire de lunettes aux verres épais.
+faussement    	 demanda Hermione d’un ton faussement enjoué.
+enjoué        	 demanda Hermione d’un ton faussement enjoué.
+moche         	 Mimi la moche !
+râleur        	 Mimi geignarde, Mimi râleuse, Mimi minable !
+boutonneux   	 – Tu as oublié « boutonneuse », lui souffla Peeves à l’oreille.
+veuf         	 La Veuve pleureuse est venue spécialement du Kent… Il va bientôt être l’heure de mon discours.
+pleureur      	 La Veuve pleureuse est venue spécialement du Kent… Il va bientôt être l’heure de mon discours.
+orchestre     	 Je vais prévenir l’orchestre.
+cor           	 Le son d’un cor de chasse venait de retentir.
+cabrer        	 Les chevaux galopèrent jusqu’à la piste de danse, puis s’arrêtèrent au milieu en se cabrant avec élégance.
+élégance      	 Les chevaux galopèrent jusqu’à la piste de danse, puis s’arrêtèrent au milieu en se cabrant avec élégance.
+stature       	 En tête de la troupe, un fantôme de haute stature tenait sous le bras sa tête qui sonnait du cor.
+hilarité      	 Il fit semblant de sursauter et sa tête tomba à nouveau, provoquant l’hilarité générale.
+hôte          	 – Moi, dit Harry, répondant à un coup d’œil appuyé de son hôte, je trouve que Nick est très… effrayant et, heu…
+regretté      	 – Mes regrettés Lords, Mesdames et Messieurs, j’ai le très grand chagrin de… Mais personne n’en entendit davantage.
+chagrin       	 – Mes regrettés Lords, Mesdames et Messieurs, j’ai le très grand chagrin de… Mais personne n’en entendit davantage.
+compagnon     	 Sir Patrick et ses compagnons venaient de se lancer dans une partie de hockey en utilisant leur tête en guise de balle.
+hockey        	 Sir Patrick et ses compagnons venaient de se lancer dans une partie de hockey en utilisant leur tête en guise de balle.
+montant       	 Il entendait la voix qui continuait de s’éloigner en montant dans les étages.
+meurtre       	 – Il va y avoir un meurtre !
+martèlement   	 Sans prêter attention à Ron et à Hermione qui le regardaient avec stupéfaction, il monta les marches quatre à quatre, en essayant d’entendre la voix malgré le martèlement de ses pas.
+héritier      	 ENNEMIS DE L’HÉRITIER, PRENEZ GARDE.
+flaque        	 Lorsqu’ils s’approchèrent un peu plus, Harry faillit tomber en glissant dans une flaque d’eau, mais Ron et Hermione le rattrapèrent de justesse.
+torchère      	 Miss Teigne, la chatte du concierge, était pendue par la queue à une torchère.
+repu          	 De chaque extrémité du couloir leur parvenaient les conversations joyeuses des élèves repus et le bruit de centaines de pieds qui montaient les escaliers.
+empourprer    	 Ses yeux froids flamboyaient et son visage habituellement pâle s’était empourpré.

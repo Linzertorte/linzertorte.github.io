@@ -1695,9 +1695,9 @@ var words = [
 ]
 const zeroPad = (num, places) => String(num).padStart(places, '0')
 
-var pic_prefix = "larousse-";
+var pic_prefix = "https://langenscheidt.s3.us-east-1.amazonaws.com/larousse/larousse-";
 if(!$("#page_num").is(":hidden")) {
-    pic_prefix = "m-larousse-";
+    pic_prefix = "https://langenscheidt.s3.us-east-1.amazonaws.com/larousse/m-larousse-";
 }
 
 $("#btn").on("click", function (e) {
