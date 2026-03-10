@@ -1708,9 +1708,9 @@ var words = [
     "z",
     "zona",         
 ]
-var pic_url = "https://linzertorte.github.io/larousse/larousse-";
+var pic_url = "https://langenscheidt.s3.us-east-1.amazonaws.com/larousse/larousse-";
 if(!$("#hamburger").is(":hidden")) {
-    pic_url = "https://linzertorte.github.io/larousse/m-larousse-";
+    pic_url = "https://langenscheidt.s3.us-east-1.amazonaws.com/larousse/m-larousse-";
 }
 const zeroPad = (num, places) => String(num).padStart(places, '0')
 var cur_page = 0;
