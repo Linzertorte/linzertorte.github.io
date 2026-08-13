@@ -2,27 +2,25 @@
 <html lang="zh-CN">
 <head>
   <meta charset="UTF-8">
-  <title>t-01.mp4</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <title>播放外部视频 - t-01</title>
   <style>
     * { margin: 0; padding: 0; box-sizing: border-box; }
-    body {
-      background-color: #000;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      min-height: 100vh;
-    }
-    video {
-      max-width: 100vw;
-      max-height: 100vh;
-      outline: none;
-    }
+    html, body { width: 100%; height: 100%; background-color: #000; overflow: hidden; }
+    body { display: flex; justify-content: center; align-items: center; }
+    video { width: 100%; height: 100%; max-width: 100vw; max-height: 100vh; object-fit: contain; outline: none; }
   </style>
 </head>
 <body>
 
-  <video controls autoplay name="media">
-    <source src="t-01.mp4" type="video/mp4">
+  <!-- ⚠️ 注意：一定要替换 src 为 Step 1 获取到的外部直接链接 -->
+  <video 
+    id="videoPlayer"
+    controls 
+    playsinline 
+    webkit-playsinline 
+    preload="metadata" 
+    src="https://langenscheidt.s3.us-east-1.amazonaws.com/video/t-01.mp4">
     您的浏览器不支持 HTML5 视频播放。
   </video>
 
