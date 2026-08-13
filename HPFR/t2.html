@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <title>t-01.mp4</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    html, body { width: 100%; height: 100%; background-color: #000; overflow: hidden; }
+    body { display: flex; justify-content: center; align-items: center; }
+    video { width: 100%; height: 100%; max-width: 100vw; max-height: 100vh; object-fit: contain; outline: none; }
+  </style>
+</head>
+<body>
+
+  <!-- 注意：手机端必须加上 playsinline 和 webkit-playsinline -->
+  <video 
+    id="videoPlayer"
+    controls 
+    playsinline 
+    webkit-playsinline 
+    preload="metadata" 
+    src="t.mp4">
+    您的浏览器不支持 HTML5 视频播放。
+  </video>
+
+  <script>
+    // 手机端的自动播放通常会被拦截，尝试在加载后唤醒播放
+    document.addEventListener('DOMContentLoaded', () => {
+      const video = document.getElementById('videoPlayer');
+      video.play().catch(() => {
+        // 如果被手机浏览器自动播放策略拦截，静音后再尝试播放
+        video.muted = true;
+        video.play().catch(() => {
+          // 最终如果还是被拦截，需要用户手动点击播放按钮
+        });
+      });
+    });
+  </script>
+
+</body>
+</html>
