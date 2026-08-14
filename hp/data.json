@@ -128,7 +128,219 @@
                 { "title": "Page 16", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch06/m-16.mp4" },
                 { "title": "Page 17", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch06/m-17.mp4" }
               ]
-            }
+            },
+            {
+              "id": "es-b1-c7",
+              "title": "Chapter 7",
+              "headerTitle": "ES B1 - Chapter 7",
+              "pages": [
+                { "title": "Page 01", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch07/m-01.mp4" },
+                { "title": "Page 02", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch07/m-02.mp4" },
+                { "title": "Page 03", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch07/m-03.mp4" },
+                { "title": "Page 04", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch07/m-04.mp4" },
+                { "title": "Page 05", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch07/m-05.mp4" },
+                { "title": "Page 06", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch07/m-06.mp4" },
+                { "title": "Page 07", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch07/m-07.mp4" },
+                { "title": "Page 08", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch07/m-08.mp4" },
+                { "title": "Page 09", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch07/m-09.mp4" },
+                { "title": "Page 10", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch07/m-10.mp4" },
+                { "title": "Page 11", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch07/m-11.mp4" },
+                { "title": "Page 12", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch07/m-12.mp4" },
+                { "title": "Page 13", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch07/m-13.mp4" }           
+              ]
+            },
+            {
+              "id": "es-b1-c8",
+              "title": "Chapter 8",
+              "headerTitle": "ES B1 - Chapter 8",
+              "pages": [
+                { "title": "Page 01", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch08/m-01.mp4" },
+                { "title": "Page 02", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch08/m-02.mp4" },
+                { "title": "Page 03", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch08/m-03.mp4" },
+                { "title": "Page 04", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch08/m-04.mp4" },
+                { "title": "Page 05", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch08/m-05.mp4" },
+                { "title": "Page 06", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch08/m-06.mp4" },
+                { "title": "Page 07", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch08/m-07.mp4" },
+                { "title": "Page 08", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch08/m-08.mp4" }
+              ]
+            },
+            {
+              "id": "es-b1-c9",
+              "title": "Chapter 9",
+              "headerTitle": "ES B1 - Chapter 9",
+              "pages": [
+                { "title": "Page 01", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch09/m-01.mp4" },
+                { "title": "Page 02", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch09/m-02.mp4" },
+                { "title": "Page 03", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch09/m-03.mp4" },
+                { "title": "Page 04", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch09/m-04.mp4" },
+                { "title": "Page 05", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch09/m-05.mp4" },
+                { "title": "Page 06", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch09/m-06.mp4" },
+                { "title": "Page 07", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch09/m-07.mp4" },
+                { "title": "Page 08", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch09/m-08.mp4" },
+                { "title": "Page 09", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch09/m-09.mp4" },
+                { "title": "Page 10", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch09/m-10.mp4" },
+                { "title": "Page 11", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch09/m-11.mp4" },
+                { "title": "Page 12", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch09/m-12.mp4" },
+                { "title": "Page 13", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch09/m-13.mp4" },
+                { "title": "Page 14", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch09/m-14.mp4" }
+              ]
+            },  
+            {
+              "id": "es-b1-c10",
+              "title": "Chapter 10",
+              "headerTitle": "ES B1 - Chapter 10",
+              "pages": [
+                { "title": "Page 01", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch10/m-01.mp4" },
+                { "title": "Page 02", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch10/m-02.mp4" },
+                { "title": "Page 03", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch10/m-03.mp4" },
+                { "title": "Page 04", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch10/m-04.mp4" },
+                { "title": "Page 05", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch10/m-05.mp4" },
+                { "title": "Page 06", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch10/m-06.mp4" },
+                { "title": "Page 07", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch10/m-07.mp4" },
+                { "title": "Page 08", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch10/m-08.mp4" },
+                { "title": "Page 09", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch10/m-09.mp4" },
+                { "title": "Page 10", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch10/m-10.mp4" },
+                { "title": "Page 11", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch10/m-11.mp4" },
+                { "title": "Page 12", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch10/m-12.mp4" }
+              ]
+            },  
+            {
+              "id": "es-b1-c11",
+              "title": "Chapter 11",
+              "headerTitle": "ES B1 - Chapter 11",
+              "pages": [
+                { "title": "Page 01", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch11/m-01.mp4" },
+                { "title": "Page 02", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch11/m-02.mp4" },
+                { "title": "Page 03", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch11/m-03.mp4" },
+                { "title": "Page 04", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch11/m-04.mp4" },
+                { "title": "Page 05", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch11/m-05.mp4" },
+                { "title": "Page 06", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch11/m-06.mp4" },
+                { "title": "Page 07", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch11/m-07.mp4" },
+                { "title": "Page 08", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch11/m-08.mp4" },
+                { "title": "Page 09", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch11/m-09.mp4" }
+              ]
+            },  
+            {
+              "id": "es-b1-c12",
+              "title": "Chapter 12",
+              "headerTitle": "ES B1 - Chapter 12",
+              "pages": [
+                { "title": "Page 01", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch12/m-01.mp4" },
+                { "title": "Page 02", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch12/m-02.mp4" },
+                { "title": "Page 03", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch12/m-03.mp4" },
+                { "title": "Page 04", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch12/m-04.mp4" },
+                { "title": "Page 05", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch12/m-05.mp4" },
+                { "title": "Page 06", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch12/m-06.mp4" },
+                { "title": "Page 07", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch12/m-07.mp4" },
+                { "title": "Page 08", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch12/m-08.mp4" },
+                { "title": "Page 09", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch12/m-09.mp4" },
+                { "title": "Page 10", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch12/m-10.mp4" },
+                { "title": "Page 11", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch12/m-11.mp4" },
+                { "title": "Page 12", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch12/m-12.mp4" },
+                { "title": "Page 13", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch12/m-13.mp4" },
+                { "title": "Page 14", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch12/m-14.mp4" }
+              ]
+            },  
+            {
+              "id": "es-b1-c13",
+              "title": "Chapter 13",
+              "headerTitle": "ES B1 - Chapter 13",
+              "pages": [
+                { "title": "Page 01", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch13/m-01.mp4" },
+                { "title": "Page 02", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch13/m-02.mp4" },
+                { "title": "Page 03", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch13/m-03.mp4" },
+                { "title": "Page 04", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch13/m-04.mp4" },
+                { "title": "Page 05", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch13/m-05.mp4" },
+                { "title": "Page 06", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch13/m-06.mp4" },
+                { "title": "Page 07", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch13/m-07.mp4" },
+                { "title": "Page 08", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch13/m-08.mp4" },
+                { "title": "Page 09", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch13/m-09.mp4" }
+              ]
+            },  
+            {
+              "id": "es-b1-c14",
+              "title": "Chapter 14",
+              "headerTitle": "ES B1 - Chapter 14",
+              "pages": [
+                { "title": "Page 01", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch14/m-01.mp4" },
+                { "title": "Page 02", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch14/m-02.mp4" },
+                { "title": "Page 03", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch14/m-03.mp4" },
+                { "title": "Page 04", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch14/m-04.mp4" },
+                { "title": "Page 05", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch14/m-05.mp4" },
+                { "title": "Page 06", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch14/m-06.mp4" },
+                { "title": "Page 07", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch14/m-07.mp4" },
+                { "title": "Page 08", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch14/m-08.mp4" },
+                { "title": "Page 09", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch14/m-09.mp4" }
+              ]
+            },  
+            {
+              "id": "es-b1-c15",
+              "title": "Chapter 15",
+              "headerTitle": "ES B1 - Chapter 15",
+              "pages": [
+                { "title": "Page 01", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch15/m-01.mp4" },
+                { "title": "Page 02", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch15/m-02.mp4" },
+                { "title": "Page 03", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch15/m-03.mp4" },
+                { "title": "Page 04", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch15/m-04.mp4" },
+                { "title": "Page 05", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch15/m-05.mp4" },
+                { "title": "Page 06", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch15/m-06.mp4" },
+                { "title": "Page 07", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch15/m-07.mp4" },
+                { "title": "Page 08", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch15/m-08.mp4" },
+                { "title": "Page 09", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch15/m-09.mp4" },
+                { "title": "Page 10", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch15/m-10.mp4" },
+                { "title": "Page 11", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch15/m-11.mp4" },
+                { "title": "Page 12", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch15/m-12.mp4" },
+                { "title": "Page 13", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch15/m-13.mp4" },
+                { "title": "Page 14", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch15/m-14.mp4" }
+              ]
+            },  
+            {
+              "id": "es-b1-c16",
+              "title": "Chapter 16",
+              "headerTitle": "ES B1 - Chapter 16",
+              "pages": [
+                { "title": "Page 01", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch16/m-01.mp4" },
+                { "title": "Page 02", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch16/m-02.mp4" },
+                { "title": "Page 03", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch16/m-03.mp4" },
+                { "title": "Page 04", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch16/m-04.mp4" },
+                { "title": "Page 05", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch16/m-05.mp4" },
+                { "title": "Page 06", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch16/m-06.mp4" },
+                { "title": "Page 07", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch16/m-07.mp4" },
+                { "title": "Page 08", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch16/m-08.mp4" },
+                { "title": "Page 09", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch16/m-09.mp4" },
+                { "title": "Page 10", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch16/m-10.mp4" },
+                { "title": "Page 11", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch16/m-11.mp4" },
+                { "title": "Page 12", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch16/m-12.mp4" },
+                { "title": "Page 13", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch16/m-13.mp4" },
+                { "title": "Page 14", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch16/m-14.mp4" },
+                { "title": "Page 15", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch16/m-15.mp4" },
+                { "title": "Page 16", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch16/m-16.mp4" },
+                { "title": "Page 17", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch16/m-17.mp4" },
+                { "title": "Page 18", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch16/m-18.mp4" }
+              ]
+            },  
+            {
+              "id": "es-b1-c17",
+              "title": "Chapter 8",
+              "headerTitle": "ES B1 - Chapter 17",
+              "pages": [
+                { "title": "Page 01", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch17/m-01.mp4" },
+                { "title": "Page 02", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch17/m-02.mp4" },
+                { "title": "Page 03", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch17/m-03.mp4" },
+                { "title": "Page 04", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch17/m-04.mp4" },
+                { "title": "Page 05", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch17/m-05.mp4" },
+                { "title": "Page 06", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch17/m-06.mp4" },
+                { "title": "Page 07", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch17/m-07.mp4" },
+                { "title": "Page 08", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch17/m-08.mp4" },
+                { "title": "Page 09", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch17/m-09.mp4" },
+                { "title": "Page 10", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch17/m-10.mp4" },
+                { "title": "Page 11", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch17/m-11.mp4" },
+                { "title": "Page 12", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch17/m-12.mp4" },
+                { "title": "Page 13", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch17/m-13.mp4" },
+                { "title": "Page 14", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch17/m-14.mp4" },
+                { "title": "Page 15", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch17/m-15.mp4" }
+              ]
+            }           
           ]
         },
         {
