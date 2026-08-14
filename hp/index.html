@@ -428,6 +428,13 @@
     });
 
     window.addEventListener('load', initApp);
+    // 当用户从后台切回应用（或者切换 Tab 重新看到页面）时自动刷新 JSON
+    document.addEventListener('visibilitychange', () => {
+      if (document.visibilityState === 'visible' && pageMenu.classList.contains('active') && historyStack.length === 0) {
+        console.log('应用切回前台且在首页，自动重新 fetch 数据...');
+        renderLanguages();
+      }
+    });
   </script>
 </body>
 </html>
