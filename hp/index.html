@@ -169,7 +169,7 @@
     <!-- Video Player View -->
     <div id="page-video" class="view">
       <div class="viewport" id="viewport">
-        <video id="mainVideo" controls playsinline webkit-playsinline preload="metadata"></video>
+        <video id="mainVideo" controls playsinline webkit-playsinline preload="auto"></video>
       </div>
     </div>
   </div>
@@ -335,7 +335,7 @@
       showView(pageMenu);
     }
 
-    // Level 5: Play Video（销毁旧 DOM 并重建，解决 iOS PWA 底层渲染死锁）
+    // Level 5: Play Video (首帧微调唤醒 PWA 图像渲染)
     function playVideo(page) {
       pageTitle.textContent = page.title;
       backBtn.style.visibility = 'visible';
@@ -357,8 +357,22 @@
       newVideo.controls = true;
       newVideo.playsInline = true;
       newVideo.setAttribute('webkit-playsinline', 'true');
-      newVideo.preload = 'metadata';
+      newVideo.preload = 'auto';
       newVideo.src = page.videoSrc;
+
+      // 强行把进度移到 0.001s，促使 PWA 触发解码并显示首帧画面
+      newVideo.addEventListener('loadeddata', () => {
+        if (newVideo.currentTime === 0) {
+          newVideo.currentTime = 0.001;
+        }
+      }, { once: true });
+
+      // 用户播放时自动归零
+      newVideo.addEventListener('play', () => {
+        if (newVideo.currentTime <= 0.001) {
+          newVideo.currentTime = 0;
+        }
+      }, { once: true });
 
       newVideo.addEventListener('error', (e) => {
         console.warn('视频恢复异常...', e);
