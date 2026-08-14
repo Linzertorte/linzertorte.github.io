@@ -214,6 +214,11 @@
       backdrop-filter: blur(8px);
     }
 
+    /* 隐藏全屏按钮 */
+    .video-js .vjs-fullscreen-control {
+      display: none !important;
+    }
+
     /* 双击快进/快退提示浮层 */
     .seek-tip {
       position: absolute;
@@ -474,26 +479,6 @@
       }
     }
 
-    // 处理退出全屏后的画面与音频恢复逻辑
-    function handleFullscreenChange() {
-      const isFullscreen = player.isFullscreen() || document.webkitIsFullScreen;
-
-      if (!isFullscreen) {
-        // 延时 100ms 规避 iOS 退出全屏系统动画期导致的音频被挂起与画幅挤压
-        setTimeout(() => {
-          resumeAudioContext();
-          if (!player.paused()) {
-            player.play().then(() => {
-              resumeAudioContext();
-            }).catch((err) => {
-              console.warn('退出全屏后恢复播放失败:', err);
-            });
-          }
-          updateTransform();
-        }, 100);
-      }
-    }
-
     function initVideoJs() {
       if (!player) {
         player = videojs('mainVideo', {
@@ -501,10 +486,14 @@
           autoplay: false,
           preload: 'auto',
           playsinline: true,
-          // 彻底禁用 Video.js 内置的画面点击和双击动作
+          // 禁用 Video.js 内置的画面点击和双击动作
           userActions: {
             click: false,
             doubleClick: false
+          },
+          // 禁用全屏按钮
+          controlBar: {
+            fullscreenToggle: false
           },
           html5: {
             vhs: { overrideNative: true },
@@ -513,15 +502,15 @@
           }
         });
 
-        // 重播/播放时强制保持音频正常开启
+        // 绑定音频解锁
         player.on('ended', resumeAudioContext);
         player.on('play', resumeAudioContext);
 
-        // 监听退出全屏，彻底修复黑屏无声问题
-        player.on('fullscreenchange', handleFullscreenChange);
+        // 强制 iOS 设置 playsinline，防止触发全屏
         if (player.tech_ && player.tech_.el_) {
           const videoEl = player.tech_.el_;
-          videoEl.addEventListener('webkitendfullscreen', handleFullscreenChange);
+          videoEl.setAttribute('playsinline', 'true');
+          videoEl.setAttribute('webkit-playsinline', 'true');
         }
       }
     }
