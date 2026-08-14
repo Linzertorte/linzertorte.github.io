@@ -25,11 +25,13 @@
       -webkit-tap-highlight-color: transparent;
     }
 
+    /* 全局页面背景：浅灰，与截图保持一致 */
     html, body {
       width: 100%;
       height: 100%;
-      background-color: #ffffff;
+      background-color: #e5e5e5;
       color: #000000;
+      font-family: -apple-system, BlinkMacSystemFont, "Times New Roman", Times, serif;
       overflow: hidden;
     }
 
@@ -40,15 +42,15 @@
       flex-direction: column;
     }
 
-    /* Top Navigation Header */
+    /* 顶部 Header */
     header {
-      height: 40px;
+      height: 44px;
       display: flex;
       align-items: center;
       justify-content: space-between;
       padding: 0 16px;
       background: #ffffff;
-      border-bottom: 1px solid #ddd;
+      border-bottom: 1px solid #ccc;
       z-index: 10;
       flex-shrink: 0;
       position: relative;
@@ -64,7 +66,7 @@
       cursor: pointer;
       padding: 0;
       display: inline-block;
-      text-decoration: none !important;
+      text-decoration: underline !important;
       z-index: 2;
     }
 
@@ -72,92 +74,147 @@
     .logout-btn { display: none; }
 
     header h1 {
-      font-size: 14px;
+      font-size: 16px;
       font-weight: bold;
       color: #000000;
+      font-family: serif;
       white-space: nowrap;
       overflow: hidden;
       text-overflow: ellipsis;
-      transition: all 0.2s ease;
     }
 
-    /* 登录页状态下：Header 标题强行绝对居中 */
-    body.is-auth header h1 {
-      position: absolute;
-      left: 50%;
-      transform: translateX(-50%);
-      text-align: center;
-      width: auto;
-    }
-
-    /* View Pages */
+    /* 视图通用容器 */
     .view {
       flex: 1;
       display: none;
       flex-direction: column;
-      align-items: flex-start;
-      padding: 20px;
       overflow-y: auto;
     }
 
     .view.active { display: flex; }
 
-    /* Ultra-minimal Auth Form Styles (原生极简样式) */
+    /* ==========================================
+       复古极简 Auth UI (严格匹配截图)
+       ========================================== */
     #page-auth {
-      padding: 20px;
+      background-color: #e5e5e5;
+      padding: 0;
     }
 
-    .auth-box {
+    .auth-card {
+      background-color: #ffffff;
+      padding: 24px 20px 30px 20px;
       width: 100%;
-      max-width: 280px;
+      box-sizing: border-box;
+    }
+
+    .auth-card h2 {
+      font-family: "Times New Roman", Times, serif;
+      font-size: 26px;
+      font-weight: bold;
+      margin-bottom: 20px;
+      color: #000000;
+    }
+
+    .auth-form {
       display: flex;
       flex-direction: column;
       gap: 12px;
     }
 
-    .auth-box input {
-      width: 100%;
-      padding: 6px 8px;
-      border: 1px solid #888;
-      border-radius: 0;
-      font-size: 14px;
-      background: #fff;
-      color: #000;
-      outline: none;
-    }
-
-    .auth-box input:focus {
-      border-color: #000;
-    }
-
-    .auth-btn-group {
+    /* 输入框行布局 */
+    .form-row {
       display: flex;
-      gap: 16px;
-      margin-top: 4px;
+      align-items: center;
+      gap: 8px;
     }
 
-    /* 原生超链接风格按钮 */
-    .auth-link-btn {
-      background: none !important;
-      border: none !important;
-      padding: 0 !important;
-      color: #0000ee !important;
+    .form-row label {
+      font-size: 15px;
+      color: #000000;
+      min-width: 78px;
+      text-align: left;
+    }
+
+    .form-row input[type="text"],
+    .form-row input[type="password"],
+    .form-row input[type="email"] {
+      flex: 1;
+      max-width: 200px;
+      height: 28px;
+      padding: 0 8px;
+      border: 1px solid #a6a6a6;
+      border-radius: 6px;
       font-size: 14px;
-      text-decoration: underline !important;
+      outline: none;
+      background-color: #fff;
+      color: #000;
+      font-family: sans-serif;
+    }
+
+    /* Remember Me 复选框行 */
+    .checkbox-row {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      margin-top: 2px;
+      font-size: 15px;
+      color: #000;
+    }
+
+    .checkbox-row input[type="checkbox"] {
+      width: 16px;
+      height: 16px;
+      border-radius: 4px;
+      border: 1px solid #888;
+    }
+
+    /* 蓝色 Oval / Pill 按钮 */
+    .auth-submit-btn {
+      align-self: flex-start;
+      margin-top: 4px;
+      background-color: #007aff;
+      color: #ffffff;
+      border: none;
+      padding: 6px 18px;
+      border-radius: 14px;
+      font-size: 14px;
+      font-weight: 500;
       cursor: pointer;
     }
 
-    .auth-link-btn:active {
-      color: #ff0000 !important;
+    .auth-submit-btn:active {
+      background-color: #0056b3;
+    }
+
+    /* 底部蓝色下划线切换链接 */
+    .auth-switch-link {
+      margin-top: 16px;
+      display: inline-block;
+      color: #0000ee;
+      font-size: 15px;
+      text-decoration: underline;
+      cursor: pointer;
+      background: none;
+      border: none;
+      padding: 0;
+      text-align: left;
     }
 
     .auth-msg {
       font-size: 12px;
-      color: #e53935;
+      color: #d32f2f;
+      margin-top: 4px;
       min-height: 16px;
+      font-family: sans-serif;
     }
 
-    /* Link List Style */
+    /* Menu View Styles */
+    #page-menu {
+      background: #ffffff;
+      padding: 20px;
+    }
+
     .link-list {
       display: flex;
       flex-direction: column;
@@ -170,12 +227,13 @@
       cursor: pointer;
       width: fit-content;
       text-decoration: underline !important;
+      font-size: 16px;
     }
 
     .plain-link:visited { color: #551a8b; }
     .plain-link:active { color: #ff0000; }
 
-    /* Video View */
+    /* Video View Styles */
     #page-video {
       padding: 0;
       background: #000000;
@@ -207,7 +265,7 @@
     }
   </style>
 </head>
-<body class="is-auth">
+<body>
 
   <div id="app">
     <!-- Header -->
@@ -217,17 +275,36 @@
       <button class="logout-btn" id="logoutBtn" onclick="handleLogout()">Exit</button>
     </header>
 
-    <!-- Auth View (极简原生登录/注册表单) -->
+    <!-- Auth View (严格匹配截图 UI) -->
     <div id="page-auth" class="view active">
-      <form class="auth-box" onsubmit="return false;">
-        <input type="email" id="authEmail" placeholder="Email" autocomplete="username" />
-        <input type="password" id="authPassword" placeholder="Password" autocomplete="current-password" />
-        <div class="auth-msg" id="authMsg"></div>
-        <div class="auth-btn-group">
-          <button type="button" class="auth-link-btn" onclick="handleLogin()">Login</button>
-          <button type="button" class="auth-link-btn" onclick="handleRegister()">Register</button>
-        </div>
-      </form>
+      <div class="auth-card">
+        <h2 id="authTitle">Login</h2>
+        
+        <form class="auth-form" onsubmit="return false;">
+          <div class="form-row">
+            <label for="authEmail">Username:</label>
+            <input type="email" id="authEmail" autocomplete="username" />
+          </div>
+
+          <div class="form-row">
+            <label for="authPassword">Password:</label>
+            <input type="password" id="authPassword" autocomplete="current-password" />
+          </div>
+
+          <div class="checkbox-row" id="rememberRow">
+            <input type="checkbox" id="rememberMe" checked />
+            <label for="rememberMe">Remember Me</label>
+          </div>
+
+          <button type="button" class="auth-submit-btn" id="authSubmitBtn" onclick="submitAuth()">Login</button>
+          
+          <div class="auth-msg" id="authMsg"></div>
+
+          <div>
+            <button type="button" class="auth-switch-link" id="authToggleBtn" onclick="toggleAuthMode()">Register</button>
+          </div>
+        </form>
+      </div>
     </div>
 
     <!-- Dynamic Menu View -->
@@ -255,13 +332,24 @@
     if ('serviceWorker' in navigator) {
       window.addEventListener('load', () => {
         navigator.serviceWorker.register('./sw.js')
-          .then(reg => console.log('ServiceWorker registered:', reg.scope))
+          .then(reg => {
+            console.log('ServiceWorker registered:', reg.scope);
+            reg.addEventListener('updatefound', () => {
+              const newWorker = reg.installing;
+              newWorker.addEventListener('statechange', () => {
+                if (newWorker.state === 'installed' && navigator.serviceWorker.controller) {
+                  window.location.reload();
+                }
+              });
+            });
+          })
           .catch(err => console.log('ServiceWorker registration failed:', err));
       });
     }
 
     let globalData = null;
     const historyStack = [];
+    let isRegisterMode = false;
     
     const pageTitle = document.getElementById('pageTitle');
     const backBtn = document.getElementById('backBtn');
@@ -273,24 +361,54 @@
     const pageVideo = document.getElementById('page-video');
     const authMsg = document.getElementById('authMsg');
 
-    // 辅助：统一控制 Header 状态
+    // 统一控制 Header 登录/未登录显示状态
     function updateHeaderState(isLoggedIn) {
       if (isLoggedIn) {
-        document.body.classList.remove('is-auth');
         logoutBtn.style.display = 'inline-block';
       } else {
-        document.body.classList.add('is-auth');
         logoutBtn.style.display = 'none';
         backBtn.style.visibility = 'hidden';
       }
     }
 
     // ==========================================
-    // 2. 账号注册 / 登录 / 退出逻辑
+    // 2. Auth 模式切换与登录逻辑
     // ==========================================
+    function toggleAuthMode() {
+      isRegisterMode = !isRegisterMode;
+      
+      const title = document.getElementById('authTitle');
+      const submitBtn = document.getElementById('authSubmitBtn');
+      const toggleBtn = document.getElementById('authToggleBtn');
+      const rememberRow = document.getElementById('rememberRow');
+      
+      authMsg.textContent = '';
+
+      if (isRegisterMode) {
+        title.textContent = 'Register';
+        submitBtn.textContent = 'Register';
+        toggleBtn.textContent = 'Login';
+        rememberRow.style.display = 'none';
+      } else {
+        title.textContent = 'Login';
+        submitBtn.textContent = 'Login';
+        toggleBtn.textContent = 'Register';
+        rememberRow.style.display = 'flex';
+      }
+    }
+
+    async function submitAuth() {
+      if (isRegisterMode) {
+        await handleRegister();
+      } else {
+        await handleLogin();
+      }
+    }
+
     async function handleLogin() {
       const email = document.getElementById('authEmail').value.trim();
       const password = document.getElementById('authPassword').value.trim();
+      authMsg.style.color = '#d32f2f';
       authMsg.textContent = '';
 
       if (!email || !password) {
@@ -302,7 +420,6 @@
       if (error) {
         authMsg.textContent = error.message;
       } else {
-        console.log('Login successful:', data.user);
         initApp();
       }
     }
@@ -310,6 +427,7 @@
     async function handleRegister() {
       const email = document.getElementById('authEmail').value.trim();
       const password = document.getElementById('authPassword').value.trim();
+      authMsg.style.color = '#d32f2f';
       authMsg.textContent = '';
 
       if (!email || !password) {
@@ -329,7 +447,7 @@
 
     async function handleLogout() {
       await supabaseClient.auth.signOut();
-      localStorage.clear(); // 强制清除本地所有持久化数据
+      localStorage.clear();
       updateHeaderState(false);
       showView(pageAuth);
     }
@@ -346,7 +464,6 @@
         return;
       }
 
-      // 处于已登录状态
       updateHeaderState(true);
       await renderLanguages();
     }
@@ -363,32 +480,26 @@
     }
 
     // ==========================================
-    // 4. 用户播放行为日志记录 (打点)
+    // 4. 用户播放行为日志记录
     // ==========================================
     async function logVideoPlay(page) {
       try {
         const { data: { user } } = await supabaseClient.auth.getUser();
         if (!user) return;
 
-        const { error } = await supabaseClient.from('video_play_logs').insert([
+        await supabaseClient.from('video_play_logs').insert([
           {
             video_id: page.videoSrc,
             video_title: page.title
           }
         ]);
-
-        if (error) {
-          console.warn('Play log failed:', error.message);
-        } else {
-          console.log('Play logged:', page.title);
-        }
       } catch (err) {
         console.error('Log exception:', err);
       }
     }
 
     // ==========================================
-    // 5. 菜单渲染与 iOS PWA 播放器控制
+    // 5. 菜单渲染与播放器控制
     // ==========================================
     function recoverAudio() {
       const video = document.getElementById('mainVideo');
@@ -536,17 +647,12 @@
           newVideo.pause();
           newVideo.currentTime = 0;
           newVideo.muted = false;
-        }).catch((err) => {
-          console.warn('Autoplay prevented:', err);
+        }).catch(() => {
           newVideo.muted = false;
         });
       }
 
-      newVideo.addEventListener('error', (e) => {
-        console.warn('Video error, restoring audio...', e);
-        recoverAudio();
-      });
-
+      newVideo.addEventListener('error', recoverAudio);
       newVideo.addEventListener('webkitendfullscreen', recoverAudio);
       newVideo.addEventListener('ended', () => {
         newVideo.currentTime = 0;
@@ -654,9 +760,7 @@
         }
 
         const isAtHomepage = pageMenu.classList.contains('active') && historyStack.length === 0;
-        
         if (isAtHomepage) {
-          console.log('切回前台且处于首页，刷新 data.json...');
           await renderLanguages();
         }
       }
