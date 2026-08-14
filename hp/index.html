@@ -474,6 +474,26 @@
       }
     }
 
+    // 处理退出全屏后的画面与音频恢复逻辑
+    function handleFullscreenChange() {
+      const isFullscreen = player.isFullscreen() || document.webkitIsFullScreen;
+
+      if (!isFullscreen) {
+        // 延时 100ms 规避 iOS 退出全屏系统动画期导致的音频被挂起与画幅挤压
+        setTimeout(() => {
+          resumeAudioContext();
+          if (!player.paused()) {
+            player.play().then(() => {
+              resumeAudioContext();
+            }).catch((err) => {
+              console.warn('退出全屏后恢复播放失败:', err);
+            });
+          }
+          updateTransform();
+        }, 100);
+      }
+    }
+
     function initVideoJs() {
       if (!player) {
         player = videojs('mainVideo', {
@@ -496,6 +516,13 @@
         // 重播/播放时强制保持音频正常开启
         player.on('ended', resumeAudioContext);
         player.on('play', resumeAudioContext);
+
+        // 监听退出全屏，彻底修复黑屏无声问题
+        player.on('fullscreenchange', handleFullscreenChange);
+        if (player.tech_ && player.tech_.el_) {
+          const videoEl = player.tech_.el_;
+          videoEl.addEventListener('webkitendfullscreen', handleFullscreenChange);
+        }
       }
     }
 
