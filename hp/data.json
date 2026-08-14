@@ -395,6 +395,41 @@
           ]
         }
       ]
+    },
+    {
+      "id": "japanese",
+      "title": "ハリー・ポッタ 日本語",
+      "headerTitle": "日本語",
+      "books": [
+        {
+          "id": "jp-b1",
+          "title": "ハリー・ポッターと賢者の石",
+          "headerTitle": "賢者の石",
+          "chapters": [
+          {
+              "id": "jp-b1-c1",
+              "title": "1 生き残った男の子",
+              "headerTitle": "1 生き残った男の子",
+              "pages": [
+                { "title": "Page 01", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/jp/b1ch01/m-01.mp4" },
+                { "title": "Page 02", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/jp/b1ch01/m-02.mp4" },
+                { "title": "Page 03", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/jp/b1ch01/m-03.mp4" },
+                { "title": "Page 04", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/jp/b1ch01/m-04.mp4" },
+                { "title": "Page 05", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/jp/b1ch01/m-05.mp4" },
+                { "title": "Page 06", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/jp/b1ch01/m-06.mp4" },
+                { "title": "Page 07", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/jp/b1ch01/m-07.mp4" },
+                { "title": "Page 08", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/jp/b1ch01/m-08.mp4" },
+                { "title": "Page 09", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/jp/b1ch01/m-09.mp4" },
+                { "title": "Page 10", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/jp/b1ch01/m-10.mp4" },
+                { "title": "Page 11", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/jp/b1ch01/m-11.mp4" },
+                { "title": "Page 12", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/jp/b1ch01/m-12.mp4" },
+                { "title": "Page 13", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/jp/b1ch01/m-13.mp4" },
+                { "title": "Page 14", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/jp/b1ch01/m-14.mp4" }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }
