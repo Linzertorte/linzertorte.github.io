@@ -335,7 +335,7 @@
       showView(pageMenu);
     }
 
-    // Level 5: Play Video (首帧微调唤醒 PWA 图像渲染)
+    // Level 5: Play Video (iOS PWA 兼容：静音瞬间播放+暂停，强制解封并绘制首帧)
     function playVideo(page) {
       pageTitle.textContent = page.title;
       backBtn.style.visibility = 'visible';
@@ -358,21 +358,26 @@
       newVideo.playsInline = true;
       newVideo.setAttribute('webkit-playsinline', 'true');
       newVideo.preload = 'auto';
+      
+      if (page.poster) {
+        newVideo.poster = page.poster;
+      }
+
       newVideo.src = page.videoSrc;
 
-      // 强行把进度移到 0.001s，促使 PWA 触发解码并显示首帧画面
-      newVideo.addEventListener('loadeddata', () => {
-        if (newVideo.currentTime === 0) {
-          newVideo.currentTime = 0.001;
-        }
-      }, { once: true });
-
-      // 用户播放时自动归零
-      newVideo.addEventListener('play', () => {
-        if (newVideo.currentTime <= 0.001) {
+      // 利用静音授权：瞬间 play 唤醒 WebKit 画面渲染器，然后立即 pause
+      newVideo.muted = true;
+      const playPromise = newVideo.play();
+      if (playPromise !== undefined) {
+        playPromise.then(() => {
+          newVideo.pause();
           newVideo.currentTime = 0;
-        }
-      }, { once: true });
+          newVideo.muted = false; // 恢复音量控制
+        }).catch((err) => {
+          console.warn('Autoplay failed/prevented:', err);
+          newVideo.muted = false;
+        });
+      }
 
       newVideo.addEventListener('error', (e) => {
         console.warn('视频恢复异常...', e);
@@ -387,9 +392,6 @@
 
       viewport.appendChild(newVideo);
       resetZoom();
-
-      newVideo.muted = false;
-      newVideo.volume = 1.0;
     }
 
     function showView(targetView) {
