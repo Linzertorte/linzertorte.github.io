@@ -197,8 +197,14 @@
       transform-origin: center center;
     }
 
-    /* 控制条悬浮且避开 iOS 底部 Home Bar */
+    /* 核心改造 1: 禁用视频画面的 Pointer 事件，防止画面点击与拖拽/缩放冲突 */
+    .video-js .vjs-tech {
+      pointer-events: none;
+    }
+
+    /* 核心改造 2: 保持底部控制条可正常点击交互 */
     .video-js .vjs-control-bar {
+      pointer-events: auto !important;
       bottom: calc(20px + env(safe-area-inset-bottom, 0px)) !important;
       width: 92% !important;
       left: 50% !important;
@@ -207,26 +213,6 @@
       background-color: rgba(20, 20, 20, 0.85) !important;
       backdrop-filter: blur(8px);
     }
-
-    /* 双击快进/快退提示动画 */
-    .seek-tip {
-      position: absolute;
-      top: 50%;
-      transform: translateY(-50%);
-      background: rgba(0, 0, 0, 0.65);
-      color: #ffffff;
-      padding: 12px 20px;
-      border-radius: 20px;
-      font-size: 14px;
-      font-family: sans-serif;
-      pointer-events: none;
-      opacity: 0;
-      transition: opacity 0.2s ease;
-      z-index: 10;
-    }
-    .seek-tip.left { left: 15%; }
-    .seek-tip.right { right: 15%; }
-    .seek-tip.show { opacity: 1; }
   </style>
 </head>
 <body>
@@ -279,10 +265,6 @@
     <!-- Video Player View -->
     <div id="page-video" class="view">
       <div class="viewport" id="viewport">
-        <!-- 提示浮层 -->
-        <div id="seekTipLeft" class="seek-tip left">◄◄ -10s</div>
-        <div id="seekTipRight" class="seek-tip right">+10s ►►</div>
-
         <!-- Video.js 播放器标签 -->
         <video id="mainVideo" class="video-js vjs-default-skin" playsinline webkit-playsinline></video>
       </div>
@@ -313,7 +295,6 @@
     const historyStack = [];
     let isRegisterMode = false;
     let player = null;
-    let isActionLock = false; // 操作防抖锁
     
     const pageTitle = document.getElementById('pageTitle');
     const backBtn = document.getElementById('backBtn');
@@ -455,7 +436,7 @@
       } catch (err) { console.error('Failed to log video play:', err); }
     }
 
-    // 强效激活并解密音频通道，彻底解决“播完一遍没声音”及“失声锁”
+    // 基础音频状态解锁，防止移动端静音策略
     function resumeAudioContext() {
       if (player) {
         player.muted(false);
@@ -464,9 +445,7 @@
         if (player.tech_ && player.tech_.el_) {
           const videoEl = player.tech_.el_;
           videoEl.muted = false;
-          if (videoEl.volume === 0) {
-            videoEl.volume = 1.0;
-          }
+          if (videoEl.volume === 0) videoEl.volume = 1.0;
         }
       }
     }
@@ -478,8 +457,10 @@
           autoplay: false,
           preload: 'auto',
           playsinline: true,
+          // 彻底禁用 Video.js 内置的画面点击和双击行为
           userActions: {
-            doubleClick: false // 禁用默认双击，防止与自定义双击冲突
+            click: false,
+            doubleClick: false
           },
           html5: {
             vhs: { overrideNative: true },
@@ -488,17 +469,9 @@
           }
         });
 
-        // =================【重点：修复播放完一遍后重播没声音的逻辑】=================
-        
-        // 1. 当视频播放完毕时，强行恢复可播放与有声状态
-        player.on('ended', function() {
-          resumeAudioContext();
-        });
-
-        // 2. 每次触发播放（包含播完后再次点击 Replay），强行解锁音频
-        player.on('play', function() {
-          resumeAudioContext();
-        });
+        // 重播/播放时强制保持音频正常开启
+        player.on('ended', resumeAudioContext);
+        player.on('play', resumeAudioContext);
       }
     }
 
@@ -612,11 +585,12 @@
       await previousRender();
     }
 
-    // Zoom & Pan 功能核心变量
+    // ==========================================
+    // 纯粹的 Zoom & Pan 逻辑（彻底屏蔽一切点击判定）
+    // ==========================================
     const viewport = document.getElementById('viewport');
     let scale = 1, translateX = 0, translateY = 0;
     const minScale = 1, maxScale = 5;
-    let hasMoved = false; // 标记是否在缩放/平移中发生了手势拖拽
 
     function updateTransform() {
       const videoEl = document.querySelector('.video-js');
@@ -640,7 +614,6 @@
     let isDragging = false, startX = 0, startY = 0;
     
     function onDragStart(x, y) { 
-      hasMoved = false;
       if (scale > 1) { 
         isDragging = true; 
         startX = x - translateX; 
@@ -650,10 +623,6 @@
 
     function onDragMove(x, y) { 
       if (isDragging) { 
-        // 拖拽判定：移动位移超过 5px 即认定为拖拽平移，严格禁止触发点击/暂停
-        if (Math.abs(x - (startX + translateX)) > 5 || Math.abs(y - (startY + translateY)) > 5) {
-          hasMoved = true;
-        }
         translateX = x - startX; 
         translateY = y - startY; 
         updateTransform(); 
@@ -662,6 +631,7 @@
 
     function onDragEnd() { isDragging = false; }
 
+    // 鼠标拖拽平移
     viewport.addEventListener('mousedown', (e) => {
       if (e.target.closest('.vjs-control-bar')) return;
       onDragStart(e.clientX, e.clientY);
@@ -669,6 +639,7 @@
     window.addEventListener('mousemove', (e) => onDragMove(e.clientX, e.clientY));
     window.addEventListener('mouseup', onDragEnd);
 
+    // 触摸拖拽平移 & 双指捏合缩放（极其干净，没有防抖和 Tap 逻辑）
     let initialPinchDist = null, initialScale = 1;
     function getDistance(t) { return Math.hypot(t[0].clientX - t[1].clientX, t[0].clientY - t[1].clientY); }
 
@@ -678,7 +649,6 @@
         onDragStart(e.touches[0].clientX, e.touches[0].clientY);
       } else if (e.touches.length === 2) { 
         isDragging = false; 
-        hasMoved = true; // 双指捏合缩放时，强制拦截点击
         initialPinchDist = getDistance(e.touches); 
         initialScale = scale; 
       }
@@ -697,97 +667,7 @@
       if (e.touches.length === 0) onDragEnd();
     });
 
-    // 双击 快进/快退 提示动画
-    const seekTipLeft = document.getElementById('seekTipLeft');
-    const seekTipRight = document.getElementById('seekTipRight');
-    let seekTipTimer = null;
-
-    function showSeekTip(direction) {
-      clearTimeout(seekTipTimer);
-      seekTipLeft.classList.remove('show');
-      seekTipRight.classList.remove('show');
-
-      const targetTip = direction === 'left' ? seekTipLeft : seekTipRight;
-      targetTip.classList.add('show');
-
-      seekTipTimer = setTimeout(() => { targetTip.classList.remove('show'); }, 600);
-    }
-
-    function handleDoubleTapSeek(clientX) {
-      if (!player) return;
-      resumeAudioContext();
-      const rect = viewport.getBoundingClientRect();
-      const clickX = clientX - rect.left;
-      const currTime = player.currentTime();
-      const duration = player.duration();
-
-      if (clickX < rect.width / 2) {
-        player.currentTime(Math.max(0, currTime - 10));
-        showSeekTip('left');
-      } else {
-        player.currentTime(Math.min(duration || 0, currTime + 10));
-        showSeekTip('right');
-      }
-    }
-
-    // 防抖 暂停/播放
-    let singleTapTimer = null;
-    let lastTapTime = 0;
-    let lastTapX = 0;
-
-    function togglePlayPauseSafe() {
-      if (!player || isActionLock) return;
-      isActionLock = true;
-      resumeAudioContext();
-
-      if (player.paused()) {
-        player.play().catch(() => {}).finally(() => { setTimeout(() => isActionLock = false, 200); });
-      } else {
-        player.pause();
-        setTimeout(() => isActionLock = false, 200);
-      }
-    }
-
-    // 触摸结束判定
-    viewport.addEventListener('touchend', (e) => {
-      if (e.target.closest('.vjs-control-bar')) return;
-
-      // 如果刚才发生了拖拽平移或双指缩放，直接无视点击，防止误触导致系统关闭音频
-      if (hasMoved || initialPinchDist !== null) {
-        hasMoved = false;
-        initialPinchDist = null;
-        return;
-      }
-
-      if (e.changedTouches.length !== 1) return;
-
-      const now = Date.now();
-      const touch = e.changedTouches[0];
-      const timeDiff = now - lastTapTime;
-      const distDiff = Math.abs(touch.clientX - lastTapX);
-
-      if (timeDiff < 300 && timeDiff > 0 && distDiff < 30) {
-        // 双击
-        clearTimeout(singleTapTimer);
-        handleDoubleTapSeek(touch.clientX);
-        lastTapTime = 0;
-      } else {
-        // 单击 250ms 防抖，防极速连击击垮 AudioContext
-        lastTapTime = now;
-        lastTapX = touch.clientX;
-        clearTimeout(singleTapTimer);
-        singleTapTimer = setTimeout(() => {
-          togglePlayPauseSafe();
-        }, 250);
-      }
-    });
-
-    viewport.addEventListener('dblclick', (e) => {
-      if (e.target.closest('.vjs-control-bar')) return;
-      handleDoubleTapSeek(e.clientX);
-    });
-
-    // 首次交互解锁 iOS / 移动端 AudioContext
+    // 首次交互解锁 Web Audio
     function unlockAudioContext() {
       resumeAudioContext();
       document.removeEventListener('touchstart', unlockAudioContext);
