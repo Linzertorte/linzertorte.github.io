@@ -273,6 +273,18 @@
     const pageVideo = document.getElementById('page-video');
     const authMsg = document.getElementById('authMsg');
 
+    // 辅助：统一控制 Header 状态
+    function updateHeaderState(isLoggedIn) {
+      if (isLoggedIn) {
+        document.body.classList.remove('is-auth');
+        logoutBtn.style.display = 'inline-block';
+      } else {
+        document.body.classList.add('is-auth');
+        logoutBtn.style.display = 'none';
+        backBtn.style.visibility = 'hidden';
+      }
+    }
+
     // ==========================================
     // 2. 账号注册 / 登录 / 退出逻辑
     // ==========================================
@@ -317,9 +329,8 @@
 
     async function handleLogout() {
       await supabaseClient.auth.signOut();
-      logoutBtn.style.display = 'none';
-      backBtn.style.visibility = 'hidden';
-      document.body.classList.add('is-auth');
+      localStorage.clear(); // 强制清除本地所有持久化数据
+      updateHeaderState(false);
       showView(pageAuth);
     }
 
@@ -330,14 +341,13 @@
       const { data: { session } } = await supabaseClient.auth.getSession();
       
       if (!session) {
-        logoutBtn.style.display = 'none';
-        document.body.classList.add('is-auth');
+        updateHeaderState(false);
         showView(pageAuth);
         return;
       }
 
-      document.body.classList.remove('is-auth');
-      logoutBtn.style.display = 'inline-block';
+      // 处于已登录状态
+      updateHeaderState(true);
       await renderLanguages();
     }
 
