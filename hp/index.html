@@ -207,15 +207,15 @@
       <button class="logout-btn" id="logoutBtn" onclick="handleLogout()">Exit</button>
     </header>
 
-    <!-- Auth View (无底部灰色) -->
+    <!-- Auth View -->
     <div id="page-auth" class="view active">
       <div class="auth-card">
         <h2 id="authTitle">Login</h2>
         
         <form class="auth-form" onsubmit="return false;">
           <div class="form-row">
-            <label for="authEmail">Username:</label>
-            <input type="email" id="authEmail" autocomplete="username" />
+            <label for="authUsername">Username:</label>
+            <input type="text" id="authUsername" autocomplete="username" />
           </div>
 
           <div class="form-row">
@@ -318,6 +318,43 @@
       }
     }
 
+    // 判断是否为合法 Email 正则
+    function isEmail(str) {
+      return /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(str);
+    }
+
+    // 校验规则：支持用户直接输入 Email 或 纯用户名（与密码均需满足：不能有空格，长度 ≥ 3）
+    function validateInput(inputStr, password) {
+      if (password.length < 3) {
+        return 'Password must be at least 3 characters.';
+      }
+      if (/\s/.test(password)) {
+        return 'Password cannot contain spaces.';
+      }
+
+      if (inputStr.includes('@')) {
+        if (!isEmail(inputStr)) {
+          return 'Please enter a valid email address.';
+        }
+      } else {
+        if (inputStr.length < 3) {
+          return 'Username must be at least 3 characters.';
+        }
+        if (/\s/.test(inputStr)) {
+          return 'Username cannot contain spaces.';
+        }
+      }
+      return null;
+    }
+
+    // 智能解析：是 Email 则原样使用，否则映射为内部虚拟 Email 域名
+    function resolveToEmail(inputStr) {
+      if (isEmail(inputStr)) {
+        return inputStr.toLowerCase();
+      }
+      return `${inputStr.toLowerCase()}@app.internal`;
+    }
+
     async function submitAuth() {
       if (isRegisterMode) {
         await handleRegister();
@@ -327,17 +364,20 @@
     }
 
     async function handleLogin() {
-      const email = document.getElementById('authEmail').value.trim();
-      const password = document.getElementById('authPassword').value.trim();
+      const inputStr = document.getElementById('authUsername').value.trim();
+      const password = document.getElementById('authPassword').value;
       authMsg.style.color = '#d32f2f';
       authMsg.textContent = '';
 
-      if (!email || !password) {
-        authMsg.textContent = 'Please enter email and password.';
+      const validationError = validateInput(inputStr, password);
+      if (validationError) {
+        authMsg.textContent = validationError;
         return;
       }
 
+      const email = resolveToEmail(inputStr);
       const { data, error } = await supabaseClient.auth.signInWithPassword({ email, password });
+      
       if (error) {
         authMsg.textContent = error.message;
       } else {
@@ -346,17 +386,26 @@
     }
 
     async function handleRegister() {
-      const email = document.getElementById('authEmail').value.trim();
-      const password = document.getElementById('authPassword').value.trim();
+      const inputStr = document.getElementById('authUsername').value.trim();
+      const password = document.getElementById('authPassword').value;
       authMsg.style.color = '#d32f2f';
       authMsg.textContent = '';
 
-      if (!email || !password) {
-        authMsg.textContent = 'Please enter email and password.';
+      const validationError = validateInput(inputStr, password);
+      if (validationError) {
+        authMsg.textContent = validationError;
         return;
       }
 
-      const { data, error } = await supabaseClient.auth.signUp({ email, password });
+      const email = resolveToEmail(inputStr);
+      const { data, error } = await supabaseClient.auth.signUp({
+        email,
+        password,
+        options: {
+          data: { username: inputStr }
+        }
+      });
+
       if (error) {
         authMsg.textContent = error.message;
       } else {
