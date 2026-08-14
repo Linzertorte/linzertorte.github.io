@@ -55,7 +55,6 @@
       flex-shrink: 0;
     }
 
-    /* 标题绝对居中 */
     header h1 {
       font-size: 16px;
       font-weight: bold;
@@ -93,9 +92,7 @@
     .view.active { display: flex; }
 
     /* Auth 页面 */
-    #page-auth {
-      background-color: #ffffff;
-    }
+    #page-auth { background-color: #ffffff; }
 
     .auth-card {
       background-color: #ffffff;
@@ -124,9 +121,7 @@
       font-size: 16px;
     }
 
-    .form-row label {
-      min-width: 80px;
-    }
+    .form-row label { min-width: 80px; }
 
     .checkbox-row {
       display: flex;
@@ -135,7 +130,6 @@
       font-size: 16px;
     }
 
-    /* 链接与按钮样式 */
     .auth-link {
       color: #0000ee;
       text-decoration: underline;
@@ -319,6 +313,7 @@
     const historyStack = [];
     let isRegisterMode = false;
     let player = null;
+    let isActionLock = false; // 操作防抖锁
     
     const pageTitle = document.getElementById('pageTitle');
     const backBtn = document.getElementById('backBtn');
@@ -341,7 +336,6 @@
 
     function toggleAuthMode() {
       isRegisterMode = !isRegisterMode;
-      
       const title = document.getElementById('authTitle');
       const submitBtn = document.getElementById('authSubmitBtn');
       const toggleBtn = document.getElementById('authToggleBtn');
@@ -362,46 +356,28 @@
       }
     }
 
-    function isEmail(str) {
-      return /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(str);
-    }
+    function isEmail(str) { return /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(str); }
 
     function validateInput(inputStr, password) {
-      if (password.length < 3) {
-        return 'Password must be at least 3 characters.';
-      }
-      if (/\s/.test(password)) {
-        return 'Password cannot contain spaces.';
-      }
-
+      if (password.length < 3) return 'Password must be at least 3 characters.';
+      if (/\s/.test(password)) return 'Password cannot contain spaces.';
       if (inputStr.includes('@')) {
-        if (!isEmail(inputStr)) {
-          return 'Please enter a valid email address.';
-        }
+        if (!isEmail(inputStr)) return 'Please enter a valid email address.';
       } else {
-        if (inputStr.length < 3) {
-          return 'Username must be at least 3 characters.';
-        }
-        if (/\s/.test(inputStr)) {
-          return 'Username cannot contain spaces.';
-        }
+        if (inputStr.length < 3) return 'Username must be at least 3 characters.';
+        if (/\s/.test(inputStr)) return 'Username cannot contain spaces.';
       }
       return null;
     }
 
     function resolveToEmail(inputStr) {
-      if (isEmail(inputStr)) {
-        return inputStr.toLowerCase();
-      }
+      if (isEmail(inputStr)) return inputStr.toLowerCase();
       return `${inputStr.toLowerCase()}@app.internal`;
     }
 
     async function submitAuth() {
-      if (isRegisterMode) {
-        await handleRegister();
-      } else {
-        await handleLogin();
-      }
+      if (isRegisterMode) await handleRegister();
+      else await handleLogin();
     }
 
     async function handleLogin() {
@@ -411,19 +387,12 @@
       authMsg.textContent = '';
 
       const validationError = validateInput(inputStr, password);
-      if (validationError) {
-        authMsg.textContent = validationError;
-        return;
-      }
+      if (validationError) { authMsg.textContent = validationError; return; }
 
       const email = resolveToEmail(inputStr);
       const { data, error } = await supabaseClient.auth.signInWithPassword({ email, password });
-      
-      if (error) {
-        authMsg.textContent = error.message;
-      } else {
-        initApp();
-      }
+      if (error) authMsg.textContent = error.message;
+      else initApp();
     }
 
     async function handleRegister() {
@@ -433,23 +402,15 @@
       authMsg.textContent = '';
 
       const validationError = validateInput(inputStr, password);
-      if (validationError) {
-        authMsg.textContent = validationError;
-        return;
-      }
+      if (validationError) { authMsg.textContent = validationError; return; }
 
       const email = resolveToEmail(inputStr);
       const { data, error } = await supabaseClient.auth.signUp({
-        email,
-        password,
-        options: {
-          data: { username: inputStr }
-        }
+        email, password, options: { data: { username: inputStr } }
       });
 
-      if (error) {
-        authMsg.textContent = error.message;
-      } else {
+      if (error) authMsg.textContent = error.message;
+      else {
         authMsg.style.color = '#2e7d32';
         authMsg.textContent = 'Registration successful! Signing in...';
         setTimeout(handleLogin, 1200);
@@ -465,11 +426,7 @@
 
     async function initApp() {
       const { data: { session } } = await supabaseClient.auth.getSession();
-      if (!session) {
-        updateHeaderState(false);
-        showView(pageAuth);
-        return;
-      }
+      if (!session) { updateHeaderState(false); showView(pageAuth); return; }
       updateHeaderState(true);
       await renderLanguages();
     }
@@ -478,36 +435,32 @@
       try {
         const res = await fetch('./data.json?t=' + Date.now());
         if (res.ok) globalData = await res.json();
-      } catch (err) {
-        console.error('Failed to load data.json:', err);
-      }
+      } catch (err) { console.error('Failed to load data.json:', err); }
     }
 
     async function logVideoPlay(page) {
       try {
         const { data: { user } } = await supabaseClient.auth.getUser();
         if (!user) return;
-
         let userName = user.user_metadata?.username;
         if (!userName && user.email) {
-          if (user.email.endsWith('@app.internal')) {
-            userName = user.email.replace('@app.internal', '');
-          } else {
-            userName = user.email;
-          }
+          userName = user.email.endsWith('@app.internal') ? user.email.replace('@app.internal', '') : user.email;
         }
-
         const videoId = page.videoSrc ? String(page.videoSrc).slice(-18) : '';
+        await supabaseClient.from('video_play_logs').insert([{ 
+          user_name: userName || 'Unknown', 
+          video_id: videoId, 
+          visited_at: new Date().toISOString()
+        }]);
+      } catch (err) { console.error('Failed to log video play:', err); }
+    }
 
-        await supabaseClient.from('video_play_logs').insert([
-          { 
-            user_name: userName || 'Unknown', 
-            video_id: videoId, 
-            visited_at: new Date().toISOString()
-          }
-        ]);
-      } catch (err) {
-        console.error('Failed to log video play:', err);
+    // 尝试激活/恢复 Web Audio Context 防止失声
+    function resumeAudioContext() {
+      if (player && player.tech_ && player.tech_.el_) {
+        const videoEl = player.tech_.el_;
+        if (videoEl.volume === 0) videoEl.volume = 1.0;
+        if (videoEl.muted) videoEl.muted = false;
       }
     }
 
@@ -518,6 +471,9 @@
           autoplay: false,
           preload: 'auto',
           playsinline: true,
+          userActions: {
+            doubleClick: false // 禁用 videojs 默认双击，避免与我们自定义的双击快进冲突
+          },
           html5: {
             vhs: { overrideNative: true },
             nativeAudioTracks: false,
@@ -608,10 +564,12 @@
       player.volume(1.0);
       player.muted(false);
 
+      resumeAudioContext();
+
       const playPromise = player.play();
       if (playPromise !== undefined) {
         playPromise.catch((err) => {
-          console.warn('带声自动播放被浏览器拒绝，静音播放:', err);
+          console.warn('带声自动播放被拒绝，尝试静音启动:', err);
           player.muted(true);
           player.play().catch(() => {});
         });
@@ -631,10 +589,8 @@
 
     async function goBack() {
       if (historyStack.length === 0) return;
-      if (pageVideo.classList.contains('active')) {
-        if (player) {
-          player.pause();
-        }
+      if (pageVideo.classList.contains('active') && player) {
+        player.pause();
       }
       const previousRender = historyStack.pop();
       await previousRender();
@@ -695,9 +651,7 @@
       if (e.touches.length === 0) onDragEnd();
     });
 
-    // ===============================================
-    // 双击 快进/快退 10 秒逻辑 (适配 Mouse 与 Touch)
-    // ===============================================
+    // 双击 快进/快退 逻辑
     const seekTipLeft = document.getElementById('seekTipLeft');
     const seekTipRight = document.getElementById('seekTipRight');
     let seekTipTimer = null;
@@ -710,69 +664,77 @@
       const targetTip = direction === 'left' ? seekTipLeft : seekTipRight;
       targetTip.classList.add('show');
 
-      seekTipTimer = setTimeout(() => {
-        targetTip.classList.remove('show');
-      }, 600);
+      seekTipTimer = setTimeout(() => { targetTip.classList.remove('show'); }, 600);
     }
 
     function handleDoubleTapSeek(clientX) {
       if (!player) return;
+      resumeAudioContext();
       const rect = viewport.getBoundingClientRect();
       const clickX = clientX - rect.left;
       const currTime = player.currentTime();
       const duration = player.duration();
 
-      // 判断左半边还是右半边
       if (clickX < rect.width / 2) {
-        // 后退 10 秒
         player.currentTime(Math.max(0, currTime - 10));
         showSeekTip('left');
       } else {
-        // 前进 10 秒
         player.currentTime(Math.min(duration || 0, currTime + 10));
         showSeekTip('right');
       }
     }
 
-    // 1. 桌面端 Mouse 双击
-    viewport.addEventListener('dblclick', (e) => {
-      if (e.target.closest('.vjs-control-bar')) return;
-      handleDoubleTapSeek(e.clientX);
-    });
-
-    // 2. 移动端 Touch 自定义双击识别（防原生 dblclick 延时）
+    // 单击暂停/播放防抖处理，防止快速连续连击撕裂声音通道
+    let singleTapTimer = null;
     let lastTapTime = 0;
     let lastTapX = 0;
 
+    function togglePlayPauseSafe() {
+      if (!player || isActionLock) return;
+      isActionLock = true;
+      resumeAudioContext();
+
+      if (player.paused()) {
+        player.play().catch(() => {}).finally(() => { setTimeout(() => isActionLock = false, 200); });
+      } else {
+        player.pause();
+        setTimeout(() => isActionLock = false, 200);
+      }
+    }
+
     viewport.addEventListener('touchend', (e) => {
       if (e.target.closest('.vjs-control-bar')) return;
-      if (e.changedTouches.length !== 1) return; // 只处理单指触摸
+      if (e.changedTouches.length !== 1) return;
 
       const now = Date.now();
       const touch = e.changedTouches[0];
       const timeDiff = now - lastTapTime;
       const distDiff = Math.abs(touch.clientX - lastTapX);
 
-      // 如果两次点击间隔在 300ms 内且位置偏移不大，判定为双击
       if (timeDiff < 300 && timeDiff > 0 && distDiff < 30) {
+        // 双击：取消单击的暂停/播放操作
+        clearTimeout(singleTapTimer);
         handleDoubleTapSeek(touch.clientX);
-        lastTapTime = 0; // 重置，防止连续触发三次点击
+        lastTapTime = 0;
       } else {
+        // 单击：延迟 250ms 触发，给双击留出判断时间
         lastTapTime = now;
         lastTapX = touch.clientX;
+        clearTimeout(singleTapTimer);
+        singleTapTimer = setTimeout(() => {
+          togglePlayPauseSafe();
+        }, 250);
       }
     });
 
-    // 全局解锁音频通道
+    viewport.addEventListener('dblclick', (e) => {
+      if (e.target.closest('.vjs-control-bar')) return;
+      handleDoubleTapSeek(e.clientX);
+    });
+
+    // 首次触摸全局解锁
     function unlockAudioContext() {
-      if (player && player.tech_ && player.tech_.el_) {
-        const audioEl = player.tech_.el_;
-        audioEl.play().then(() => {
-          if (!pageVideo.classList.contains('active')) {
-            audioEl.pause();
-          }
-        }).catch(() => {});
-      }
+      resumeAudioContext();
       document.removeEventListener('touchstart', unlockAudioContext);
       document.removeEventListener('click', unlockAudioContext);
     }
@@ -784,6 +746,7 @@
     document.addEventListener('visibilitychange', async () => {
       if (document.visibilityState === 'visible') {
         if (pageVideo.classList.contains('active') && player) {
+          resumeAudioContext();
           if (!player.paused()) {
             player.play().catch(() => {});
           }
