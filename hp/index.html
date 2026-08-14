@@ -13,6 +13,9 @@
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="default">
   <meta name="apple-mobile-web-app-title" content="Harry Potter">
+
+  <!-- 引入 Supabase JS Client -->
+  <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
   
   <style>
     * {
@@ -50,27 +53,21 @@
       flex-shrink: 0;
     }
 
-    /* Back Button */
     .back-btn,
-    .back-btn:hover,
-    .back-btn:focus,
-    .back-btn:active,
-    .back-btn:visited {
+    .logout-btn {
       background: transparent !important;
       border: none !important;
       outline: none !important;
       color: #0000ee;
       font-size: 14px;
       cursor: pointer;
-      visibility: hidden;
       padding: 0;
       display: inline-block;
       text-decoration: none !important;
-      text-decoration-line: none !important;
-      -webkit-text-decoration-line: none !important;
-      box-shadow: none !important;
-      border-bottom: none !important;
     }
+
+    .back-btn { visibility: hidden; }
+    .logout-btn { display: none; }
 
     header h1 {
       font-size: 14px;
@@ -80,8 +77,6 @@
       overflow: hidden;
       text-overflow: ellipsis;
     }
-
-    .header-placeholder { width: 40px; }
 
     /* View Pages */
     .view {
@@ -95,6 +90,68 @@
 
     .view.active { display: flex; }
 
+    /* Auth Page Styles */
+    #page-auth {
+      align-items: center;
+      justify-content: center;
+    }
+
+    .auth-box {
+      width: 100%;
+      max-width: 320px;
+      display: flex;
+      flex-direction: column;
+      gap: 16px;
+    }
+
+    .auth-box h2 {
+      font-size: 18px;
+      text-align: center;
+      margin-bottom: 8px;
+    }
+
+    .auth-box input {
+      width: 100%;
+      padding: 10px 12px;
+      border: 1px solid #ccc;
+      border-radius: 6px;
+      font-size: 14px;
+      outline: none;
+    }
+
+    .auth-box input:focus {
+      border-color: #0000ee;
+    }
+
+    .auth-btn-group {
+      display: flex;
+      gap: 10px;
+    }
+
+    .auth-btn {
+      flex: 1;
+      padding: 10px;
+      background: #0000ee;
+      color: #fff;
+      border: none;
+      border-radius: 6px;
+      font-size: 14px;
+      cursor: pointer;
+    }
+
+    .auth-btn.secondary {
+      background: #f0f0f0;
+      color: #333;
+      border: 1px solid #ccc;
+    }
+
+    .auth-msg {
+      font-size: 12px;
+      color: #e53935;
+      text-align: center;
+      min-height: 16px;
+    }
+
     /* Link List Style */
     .link-list {
       display: flex;
@@ -102,18 +159,12 @@
       gap: 12px;
     }
 
-    /* 普通链接 */
     .plain-link,
-    .plain-link:hover,
-    .plain-link:focus,
-    .plain-link:active,
     .plain-link:visited {
       color: #0000ee;
       cursor: pointer;
       width: fit-content;
       text-decoration: underline !important;
-      text-decoration-line: underline !important;
-      -webkit-text-decoration-line: underline !important;
     }
 
     .plain-link:visited { color: #551a8b; }
@@ -158,11 +209,25 @@
     <header>
       <button class="back-btn" id="backBtn" onclick="goBack()">‹ Back</button>
       <h1 id="pageTitle">Harry Potter</h1>
-      <div class="header-placeholder"></div>
+      <button class="logout-btn" id="logoutBtn" onclick="handleLogout()">Exit</button>
     </header>
 
+    <!-- Auth View (登录/注册) -->
+    <div id="page-auth" class="view active">
+      <div class="auth-box">
+        <h2>Sign In / Sign Up</h2>
+        <input type="email" id="authEmail" placeholder="Email address" />
+        <input type="password" id="authPassword" placeholder="Password (6+ chars)" />
+        <div class="auth-msg" id="authMsg"></div>
+        <div class="auth-btn-group">
+          <button class="auth-btn" onclick="handleLogin()">Login</button>
+          <button class="auth-btn secondary" onclick="handleRegister()">Register</button>
+        </div>
+      </div>
+    </div>
+
     <!-- Dynamic Menu View -->
-    <div id="page-menu" class="view active">
+    <div id="page-menu" class="view">
       <div class="link-list" id="menuList"></div>
     </div>
 
@@ -175,7 +240,14 @@
   </div>
 
   <script>
-    // Service Worker Registration
+    // ==========================================
+    // 1. 初始化 Supabase 客户端配置
+    // ==========================================
+    const SUPABASE_URL = 'https://wlncwhtyortyochxlgxs.supabase.co';
+    const SUPABASE_ANON_KEY = 'sb_publishable_1DYjKoOQBWLfkJ8qz519nA_iPrSPDkj';
+    const supabase = window.supabase.createClient(SUPABASE_URL, SUPABASE_ANON_KEY);
+
+    // Register Service Worker
     if ('serviceWorker' in navigator) {
       window.addEventListener('load', () => {
         navigator.serviceWorker.register('./sw.js')
@@ -189,11 +261,119 @@
     
     const pageTitle = document.getElementById('pageTitle');
     const backBtn = document.getElementById('backBtn');
+    const logoutBtn = document.getElementById('logoutBtn');
     const menuList = document.getElementById('menuList');
+    
+    const pageAuth = document.getElementById('page-auth');
     const pageMenu = document.getElementById('page-menu');
     const pageVideo = document.getElementById('page-video');
+    const authMsg = document.getElementById('authMsg');
 
-    // 强行恢复音频轨的函数
+    // ==========================================
+    // 2. 账号注册 / 登录 / 退出逻辑
+    // ==========================================
+    async function handleLogin() {
+      const email = document.getElementById('authEmail').value.trim();
+      const password = document.getElementById('authPassword').value.trim();
+      authMsg.textContent = '';
+
+      if (!email || !password) {
+        authMsg.textContent = 'Please enter email and password.';
+        return;
+      }
+
+      const { data, error } = await supabase.auth.signInWithPassword({ email, password });
+      if (error) {
+        authMsg.textContent = error.message;
+      } else {
+        console.log('Login successful:', data.user);
+        initApp();
+      }
+    }
+
+    async function handleRegister() {
+      const email = document.getElementById('authEmail').value.trim();
+      const password = document.getElementById('authPassword').value.trim();
+      authMsg.textContent = '';
+
+      if (!email || !password) {
+        authMsg.textContent = 'Please enter email and password.';
+        return;
+      }
+
+      const { data, error } = await supabase.auth.signUp({ email, password });
+      if (error) {
+        authMsg.textContent = error.message;
+      } else {
+        authMsg.style.color = '#2e7d32';
+        authMsg.textContent = 'Registration successful! Signing in...';
+        setTimeout(handleLogin, 1200);
+      }
+    }
+
+    async function handleLogout() {
+      await supabase.auth.signOut();
+      logoutBtn.style.display = 'none';
+      backBtn.style.visibility = 'hidden';
+      showView(pageAuth);
+    }
+
+    // ==========================================
+    // 3. 应用入口 & 本地静态 data.json 加载
+    // ==========================================
+    async function initApp() {
+      const { data: { session } } = await supabase.auth.getSession();
+      
+      if (!session) {
+        logoutBtn.style.display = 'none';
+        showView(pageAuth);
+        return;
+      }
+
+      logoutBtn.style.display = 'inline-block';
+      await renderLanguages();
+    }
+
+    async function loadLocalData() {
+      try {
+        const res = await fetch('./data.json?t=' + Date.now());
+        if (res.ok) {
+          globalData = await res.json();
+        }
+      } catch (err) {
+        console.error('Failed to load data.json:', err);
+      }
+    }
+
+    // ==========================================
+    // 4. 用户播放行为日志记录 (打点)
+    // ==========================================
+    async function logVideoPlay(page) {
+      try {
+        const { data: { user } } = await supabase.auth.getUser();
+        if (!user) return;
+
+        // 向 Supabase video_play_logs 表写入打点数据
+        const { error } = await supabase.from('video_play_logs').insert([
+          {
+            video_id: page.videoSrc, // 视频路径/ID
+            video_title: page.title   // 视频/页面标题
+          }
+        ]);
+
+        if (error) {
+          console.warn('Play log failed:', error.message);
+        } else {
+          console.log('Play logged:', page.title);
+        }
+      } catch (err) {
+        console.error('Log exception:', err);
+      }
+    }
+
+    // ==========================================
+    // 5. 菜单渲染与 iOS PWA 播放器控制
+    // ==========================================
     function recoverAudio() {
       const video = document.getElementById('mainVideo');
       if (!video) return;
@@ -203,51 +383,25 @@
       if (video.paused && video.currentTime > 0) {
         const playPromise = video.play();
         if (playPromise !== undefined) {
-          playPromise.then(() => {
-            video.muted = false;
-          }).catch(() => {});
+          playPromise.then(() => { video.muted = false; }).catch(() => {});
         }
       }
     }
 
-    // 监听标准全屏切换
     document.addEventListener('fullscreenchange', handleFullscreenChange);
     document.addEventListener('webkitfullscreenchange', handleFullscreenChange);
 
     function handleFullscreenChange() {
       const isFullscreen = document.fullscreenElement || document.webkitFullscreenElement;
-      if (!isFullscreen) {
-        recoverAudio();
-      }
+      if (!isFullscreen) recoverAudio();
     }
 
-    // Fetch JSON Data and Init App
-    async function initApp() {
-      try {
-        const res = await fetch('./data.json?t=' + Date.now());
-        globalData = await res.json();
-        renderLanguages();
-      } catch (err) {
-        console.error('Failed to load data.json:', err);
-      }
-    }
-
-    // 统一静默刷新函数：保证退回首页时，数据能实时拉取最新版本
-    async function refreshData() {
-      try {
-        const res = await fetch('./data.json?t=' + Date.now());
-        globalData = await res.json();
-      } catch (err) {
-        console.log('静默更新失败，继续使用已有数据');
-      }
-    }
-
-    // Render Level 1: Languages (首页)
     async function renderLanguages() {
-      await refreshData();
-      
       pageTitle.textContent = 'Harry Potter';
       backBtn.style.visibility = 'hidden';
+
+      // 🔄 进入/返回/切回首页时，重新拉取最新的 data.json
+      await loadLocalData();
 
       menuList.innerHTML = '';
       if (!globalData || !globalData.languages) return;
@@ -266,7 +420,6 @@
       showView(pageMenu);
     }
 
-    // Render Level 2: Books
     function renderBooks(langIndex) {
       const lang = globalData.languages[langIndex];
       if (!lang) return;
@@ -289,7 +442,6 @@
       showView(pageMenu);
     }
 
-    // Render Level 3: Chapters
     function renderChapters(langIndex, bookIndex) {
       const book = globalData.languages[langIndex]?.books[bookIndex];
       if (!book) return;
@@ -312,7 +464,6 @@
       showView(pageMenu);
     }
 
-    // Render Level 4: Pages
     function renderPages(langIndex, bookIndex, chapterIndex) {
       const chapter = globalData.languages[langIndex]?.books[bookIndex]?.chapters[chapterIndex];
       if (!chapter) return;
@@ -335,8 +486,10 @@
       showView(pageMenu);
     }
 
-    // Level 5: Play Video (iOS PWA 兼容：静音瞬间播放+暂停，强制解封并绘制首帧)
     function playVideo(page) {
+      // 📊 点击 Page X 时发送打点日志
+      logVideoPlay(page);
+
       pageTitle.textContent = page.title;
       backBtn.style.visibility = 'visible';
 
@@ -359,28 +512,25 @@
       newVideo.setAttribute('webkit-playsinline', 'true');
       newVideo.preload = 'auto';
       
-      if (page.poster) {
-        newVideo.poster = page.poster;
-      }
-
+      if (page.poster) newVideo.poster = page.poster;
       newVideo.src = page.videoSrc;
 
-      // 利用静音授权：瞬间 play 唤醒 WebKit 画面渲染器，然后立即 pause
+      // 🎯 iOS WebKit 首帧自动绘制防黑屏逻辑[cite: 1]
       newVideo.muted = true;
       const playPromise = newVideo.play();
       if (playPromise !== undefined) {
         playPromise.then(() => {
           newVideo.pause();
           newVideo.currentTime = 0;
-          newVideo.muted = false; // 恢复音量控制
+          newVideo.muted = false; // WebKit 校验通过后解除静音[cite: 1]
         }).catch((err) => {
-          console.warn('Autoplay failed/prevented:', err);
+          console.warn('Autoplay prevented:', err);
           newVideo.muted = false;
         });
       }
 
       newVideo.addEventListener('error', (e) => {
-        console.warn('视频恢复异常...', e);
+        console.warn('Video error, restoring audio...', e);
         recoverAudio();
       });
 
@@ -395,6 +545,7 @@
     }
 
     function showView(targetView) {
+      pageAuth.classList.remove('active');
       pageMenu.classList.remove('active');
       pageVideo.classList.remove('active');
       targetView.classList.add('active');
@@ -404,7 +555,7 @@
       historyStack.push(renderFn);
     }
 
-    function goBack() {
+    async function goBack() {
       if (historyStack.length === 0) return;
 
       if (pageVideo.classList.contains('active')) {
@@ -417,10 +568,13 @@
       }
 
       const previousRender = historyStack.pop();
-      previousRender();
+      // 执行上一步的渲染函数（退回首页时会自动触发 renderLanguages 中的重新 loadLocalData）
+      await previousRender();
     }
 
-    // Video Zoom & Pan Logic
+    // ==========================================
+    // 6. 手势缩放与拖拽逻辑 (Zoom & Pan)
+    // ==========================================
     const viewport = document.getElementById('viewport');
     let scale = 1, translateX = 0, translateY = 0;
     const minScale = 1, maxScale = 5;
@@ -477,15 +631,23 @@
 
     window.addEventListener('load', initApp);
 
-    // 应用切回前台逻辑
-    document.addEventListener('visibilitychange', () => {
+    // ==========================================
+    // 7. 页面前后台切换控制 (精准触发)
+    // ==========================================
+    document.addEventListener('visibilitychange', async () => {
       if (document.visibilityState === 'visible') {
-        if (pageMenu.classList.contains('active') && historyStack.length === 0) {
-          console.log('应用切回前台且在首页，自动重新 fetch 数据...');
-          renderLanguages();
-        } else if (pageVideo.classList.contains('active')) {
-          console.log('应用切回前台且处于播放页，自动唤醒音轨...');
+        // 1. 如果当前处于视频播放页，优先恢复 WebKit 音轨
+        if (pageVideo.classList.contains('active')) {
           recoverAudio();
+          return;
+        }
+
+        // 2. 只有当切回前台 且 页面正停留在最外层“语言首页”（historyStack 长度为 0）时，才重新拉取并渲染
+        const isAtHomepage = pageMenu.classList.contains('active') && historyStack.length === 0;
+        
+        if (isAtHomepage) {
+          console.log('切回前台且处于首页，刷新 data.json...');
+          await renderLanguages();
         }
       }
     });
