@@ -1,90 +1,410 @@
-// 修改版本号以触发 SW 更新
-const CACHE_NAME = 'hp-audible-v1';
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <title>Harry Potter Audible</title>
+  
+  <!-- Icon & PWA Flags -->
+  <link rel="icon" type="image/png" href="harry.png">
+  <link rel="apple-touch-icon" href="harry.png">
+  <link rel="manifest" href="manifest.json">
+  <meta name="theme-color" content="#ffffff">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <meta name="apple-mobile-web-app-title" content="Harry Potter">
+  
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      -webkit-tap-highlight-color: transparent;
+    }
 
-// 核心 App Shell（仅缓存纯静态页面资源，不包含 data.json）
-const ASSETS_TO_CACHE = [
-  './',
-  './index.html',
-  './manifest.json',
-  './harry.png'
-];
+    html, body {
+      width: 100%;
+      height: 100%;
+      background-color: #ffffff;
+      color: #000000;
+      overflow: hidden;
+    }
 
-// 1. 安装阶段：预缓存静态 Shell
-self.addEventListener('install', (event) => {
-  event.waitUntil(
-    caches.open(CACHE_NAME).then((cache) => {
-      console.log('SW: 预缓存 App Shell...');
-      return cache.addAll(ASSETS_TO_CACHE);
-    })
-  );
-  self.skipWaiting();
-});
+    #app {
+      width: 100%;
+      height: 100%;
+      display: flex;
+      flex-direction: column;
+    }
 
-// 2. 激活阶段：清理旧缓存
-self.addEventListener('activate', (event) => {
-  event.waitUntil(
-    caches.keys().then((keys) => {
-      return Promise.all(
-        keys.map((key) => {
-          if (key !== CACHE_NAME) {
-            console.log('SW: 清除旧缓存 ->', key);
-            return caches.delete(key);
-          }
-        })
-      );
-    })
-  );
-  self.clients.claim();
-});
+    /* Top Navigation Header */
+    header {
+      height: 40px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 0 16px;
+      background: #ffffff;
+      border-bottom: 1px solid #ddd;
+      z-index: 10;
+      flex-shrink: 0;
+    }
 
-// 3. 请求拦截
-self.addEventListener('fetch', (event) => {
-  const url = new URL(event.request.url);
+    /* Back Button */
+    .back-btn,
+    .back-btn:hover,
+    .back-btn:focus,
+    .back-btn:active,
+    .back-btn:visited {
+      background: transparent !important;
+      border: none !important;
+      outline: none !important;
+      color: #0000ee;
+      font-size: 14px;
+      cursor: pointer;
+      visibility: hidden;
+      padding: 0;
+      display: inline-block;
+      text-decoration: none !important;
+      text-decoration-line: none !important;
+      -webkit-text-decoration-line: none !important;
+      box-shadow: none !important;
+      border-bottom: none !important;
+    }
 
-  // A. 视频文件：直接走网络（Network Only），不进缓存
-  if (url.hostname.includes('amazonaws.com') || event.request.destination === 'video') {
-    event.respondWith(fetch(event.request));
-    return;
-  }
+    header h1 {
+      font-size: 14px;
+      font-weight: bold;
+      color: #000000;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
 
-  // B. data.json：网络优先（Network First）
-  // 总是尝试请求最新数据；如果断网请求失败，再退回使用上次的缓存
-  if (url.pathname.endsWith('data.json')) {
-    event.respondWith(
-      fetch(event.request)
-        .then((networkResponse) => {
-          if (networkResponse && networkResponse.status === 200) {
-            // 收到最新的 data.json 后更新缓存
-            const responseToCache = networkResponse.clone();
-            caches.open(CACHE_NAME).then((cache) => {
-              cache.put(event.request, responseToCache);
-            });
-          }
-          return networkResponse;
-        })
-        .catch(() => {
-          // 网络断开/失败时，退回读取缓存中的 data.json
-          return caches.match(event.request);
-        })
-    );
-    return;
-  }
+    .header-placeholder { width: 40px; }
 
-  // C. 其他 App Shell 静态资源（HTML / PNG 等）：缓存优先（Cache First）
-  event.respondWith(
-    caches.match(event.request).then((cachedResponse) => {
-      if (cachedResponse) {
-        return cachedResponse;
-      }
-      return fetch(event.request).then((networkResponse) => {
-        if (networkResponse && networkResponse.status === 200) {
-          const responseToCache = networkResponse.clone();
-          caches.open(CACHE_NAME).then((cache) => {
-            cache.put(event.request, responseToCache);
-          });
-        }
-        return networkResponse;
+    /* View Pages */
+    .view {
+      flex: 1;
+      display: none;
+      flex-direction: column;
+      align-items: flex-start;
+      padding: 20px;
+      overflow-y: auto;
+    }
+
+    .view.active { display: flex; }
+
+    /* Link List Style */
+    .link-list {
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+    }
+
+    /* 普通链接 */
+    .plain-link,
+    .plain-link:hover,
+    .plain-link:focus,
+    .plain-link:active,
+    .plain-link:visited {
+      color: #0000ee;
+      cursor: pointer;
+      width: fit-content;
+      text-decoration: underline !important;
+      text-decoration-line: underline !important;
+      -webkit-text-decoration-line: underline !important;
+    }
+
+    .plain-link:visited { color: #551a8b; }
+    .plain-link:active { color: #ff0000; }
+
+    /* Video View */
+    #page-video {
+      padding: 0;
+      background: #000000;
+      position: relative;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .viewport {
+      width: 100%;
+      height: 100%;
+      position: relative;
+      overflow: hidden;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      touch-action: none;
+      cursor: grab;
+    }
+
+    .viewport:active { cursor: grabbing; }
+
+    video {
+      max-width: 100%;
+      max-height: 100%;
+      transform-origin: center center;
+      will-change: transform;
+      outline: none;
+    }
+  </style>
+</head>
+<body>
+
+  <div id="app">
+    <!-- Header -->
+    <header>
+      <button class="back-btn" id="backBtn" onclick="goBack()">‹ Back</button>
+      <h1 id="pageTitle">Harry Potter</h1>
+      <div class="header-placeholder"></div>
+    </header>
+
+    <!-- Dynamic Menu View -->
+    <div id="page-menu" class="view active">
+      <div class="link-list" id="menuList"></div>
+    </div>
+
+    <!-- Video Player View -->
+    <div id="page-video" class="view">
+      <div class="viewport" id="viewport">
+        <video id="mainVideo" controls playsinline webkit-playsinline preload="auto"></video>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    // Service Worker Registration
+    if ('serviceWorker' in navigator) {
+      window.addEventListener('load', () => {
+        navigator.serviceWorker.register('./sw.js')
+          .then(reg => console.log('ServiceWorker registered:', reg.scope))
+          .catch(err => console.log('ServiceWorker registration failed:', err));
       });
-    })
-  );
-});
+    }
+
+    let globalData = null;
+    const historyStack = [];
+    
+    const pageTitle = document.getElementById('pageTitle');
+    const backBtn = document.getElementById('backBtn');
+    const mainVideo = document.getElementById('mainVideo');
+    const menuList = document.getElementById('menuList');
+    const pageMenu = document.getElementById('page-menu');
+    const pageVideo = document.getElementById('page-video');
+
+    // 强行恢复音频轨的函数
+    function recoverAudio() {
+      mainVideo.muted = false;
+      mainVideo.volume = 1.0;
+      if (mainVideo.paused && mainVideo.currentTime > 0) {
+        mainVideo.play().catch(() => {});
+      }
+    }
+
+    // 监听 iOS Safari 专属原生全屏结束事件
+    mainVideo.addEventListener('webkitendfullscreen', () => {
+      recoverAudio();
+    });
+
+    // 监听标准全屏切换
+    document.addEventListener('fullscreenchange', handleFullscreenChange);
+    document.addEventListener('webkitfullscreenchange', handleFullscreenChange);
+
+    function handleFullscreenChange() {
+      const isFullscreen = document.fullscreenElement || document.webkitFullscreenElement;
+      if (!isFullscreen) {
+        recoverAudio();
+      }
+    }
+
+    // 播放结束自动重置并恢复音频
+    mainVideo.addEventListener('ended', () => {
+      mainVideo.currentTime = 0;
+      recoverAudio();
+    });
+
+    // Fetch JSON Data and Init App
+    async function initApp() {
+      try {
+        const res = await fetch('./data.json?t=' + Date.now());
+        globalData = await res.json();
+        renderLanguages();
+      } catch (err) {
+        console.error('Failed to load data.json:', err);
+      }
+    }
+
+    // Render Level 1: Languages
+    function renderLanguages() {
+      pageTitle.textContent = 'Harry Potter';
+      backBtn.style.visibility = 'hidden';
+      
+      menuList.innerHTML = '';
+      globalData.languages.forEach(lang => {
+        const a = document.createElement('a');
+        a.className = 'plain-link';
+        a.textContent = lang.title;
+        a.onclick = () => {
+          pushHistory(renderLanguages);
+          renderBooks(lang);
+        };
+        menuList.appendChild(a);
+      });
+
+      showView(pageMenu);
+    }
+
+    // Render Level 2: Books
+    function renderBooks(lang) {
+      pageTitle.textContent = lang.headerTitle;
+      backBtn.style.visibility = 'visible';
+
+      menuList.innerHTML = '';
+      lang.books.forEach(book => {
+        const a = document.createElement('a');
+        a.className = 'plain-link';
+        a.textContent = book.title;
+        a.onclick = () => {
+          pushHistory(() => renderBooks(lang));
+          renderChapters(book);
+        };
+        menuList.appendChild(a);
+      });
+
+      showView(pageMenu);
+    }
+
+    // Render Level 3: Chapters
+    function renderChapters(book) {
+      pageTitle.textContent = book.headerTitle;
+      backBtn.style.visibility = 'visible';
+
+      menuList.innerHTML = '';
+      book.chapters.forEach(chapter => {
+        const a = document.createElement('a');
+        a.className = 'plain-link';
+        a.textContent = chapter.title;
+        a.onclick = () => {
+          pushHistory(() => renderChapters(book));
+          renderPages(chapter);
+        };
+        menuList.appendChild(a);
+      });
+
+      showView(pageMenu);
+    }
+
+    // Render Level 4: Pages
+    function renderPages(chapter) {
+      pageTitle.textContent = chapter.headerTitle;
+      backBtn.style.visibility = 'visible';
+
+      menuList.innerHTML = '';
+      chapter.pages.forEach(page => {
+        const a = document.createElement('a');
+        a.className = 'plain-link';
+        a.textContent = page.title;
+        a.onclick = () => {
+          pushHistory(() => renderPages(chapter));
+          playVideo(page);
+        };
+        menuList.appendChild(a);
+      });
+
+      showView(pageMenu);
+    }
+
+    // Level 5: Play Video
+    function playVideo(page) {
+      pageTitle.textContent = page.title;
+      backBtn.style.visibility = 'visible';
+
+      showView(pageVideo);
+
+      if (mainVideo.src !== page.videoSrc) {
+        mainVideo.src = page.videoSrc;
+      }
+      recoverAudio();
+      mainVideo.load();
+      resetZoom();
+    }
+
+    function showView(targetView) {
+      pageMenu.classList.remove('active');
+      pageVideo.classList.remove('active');
+      targetView.classList.add('active');
+    }
+
+    function pushHistory(renderFn) {
+      historyStack.push(renderFn);
+    }
+
+    function goBack() {
+      if (historyStack.length === 0) return;
+
+      if (pageVideo.classList.contains('active')) {
+        mainVideo.pause();
+      }
+
+      const previousRender = historyStack.pop();
+      previousRender();
+    }
+
+    // Video Zoom & Pan Logic
+    const viewport = document.getElementById('viewport');
+    let scale = 1, translateX = 0, translateY = 0;
+    const minScale = 1, maxScale = 5;
+
+    function updateTransform() {
+      if (scale === 1) { translateX = 0; translateY = 0; } 
+      else {
+        const rect = viewport.getBoundingClientRect();
+        const maxTx = (rect.width * (scale - 1)) / 2;
+        const maxTy = (rect.height * (scale - 1)) / 2;
+        translateX = Math.min(Math.max(translateX, -maxTx), maxTx);
+        translateY = Math.min(Math.max(translateY, -maxTy), maxTy);
+      }
+      mainVideo.style.transform = `translate(${translateX}px, ${translateY}px) scale(${scale})`;
+    }
+
+    function setZoom(newScale) { scale = Math.min(Math.max(newScale, minScale), maxScale); updateTransform(); }
+    function resetZoom() { scale = 1; translateX = 0; translateY = 0; updateTransform(); }
+
+    viewport.addEventListener('wheel', (e) => { e.preventDefault(); setZoom(scale + (e.deltaY < 0 ? 0.2 : -0.2)); }, { passive: false });
+
+    let isDragging = false, startX = 0, startY = 0;
+    function onDragStart(x, y) { if (scale > 1) { isDragging = true; startX = x - translateX; startY = y - translateY; } }
+    function onDragMove(x, y) { if (isDragging) { translateX = x - startX; translateY = y - startY; updateTransform(); } }
+    function onDragEnd() { isDragging = false; }
+
+    viewport.addEventListener('mousedown', (e) => {
+      if (e.target === mainVideo && e.clientY > window.innerHeight - 60) return;
+      onDragStart(e.clientX, e.clientY);
+    });
+    window.addEventListener('mousemove', (e) => onDragMove(e.clientX, e.clientY));
+    window.addEventListener('mouseup', onDragEnd);
+
+    let initialPinchDist = null, initialScale = 1;
+    function getDistance(t) { return Math.hypot(t[0].clientX - t[1].clientX, t[0].clientY - t[1].clientY); }
+
+    viewport.addEventListener('touchstart', (e) => {
+      if (e.touches.length === 1) onDragStart(e.touches[0].clientX, e.touches[0].clientY);
+      else if (e.touches.length === 2) { isDragging = false; initialPinchDist = getDistance(e.touches); initialScale = scale; }
+    }, { passive: true });
+
+    viewport.addEventListener('touchmove', (e) => {
+      if (e.touches.length === 1) onDragMove(e.touches[0].clientX, e.touches[0].clientY);
+      else if (e.touches.length === 2 && initialPinchDist) setZoom(initialScale * (getDistance(e.touches) / initialPinchDist));
+    }, { passive: true });
+
+    viewport.addEventListener('touchend', (e) => {
+      if (e.touches.length < 2) initialPinchDist = null;
+      if (e.touches.length === 0) onDragEnd();
+    });
+
+    window.addEventListener('load', initApp);
+  </script>
+</body>
+</html>
