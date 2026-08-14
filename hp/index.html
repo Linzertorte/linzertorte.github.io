@@ -455,7 +455,7 @@
       } catch (err) { console.error('Failed to log video play:', err); }
     }
 
-    // 尝试激活/恢复 Web Audio Context 防止失声
+    // 激活/恢复 Web Audio Context 防止失声
     function resumeAudioContext() {
       if (player && player.tech_ && player.tech_.el_) {
         const videoEl = player.tech_.el_;
@@ -472,7 +472,7 @@
           preload: 'auto',
           playsinline: true,
           userActions: {
-            doubleClick: false // 禁用 videojs 默认双击，避免与我们自定义的双击快进冲突
+            doubleClick: false // 禁用默认双击，避免逻辑重叠
           },
           html5: {
             vhs: { overrideNative: true },
@@ -596,10 +596,11 @@
       await previousRender();
     }
 
-    // Zoom & Pan 功能
+    // Zoom & Pan 功能核心变量
     const viewport = document.getElementById('viewport');
     let scale = 1, translateX = 0, translateY = 0;
     const minScale = 1, maxScale = 5;
+    let hasMoved = false; // 标记是否在缩放/平移中发生了手势拖拽
 
     function updateTransform() {
       const videoEl = document.querySelector('.video-js');
@@ -621,8 +622,28 @@
     viewport.addEventListener('wheel', (e) => { e.preventDefault(); setZoom(scale + (e.deltaY < 0 ? 0.2 : -0.2)); }, { passive: false });
 
     let isDragging = false, startX = 0, startY = 0;
-    function onDragStart(x, y) { if (scale > 1) { isDragging = true; startX = x - translateX; startY = y - translateY; } }
-    function onDragMove(x, y) { if (isDragging) { translateX = x - startX; translateY = y - startY; updateTransform(); } }
+    
+    function onDragStart(x, y) { 
+      hasMoved = false;
+      if (scale > 1) { 
+        isDragging = true; 
+        startX = x - translateX; 
+        startY = y - translateY; 
+      } 
+    }
+
+    function onDragMove(x, y) { 
+      if (isDragging) { 
+        // 拖拽距离判定：超过 5px 即认定为画面拖动，绝对禁止触发点击/暂停
+        if (Math.abs(x - (startX + translateX)) > 5 || Math.abs(y - (startY + translateY)) > 5) {
+          hasMoved = true;
+        }
+        translateX = x - startX; 
+        translateY = y - startY; 
+        updateTransform(); 
+      } 
+    }
+
     function onDragEnd() { isDragging = false; }
 
     viewport.addEventListener('mousedown', (e) => {
@@ -637,13 +658,22 @@
 
     viewport.addEventListener('touchstart', (e) => {
       if (e.target.closest('.vjs-control-bar')) return;
-      if (e.touches.length === 1) onDragStart(e.touches[0].clientX, e.touches[0].clientY);
-      else if (e.touches.length === 2) { isDragging = false; initialPinchDist = getDistance(e.touches); initialScale = scale; }
+      if (e.touches.length === 1) {
+        onDragStart(e.touches[0].clientX, e.touches[0].clientY);
+      } else if (e.touches.length === 2) { 
+        isDragging = false; 
+        hasMoved = true; // 触发双指捏合缩放时，强行禁止点击逻辑
+        initialPinchDist = getDistance(e.touches); 
+        initialScale = scale; 
+      }
     }, { passive: true });
 
     viewport.addEventListener('touchmove', (e) => {
-      if (e.touches.length === 1) onDragMove(e.touches[0].clientX, e.touches[0].clientY);
-      else if (e.touches.length === 2 && initialPinchDist) setZoom(initialScale * (getDistance(e.touches) / initialPinchDist));
+      if (e.touches.length === 1) {
+        onDragMove(e.touches[0].clientX, e.touches[0].clientY);
+      } else if (e.touches.length === 2 && initialPinchDist) {
+        setZoom(initialScale * (getDistance(e.touches) / initialPinchDist));
+      }
     }, { passive: true });
 
     viewport.addEventListener('touchend', (e) => {
@@ -684,7 +714,7 @@
       }
     }
 
-    // 单击暂停/播放防抖处理，防止快速连续连击撕裂声音通道
+    // 防抖暂停/播放
     let singleTapTimer = null;
     let lastTapTime = 0;
     let lastTapX = 0;
@@ -702,8 +732,17 @@
       }
     }
 
+    // 触摸结束判定
     viewport.addEventListener('touchend', (e) => {
       if (e.target.closest('.vjs-control-bar')) return;
+
+      // 核心拦截：如果刚才发生了位移（拖拽）或多指捏合，直接无视点击，防止频繁误触击垮音频
+      if (hasMoved || initialPinchDist !== null) {
+        hasMoved = false;
+        initialPinchDist = null;
+        return;
+      }
+
       if (e.changedTouches.length !== 1) return;
 
       const now = Date.now();
@@ -712,12 +751,12 @@
       const distDiff = Math.abs(touch.clientX - lastTapX);
 
       if (timeDiff < 300 && timeDiff > 0 && distDiff < 30) {
-        // 双击：取消单击的暂停/播放操作
+        // 双击
         clearTimeout(singleTapTimer);
         handleDoubleTapSeek(touch.clientX);
         lastTapTime = 0;
       } else {
-        // 单击：延迟 250ms 触发，给双击留出判断时间
+        // 单击延迟 250ms 防抖，防极速连击
         lastTapTime = now;
         lastTapX = touch.clientX;
         clearTimeout(singleTapTimer);
@@ -732,7 +771,7 @@
       handleDoubleTapSeek(e.clientX);
     });
 
-    // 首次触摸全局解锁
+    // 首次交互解锁 iOS / 移动端 AudioContext
     function unlockAudioContext() {
       resumeAudioContext();
       document.removeEventListener('touchstart', unlockAudioContext);
