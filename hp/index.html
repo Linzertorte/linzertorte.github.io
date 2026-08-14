@@ -169,7 +169,7 @@
     <!-- Video Player View -->
     <div id="page-video" class="view">
       <div class="viewport" id="viewport">
-        <video id="mainVideo" controls playsinline webkit-playsinline preload="auto"></video>
+        <video id="mainVideo" controls playsinline webkit-playsinline preload="metadata"></video>
       </div>
     </div>
   </div>
@@ -189,40 +189,26 @@
     
     const pageTitle = document.getElementById('pageTitle');
     const backBtn = document.getElementById('backBtn');
-    const mainVideo = document.getElementById('mainVideo');
     const menuList = document.getElementById('menuList');
     const pageMenu = document.getElementById('page-menu');
     const pageVideo = document.getElementById('page-video');
 
     // 强行恢复音频轨的函数
     function recoverAudio() {
-      if (!mainVideo) return;
-      mainVideo.muted = false;
-      mainVideo.volume = 1.0;
+      const video = document.getElementById('mainVideo');
+      if (!video) return;
+      video.muted = false;
+      video.volume = 1.0;
       
-      if (mainVideo.paused && mainVideo.currentTime > 0) {
-        const playPromise = mainVideo.play();
+      if (video.paused && video.currentTime > 0) {
+        const playPromise = video.play();
         if (playPromise !== undefined) {
           playPromise.then(() => {
-            mainVideo.muted = false;
+            video.muted = false;
           }).catch(() => {});
         }
       }
     }
-
-    // 视频错误/解码崩溃自动救援机制
-    mainVideo.addEventListener('error', (e) => {
-      console.warn('视频解码或网络异常，尝试重置 AudioSession...', e);
-      mainVideo.pause();
-      mainVideo.removeAttribute('src');
-      mainVideo.load();
-      recoverAudio();
-    });
-
-    // 监听 iOS Safari 专属原生全屏结束事件
-    mainVideo.addEventListener('webkitendfullscreen', () => {
-      recoverAudio();
-    });
 
     // 监听标准全屏切换
     document.addEventListener('fullscreenchange', handleFullscreenChange);
@@ -234,12 +220,6 @@
         recoverAudio();
       }
     }
-
-    // 播放结束自动重置并恢复音频
-    mainVideo.addEventListener('ended', () => {
-      mainVideo.currentTime = 0;
-      recoverAudio();
-    });
 
     // Fetch JSON Data and Init App
     async function initApp() {
@@ -264,7 +244,7 @@
 
     // Render Level 1: Languages (首页)
     async function renderLanguages() {
-      await refreshData(); // 回到首页先静默拉取最新 json
+      await refreshData();
       
       pageTitle.textContent = 'Harry Potter';
       backBtn.style.visibility = 'hidden';
@@ -278,7 +258,7 @@
         a.textContent = lang.title;
         a.onclick = () => {
           pushHistory(renderLanguages);
-          renderBooks(langIndex); // 传数组索引，彻底消除陈旧闭包数据引用
+          renderBooks(langIndex);
         };
         menuList.appendChild(a);
       });
@@ -355,28 +335,47 @@
       showView(pageMenu);
     }
 
-    // Level 5: Play Video (正确清理并拉取首帧，解决黑屏与按钮状态错乱)
+    // Level 5: Play Video（销毁旧 DOM 并重建，解决 iOS PWA 底层渲染死锁）
     function playVideo(page) {
       pageTitle.textContent = page.title;
       backBtn.style.visibility = 'visible';
 
       showView(pageVideo);
 
-      // 如果切换到了新视频
-      if (mainVideo.src !== page.videoSrc) {
-        mainVideo.pause();             // 1. 暂停上一个视频，重置 UI 状态
-        mainVideo.currentTime = 0;     // 2. 进度归零
-        mainVideo.src = page.videoSrc;    // 3. 设置新地址
-        mainVideo.load();              // 4. 显式 load，拉取新视频首帧并重置控件状态
+      const viewport = document.getElementById('viewport');
+      let oldVideo = document.getElementById('mainVideo');
+
+      if (oldVideo) {
+        oldVideo.pause();
+        oldVideo.removeAttribute('src');
+        oldVideo.load();
+        viewport.removeChild(oldVideo);
       }
 
+      const newVideo = document.createElement('video');
+      newVideo.id = 'mainVideo';
+      newVideo.controls = true;
+      newVideo.playsInline = true;
+      newVideo.setAttribute('webkit-playsinline', 'true');
+      newVideo.preload = 'metadata';
+      newVideo.src = page.videoSrc;
+
+      newVideo.addEventListener('error', (e) => {
+        console.warn('视频恢复异常...', e);
+        recoverAudio();
+      });
+
+      newVideo.addEventListener('webkitendfullscreen', recoverAudio);
+      newVideo.addEventListener('ended', () => {
+        newVideo.currentTime = 0;
+        recoverAudio();
+      });
+
+      viewport.appendChild(newVideo);
       resetZoom();
 
-      // 重置基础音频属性
-      mainVideo.muted = false;
-      mainVideo.volume = 1.0;
-      
-      recoverAudio();
+      newVideo.muted = false;
+      newVideo.volume = 1.0;
     }
 
     function showView(targetView) {
@@ -393,10 +392,12 @@
       if (historyStack.length === 0) return;
 
       if (pageVideo.classList.contains('active')) {
-        mainVideo.pause();
-        // 关键：返回时移除 src 彻底释放硬件解码资源与音频会话
-        mainVideo.removeAttribute('src');
-        mainVideo.load();
+        const video = document.getElementById('mainVideo');
+        if (video) {
+          video.pause();
+          video.removeAttribute('src');
+          video.load();
+        }
       }
 
       const previousRender = historyStack.pop();
@@ -409,6 +410,8 @@
     const minScale = 1, maxScale = 5;
 
     function updateTransform() {
+      const video = document.getElementById('mainVideo');
+      if (!video) return;
       if (scale === 1) { translateX = 0; translateY = 0; } 
       else {
         const rect = viewport.getBoundingClientRect();
@@ -417,7 +420,7 @@
         translateX = Math.min(Math.max(translateX, -maxTx), maxTx);
         translateY = Math.min(Math.max(translateY, -maxTy), maxTy);
       }
-      mainVideo.style.transform = `translate(${translateX}px, ${translateY}px) scale(${scale})`;
+      video.style.transform = `translate(${translateX}px, ${translateY}px) scale(${scale})`;
     }
 
     function setZoom(newScale) { scale = Math.min(Math.max(newScale, minScale), maxScale); updateTransform(); }
@@ -431,7 +434,8 @@
     function onDragEnd() { isDragging = false; }
 
     viewport.addEventListener('mousedown', (e) => {
-      if (e.target === mainVideo && e.clientY > window.innerHeight - 60) return;
+      const video = document.getElementById('mainVideo');
+      if (e.target === video && e.clientY > window.innerHeight - 60) return;
       onDragStart(e.clientX, e.clientY);
     });
     window.addEventListener('mousemove', (e) => onDragMove(e.clientX, e.clientY));
