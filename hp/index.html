@@ -51,6 +51,7 @@
       border-bottom: 1px solid #ddd;
       z-index: 10;
       flex-shrink: 0;
+      position: relative;
     }
 
     .back-btn,
@@ -64,6 +65,7 @@
       padding: 0;
       display: inline-block;
       text-decoration: none !important;
+      z-index: 2;
     }
 
     .back-btn { visibility: hidden; }
@@ -76,6 +78,16 @@
       white-space: nowrap;
       overflow: hidden;
       text-overflow: ellipsis;
+      transition: all 0.2s ease;
+    }
+
+    /* 登录页状态下：Header 标题强行绝对居中 */
+    body.is-auth header h1 {
+      position: absolute;
+      left: 50%;
+      transform: translateX(-50%);
+      text-align: center;
+      width: auto;
     }
 
     /* View Pages */
@@ -107,7 +119,7 @@
       width: 100%;
       padding: 6px 8px;
       border: 1px solid #888;
-      border-radius: 0; /* 还原原生直角边框 */
+      border-radius: 0;
       font-size: 14px;
       background: #fff;
       color: #000;
@@ -124,7 +136,7 @@
       margin-top: 4px;
     }
 
-    /* 将按钮纯粹化为原生链接风格 */
+    /* 原生超链接风格按钮 */
     .auth-link-btn {
       background: none !important;
       border: none !important;
@@ -195,7 +207,7 @@
     }
   </style>
 </head>
-<body>
+<body class="is-auth">
 
   <div id="app">
     <!-- Header -->
@@ -307,6 +319,7 @@
       await supabaseClient.auth.signOut();
       logoutBtn.style.display = 'none';
       backBtn.style.visibility = 'hidden';
+      document.body.classList.add('is-auth');
       showView(pageAuth);
     }
 
@@ -318,10 +331,12 @@
       
       if (!session) {
         logoutBtn.style.display = 'none';
+        document.body.classList.add('is-auth');
         showView(pageAuth);
         return;
       }
 
+      document.body.classList.remove('is-auth');
       logoutBtn.style.display = 'inline-block';
       await renderLanguages();
     }
