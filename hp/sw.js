@@ -1,5 +1,5 @@
 // 修改版本号以触发 SW 更新
-const CACHE_NAME = 'hp-video-app-v4';
+const CACHE_NAME = 'hp-audible-app-v1';
 
 // 安装阶段：不缓存任何文件，直接跳过等待
 self.addEventListener('install', (event) => {
