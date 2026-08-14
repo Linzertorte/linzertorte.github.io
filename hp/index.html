@@ -197,12 +197,12 @@
       transform-origin: center center;
     }
 
-    /* 屏蔽原生 Video 标签的指针响应，避免与自定义手势/控制条抢占 */
+    /* 屏蔽原生 Video 标签的指针响应 */
     .video-js .vjs-tech {
       pointer-events: none;
     }
 
-    /* 保持控制条可以正常点击交互，并避开 iOS Safe Area */
+    /* 控制条样式并避开 iOS Safe Area */
     .video-js .vjs-control-bar {
       pointer-events: auto !important;
       bottom: calc(20px + env(safe-area-inset-bottom, 0px)) !important;
@@ -214,7 +214,7 @@
       backdrop-filter: blur(8px);
     }
 
-    /* 隐藏全屏按钮 */
+    /* 强制隐藏全屏按钮 */
     .video-js .vjs-fullscreen-control {
       display: none !important;
     }
@@ -427,7 +427,14 @@
       }
     }
 
+    // 退出登录函数：增加停止播放逻辑
     async function handleLogout() {
+      if (player) {
+        player.pause();
+        player.src(''); // 切断媒体流加载
+      }
+      historyStack.length = 0;
+
       await supabaseClient.auth.signOut();
       localStorage.clear();
       updateHeaderState(false);
@@ -465,7 +472,7 @@
       } catch (err) { console.error('Failed to log video play:', err); }
     }
 
-    // 基础音频状态解锁，防止 iOS 静音策略
+    // 音频状态恢复
     function resumeAudioContext() {
       if (player) {
         player.muted(false);
@@ -486,12 +493,11 @@
           autoplay: false,
           preload: 'auto',
           playsinline: true,
-          // 禁用 Video.js 内置的画面点击和双击动作
+          // 禁用 Video.js 内置全屏和快捷点击
           userActions: {
             click: false,
             doubleClick: false
           },
-          // 禁用全屏按钮
           controlBar: {
             fullscreenToggle: false
           },
@@ -502,11 +508,10 @@
           }
         });
 
-        // 绑定音频解锁
         player.on('ended', resumeAudioContext);
         player.on('play', resumeAudioContext);
 
-        // 强制 iOS 设置 playsinline，防止触发全屏
+        // 强行附加 iOS 内联播放属性
         if (player.tech_ && player.tech_.el_) {
           const videoEl = player.tech_.el_;
           videoEl.setAttribute('playsinline', 'true');
@@ -652,7 +657,7 @@
     viewport.addEventListener('wheel', (e) => { e.preventDefault(); setZoom(scale + (e.deltaY < 0 ? 0.2 : -0.2)); }, { passive: false });
 
     let isDragging = false, startX = 0, startY = 0;
-    let hasMoved = false; // 拖拽移动标记，防止拖拽引发双击
+    let hasMoved = false;
     
     function onDragStart(x, y) { 
       hasMoved = false;
@@ -676,7 +681,6 @@
 
     function onDragEnd() { isDragging = false; }
 
-    // 桌面端 mouse 拖拽平移 & dblclick 双击
     viewport.addEventListener('mousedown', (e) => {
       if (e.target.closest('.vjs-control-bar')) return;
       onDragStart(e.clientX, e.clientY);
@@ -689,7 +693,6 @@
       handleDoubleTapSeek(e.clientX);
     });
 
-    // 移动端 Touch 触摸拖拽、捏合缩放、双击识别
     let initialPinchDist = null, initialScale = 1;
     let lastTapTime = 0, lastTapX = 0;
 
@@ -701,7 +704,7 @@
         onDragStart(e.touches[0].clientX, e.touches[0].clientY);
       } else if (e.touches.length === 2) { 
         isDragging = false; 
-        hasMoved = true; // 捏合缩放时禁用双击识别
+        hasMoved = true; 
         initialPinchDist = getDistance(e.touches); 
         initialScale = scale; 
       }
@@ -718,7 +721,6 @@
     viewport.addEventListener('touchend', (e) => {
       if (e.target.closest('.vjs-control-bar')) return;
 
-      // 如果发生了画面拖拽平移或双指捏合缩放，直接忽略双击捕获
       if (hasMoved || initialPinchDist !== null) {
         hasMoved = false;
         if (e.touches.length < 2) initialPinchDist = null;
@@ -733,12 +735,10 @@
       const timeDiff = now - lastTapTime;
       const distDiff = Math.abs(touch.clientX - lastTapX);
 
-      // 判定为双击（300ms 内连击且位移较小）
       if (timeDiff < 300 && timeDiff > 0 && distDiff < 30) {
         handleDoubleTapSeek(touch.clientX);
         lastTapTime = 0;
       } else {
-        // 单击不触发任何 play/pause（忽略单击，完全依赖控制条）
         lastTapTime = now;
         lastTapX = touch.clientX;
       }
@@ -746,7 +746,6 @@
       if (e.touches.length === 0) onDragEnd();
     });
 
-    // 双击 快进 / 快退 逻辑处理
     const seekTipLeft = document.getElementById('seekTipLeft');
     const seekTipRight = document.getElementById('seekTipRight');
     let seekTipTimer = null;
@@ -779,7 +778,6 @@
       }
     }
 
-    // 首次交互解锁 Web Audio
     function unlockAudioContext() {
       resumeAudioContext();
       document.removeEventListener('touchstart', unlockAudioContext);
