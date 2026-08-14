@@ -236,22 +236,32 @@
       }
     }
 
-    // Render Level 1: Languages
-    function renderLanguages() {
+    // Render Level 1: Languages (支持静默更新数据)
+    async function renderLanguages() {
       pageTitle.textContent = 'Harry Potter';
       backBtn.style.visibility = 'hidden';
-      
+
+      // 回到根目录时，静默拉取一次最新 data.json
+      try {
+        const res = await fetch('./data.json?t=' + Date.now());
+        globalData = await res.json();
+      } catch (err) {
+        console.log('静默更新数据失败，使用已有缓存/内存数据');
+      }
+
       menuList.innerHTML = '';
-      globalData.languages.forEach(lang => {
-        const a = document.createElement('a');
-        a.className = 'plain-link';
-        a.textContent = lang.title;
-        a.onclick = () => {
-          pushHistory(renderLanguages);
-          renderBooks(lang);
-        };
-        menuList.appendChild(a);
-      });
+      if (globalData && globalData.languages) {
+        globalData.languages.forEach(lang => {
+          const a = document.createElement('a');
+          a.className = 'plain-link';
+          a.textContent = lang.title;
+          a.onclick = () => {
+            pushHistory(renderLanguages);
+            renderBooks(lang);
+          };
+          menuList.appendChild(a);
+        });
+      }
 
       showView(pageMenu);
     }
