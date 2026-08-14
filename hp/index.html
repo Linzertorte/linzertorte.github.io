@@ -212,18 +212,18 @@
       <button class="logout-btn" id="logoutBtn" onclick="handleLogout()">Exit</button>
     </header>
 
-    <!-- Auth View (登录/注册) -->
+    <!-- Auth View (登录/注册 - 包裹在 form 中消除 DOM 警告) -->
     <div id="page-auth" class="view active">
-      <div class="auth-box">
+      <form class="auth-box" onsubmit="return false;">
         <h2>Sign In / Sign Up</h2>
-        <input type="email" id="authEmail" placeholder="Email address" />
-        <input type="password" id="authPassword" placeholder="Password (6+ chars)" />
+        <input type="email" id="authEmail" placeholder="Email address" autocomplete="username" />
+        <input type="password" id="authPassword" placeholder="Password (6+ chars)" autocomplete="current-password" />
         <div class="auth-msg" id="authMsg"></div>
         <div class="auth-btn-group">
-          <button class="auth-btn" onclick="handleLogin()">Login</button>
-          <button class="auth-btn secondary" onclick="handleRegister()">Register</button>
+          <button type="button" class="auth-btn" onclick="handleLogin()">Login</button>
+          <button type="button" class="auth-btn secondary" onclick="handleRegister()">Register</button>
         </div>
-      </div>
+      </form>
     </div>
 
     <!-- Dynamic Menu View -->
@@ -241,11 +241,11 @@
 
   <script>
     // ==========================================
-    // 1. 初始化 Supabase 客户端配置
+    // 1. 初始化 Supabase 客户端配置 (重命名为 supabaseClient 避开命名冲突)
     // ==========================================
     const SUPABASE_URL = 'https://wlncwhtyortyochxlgxs.supabase.co';
     const SUPABASE_ANON_KEY = 'sb_publishable_1DYjKoOQBWLfkJ8qz519nA_iPrSPDkj';
-    const supabase = window.supabase.createClient(SUPABASE_URL, SUPABASE_ANON_KEY);
+    const supabaseClient = window.supabase.createClient(SUPABASE_URL, SUPABASE_ANON_KEY);
 
     // Register Service Worker
     if ('serviceWorker' in navigator) {
@@ -282,7 +282,7 @@
         return;
       }
 
-      const { data, error } = await supabase.auth.signInWithPassword({ email, password });
+      const { data, error } = await supabaseClient.auth.signInWithPassword({ email, password });
       if (error) {
         authMsg.textContent = error.message;
       } else {
@@ -301,7 +301,7 @@
         return;
       }
 
-      const { data, error } = await supabase.auth.signUp({ email, password });
+      const { data, error } = await supabaseClient.auth.signUp({ email, password });
       if (error) {
         authMsg.textContent = error.message;
       } else {
@@ -312,7 +312,7 @@
     }
 
     async function handleLogout() {
-      await supabase.auth.signOut();
+      await supabaseClient.auth.signOut();
       logoutBtn.style.display = 'none';
       backBtn.style.visibility = 'hidden';
       showView(pageAuth);
@@ -322,7 +322,7 @@
     // 3. 应用入口 & 本地静态 data.json 加载
     // ==========================================
     async function initApp() {
-      const { data: { session } } = await supabase.auth.getSession();
+      const { data: { session } } = await supabaseClient.auth.getSession();
       
       if (!session) {
         logoutBtn.style.display = 'none';
@@ -350,14 +350,13 @@
     // ==========================================
     async function logVideoPlay(page) {
       try {
-        const { data: { user } } = await supabase.auth.getUser();
+        const { data: { user } } = await supabaseClient.auth.getUser();
         if (!user) return;
 
-        // 向 Supabase video_play_logs 表写入打点数据
-        const { error } = await supabase.from('video_play_logs').insert([
+        const { error } = await supabaseClient.from('video_play_logs').insert([
           {
-            video_id: page.videoSrc, // 视频路径/ID
-            video_title: page.title   // 视频/页面标题
+            video_id: page.videoSrc,
+            video_title: page.title
           }
         ]);
 
@@ -487,7 +486,6 @@
     }
 
     function playVideo(page) {
-      // 📊 点击 Page X 时发送打点日志
       logVideoPlay(page);
 
       pageTitle.textContent = page.title;
@@ -515,14 +513,13 @@
       if (page.poster) newVideo.poster = page.poster;
       newVideo.src = page.videoSrc;
 
-      // 🎯 iOS WebKit 首帧自动绘制防黑屏逻辑[cite: 1]
       newVideo.muted = true;
       const playPromise = newVideo.play();
       if (playPromise !== undefined) {
         playPromise.then(() => {
           newVideo.pause();
           newVideo.currentTime = 0;
-          newVideo.muted = false; // WebKit 校验通过后解除静音[cite: 1]
+          newVideo.muted = false;
         }).catch((err) => {
           console.warn('Autoplay prevented:', err);
           newVideo.muted = false;
@@ -568,7 +565,6 @@
       }
 
       const previousRender = historyStack.pop();
-      // 执行上一步的渲染函数（退回首页时会自动触发 renderLanguages 中的重新 loadLocalData）
       await previousRender();
     }
 
@@ -636,13 +632,11 @@
     // ==========================================
     document.addEventListener('visibilitychange', async () => {
       if (document.visibilityState === 'visible') {
-        // 1. 如果当前处于视频播放页，优先恢复 WebKit 音轨
         if (pageVideo.classList.contains('active')) {
           recoverAudio();
           return;
         }
 
-        // 2. 只有当切回前台 且 页面正停留在最外层“语言首页”（historyStack 长度为 0）时，才重新拉取并渲染
         const isAtHomepage = pageMenu.classList.contains('active') && historyStack.length === 0;
         
         if (isAtHomepage) {
