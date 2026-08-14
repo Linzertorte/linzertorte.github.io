@@ -1,6 +1,6 @@
 {
   "name": "Harry Potter Audible",
-  "short_name": "Harry Potter",
+  "short_name": "Harry",
   "description": "Harry Potter Audible",
   "start_url": "./",
   "display": "standalone",

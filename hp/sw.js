@@ -1,19 +1,36 @@
-// 修改版本号以触发 SW 更新
-const CACHE_NAME = 'hp-audible-app-v1';
+// 每次修改了 html/js/json 想强制让用户更新时，把版本号 +1
+const CACHE_NAME = 'hp-audible-v2';
 
-// 安装阶段：不缓存任何文件，直接跳过等待
+// 核心应用 Shell（静态资源 + 结构数据）
+const ASSETS_TO_CACHE = [
+  './',
+  './index.html',
+  './data.json',
+  './manifest.json',
+  './harry.png'
+];
+
+// 1. 安装阶段：预缓存核心静态资源
 self.addEventListener('install', (event) => {
-  self.skipWaiting();
+  event.waitUntil(
+    caches.open(CACHE_NAME).then((cache) => {
+      console.log('SW: 预缓存核心文件...');
+      return cache.addAll(ASSETS_TO_CACHE);
+    })
+  );
+  self.skipWaiting(); // 强制激活新的 SW
 });
 
-// 激活阶段：清空之前遗留的所有 Cache 存储，并立即接管页面
+// 2. 激活阶段：清理旧版本的 Cache
 self.addEventListener('activate', (event) => {
   event.waitUntil(
     caches.keys().then((keys) => {
       return Promise.all(
         keys.map((key) => {
-          console.log('正在清理旧缓存:', key);
-          return caches.delete(key);
+          if (key !== CACHE_NAME) {
+            console.log('SW: 清除旧缓存 ->', key);
+            return caches.delete(key);
+          }
         })
       );
     })
@@ -21,9 +38,32 @@ self.addEventListener('activate', (event) => {
   self.clients.claim();
 });
 
-// 请求拦截：Network Only 策略，直接走网络请求
+// 3. 请求拦截阶段：分策略处理
 self.addEventListener('fetch', (event) => {
-  event.respondWith(fetch(event.request));
-});
+  const url = new URL(event.request.url);
 
-//window.location.reload(true);
+  // A. AWS S3 视频文件：直接走网络（Network Only），绝不进 SW 缓存，避免占满手机内存
+  if (url.hostname.includes('amazonaws.com') || event.request.destination === 'video') {
+    event.respondWith(fetch(event.request));
+    return;
+  }
+
+  // B. 其他静态资源（HTML / JSON / PNG等）：缓存优先，离线可用
+  event.respondWith(
+    caches.match(event.request).then((cachedResponse) => {
+      if (cachedResponse) {
+        return cachedResponse; // 命中缓存直接返回
+      }
+      // 未命中缓存则去网络请求，并顺手存入 Cache
+      return fetch(event.request).then((networkResponse) => {
+        if (networkResponse && networkResponse.status === 200) {
+          const responseToCache = networkResponse.clone();
+          caches.open(CACHE_NAME).then((cache) => {
+            cache.put(event.request, responseToCache);
+          });
+        }
+        return networkResponse;
+      });
+    })
+  );
+});

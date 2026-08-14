@@ -1,593 +1,90 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-  <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
-  <meta http-equiv="Pragma" content="no-cache">
-  <meta http-equiv="Expires" content="0">
+// 修改版本号以触发 SW 更新
+const CACHE_NAME = 'hp-audible-v1';
 
-  <title>Harry Potter Audible</title>
-  
-  <!-- Icon & PWA Flags -->
-  <link rel="icon" type="image/png" href="harry.png">
-  <link rel="apple-touch-icon" href="harry.png">
-  <link rel="manifest" href="manifest.json">
-  <meta name="theme-color" content="#ffffff">
-  <meta name="apple-mobile-web-app-capable" content="yes">
-  <meta name="apple-mobile-web-app-status-bar-style" content="default">
-  <meta name="apple-mobile-web-app-title" content="Harry Potter">
-  
-  <style>
-    * {
-      margin: 0;
-      padding: 0;
-      box-sizing: border-box;
-      -webkit-tap-highlight-color: transparent;
-    }
+// 核心 App Shell（仅缓存纯静态页面资源，不包含 data.json）
+const ASSETS_TO_CACHE = [
+  './',
+  './index.html',
+  './manifest.json',
+  './harry.png'
+];
 
-    html, body {
-      width: 100%;
-      height: 100%;
-      background-color: #ffffff;
-      color: #000000;
-      overflow: hidden;
-    }
+// 1. 安装阶段：预缓存静态 Shell
+self.addEventListener('install', (event) => {
+  event.waitUntil(
+    caches.open(CACHE_NAME).then((cache) => {
+      console.log('SW: 预缓存 App Shell...');
+      return cache.addAll(ASSETS_TO_CACHE);
+    })
+  );
+  self.skipWaiting();
+});
 
-    #app {
-      width: 100%;
-      height: 100%;
-      display: flex;
-      flex-direction: column;
-    }
+// 2. 激活阶段：清理旧缓存
+self.addEventListener('activate', (event) => {
+  event.waitUntil(
+    caches.keys().then((keys) => {
+      return Promise.all(
+        keys.map((key) => {
+          if (key !== CACHE_NAME) {
+            console.log('SW: 清除旧缓存 ->', key);
+            return caches.delete(key);
+          }
+        })
+      );
+    })
+  );
+  self.clients.claim();
+});
 
-    /* Top Navigation Header */
-    header {
-      height: 40px;
-      display: flex;
-      align-items: center;
-      justify-content: space-between;
-      padding: 0 16px;
-      background: #ffffff;
-      border-bottom: 1px solid #ddd;
-      z-index: 10;
-      flex-shrink: 0;
-    }
+// 3. 请求拦截
+self.addEventListener('fetch', (event) => {
+  const url = new URL(event.request.url);
 
-    /* Back Button: 保持没有下划线 */
-    .back-btn,
-    .back-btn:hover,
-    .back-btn:focus,
-    .back-btn:active,
-    .back-btn:visited {
-      background: transparent !important;
-      border: none !important;
-      outline: none !important;
-      color: #0000ee;
-      font-size: 14px;
-      cursor: pointer;
-      visibility: hidden;
-      padding: 0;
-      display: inline-block;
-      text-decoration: none !important;
-      text-decoration-line: none !important;
-      -webkit-text-decoration-line: none !important;
-      box-shadow: none !important;
-      border-bottom: none !important;
-    }
+  // A. 视频文件：直接走网络（Network Only），不进缓存
+  if (url.hostname.includes('amazonaws.com') || event.request.destination === 'video') {
+    event.respondWith(fetch(event.request));
+    return;
+  }
 
-    header h1 {
-      font-size: 14px;
-      font-weight: bold;
-      color: #000000;
-      white-space: nowrap;
-      overflow: hidden;
-      text-overflow: ellipsis;
-    }
+  // B. data.json：网络优先（Network First）
+  // 总是尝试请求最新数据；如果断网请求失败，再退回使用上次的缓存
+  if (url.pathname.endsWith('data.json')) {
+    event.respondWith(
+      fetch(event.request)
+        .then((networkResponse) => {
+          if (networkResponse && networkResponse.status === 200) {
+            // 收到最新的 data.json 后更新缓存
+            const responseToCache = networkResponse.clone();
+            caches.open(CACHE_NAME).then((cache) => {
+              cache.put(event.request, responseToCache);
+            });
+          }
+          return networkResponse;
+        })
+        .catch(() => {
+          // 网络断开/失败时，退回读取缓存中的 data.json
+          return caches.match(event.request);
+        })
+    );
+    return;
+  }
 
-    .header-placeholder { width: 40px; }
-
-    /* View Pages */
-    .view {
-      flex: 1;
-      display: none;
-      flex-direction: column;
-      align-items: flex-start;
-      padding: 20px;
-      overflow-y: auto;
-    }
-
-    .view.active { display: flex; }
-
-    /* Link List Style */
-    .link-list {
-      display: flex;
-      flex-direction: column;
-      gap: 12px;
-    }
-
-    /* 普通链接：保留下划线 */
-    .plain-link,
-    .plain-link:hover,
-    .plain-link:focus,
-    .plain-link:active,
-    .plain-link:visited {
-      color: #0000ee;
-      cursor: pointer;
-      width: fit-content;
-      text-decoration: underline !important;
-      text-decoration-line: underline !important;
-      -webkit-text-decoration-line: underline !important;
-    }
-
-    .plain-link:visited { color: #551a8b; }
-    .plain-link:active { color: #ff0000; }
-
-    /* Video View */
-    #page-video {
-      padding: 0;
-      background: #000000;
-      position: relative;
-      align-items: center;
-      justify-content: center;
-    }
-
-    .viewport {
-      width: 100%;
-      height: 100%;
-      position: relative;
-      overflow: hidden;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      touch-action: none;
-      cursor: grab;
-    }
-
-    .viewport:active { cursor: grabbing; }
-
-    video {
-      max-width: 100%;
-      max-height: 100%;
-      transform-origin: center center;
-      will-change: transform;
-      outline: none;
-    }
-  </style>
-</head>
-<body>
-
-  <div id="app">
-    <!-- Header -->
-    <header>
-      <button class="back-btn" id="backBtn" onclick="goBack()">‹ Back</button>
-      <h1 id="pageTitle">Harry Potter</h1>
-      <div class="header-placeholder"></div>
-    </header>
-
-    <!-- Level 1: Languages -->
-    <div id="page-languages" class="view active">
-      <div class="link-list">
-        <a class="plain-link" onclick="navigateTo('page-books-spanish', 'Spanish Edition')">Harry Potter Spanish</a>
-        <a class="plain-link" onclick="navigateTo('page-books-french', 'French Edition')">Harry Potter French</a>
-      </div>
-    </div>
-
-    <!-- Level 2: Spanish Books -->
-    <div id="page-books-spanish" class="view">
-      <div class="link-list">
-        <a class="plain-link" onclick="navigateTo('page-chapters-es-b1', 'Spanish - Book 1')">Book 1</a>
-      </div>
-    </div>
-
-    <!-- Level 2: French Books -->
-    <div id="page-books-french" class="view">
-      <div class="link-list">
-        <a class="plain-link" onclick="navigateTo('page-chapters-fr-b1', 'French - Book 1')">Book 1</a>
-      </div>
-    </div>
-
-    <!-- Level 3: Spanish Chapters -->
-    <div id="page-chapters-es-b1" class="view">
-      <div class="link-list">
-        <a class="plain-link" onclick="navigateTo('page-pages-es-b1-c1', 'ES B1 - Chapter 1')">Chapter 1</a>
-        <a class="plain-link" onclick="navigateTo('page-pages-es-b1-c2', 'ES B1 - Chapter 2')">Chapter 2</a>
-        <a class="plain-link" onclick="navigateTo('page-pages-es-b1-c3', 'ES B1 - Chapter 3')">Chapter 3</a>
-        <a class="plain-link" onclick="navigateTo('page-pages-es-b1-c3', 'ES B1 - Chapter 4')">Chapter 4</a>
-        <a class="plain-link" onclick="navigateTo('page-pages-es-b1-c3', 'ES B1 - Chapter 5')">Chapter 5</a>
-      </div>
-    </div>
-
-    <div id="page-chapters-es-b2" class="view">
-      <div class="link-list">
-        <a class="plain-link" onclick="navigateTo('page-pages-es-b2-c1', 'ES B2 - Chapter 1')">Chapter 1</a>
-        <a class="plain-link" onclick="navigateTo('page-pages-es-b2-c2', 'ES B2 - Chapter 2')">Chapter 2</a>
-        <a class="plain-link" onclick="navigateTo('page-pages-es-b2-c3', 'ES B2 - Chapter 3')">Chapter 3</a>
-      </div>
-    </div>
-
-    <!-- Level 3: French Chapters -->
-    <div id="page-chapters-fr-b1" class="view">
-      <div class="link-list">
-        <a class="plain-link" onclick="navigateTo('page-pages-fr-b1-c1', 'FR B1 - Chapter 1')">Chapter 1</a>
-        <a class="plain-link" onclick="navigateTo('page-pages-fr-b1-c2', 'FR B1 - Chapter 2')">Chapter 2</a>
-      </div>
-    </div>
-
-    <div id="page-chapters-fr-b2" class="view">
-      <div class="link-list">
-        <a class="plain-link" onclick="navigateTo('page-pages-fr-b2-c1', 'FR B2 - Chapter 1')">Chapter 1</a>
-        <a class="plain-link" onclick="navigateTo('page-pages-fr-b2-c2', 'FR B2 - Chapter 2')">Chapter 2</a>
-        <a class="plain-link" onclick="navigateTo('page-pages-fr-b2-c3', 'FR B2 - Chapter 3')">Chapter 3</a>
-        <a class="plain-link" onclick="navigateTo('page-pages-fr-b2-c4', 'FR B2 - Chapter 4')">Chapter 4</a>
-      </div>
-    </div>
-
-    <div id="page-chapters-fr-b3" class="view">
-      <div class="link-list">
-        <a class="plain-link" onclick="navigateTo('page-pages-fr-b3-c1', 'FR B3 - Chapter 1')">Chapter 1</a>
-        <a class="plain-link" onclick="navigateTo('page-pages-fr-b3-c2', 'FR B3 - Chapter 2')">Chapter 2</a>
-        <a class="plain-link" onclick="navigateTo('page-pages-fr-b3-c3', 'FR B3 - Chapter 3')">Chapter 3</a>
-        <a class="plain-link" onclick="navigateTo('page-pages-fr-b3-c4', 'FR B3 - Chapter 4')">Chapter 4</a>
-        <a class="plain-link" onclick="navigateTo('page-pages-fr-b3-c5', 'FR B3 - Chapter 5')">Chapter 5</a>
-      </div>
-    </div>
-
-    <!-- Level 4: Independent Pages per Chapter -->
-    <div id="page-pages-es-b1-c1" class="view">
-      <div class="link-list">
-        <a class="plain-link" onclick="navigateTo('page-video', 'Page 01', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch01/m-01.mp4' })">Page 01</a>
-        <a class="plain-link" onclick="navigateTo('page-video', 'Page 02', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch01/m-02.mp4' })">Page 02</a>
-        <a class="plain-link" onclick="navigateTo('page-video', 'Page 03', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch01/m-03.mp4' })">Page 03</a>
-        <a class="plain-link" onclick="navigateTo('page-video', 'Page 04', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch01/m-04.mp4' })">Page 04</a>
-        <a class="plain-link" onclick="navigateTo('page-video', 'Page 05', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch01/m-05.mp4' })">Page 05</a>
-        <a class="plain-link" onclick="navigateTo('page-video', 'Page 06', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch01/m-06.mp4' })">Page 06</a>
-        <a class="plain-link" onclick="navigateTo('page-video', 'Page 07', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch01/m-07.mp4' })">Page 07</a>
-        <a class="plain-link" onclick="navigateTo('page-video', 'Page 08', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch01/m-08.mp4' })">Page 08</a>
-        <a class="plain-link" onclick="navigateTo('page-video', 'Page 09', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch01/m-09.mp4' })">Page 09</a>
-        <a class="plain-link" onclick="navigateTo('page-video', 'Page 10', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch01/m-10.mp4' })">Page 10</a>
-        <a class="plain-link" onclick="navigateTo('page-video', 'Page 11', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch01/m-11.mp4' })">Page 11</a>
-        <a class="plain-link" onclick="navigateTo('page-video', 'Page 12', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch01/m-12.mp4' })">Page 12</a>
-      </div>
-    </div>
-    <div id="page-pages-es-b1-c2" class="view">
-      <div class="link-list">
-        <a class="plain-link" onclick="navigateTo('page-video', 'Page 01', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch02/m-01.mp4' })">Page 01</a>
-        <a class="plain-link" onclick="navigateTo('page-video', 'Page 02', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch02/m-02.mp4' })">Page 02</a>
-        <a class="plain-link" onclick="navigateTo('page-video', 'Page 03', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch02/m-03.mp4' })">Page 03</a>
-        <a class="plain-link" onclick="navigateTo('page-video', 'Page 04', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch02/m-04.mp4' })">Page 04</a>
-        <a class="plain-link" onclick="navigateTo('page-video', 'Page 05', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch02/m-05.mp4' })">Page 05</a>
-        <a class="plain-link" onclick="navigateTo('page-video', 'Page 06', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch02/m-06.mp4' })">Page 06</a>
-        <a class="plain-link" onclick="navigateTo('page-video', 'Page 07', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch02/m-07.mp4' })">Page 07</a>
-        <a class="plain-link" onclick="navigateTo('page-video', 'Page 08', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch02/m-08.mp4' })">Page 08</a>
-        <a class="plain-link" onclick="navigateTo('page-video', 'Page 09', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch02/m-09.mp4' })">Page 09</a>
-      </div>
-    </div>
-    <div id="page-pages-es-b1-c3" class="view">
-      <div class="link-list">
-        <a class="plain-link" onclick="navigateTo('page-video', 'Page 01', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch03/m-01.mp4' })">Page 01</a>
-        <a class="plain-link" onclick="navigateTo('page-video', 'Page 02', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch03/m-02.mp4' })">Page 02</a>
-        <a class="plain-link" onclick="navigateTo('page-video', 'Page 03', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch03/m-03.mp4' })">Page 03</a>
-        <a class="plain-link" onclick="navigateTo('page-video', 'Page 04', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch03/m-04.mp4' })">Page 04</a>
-        <a class="plain-link" onclick="navigateTo('page-video', 'Page 05', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch03/m-05.mp4' })">Page 05</a>
-        <a class="plain-link" onclick="navigateTo('page-video', 'Page 06', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch03/m-06.mp4' })">Page 06</a>
-        <a class="plain-link" onclick="navigateTo('page-video', 'Page 07', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch03/m-07.mp4' })">Page 07</a>
-        <a class="plain-link" onclick="navigateTo('page-video', 'Page 08', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch03/m-08.mp4' })">Page 08</a>
-        <a class="plain-link" onclick="navigateTo('page-video', 'Page 09', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch03/m-09.mp4' })">Page 09</a>
-        <a class="plain-link" onclick="navigateTo('page-video', 'Page 10', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch03/m-10.mp4' })">Page 10</a>
-      </div>
-    </div>
-    <div id="page-pages-es-b1-c4" class="view">
-      <div class="link-list">
-        <a class="plain-link" onclick="navigateTo('page-video', 'Page 01', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch04/m-01.mp4' })">Page 01</a>
-        <a class="plain-link" onclick="navigateTo('page-video', 'Page 02', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch04/m-02.mp4' })">Page 02</a>
-        <a class="plain-link" onclick="navigateTo('page-video', 'Page 03', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch04/m-03.mp4' })">Page 03</a>
-        <a class="plain-link" onclick="navigateTo('page-video', 'Page 04', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch04/m-04.mp4' })">Page 04</a>
-        <a class="plain-link" onclick="navigateTo('page-video', 'Page 05', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch04/m-05.mp4' })">Page 05</a>
-        <a class="plain-link" onclick="navigateTo('page-video', 'Page 06', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch04/m-06.mp4' })">Page 06</a>
-        <a class="plain-link" onclick="navigateTo('page-video', 'Page 07', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch04/m-07.mp4' })">Page 07</a>
-        <a class="plain-link" onclick="navigateTo('page-video', 'Page 08', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch04/m-08.mp4' })">Page 08</a>
-        <a class="plain-link" onclick="navigateTo('page-video', 'Page 09', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch04/m-09.mp4' })">Page 09</a>
-        <a class="plain-link" onclick="navigateTo('page-video', 'Page 10', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch04/m-10.mp4' })">Page 10</a>
-
-      </div>
-    </div>
-
-    <div id="page-pages-es-b1-c5" class="view">
-      <div class="link-list">
-        <a class="plain-link" onclick="navigateTo('page-video', 'Page 01', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch05/m-01.mp4' })">Page 01</a>
-        <a class="plain-link" onclick="navigateTo('page-video', 'Page 02', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch05/m-02.mp4' })">Page 02</a>
-        <a class="plain-link" onclick="navigateTo('page-video', 'Page 03', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch05/m-03.mp4' })">Page 03</a>
-        <a class="plain-link" onclick="navigateTo('page-video', 'Page 04', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch05/m-04.mp4' })">Page 04</a>
-        <a class="plain-link" onclick="navigateTo('page-video', 'Page 05', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch05/m-05.mp4' })">Page 05</a>
-        <a class="plain-link" onclick="navigateTo('page-video', 'Page 06', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch05/m-06.mp4' })">Page 06</a>
-        <a class="plain-link" onclick="navigateTo('page-video', 'Page 07', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch05/m-07.mp4' })">Page 07</a>
-        <a class="plain-link" onclick="navigateTo('page-video', 'Page 08', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch05/m-08.mp4' })">Page 08</a>
-        <a class="plain-link" onclick="navigateTo('page-video', 'Page 09', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch05/m-09.mp4' })">Page 09</a>
-        <a class="plain-link" onclick="navigateTo('page-video', 'Page 10', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch05/m-10.mp4' })">Page 10</a>
-        <a class="plain-link" onclick="navigateTo('page-video', 'Page 11', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch05/m-11.mp4' })">Page 11</a>
-        <a class="plain-link" onclick="navigateTo('page-video', 'Page 12', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch05/m-12.mp4' })">Page 12</a>
-        <a class="plain-link" onclick="navigateTo('page-video', 'Page 13', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch05/m-13.mp4' })">Page 13</a>
-        <a class="plain-link" onclick="navigateTo('page-video', 'Page 14', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch05/m-14.mp4' })">Page 14</a>
-        <a class="plain-link" onclick="navigateTo('page-video', 'Page 15', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch05/m-15.mp4' })">Page 15</a>
-        <a class="plain-link" onclick="navigateTo('page-video', 'Page 16', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch05/m-16.mp4' })">Page 16</a>
-        <a class="plain-link" onclick="navigateTo('page-video', 'Page 17', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch05/m-17.mp4' })">Page 17</a>
-        <a class="plain-link" onclick="navigateTo('page-video', 'Page 18', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch05/m-18.mp4' })">Page 18</a>
-        <a class="plain-link" onclick="navigateTo('page-video', 'Page 19', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch05/m-19.mp4' })">Page 19</a>
-      </div>
-    </div>
-    <div id="page-pages-es-b1-c6" class="view">
-      <div class="link-list">
-
-        
-      </div>
-    </div>
-    <div id="page-pages-es-b2-c1" class="view">
-      <div class="link-list">
-        <a class="plain-link" onclick="navigateTo('page-video', 'Page 1', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/t1m.mp4' })">Page 1</a>
-        <a class="plain-link" onclick="navigateTo('page-video', 'Page 2', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/t2m.mp4' })">Page 2</a>
-      </div>
-    </div>
-    <div id="page-pages-es-b2-c2" class="view">
-      <div class="link-list">
-        <a class="plain-link" onclick="navigateTo('page-video', 'Page 1', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/t1m.mp4' })">Page 1</a>
-        <a class="plain-link" onclick="navigateTo('page-video', 'Page 2', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/t2m.mp4' })">Page 2</a>
-      </div>
-    </div>
-    <div id="page-pages-es-b2-c3" class="view">
-      <div class="link-list">
-        <a class="plain-link" onclick="navigateTo('page-video', 'Page 1', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/t1m.mp4' })">Page 1</a>
-        <a class="plain-link" onclick="navigateTo('page-video', 'Page 2', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/t2m.mp4' })">Page 2</a>
-      </div>
-    </div>
-
-    <div id="page-pages-fr-b1-c1" class="view">
-      <div class="link-list">
-        <a class="plain-link" onclick="navigateTo('page-video', 'Page 01', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/fr/b1ch01/m-01.mp4' })">Page 01</a>
-        <a class="plain-link" onclick="navigateTo('page-video', 'Page 02', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/fr/b1ch01/m-02.mp4' })">Page 02</a>
-        <a class="plain-link" onclick="navigateTo('page-video', 'Page 03', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/fr/b1ch01/m-03.mp4' })">Page 03</a>
-        <a class="plain-link" onclick="navigateTo('page-video', 'Page 04', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/fr/b1ch01/m-04.mp4' })">Page 04</a>
-        <a class="plain-link" onclick="navigateTo('page-video', 'Page 05', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/fr/b1ch01/m-05.mp4' })">Page 05</a>
-        <a class="plain-link" onclick="navigateTo('page-video', 'Page 06', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/fr/b1ch01/m-06.mp4' })">Page 06</a>
-        <a class="plain-link" onclick="navigateTo('page-video', 'Page 07', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/fr/b1ch01/m-07.mp4' })">Page 07</a>
-        <a class="plain-link" onclick="navigateTo('page-video', 'Page 08', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/fr/b1ch01/m-08.mp4' })">Page 08</a>
-        <a class="plain-link" onclick="navigateTo('page-video', 'Page 09', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/fr/b1ch01/m-09.mp4' })">Page 09</a>
-        <a class="plain-link" onclick="navigateTo('page-video', 'Page 10', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/fr/b1ch01/m-10.mp4' })">Page 10</a>
-        <a class="plain-link" onclick="navigateTo('page-video', 'Page 11', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/fr/b1ch01/m-11.mp4' })">Page 11</a>
-        <a class="plain-link" onclick="navigateTo('page-video', 'Page 12', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/fr/b1ch01/m-12.mp4' })">Page 12</a>
-        <a class="plain-link" onclick="navigateTo('page-video', 'Page 13', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/fr/b1ch01/m-13.mp4' })">Page 13</a>
-      </div>
-    </div>
-    <div id="page-pages-fr-b1-c2" class="view">
-      <div class="link-list">
-        <a class="plain-link" onclick="navigateTo('page-video', 'Page 01', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/fr/b1ch02/m-01.mp4' })">Page 01</a>
-        <a class="plain-link" onclick="navigateTo('page-video', 'Page 02', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/fr/b1ch02/m-02.mp4' })">Page 02</a>
-        <a class="plain-link" onclick="navigateTo('page-video', 'Page 03', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/fr/b1ch02/m-03.mp4' })">Page 03</a>
-        <a class="plain-link" onclick="navigateTo('page-video', 'Page 04', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/fr/b1ch02/m-04.mp4' })">Page 04</a>
-        <a class="plain-link" onclick="navigateTo('page-video', 'Page 05', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/fr/b1ch02/m-05.mp4' })">Page 05</a>
-        <a class="plain-link" onclick="navigateTo('page-video', 'Page 06', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/fr/b1ch02/m-06.mp4' })">Page 06</a>
-        <a class="plain-link" onclick="navigateTo('page-video', 'Page 07', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/fr/b1ch02/m-07.mp4' })">Page 07</a>
-        <a class="plain-link" onclick="navigateTo('page-video', 'Page 08', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/fr/b1ch02/m-08.mp4' })">Page 08</a>
-        <a class="plain-link" onclick="navigateTo('page-video', 'Page 09', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/fr/b1ch02/m-09.mp4' })">Page 09</a>
-        <a class="plain-link" onclick="navigateTo('page-video', 'Page 10', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/fr/b1ch02/m-10.mp4' })">Page 10</a>
-      </div>
-    </div>
-    <div id="page-pages-fr-b1-c3" class="view">
-      <div class="link-list">
-        <a class="plain-link" onclick="navigateTo('page-video', 'Page 1', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/t1m.mp4' })">Page 1</a>
-        <a class="plain-link" onclick="navigateTo('page-video', 'Page 2', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/t2m.mp4' })">Page 2</a>
-      </div>
-    </div>
-
-    <div id="page-pages-fr-b2-c1" class="view">
-      <div class="link-list">
-        <a class="plain-link" onclick="navigateTo('page-video', 'Page 1', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/t1m.mp4' })">Page 1</a>
-        <a class="plain-link" onclick="navigateTo('page-video', 'Page 2', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/t2m.mp4' })">Page 2</a>
-      </div>
-    </div>
-    <div id="page-pages-fr-b2-c2" class="view">
-      <div class="link-list">
-        <a class="plain-link" onclick="navigateTo('page-video', 'Page 1', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/t1m.mp4' })">Page 1</a>
-        <a class="plain-link" onclick="navigateTo('page-video', 'Page 2', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/t2m.mp4' })">Page 2</a>
-      </div>
-    </div>
-    <div id="page-pages-fr-b2-c3" class="view">
-      <div class="link-list">
-        <a class="plain-link" onclick="navigateTo('page-video', 'Page 1', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/t1m.mp4' })">Page 1</a>
-        <a class="plain-link" onclick="navigateTo('page-video', 'Page 2', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/t2m.mp4' })">Page 2</a>
-      </div>
-    </div>
-    <div id="page-pages-fr-b2-c4" class="view">
-      <div class="link-list">
-        <a class="plain-link" onclick="navigateTo('page-video', 'Page 1', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/t1m.mp4' })">Page 1</a>
-        <a class="plain-link" onclick="navigateTo('page-video', 'Page 2', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/t2m.mp4' })">Page 2</a>
-      </div>
-    </div>
-
-    <div id="page-pages-fr-b3-c1" class="view">
-      <div class="link-list">
-        <a class="plain-link" onclick="navigateTo('page-video', 'Page 1', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/t1m.mp4' })">Page 1</a>
-        <a class="plain-link" onclick="navigateTo('page-video', 'Page 2', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/t2m.mp4' })">Page 2</a>
-      </div>
-    </div>
-    <div id="page-pages-fr-b3-c2" class="view">
-      <div class="link-list">
-        <a class="plain-link" onclick="navigateTo('page-video', 'Page 1', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/t1m.mp4' })">Page 1</a>
-        <a class="plain-link" onclick="navigateTo('page-video', 'Page 2', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/t2m.mp4' })">Page 2</a>
-      </div>
-    </div>
-    <div id="page-pages-fr-b3-c3" class="view">
-      <div class="link-list">
-        <a class="plain-link" onclick="navigateTo('page-video', 'Page 1', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/t1m.mp4' })">Page 1</a>
-        <a class="plain-link" onclick="navigateTo('page-video', 'Page 2', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/t2m.mp4' })">Page 2</a>
-      </div>
-    </div>
-    <div id="page-pages-fr-b3-c4" class="view">
-      <div class="link-list">
-        <a class="plain-link" onclick="navigateTo('page-video', 'Page 1', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/t1m.mp4' })">Page 1</a>
-        <a class="plain-link" onclick="navigateTo('page-video', 'Page 2', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/t2m.mp4' })">Page 2</a>
-      </div>
-    </div>
-    <div id="page-pages-fr-b3-c5" class="view">
-      <div class="link-list">
-        <a class="plain-link" onclick="navigateTo('page-video', 'Page 1', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/t1m.mp4' })">Page 1</a>
-        <a class="plain-link" onclick="navigateTo('page-video', 'Page 2', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/t2m.mp4' })">Page 2</a>
-      </div>
-    </div>
-
-    <!-- Level 5: Video Player View -->
-    <div id="page-video" class="view">
-      <div class="viewport" id="viewport">
-        <video id="mainVideo" controls playsinline webkit-playsinline preload="auto"></video>
-      </div>
-    </div>
-  </div>
-
-  <script>
-    // Service Worker Registration
-    if ('serviceWorker' in navigator) {
-      window.addEventListener('load', () => {
-        navigator.serviceWorker.register('./sw.js')
-          .then(reg => console.log('ServiceWorker registered:', reg.scope))
-          .catch(err => console.log('ServiceWorker registration failed:', err));
-      });
-    }
-
-    const historyStack = [];
-    let currentViewId = 'page-languages';
-
-    const pageTitle = document.getElementById('pageTitle');
-    const backBtn = document.getElementById('backBtn');
-    const mainVideo = document.getElementById('mainVideo');
-
-    // 强行恢复音频轨的函数
-    function recoverAudio() {
-      mainVideo.muted = false;
-      mainVideo.volume = 1.0;
-      if (mainVideo.paused && mainVideo.currentTime > 0) {
-        mainVideo.play().catch(() => {});
+  // C. 其他 App Shell 静态资源（HTML / PNG 等）：缓存优先（Cache First）
+  event.respondWith(
+    caches.match(event.request).then((cachedResponse) => {
+      if (cachedResponse) {
+        return cachedResponse;
       }
-    }
-
-    // 监听 iOS Safari 专属原生全屏结束事件 (退出原生全屏时触发)
-    mainVideo.addEventListener('webkitendfullscreen', () => {
-      recoverAudio();
-    });
-
-    // 监听标准全屏切换
-    document.addEventListener('fullscreenchange', handleFullscreenChange);
-    document.addEventListener('webkitfullscreenchange', handleFullscreenChange);
-
-    function handleFullscreenChange() {
-      const isFullscreen = document.fullscreenElement || document.webkitFullscreenElement;
-      if (!isFullscreen) {
-        recoverAudio();
-      }
-    }
-
-    // 播放结束自动重置并恢复音频
-    mainVideo.addEventListener('ended', () => {
-      mainVideo.currentTime = 0;
-      recoverAudio();
-    });
-
-    function navigateTo(targetViewId, title, params = {}) {
-      historyStack.push({ viewId: currentViewId, title: pageTitle.textContent });
-
-      document.getElementById(currentViewId).classList.remove('active');
-      document.getElementById(targetViewId).classList.add('active');
-
-      currentViewId = targetViewId;
-      pageTitle.textContent = title;
-      backBtn.style.visibility = 'visible';
-
-      if (targetViewId === 'page-video' && params.videoSrc) {
-        if (mainVideo.src !== params.videoSrc) {
-          mainVideo.src = params.videoSrc;
+      return fetch(event.request).then((networkResponse) => {
+        if (networkResponse && networkResponse.status === 200) {
+          const responseToCache = networkResponse.clone();
+          caches.open(CACHE_NAME).then((cache) => {
+            cache.put(event.request, responseToCache);
+          });
         }
-        recoverAudio();
-        mainVideo.load();
-        resetZoom();
-      }
-    }
-
-    function goBack() {
-      if (historyStack.length === 0) return;
-
-      const previous = historyStack.pop();
-
-      if (currentViewId === 'page-video') {
-        mainVideo.pause();
-      }
-
-      document.getElementById(currentViewId).classList.remove('active');
-      document.getElementById(previous.viewId).classList.add('active');
-
-      currentViewId = previous.viewId;
-      pageTitle.textContent = previous.title;
-
-      if (historyStack.length === 0) {
-        backBtn.style.visibility = 'hidden';
-      }
-    }
-
-    // Video Zoom & Pan Logic
-    const viewport = document.getElementById('viewport');
-    let scale = 1, translateX = 0, translateY = 0;
-    const minScale = 1, maxScale = 5;
-
-    function updateTransform() {
-      if (scale === 1) { translateX = 0; translateY = 0; } 
-      else {
-        const rect = viewport.getBoundingClientRect();
-        const maxTx = (rect.width * (scale - 1)) / 2;
-        const maxTy = (rect.height * (scale - 1)) / 2;
-        translateX = Math.min(Math.max(translateX, -maxTx), maxTx);
-        translateY = Math.min(Math.max(translateY, -maxTy), maxTy);
-      }
-      mainVideo.style.transform = `translate(${translateX}px, ${translateY}px) scale(${scale})`;
-    }
-
-    function setZoom(newScale) { scale = Math.min(Math.max(newScale, minScale), maxScale); updateTransform(); }
-    function resetZoom() { scale = 1; translateX = 0; translateY = 0; updateTransform(); }
-
-    viewport.addEventListener('wheel', (e) => { e.preventDefault(); setZoom(scale + (e.deltaY < 0 ? 0.2 : -0.2)); }, { passive: false });
-
-    let isDragging = false, startX = 0, startY = 0;
-    function onDragStart(x, y) { if (scale > 1) { isDragging = true; startX = x - translateX; startY = y - translateY; } }
-    function onDragMove(x, y) { if (isDragging) { translateX = x - startX; translateY = y - startY; updateTransform(); } }
-    function onDragEnd() { isDragging = false; }
-
-    viewport.addEventListener('mousedown', (e) => {
-      if (e.target === mainVideo && e.clientY > window.innerHeight - 60) return;
-      onDragStart(e.clientX, e.clientY);
-    });
-    window.addEventListener('mousemove', (e) => onDragMove(e.clientX, e.clientY));
-    window.addEventListener('mouseup', onDragEnd);
-
-    let initialPinchDist = null, initialScale = 1;
-    function getDistance(t) { return Math.hypot(t[0].clientX - t[1].clientX, t[0].clientY - t[1].clientY); }
-
-    viewport.addEventListener('touchstart', (e) => {
-      if (e.touches.length === 1) onDragStart(e.touches[0].clientX, e.touches[0].clientY);
-      else if (e.touches.length === 2) { isDragging = false; initialPinchDist = getDistance(e.touches); initialScale = scale; }
-    }, { passive: true });
-
-    viewport.addEventListener('touchmove', (e) => {
-      if (e.touches.length === 1) onDragMove(e.touches[0].clientX, e.touches[0].clientY);
-      else if (e.touches.length === 2 && initialPinchDist) setZoom(initialScale * (getDistance(e.touches) / initialPinchDist));
-    }, { passive: true });
-
-    viewport.addEventListener('touchend', (e) => {
-      if (e.touches.length < 2) initialPinchDist = null;
-      if (e.touches.length === 0) onDragEnd();
-    });
-
-    document.addEventListener('visibilitychange', () => {
-      if (document.visibilityState === 'visible') {
-        window.location.reload(true);
-      }
-    });
-  </script>
-</body>
-</html>
+        return networkResponse;
+      });
+    })
+  );
+});
