@@ -1,0 +1,489 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <title>Harry Potter Video SPA</title>
+  
+  <!-- Icon & PWA Flags -->
+  <link rel="icon" type="image/png" href="harry.png">
+  <link rel="apple-touch-icon" href="harry.png">
+  <link rel="manifest" href="manifest.json">
+  <meta name="theme-color" content="#ffffff">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <meta name="apple-mobile-web-app-title" content="HP Video">
+  
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      -webkit-tap-highlight-color: transparent;
+    }
+
+    html, body {
+      width: 100%;
+      height: 100%;
+      background-color: #ffffff;
+      color: #000000;
+      overflow: hidden;
+    }
+
+    #app {
+      width: 100%;
+      height: 100%;
+      display: flex;
+      flex-direction: column;
+    }
+
+    /* Top Navigation Header */
+    header {
+      height: 40px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 0 16px;
+      background: #ffffff;
+      border-bottom: 1px solid #ddd;
+      z-index: 10;
+      flex-shrink: 0;
+    }
+
+    .back-btn,
+    .back-btn:hover,
+    .back-btn:focus,
+    .back-btn:active,
+    .back-btn:visited {
+      background: transparent !important;
+      border: none !important;
+      outline: none !important;
+      color: #0000ee;
+      font-size: 14px;
+      cursor: pointer;
+      visibility: hidden;
+      padding: 0;
+      display: inline-block;
+      text-decoration: none !important;
+      text-decoration-line: none !important;
+      -webkit-text-decoration-line: none !important;
+      box-shadow: none !important;
+      border-bottom: none !important;
+    }
+
+    header h1 {
+      font-size: 14px;
+      font-weight: bold;
+      color: #000000;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    .header-placeholder { width: 40px; }
+
+    /* View Pages */
+    .view {
+      flex: 1;
+      display: none;
+      flex-direction: column;
+      align-items: flex-start;
+      padding: 20px;
+      overflow-y: auto;
+    }
+
+    .view.active { display: flex; }
+
+    /* Link List Style */
+    .link-list {
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+    }
+
+    .plain-link,
+    .plain-link:hover,
+    .plain-link:focus,
+    .plain-link:active,
+    .plain-link:visited {
+      color: #0000ee;
+      cursor: pointer;
+      width: fit-content;
+      text-decoration: none !important;
+      text-decoration-line: none !important;
+      -webkit-text-decoration-line: none !important;
+    }
+
+    .plain-link:visited { color: #551a8b; }
+    .plain-link:active { color: #ff0000; }
+
+    /* Video View */
+    #page-video {
+      padding: 0;
+      background: #000000;
+      position: relative;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .viewport {
+      width: 100%;
+      height: 100%;
+      position: relative;
+      overflow: hidden;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      touch-action: none;
+      cursor: grab;
+    }
+
+    .viewport:active { cursor: grabbing; }
+
+    video {
+      max-width: 100%;
+      max-height: 100%;
+      transform-origin: center center;
+      will-change: transform;
+      outline: none;
+    }
+  </style>
+</head>
+<body>
+
+  <div id="app">
+    <!-- Header -->
+    <header>
+      <button class="back-btn" id="backBtn" onclick="goBack()">‹ Back</button>
+      <h1 id="pageTitle">Harry Potter</h1>
+      <div class="header-placeholder"></div>
+    </header>
+
+    <!-- Level 1: Languages -->
+    <div id="page-languages" class="view active">
+      <div class="link-list">
+        <a class="plain-link" onclick="navigateTo('page-books-spanish', 'Spanish Edition')">Harry Potter Spanish</a>
+        <a class="plain-link" onclick="navigateTo('page-books-french', 'French Edition')">Harry Potter French</a>
+      </div>
+    </div>
+
+    <!-- Level 2: Spanish Books -->
+    <div id="page-books-spanish" class="view">
+      <div class="link-list">
+        <a class="plain-link" onclick="navigateTo('page-chapters-es-b1', 'Spanish - Book 1')">Book 1</a>
+        <a class="plain-link" onclick="navigateTo('page-chapters-es-b2', 'Spanish - Book 2')">Book 2</a>
+      </div>
+    </div>
+
+    <!-- Level 2: French Books -->
+    <div id="page-books-french" class="view">
+      <div class="link-list">
+        <a class="plain-link" onclick="navigateTo('page-chapters-fr-b1', 'French - Book 1')">Book 1</a>
+        <a class="plain-link" onclick="navigateTo('page-chapters-fr-b2', 'French - Book 2')">Book 2</a>
+        <a class="plain-link" onclick="navigateTo('page-chapters-fr-b3', 'French - Book 3')">Book 3</a>
+      </div>
+    </div>
+
+    <!-- Level 3: Spanish Chapters -->
+    <div id="page-chapters-es-b1" class="view">
+      <div class="link-list">
+        <a class="plain-link" onclick="navigateTo('page-pages-es-b1-c1', 'ES B1 - Chapter 1')">Chapter 1</a>
+        <a class="plain-link" onclick="navigateTo('page-pages-es-b1-c2', 'ES B1 - Chapter 2')">Chapter 2</a>
+      </div>
+    </div>
+
+    <div id="page-chapters-es-b2" class="view">
+      <div class="link-list">
+        <a class="plain-link" onclick="navigateTo('page-pages-es-b2-c1', 'ES B2 - Chapter 1')">Chapter 1</a>
+        <a class="plain-link" onclick="navigateTo('page-pages-es-b2-c2', 'ES B2 - Chapter 2')">Chapter 2</a>
+        <a class="plain-link" onclick="navigateTo('page-pages-es-b2-c3', 'ES B2 - Chapter 3')">Chapter 3</a>
+      </div>
+    </div>
+
+    <!-- Level 3: French Chapters -->
+    <div id="page-chapters-fr-b1" class="view">
+      <div class="link-list">
+        <a class="plain-link" onclick="navigateTo('page-pages-fr-b1-c1', 'FR B1 - Chapter 1')">Chapter 1</a>
+        <a class="plain-link" onclick="navigateTo('page-pages-fr-b1-c2', 'FR B1 - Chapter 2')">Chapter 2</a>
+        <a class="plain-link" onclick="navigateTo('page-pages-fr-b1-c3', 'FR B1 - Chapter 3')">Chapter 3</a>
+      </div>
+    </div>
+
+    <div id="page-chapters-fr-b2" class="view">
+      <div class="link-list">
+        <a class="plain-link" onclick="navigateTo('page-pages-fr-b2-c1', 'FR B2 - Chapter 1')">Chapter 1</a>
+        <a class="plain-link" onclick="navigateTo('page-pages-fr-b2-c2', 'FR B2 - Chapter 2')">Chapter 2</a>
+        <a class="plain-link" onclick="navigateTo('page-pages-fr-b2-c3', 'FR B2 - Chapter 3')">Chapter 3</a>
+        <a class="plain-link" onclick="navigateTo('page-pages-fr-b2-c4', 'FR B2 - Chapter 4')">Chapter 4</a>
+      </div>
+    </div>
+
+    <div id="page-chapters-fr-b3" class="view">
+      <div class="link-list">
+        <a class="plain-link" onclick="navigateTo('page-pages-fr-b3-c1', 'FR B3 - Chapter 1')">Chapter 1</a>
+        <a class="plain-link" onclick="navigateTo('page-pages-fr-b3-c2', 'FR B3 - Chapter 2')">Chapter 2</a>
+        <a class="plain-link" onclick="navigateTo('page-pages-fr-b3-c3', 'FR B3 - Chapter 3')">Chapter 3</a>
+        <a class="plain-link" onclick="navigateTo('page-pages-fr-b3-c4', 'FR B3 - Chapter 4')">Chapter 4</a>
+        <a class="plain-link" onclick="navigateTo('page-pages-fr-b3-c5', 'FR B3 - Chapter 5')">Chapter 5</a>
+      </div>
+    </div>
+
+    <!-- Level 4: Independent Pages per Chapter -->
+    <div id="page-pages-es-b1-c1" class="view">
+      <div class="link-list">
+        <a class="plain-link" onclick="navigateTo('page-video', 'Page 1', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/t1m.mp4' })">Page 1</a>
+        <a class="plain-link" onclick="navigateTo('page-video', 'Page 2', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/t2m.mp4' })">Page 2</a>
+      </div>
+    </div>
+    <div id="page-pages-es-b1-c2" class="view">
+      <div class="link-list">
+        <a class="plain-link" onclick="navigateTo('page-video', 'Page 1', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/t1m.mp4' })">Page 1</a>
+        <a class="plain-link" onclick="navigateTo('page-video', 'Page 2', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/t2m.mp4' })">Page 2</a>
+      </div>
+    </div>
+
+    <div id="page-pages-es-b2-c1" class="view">
+      <div class="link-list">
+        <a class="plain-link" onclick="navigateTo('page-video', 'Page 1', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/t1m.mp4' })">Page 1</a>
+        <a class="plain-link" onclick="navigateTo('page-video', 'Page 2', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/t2m.mp4' })">Page 2</a>
+      </div>
+    </div>
+    <div id="page-pages-es-b2-c2" class="view">
+      <div class="link-list">
+        <a class="plain-link" onclick="navigateTo('page-video', 'Page 1', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/t1m.mp4' })">Page 1</a>
+        <a class="plain-link" onclick="navigateTo('page-video', 'Page 2', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/t2m.mp4' })">Page 2</a>
+      </div>
+    </div>
+    <div id="page-pages-es-b2-c3" class="view">
+      <div class="link-list">
+        <a class="plain-link" onclick="navigateTo('page-video', 'Page 1', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/t1m.mp4' })">Page 1</a>
+        <a class="plain-link" onclick="navigateTo('page-video', 'Page 2', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/t2m.mp4' })">Page 2</a>
+      </div>
+    </div>
+
+    <div id="page-pages-fr-b1-c1" class="view">
+      <div class="link-list">
+        <a class="plain-link" onclick="navigateTo('page-video', 'Page 1', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/t1m.mp4' })">Page 1</a>
+        <a class="plain-link" onclick="navigateTo('page-video', 'Page 2', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/t2m.mp4' })">Page 2</a>
+      </div>
+    </div>
+    <div id="page-pages-fr-b1-c2" class="view">
+      <div class="link-list">
+        <a class="plain-link" onclick="navigateTo('page-video', 'Page 1', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/t1m.mp4' })">Page 1</a>
+        <a class="plain-link" onclick="navigateTo('page-video', 'Page 2', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/t2m.mp4' })">Page 2</a>
+      </div>
+    </div>
+    <div id="page-pages-fr-b1-c3" class="view">
+      <div class="link-list">
+        <a class="plain-link" onclick="navigateTo('page-video', 'Page 1', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/t1m.mp4' })">Page 1</a>
+        <a class="plain-link" onclick="navigateTo('page-video', 'Page 2', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/t2m.mp4' })">Page 2</a>
+      </div>
+    </div>
+
+    <div id="page-pages-fr-b2-c1" class="view">
+      <div class="link-list">
+        <a class="plain-link" onclick="navigateTo('page-video', 'Page 1', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/t1m.mp4' })">Page 1</a>
+        <a class="plain-link" onclick="navigateTo('page-video', 'Page 2', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/t2m.mp4' })">Page 2</a>
+      </div>
+    </div>
+    <div id="page-pages-fr-b2-c2" class="view">
+      <div class="link-list">
+        <a class="plain-link" onclick="navigateTo('page-video', 'Page 1', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/t1m.mp4' })">Page 1</a>
+        <a class="plain-link" onclick="navigateTo('page-video', 'Page 2', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/t2m.mp4' })">Page 2</a>
+      </div>
+    </div>
+    <div id="page-pages-fr-b2-c3" class="view">
+      <div class="link-list">
+        <a class="plain-link" onclick="navigateTo('page-video', 'Page 1', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/t1m.mp4' })">Page 1</a>
+        <a class="plain-link" onclick="navigateTo('page-video', 'Page 2', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/t2m.mp4' })">Page 2</a>
+      </div>
+    </div>
+    <div id="page-pages-fr-b2-c4" class="view">
+      <div class="link-list">
+        <a class="plain-link" onclick="navigateTo('page-video', 'Page 1', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/t1m.mp4' })">Page 1</a>
+        <a class="plain-link" onclick="navigateTo('page-video', 'Page 2', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/t2m.mp4' })">Page 2</a>
+      </div>
+    </div>
+
+    <div id="page-pages-fr-b3-c1" class="view">
+      <div class="link-list">
+        <a class="plain-link" onclick="navigateTo('page-video', 'Page 1', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/t1m.mp4' })">Page 1</a>
+        <a class="plain-link" onclick="navigateTo('page-video', 'Page 2', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/t2m.mp4' })">Page 2</a>
+      </div>
+    </div>
+    <div id="page-pages-fr-b3-c2" class="view">
+      <div class="link-list">
+        <a class="plain-link" onclick="navigateTo('page-video', 'Page 1', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/t1m.mp4' })">Page 1</a>
+        <a class="plain-link" onclick="navigateTo('page-video', 'Page 2', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/t2m.mp4' })">Page 2</a>
+      </div>
+    </div>
+    <div id="page-pages-fr-b3-c3" class="view">
+      <div class="link-list">
+        <a class="plain-link" onclick="navigateTo('page-video', 'Page 1', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/t1m.mp4' })">Page 1</a>
+        <a class="plain-link" onclick="navigateTo('page-video', 'Page 2', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/t2m.mp4' })">Page 2</a>
+      </div>
+    </div>
+    <div id="page-pages-fr-b3-c4" class="view">
+      <div class="link-list">
+        <a class="plain-link" onclick="navigateTo('page-video', 'Page 1', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/t1m.mp4' })">Page 1</a>
+        <a class="plain-link" onclick="navigateTo('page-video', 'Page 2', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/t2m.mp4' })">Page 2</a>
+      </div>
+    </div>
+    <div id="page-pages-fr-b3-c5" class="view">
+      <div class="link-list">
+        <a class="plain-link" onclick="navigateTo('page-video', 'Page 1', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/t1m.mp4' })">Page 1</a>
+        <a class="plain-link" onclick="navigateTo('page-video', 'Page 2', { videoSrc: 'https://langenscheidt.s3.us-east-1.amazonaws.com/video/t2m.mp4' })">Page 2</a>
+      </div>
+    </div>
+
+    <!-- Level 5: Video Player View -->
+    <div id="page-video" class="view">
+      <div class="viewport" id="viewport">
+        <video id="mainVideo" controls playsinline webkit-playsinline preload="auto"></video>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    // Service Worker Registration
+    if ('serviceWorker' in navigator) {
+      window.addEventListener('load', () => {
+        navigator.serviceWorker.register('./sw.js')
+          .then(reg => console.log('ServiceWorker registered:', reg.scope))
+          .catch(err => console.log('ServiceWorker registration failed:', err));
+      });
+    }
+
+    const historyStack = [];
+    let currentViewId = 'page-languages';
+
+    const pageTitle = document.getElementById('pageTitle');
+    const backBtn = document.getElementById('backBtn');
+    const mainVideo = document.getElementById('mainVideo');
+
+    // 强行恢复音频轨的函数
+    function recoverAudio() {
+      mainVideo.muted = false;
+      mainVideo.volume = 1.0;
+      // 避免全屏切换后 WebKit 把媒体暂停或挂起
+      if (mainVideo.paused && mainVideo.currentTime > 0) {
+        mainVideo.play().catch(() => {});
+      }
+    }
+
+    // 监听 iOS Safari 专属原生全屏结束事件 (退出原生全屏时触发)
+    mainVideo.addEventListener('webkitendfullscreen', () => {
+      recoverAudio();
+    });
+
+    // 监听标准全屏切换
+    document.addEventListener('fullscreenchange', handleFullscreenChange);
+    document.addEventListener('webkitfullscreenchange', handleFullscreenChange);
+
+    function handleFullscreenChange() {
+      const isFullscreen = document.fullscreenElement || document.webkitFullscreenElement;
+      if (!isFullscreen) {
+        recoverAudio();
+      }
+    }
+
+    // 播放结束自动重置并恢复音频
+    mainVideo.addEventListener('ended', () => {
+      mainVideo.currentTime = 0;
+      recoverAudio();
+    });
+
+    function navigateTo(targetViewId, title, params = {}) {
+      historyStack.push({ viewId: currentViewId, title: pageTitle.textContent });
+
+      document.getElementById(currentViewId).classList.remove('active');
+      document.getElementById(targetViewId).classList.add('active');
+
+      currentViewId = targetViewId;
+      pageTitle.textContent = title;
+      backBtn.style.visibility = 'visible';
+
+      if (targetViewId === 'page-video' && params.videoSrc) {
+        if (mainVideo.src !== params.videoSrc) {
+          mainVideo.src = params.videoSrc;
+        }
+        recoverAudio();
+        mainVideo.load();
+        resetZoom();
+      }
+    }
+
+    function goBack() {
+      if (historyStack.length === 0) return;
+
+      const previous = historyStack.pop();
+
+      if (currentViewId === 'page-video') {
+        mainVideo.pause();
+      }
+
+      document.getElementById(currentViewId).classList.remove('active');
+      document.getElementById(previous.viewId).classList.add('active');
+
+      currentViewId = previous.viewId;
+      pageTitle.textContent = previous.title;
+
+      if (historyStack.length === 0) {
+        backBtn.style.visibility = 'hidden';
+      }
+    }
+
+    // Video Zoom & Pan Logic
+    const viewport = document.getElementById('viewport');
+    let scale = 1, translateX = 0, translateY = 0;
+    const minScale = 1, maxScale = 5;
+
+    function updateTransform() {
+      if (scale === 1) { translateX = 0; translateY = 0; } 
+      else {
+        const rect = viewport.getBoundingClientRect();
+        const maxTx = (rect.width * (scale - 1)) / 2;
+        const maxTy = (rect.height * (scale - 1)) / 2;
+        translateX = Math.min(Math.max(translateX, -maxTx), maxTx);
+        translateY = Math.min(Math.max(translateY, -maxTy), maxTy);
+      }
+      mainVideo.style.transform = `translate(${translateX}px, ${translateY}px) scale(${scale})`;
+    }
+
+    function setZoom(newScale) { scale = Math.min(Math.max(newScale, minScale), maxScale); updateTransform(); }
+    function resetZoom() { scale = 1; translateX = 0; translateY = 0; updateTransform(); }
+
+    viewport.addEventListener('wheel', (e) => { e.preventDefault(); setZoom(scale + (e.deltaY < 0 ? 0.2 : -0.2)); }, { passive: false });
+
+    let isDragging = false, startX = 0, startY = 0;
+    function onDragStart(x, y) { if (scale > 1) { isDragging = true; startX = x - translateX; startY = y - translateY; } }
+    function onDragMove(x, y) { if (isDragging) { translateX = x - startX; translateY = y - startY; updateTransform(); } }
+    function onDragEnd() { isDragging = false; }
+
+    viewport.addEventListener('mousedown', (e) => {
+      if (e.target === mainVideo && e.clientY > window.innerHeight - 60) return;
+      onDragStart(e.clientX, e.clientY);
+    });
+    window.addEventListener('mousemove', (e) => onDragMove(e.clientX, e.clientY));
+    window.addEventListener('mouseup', onDragEnd);
+
+    let initialPinchDist = null, initialScale = 1;
+    function getDistance(t) { return Math.hypot(t[0].clientX - t[1].clientX, t[0].clientY - t[1].clientY); }
+
+    viewport.addEventListener('touchstart', (e) => {
+      if (e.touches.length === 1) onDragStart(e.touches[0].clientX, e.touches[0].clientY);
+      else if (e.touches.length === 2) { isDragging = false; initialPinchDist = getDistance(e.touches); initialScale = scale; }
+    }, { passive: true });
+
+    viewport.addEventListener('touchmove', (e) => {
+      if (e.touches.length === 1) onDragMove(e.touches[0].clientX, e.touches[0].clientY);
+      else if (e.touches.length === 2 && initialPinchDist) setZoom(initialScale * (getDistance(e.touches) / initialPinchDist));
+    }, { passive: true });
+
+    viewport.addEventListener('touchend', (e) => {
+      if (e.touches.length < 2) initialPinchDist = null;
+      if (e.touches.length === 0) onDragEnd();
+    });
+  </script>
+</body>
+</html>

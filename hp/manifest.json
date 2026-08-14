@@ -1,0 +1,17 @@
+{
+  "name": "Harry Potter Video SPA",
+  "short_name": "HP Video",
+  "description": "极简哈利波特视频播放 SPA 应用",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "harry.png",
+      "sizes": "any",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
