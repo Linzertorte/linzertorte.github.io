@@ -490,6 +490,13 @@
       if (e.touches.length < 2) initialPinchDist = null;
       if (e.touches.length === 0) onDragEnd();
     });
+
+    document.addEventListener('visibilitychange', () => {
+    if (document.visibilityState === 'visible') {
+        // 切回前台时，强制绕过本地缓存重新加载页面
+        window.location.reload(true);
+      }
+    });
   </script>
 </body>
 </html>
