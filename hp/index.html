@@ -30,6 +30,7 @@
       height: 100%;
       background-color: #ffffff;
       color: #000000;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
       overflow: hidden;
     }
 
@@ -90,65 +91,58 @@
 
     .view.active { display: flex; }
 
-    /* Auth Page Styles */
+    /* Ultra-minimal Auth Form Styles (原生极简样式) */
     #page-auth {
-      align-items: center;
-      justify-content: center;
+      padding: 20px;
     }
 
     .auth-box {
       width: 100%;
-      max-width: 320px;
+      max-width: 280px;
       display: flex;
       flex-direction: column;
-      gap: 16px;
-    }
-
-    .auth-box h2 {
-      font-size: 18px;
-      text-align: center;
-      margin-bottom: 8px;
+      gap: 12px;
     }
 
     .auth-box input {
       width: 100%;
-      padding: 10px 12px;
-      border: 1px solid #ccc;
-      border-radius: 6px;
+      padding: 6px 8px;
+      border: 1px solid #888;
+      border-radius: 0; /* 还原原生直角边框 */
       font-size: 14px;
+      background: #fff;
+      color: #000;
       outline: none;
     }
 
     .auth-box input:focus {
-      border-color: #0000ee;
+      border-color: #000;
     }
 
     .auth-btn-group {
       display: flex;
-      gap: 10px;
+      gap: 16px;
+      margin-top: 4px;
     }
 
-    .auth-btn {
-      flex: 1;
-      padding: 10px;
-      background: #0000ee;
-      color: #fff;
-      border: none;
-      border-radius: 6px;
+    /* 将按钮纯粹化为原生链接风格 */
+    .auth-link-btn {
+      background: none !important;
+      border: none !important;
+      padding: 0 !important;
+      color: #0000ee !important;
       font-size: 14px;
+      text-decoration: underline !important;
       cursor: pointer;
     }
 
-    .auth-btn.secondary {
-      background: #f0f0f0;
-      color: #333;
-      border: 1px solid #ccc;
+    .auth-link-btn:active {
+      color: #ff0000 !important;
     }
 
     .auth-msg {
       font-size: 12px;
       color: #e53935;
-      text-align: center;
       min-height: 16px;
     }
 
@@ -212,16 +206,15 @@
       <button class="logout-btn" id="logoutBtn" onclick="handleLogout()">Exit</button>
     </header>
 
-    <!-- Auth View (登录/注册 - 包裹在 form 中消除 DOM 警告) -->
+    <!-- Auth View (极简原生登录/注册表单) -->
     <div id="page-auth" class="view active">
       <form class="auth-box" onsubmit="return false;">
-        <h2>Sign In / Sign Up</h2>
-        <input type="email" id="authEmail" placeholder="Email address" autocomplete="username" />
-        <input type="password" id="authPassword" placeholder="Password (6+ chars)" autocomplete="current-password" />
+        <input type="email" id="authEmail" placeholder="Email" autocomplete="username" />
+        <input type="password" id="authPassword" placeholder="Password" autocomplete="current-password" />
         <div class="auth-msg" id="authMsg"></div>
         <div class="auth-btn-group">
-          <button type="button" class="auth-btn" onclick="handleLogin()">Login</button>
-          <button type="button" class="auth-btn secondary" onclick="handleRegister()">Register</button>
+          <button type="button" class="auth-link-btn" onclick="handleLogin()">Login</button>
+          <button type="button" class="auth-link-btn" onclick="handleRegister()">Register</button>
         </div>
       </form>
     </div>
@@ -241,7 +234,7 @@
 
   <script>
     // ==========================================
-    // 1. 初始化 Supabase 客户端配置 (重命名为 supabaseClient 避开命名冲突)
+    // 1. 初始化 Supabase 客户端配置
     // ==========================================
     const SUPABASE_URL = 'https://wlncwhtyortyochxlgxs.supabase.co';
     const SUPABASE_ANON_KEY = 'sb_publishable_1DYjKoOQBWLfkJ8qz519nA_iPrSPDkj';
@@ -399,7 +392,6 @@
       pageTitle.textContent = 'Harry Potter';
       backBtn.style.visibility = 'hidden';
 
-      // 🔄 进入/返回/切回首页时，重新拉取最新的 data.json
       await loadLocalData();
 
       menuList.innerHTML = '';
@@ -628,7 +620,7 @@
     window.addEventListener('load', initApp);
 
     // ==========================================
-    // 7. 页面前后台切换控制 (精准触发)
+    // 7. 页面前后台切换控制
     // ==========================================
     document.addEventListener('visibilitychange', async () => {
       if (document.visibilityState === 'visible') {
