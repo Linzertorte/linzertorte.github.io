@@ -25,3 +25,5 @@ self.addEventListener('activate', (event) => {
 self.addEventListener('fetch', (event) => {
   event.respondWith(fetch(event.request));
 });
+
+//window.location.reload(true);
