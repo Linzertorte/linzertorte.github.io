@@ -13,6 +13,10 @@
 
   <!-- Supabase JS Client -->
   <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+
+  <!-- Video.js CSS & JS -->
+  <link href="https://vjs.zencdn.net/8.10.0/video-js.css" rel="stylesheet" />
+  <script src="https://vjs.zencdn.net/8.10.0/video.min.js"></script>
   
   <style>
     * {
@@ -88,7 +92,7 @@
 
     .view.active { display: flex; }
 
-    /* Auth 页面 - 纯白背景 */
+    /* Auth 页面 */
     #page-auth {
       background-color: #ffffff;
     }
@@ -131,7 +135,7 @@
       font-size: 16px;
     }
 
-    /* 原生链接与按钮样式 */
+    /* 链接与按钮样式 */
     .auth-link {
       color: #0000ee;
       text-decoration: underline;
@@ -190,9 +194,10 @@
       touch-action: none;
     }
 
-    video {
-      max-width: 100%;
-      max-height: 100%;
+    /* 让 Video.js 的容器填满视图并居中 */
+    .video-js {
+      width: 100% !important;
+      height: 100% !important;
       transform-origin: center center;
     }
   </style>
@@ -247,7 +252,8 @@
     <!-- Video Player View -->
     <div id="page-video" class="view">
       <div class="viewport" id="viewport">
-        <video id="mainVideo" controls playsinline webkit-playsinline preload="auto"></video>
+        <!-- Video.js 播放器标签 -->
+        <video id="mainVideo" class="video-js vjs-default-skin" playsinline webkit-playsinline></video>
       </div>
     </div>
   </div>
@@ -275,6 +281,7 @@
     let globalData = null;
     const historyStack = [];
     let isRegisterMode = false;
+    let player = null; // Video.js 播放器实例
     
     const pageTitle = document.getElementById('pageTitle');
     const backBtn = document.getElementById('backBtn');
@@ -318,12 +325,10 @@
       }
     }
 
-    // 判断是否为合法 Email 正则
     function isEmail(str) {
       return /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(str);
     }
 
-    // 校验规则：支持用户直接输入 Email 或 纯用户名（与密码均需满足：不能有空格，长度 ≥ 3）
     function validateInput(inputStr, password) {
       if (password.length < 3) {
         return 'Password must be at least 3 characters.';
@@ -347,7 +352,6 @@
       return null;
     }
 
-    // 智能解析：是 Email 则原样使用，否则映射为内部虚拟 Email 域名
     function resolveToEmail(inputStr) {
       if (isEmail(inputStr)) {
         return inputStr.toLowerCase();
@@ -402,7 +406,6 @@
         email,
         password,
         options: {
-          // 直接将用户原始输入作为 username 记录（保留原始邮箱或用户名格式）
           data: { username: inputStr }
         }
       });
@@ -449,10 +452,7 @@
         const { data: { user } } = await supabaseClient.auth.getUser();
         if (!user) return;
 
-        // 1. 优先提取 user_metadata 存的原始输入 username
         let userName = user.user_metadata?.username;
-
-        // 2. 如果 metadata 不存在，从 user.email 中精准还原
         if (!userName && user.email) {
           if (user.email.endsWith('@app.internal')) {
             userName = user.email.replace('@app.internal', '');
@@ -461,7 +461,6 @@
           }
         }
 
-        // 3. 截取 videoSrc 字符串的后 18 个字符
         const videoId = page.videoSrc ? String(page.videoSrc).slice(-18) : '';
 
         await supabaseClient.from('video_play_logs').insert([
@@ -476,18 +475,16 @@
       }
     }
 
-    function recoverAudio() {
-      const video = document.getElementById('mainVideo');
-      if (!video) return;
-      video.muted = false;
-      video.volume = 1.0;
-      if (video.paused && video.currentTime > 0) video.play().catch(() => {});
-    }
-
-    document.addEventListener('fullscreenchange', handleFullscreenChange);
-    document.addEventListener('webkitfullscreenchange', handleFullscreenChange);
-    function handleFullscreenChange() {
-      if (!document.fullscreenElement && !document.webkitFullscreenElement) recoverAudio();
+    // 初始化 Video.js
+    function initVideoJs() {
+      if (!player) {
+        player = videojs('mainVideo', {
+          controls: true,
+          autoplay: false,
+          preload: 'auto',
+          playsinline: true
+        });
+      }
     }
 
     async function renderLanguages() {
@@ -561,37 +558,27 @@
       backBtn.style.visibility = 'visible';
       showView(pageVideo);
 
-      const viewport = document.getElementById('viewport');
-      let oldVideo = document.getElementById('mainVideo');
+      // 确保初始化
+      initVideoJs();
 
-      if (oldVideo) {
-        oldVideo.pause();
-        oldVideo.removeAttribute('src');
-        oldVideo.load();
-        viewport.removeChild(oldVideo);
+      // 重置播放状态与资源
+      player.pause();
+      player.src({ src: page.videoSrc, type: 'video/mp4' });
+      if (page.poster) player.poster(page.poster);
+
+      // 强行解除静音，设置音量
+      player.muted(false);
+      player.volume(1.0);
+
+      // 尝试带声自动播放，若被浏览器拦截则优雅退回到静音模式
+      const promise = player.play();
+      if (promise !== undefined) {
+        promise.catch(() => {
+          player.muted(true);
+          player.play().catch(() => {});
+        });
       }
 
-      const newVideo = document.createElement('video');
-      newVideo.id = 'mainVideo';
-      newVideo.controls = true;
-      newVideo.playsInline = true;
-      newVideo.setAttribute('webkit-playsinline', 'true');
-      newVideo.preload = 'auto';
-      if (page.poster) newVideo.poster = page.poster;
-      newVideo.src = page.videoSrc;
-
-      newVideo.muted = true;
-      newVideo.play().then(() => {
-        newVideo.pause();
-        newVideo.currentTime = 0;
-        newVideo.muted = false;
-      }).catch(() => { newVideo.muted = false; });
-
-      newVideo.addEventListener('error', recoverAudio);
-      newVideo.addEventListener('webkitendfullscreen', recoverAudio);
-      newVideo.addEventListener('ended', () => { newVideo.currentTime = 0; recoverAudio(); });
-
-      viewport.appendChild(newVideo);
       resetZoom();
     }
 
@@ -607,21 +594,22 @@
     async function goBack() {
       if (historyStack.length === 0) return;
       if (pageVideo.classList.contains('active')) {
-        const video = document.getElementById('mainVideo');
-        if (video) { video.pause(); video.removeAttribute('src'); video.load(); }
+        if (player) {
+          player.pause();
+        }
       }
       const previousRender = historyStack.pop();
       await previousRender();
     }
 
-    // Zoom & Pan
+    // Zoom & Pan 功能（挂载在 Video.js 的 DOM 节点上）
     const viewport = document.getElementById('viewport');
     let scale = 1, translateX = 0, translateY = 0;
     const minScale = 1, maxScale = 5;
 
     function updateTransform() {
-      const video = document.getElementById('mainVideo');
-      if (!video) return;
+      const videoEl = document.querySelector('.video-js');
+      if (!videoEl) return;
       if (scale === 1) { translateX = 0; translateY = 0; } 
       else {
         const rect = viewport.getBoundingClientRect();
@@ -630,7 +618,7 @@
         translateX = Math.min(Math.max(translateX, -maxTx), maxTx);
         translateY = Math.min(Math.max(translateY, -maxTy), maxTy);
       }
-      video.style.transform = `translate(${translateX}px, ${translateY}px) scale(${scale})`;
+      videoEl.style.transform = `translate(${translateX}px, ${translateY}px) scale(${scale})`;
     }
 
     function setZoom(newScale) { scale = Math.min(Math.max(newScale, minScale), maxScale); updateTransform(); }
@@ -644,8 +632,8 @@
     function onDragEnd() { isDragging = false; }
 
     viewport.addEventListener('mousedown', (e) => {
-      const video = document.getElementById('mainVideo');
-      if (e.target === video && e.clientY > window.innerHeight - 60) return;
+      // 如果点击的是控制条区域，不触发手势拖拽
+      if (e.target.closest('.vjs-control-bar')) return;
       onDragStart(e.clientX, e.clientY);
     });
     window.addEventListener('mousemove', (e) => onDragMove(e.clientX, e.clientY));
@@ -655,6 +643,7 @@
     function getDistance(t) { return Math.hypot(t[0].clientX - t[1].clientX, t[0].clientY - t[1].clientY); }
 
     viewport.addEventListener('touchstart', (e) => {
+      if (e.target.closest('.vjs-control-bar')) return;
       if (e.touches.length === 1) onDragStart(e.touches[0].clientX, e.touches[0].clientY);
       else if (e.touches.length === 2) { isDragging = false; initialPinchDist = getDistance(e.touches); initialScale = scale; }
     }, { passive: true });
@@ -671,10 +660,15 @@
 
     window.addEventListener('load', initApp);
 
+    // 页面切回时的声音保护恢复
     document.addEventListener('visibilitychange', async () => {
       if (document.visibilityState === 'visible') {
-        if (pageVideo.classList.contains('active')) { recoverAudio(); return; }
-        if (pageMenu.classList.contains('active') && historyStack.length === 0) await renderLanguages();
+        if (pageVideo.classList.contains('active') && player) {
+          player.muted(false);
+          player.volume(1.0);
+        } else if (pageMenu.classList.contains('active') && historyStack.length === 0) {
+          await renderLanguages();
+        }
       }
     });
   </script>
