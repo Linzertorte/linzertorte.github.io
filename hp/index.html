@@ -203,7 +203,7 @@
       transform-origin: center center;
     }
 
-    /* 修复控制条位置：向上抬高并避开 iOS 底部 Home Bar */
+    /* 控制条悬浮且避开 iOS 底部 Home Bar */
     .video-js .vjs-control-bar {
       bottom: calc(20px + env(safe-area-inset-bottom, 0px)) !important;
       width: 92% !important;
@@ -488,14 +488,19 @@
       }
     }
 
-    // 初始化 Video.js
+    // 初始化 Video.js 播放器
     function initVideoJs() {
       if (!player) {
         player = videojs('mainVideo', {
           controls: true,
           autoplay: false,
           preload: 'auto',
-          playsinline: true
+          playsinline: true,
+          html5: {
+            vhs: { overrideNative: true },
+            nativeAudioTracks: false,
+            nativeVideoTracks: false
+          }
         });
       }
     }
@@ -573,16 +578,20 @@
 
       initVideoJs();
 
+      // 重置资源
       player.pause();
       player.src({ src: page.videoSrc, type: 'video/mp4' });
       if (page.poster) player.poster(page.poster);
 
-      player.muted(false);
+      player.currentTime(0);
       player.volume(1.0);
+      player.muted(false);
 
-      const promise = player.play();
-      if (promise !== undefined) {
-        promise.catch(() => {
+      // 智能播放控制：带声音自动播放，失败则静音降级
+      const playPromise = player.play();
+      if (playPromise !== undefined) {
+        playPromise.catch((err) => {
+          console.warn('带声自动播放被浏览器拒绝，静音播放:', err);
           player.muted(true);
           player.play().catch(() => {});
         });
@@ -666,13 +675,30 @@
       if (e.touches.length === 0) onDragEnd();
     });
 
+    // 首次触摸/点击全局解锁音频通道（针对 iOS 物理静音/AudioContext 锁死）
+    function unlockAudioContext() {
+      if (player && player.tech_ && player.tech_.el_) {
+        const audioEl = player.tech_.el_;
+        audioEl.play().then(() => {
+          if (!pageVideo.classList.contains('active')) {
+            audioEl.pause();
+          }
+        }).catch(() => {});
+      }
+      document.removeEventListener('touchstart', unlockAudioContext);
+      document.removeEventListener('click', unlockAudioContext);
+    }
+    document.addEventListener('touchstart', unlockAudioContext, { once: true });
+    document.addEventListener('click', unlockAudioContext, { once: true });
+
     window.addEventListener('load', initApp);
 
     document.addEventListener('visibilitychange', async () => {
       if (document.visibilityState === 'visible') {
         if (pageVideo.classList.contains('active') && player) {
-          player.muted(false);
-          player.volume(1.0);
+          if (!player.paused()) {
+            player.play().catch(() => {});
+          }
         } else if (pageMenu.classList.contains('active') && historyStack.length === 0) {
           await renderLanguages();
         }
