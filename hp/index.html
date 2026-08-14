@@ -196,10 +196,17 @@
 
     // 强行恢复音频轨的函数
     function recoverAudio() {
+      if (!mainVideo) return;
       mainVideo.muted = false;
       mainVideo.volume = 1.0;
+      
       if (mainVideo.paused && mainVideo.currentTime > 0) {
-        mainVideo.play().catch(() => {});
+        const playPromise = mainVideo.play();
+        if (playPromise !== undefined) {
+          playPromise.then(() => {
+            mainVideo.muted = false;
+          }).catch(() => {});
+        }
       }
     }
 
@@ -339,7 +346,7 @@
       showView(pageMenu);
     }
 
-    // Level 5: Play Video
+    // Level 5: Play Video (优化音频激活逻辑)
     function playVideo(page) {
       pageTitle.textContent = page.title;
       backBtn.style.visibility = 'visible';
@@ -349,9 +356,24 @@
       if (mainVideo.src !== page.videoSrc) {
         mainVideo.src = page.videoSrc;
       }
-      recoverAudio();
-      mainVideo.load();
+
       resetZoom();
+
+      // 在用户点击手势线程中强行开启音轨
+      mainVideo.muted = false;
+      mainVideo.volume = 1.0;
+      mainVideo.load();
+
+      const playPromise = mainVideo.play();
+      if (playPromise !== undefined) {
+        playPromise.catch(() => {
+          // 若受限于 iOS 策略被阻断，降级方案：先静音播放激活硬件，再瞬间解禁声音
+          mainVideo.muted = true;
+          mainVideo.play().then(() => {
+            mainVideo.muted = false;
+          }).catch(() => {});
+        });
+      }
     }
 
     function showView(targetView) {
@@ -428,11 +450,19 @@
     });
 
     window.addEventListener('load', initApp);
-    // 当用户从后台切回应用（或者切换 Tab 重新看到页面）时自动刷新 JSON
+
+    // 当用户从后台切回应用时：
+    // 1. 若停留在首页，静默重新 fetch 数据；
+    // 2. 若停留在视频播放页，自动修复可能被 iOS 挂起的音轨。
     document.addEventListener('visibilitychange', () => {
-      if (document.visibilityState === 'visible' && pageMenu.classList.contains('active') && historyStack.length === 0) {
-        console.log('应用切回前台且在首页，自动重新 fetch 数据...');
-        renderLanguages();
+      if (document.visibilityState === 'visible') {
+        if (pageMenu.classList.contains('active') && historyStack.length === 0) {
+          console.log('应用切回前台且在首页，自动重新 fetch 数据...');
+          renderLanguages();
+        } else if (pageVideo.classList.contains('active')) {
+          console.log('应用切回前台且处于播放页，自动激活/恢复音轨...');
+          recoverAudio();
+        }
       }
     });
   </script>
