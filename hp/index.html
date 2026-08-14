@@ -25,7 +25,7 @@
     html, body {
       width: 100%;
       height: 100%;
-      background-color: #e5e5e5;
+      background-color: #ffffff;
       color: #000000;
       font-family: serif;
       overflow: hidden;
@@ -88,9 +88,9 @@
 
     .view.active { display: flex; }
 
-    /* Auth 页面 - 白色顶卡 */
+    /* Auth 页面 - 纯白背景 */
     #page-auth {
-      background-color: #e5e5e5;
+      background-color: #ffffff;
     }
 
     .auth-card {
@@ -131,7 +131,7 @@
       font-size: 16px;
     }
 
-    /* 原生链接样式控制 */
+    /* 原生链接与按钮样式 */
     .auth-link {
       color: #0000ee;
       text-decoration: underline;
@@ -207,7 +207,7 @@
       <button class="logout-btn" id="logoutBtn" onclick="handleLogout()">Exit</button>
     </header>
 
-    <!-- Auth View (纯极简原生) -->
+    <!-- Auth View (无底部灰色) -->
     <div id="page-auth" class="view active">
       <div class="auth-card">
         <h2 id="authTitle">Login</h2>
@@ -539,7 +539,7 @@
       await previousRender();
     }
 
-    // Pinch Zoom Logic
+    // Zoom & Pan
     const viewport = document.getElementById('viewport');
     let scale = 1, translateX = 0, translateY = 0;
     const minScale = 1, maxScale = 5;
