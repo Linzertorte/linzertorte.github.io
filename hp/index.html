@@ -355,17 +355,19 @@
       showView(pageMenu);
     }
 
-    // Level 5: Play Video (防黑闪与音轨锁死安全版)
+    // Level 5: Play Video (正确清理并拉取首帧，解决黑屏与按钮状态错乱)
     function playVideo(page) {
       pageTitle.textContent = page.title;
       backBtn.style.visibility = 'visible';
 
       showView(pageVideo);
 
-      // 仅在 URL 改变时切换，并温和暂停前一视频，切忌在此使用 mainVideo.load()
+      // 如果切换到了新视频
       if (mainVideo.src !== page.videoSrc) {
-        mainVideo.pause();
-        mainVideo.src = page.videoSrc;
+        mainVideo.pause();             // 1. 暂停上一个视频，重置 UI 状态
+        mainVideo.currentTime = 0;     // 2. 进度归零
+        mainVideo.src = page.videoSrc;    // 3. 设置新地址
+        mainVideo.load();              // 4. 显式 load，拉取新视频首帧并重置控件状态
       }
 
       resetZoom();
