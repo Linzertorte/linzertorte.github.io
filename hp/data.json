@@ -347,18 +347,18 @@
     },
     {
       "id": "french",
-      "title": "Harry Potter French",
-      "headerTitle": "French Edition",
+      "title": "Harry Potter Français",
+      "headerTitle": "Français",
       "books": [
         {
           "id": "fr-b1",
-          "title": "Book 1",
-          "headerTitle": "French - Book 1",
+          "title": "Harry Potter à l’école des Sorciers",
+          "headerTitle": "l’école des Sorciers",
           "chapters": [
             {
               "id": "fr-b1-c1",
-              "title": "Chapter 1",
-              "headerTitle": "FR B1 - Chapter 1",
+              "title": "1 Le survivant",
+              "headerTitle": "1 Le survivant",
               "pages": [
                 { "title": "Page 01", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/fr/b1ch01/m-01.mp4" },
                 { "title": "Page 02", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/fr/b1ch01/m-02.mp4" },
@@ -377,8 +377,8 @@
             },
             {
               "id": "fr-b1-c2",
-              "title": "Chapter 2",
-              "headerTitle": "FR B1 - Chapter 2",
+              "title": "2 Une vitre disparaît",
+              "headerTitle": "2 Une vitre disparaît",
               "pages": [
                 { "title": "Page 01", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/fr/b1ch02/m-01.mp4" },
                 { "title": "Page 02", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/fr/b1ch02/m-02.mp4" },
