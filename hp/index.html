@@ -213,6 +213,26 @@
       background-color: rgba(20, 20, 20, 0.85) !important;
       backdrop-filter: blur(8px);
     }
+
+    /* 双击快进/快退提示动画 */
+    .seek-tip {
+      position: absolute;
+      top: 50%;
+      transform: translateY(-50%);
+      background: rgba(0, 0, 0, 0.65);
+      color: #ffffff;
+      padding: 12px 20px;
+      border-radius: 20px;
+      font-size: 14px;
+      font-family: sans-serif;
+      pointer-events: none;
+      opacity: 0;
+      transition: opacity 0.2s ease;
+      z-index: 10;
+    }
+    .seek-tip.left { left: 15%; }
+    .seek-tip.right { right: 15%; }
+    .seek-tip.show { opacity: 1; }
   </style>
 </head>
 <body>
@@ -265,6 +285,10 @@
     <!-- Video Player View -->
     <div id="page-video" class="view">
       <div class="viewport" id="viewport">
+        <!-- 提示浮层 -->
+        <div id="seekTipLeft" class="seek-tip left">◄◄ -10s</div>
+        <div id="seekTipRight" class="seek-tip right">+10s ►►</div>
+
         <!-- Video.js 播放器标签 -->
         <video id="mainVideo" class="video-js vjs-default-skin" playsinline webkit-playsinline></video>
       </div>
@@ -459,7 +483,6 @@
       }
     }
 
-    // 播放日志埋点追踪
     async function logVideoPlay(page) {
       try {
         const { data: { user } } = await supabaseClient.auth.getUser();
@@ -488,7 +511,6 @@
       }
     }
 
-    // 初始化 Video.js 播放器
     function initVideoJs() {
       if (!player) {
         player = videojs('mainVideo', {
@@ -578,7 +600,6 @@
 
       initVideoJs();
 
-      // 重置资源
       player.pause();
       player.src({ src: page.videoSrc, type: 'video/mp4' });
       if (page.poster) player.poster(page.poster);
@@ -587,7 +608,6 @@
       player.volume(1.0);
       player.muted(false);
 
-      // 智能播放控制：带声音自动播放，失败则静音降级
       const playPromise = player.play();
       if (playPromise !== undefined) {
         playPromise.catch((err) => {
@@ -675,7 +695,75 @@
       if (e.touches.length === 0) onDragEnd();
     });
 
-    // 首次触摸/点击全局解锁音频通道（针对 iOS 物理静音/AudioContext 锁死）
+    // ===============================================
+    // 双击 快进/快退 10 秒逻辑 (适配 Mouse 与 Touch)
+    // ===============================================
+    const seekTipLeft = document.getElementById('seekTipLeft');
+    const seekTipRight = document.getElementById('seekTipRight');
+    let seekTipTimer = null;
+
+    function showSeekTip(direction) {
+      clearTimeout(seekTipTimer);
+      seekTipLeft.classList.remove('show');
+      seekTipRight.classList.remove('show');
+
+      const targetTip = direction === 'left' ? seekTipLeft : seekTipRight;
+      targetTip.classList.add('show');
+
+      seekTipTimer = setTimeout(() => {
+        targetTip.classList.remove('show');
+      }, 600);
+    }
+
+    function handleDoubleTapSeek(clientX) {
+      if (!player) return;
+      const rect = viewport.getBoundingClientRect();
+      const clickX = clientX - rect.left;
+      const currTime = player.currentTime();
+      const duration = player.duration();
+
+      // 判断左半边还是右半边
+      if (clickX < rect.width / 2) {
+        // 后退 10 秒
+        player.currentTime(Math.max(0, currTime - 10));
+        showSeekTip('left');
+      } else {
+        // 前进 10 秒
+        player.currentTime(Math.min(duration || 0, currTime + 10));
+        showSeekTip('right');
+      }
+    }
+
+    // 1. 桌面端 Mouse 双击
+    viewport.addEventListener('dblclick', (e) => {
+      if (e.target.closest('.vjs-control-bar')) return;
+      handleDoubleTapSeek(e.clientX);
+    });
+
+    // 2. 移动端 Touch 自定义双击识别（防原生 dblclick 延时）
+    let lastTapTime = 0;
+    let lastTapX = 0;
+
+    viewport.addEventListener('touchend', (e) => {
+      if (e.target.closest('.vjs-control-bar')) return;
+      if (e.changedTouches.length !== 1) return; // 只处理单指触摸
+
+      const now = Date.now();
+      const touch = e.changedTouches[0];
+      const timeDiff = now - lastTapTime;
+      const distDiff = Math.abs(touch.clientX - lastTapX);
+
+      // 如果两次点击间隔在 300ms 内且位置偏移不大，判定为双击
+      if (timeDiff < 300 && timeDiff > 0 && distDiff < 30) {
+        handleDoubleTapSeek(touch.clientX);
+        lastTapTime = 0; // 重置，防止连续触发三次点击
+      } else {
+        lastTapTime = now;
+        lastTapX = touch.clientX;
+      }
+    });
+
+    // 全局解锁音频通道
     function unlockAudioContext() {
       if (player && player.tech_ && player.tech_.el_) {
         const audioEl = player.tech_.el_;
