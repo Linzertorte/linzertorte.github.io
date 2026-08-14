@@ -7,13 +7,13 @@
       "books": [
         {
           "id": "es-b1",
-          "title": "Book 1",
-          "headerTitle": "Spanish - Book 1",
+          "title": "Harry Potter y la Piedra Filosofal",
+          "headerTitle": "la Piedra Filosofal",
           "chapters": [
             {
               "id": "es-b1-c1",
-              "title": "Chapter 1",
-              "headerTitle": "ES B1 - Chapter 1",
+              "title": "1 El niño que sobrevivió",
+              "headerTitle": "1 El niño que sobrevivió",
               "pages": [
                 { "title": "Page 01", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch01/m-01.mp4" },
                 { "title": "Page 02", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch01/m-02.mp4" },
@@ -31,8 +31,8 @@
             },
             {
               "id": "es-b1-c2",
-              "title": "Chapter 2",
-              "headerTitle": "ES B1 - Chapter 2",
+              "title": "2 El vidrio que se desvaneció",
+              "headerTitle": "2 El vidrio que se desvaneció",
               "pages": [
                 { "title": "Page 01", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch02/m-01.mp4" },
                 { "title": "Page 02", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch02/m-02.mp4" },
@@ -47,8 +47,8 @@
             },
             {
               "id": "es-b1-c3",
-              "title": "Chapter 3",
-              "headerTitle": "ES B1 - Chapter 3",
+              "title": "3 Las cartas de nadie",
+              "headerTitle": "3 Las cartas de nadie",
               "pages": [
                 { "title": "Page 01", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch03/m-01.mp4" },
                 { "title": "Page 02", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch03/m-02.mp4" },
@@ -64,8 +64,8 @@
             },
             {
               "id": "es-b1-c4",
-              "title": "Chapter 4",
-              "headerTitle": "ES B1 - Chapter 4",
+              "title": "4 El Guardián de las Llaves",
+              "headerTitle": "4 El Guardián de las Llaves",
               "pages": [
                 { "title": "Page 01", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch04/m-01.mp4" },
                 { "title": "Page 02", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch04/m-02.mp4" },
@@ -81,8 +81,8 @@
             },
             {
               "id": "es-b1-c5",
-              "title": "Chapter 5",
-              "headerTitle": "ES B1 - Chapter 5",
+              "title": "5 El callejón Diagon",
+              "headerTitle": "5 El callejón Diagon",
               "pages": [
                 { "title": "Page 01", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch05/m-01.mp4" },
                 { "title": "Page 02", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch05/m-02.mp4" },
@@ -107,8 +107,8 @@
             },
             {
               "id": "es-b1-c6",
-              "title": "Chapter 6",
-              "headerTitle": "ES B1 - Chapter 6",
+              "title": "6 El viaje desde el andén nueve y tres cuartos",
+              "headerTitle": "6 El viaje desde el andén nueve y tres cuartos",
               "pages": [
                 { "title": "Page 01", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch06/m-01.mp4" },
                 { "title": "Page 02", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch06/m-02.mp4" },
@@ -131,8 +131,8 @@
             },
             {
               "id": "es-b1-c7",
-              "title": "Chapter 7",
-              "headerTitle": "ES B1 - Chapter 7",
+              "title": "7 El Sombrero Seleccionador",
+              "headerTitle": "7 El Sombrero Seleccionador",
               "pages": [
                 { "title": "Page 01", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch07/m-01.mp4" },
                 { "title": "Page 02", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b1ch07/m-02.mp4" },
@@ -342,40 +342,6 @@
               ]
             }           
           ]
-        },
-        {
-          "id": "es-b2",
-          "title": "Book 2",
-          "headerTitle": "Spanish - Book 2",
-          "chapters": [
-            {
-              "id": "es-b2-c1",
-              "title": "Chapter 1",
-              "headerTitle": "ES B2 - Chapter 1",
-              "pages": [
-                { "title": "Page 1", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/t1m.mp4" },
-                { "title": "Page 2", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/t2m.mp4" }
-              ]
-            },
-            {
-              "id": "es-b2-c2",
-              "title": "Chapter 2",
-              "headerTitle": "ES B2 - Chapter 2",
-              "pages": [
-                { "title": "Page 1", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/t1m.mp4" },
-                { "title": "Page 2", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/t2m.mp4" }
-              ]
-            },
-            {
-              "id": "es-b2-c3",
-              "title": "Chapter 3",
-              "headerTitle": "ES B2 - Chapter 3",
-              "pages": [
-                { "title": "Page 1", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/t1m.mp4" },
-                { "title": "Page 2", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/t2m.mp4" }
-              ]
-            }
-          ]
         }
       ]
     },
@@ -424,110 +390,6 @@
                 { "title": "Page 08", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/fr/b1ch02/m-08.mp4" },
                 { "title": "Page 09", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/fr/b1ch02/m-09.mp4" },
                 { "title": "Page 10", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/fr/b1ch02/m-10.mp4" }
-              ]
-            },
-            {
-              "id": "fr-b1-c3",
-              "title": "Chapter 3",
-              "headerTitle": "FR B1 - Chapter 3",
-              "pages": [
-                { "title": "Page 1", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/t1m.mp4" },
-                { "title": "Page 2", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/t2m.mp4" }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "fr-b2",
-          "title": "Book 2",
-          "headerTitle": "French - Book 2",
-          "chapters": [
-            {
-              "id": "fr-b2-c1",
-              "title": "Chapter 1",
-              "headerTitle": "FR B2 - Chapter 1",
-              "pages": [
-                { "title": "Page 1", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/t1m.mp4" },
-                { "title": "Page 2", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/t2m.mp4" }
-              ]
-            },
-            {
-              "id": "fr-b2-c2",
-              "title": "Chapter 2",
-              "headerTitle": "FR B2 - Chapter 2",
-              "pages": [
-                { "title": "Page 1", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/t1m.mp4" },
-                { "title": "Page 2", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/t2m.mp4" }
-              ]
-            },
-            {
-              "id": "fr-b2-c3",
-              "title": "Chapter 3",
-              "headerTitle": "FR B2 - Chapter 3",
-              "pages": [
-                { "title": "Page 1", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/t1m.mp4" },
-                { "title": "Page 2", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/t2m.mp4" }
-              ]
-            },
-            {
-              "id": "fr-b2-c4",
-              "title": "Chapter 4",
-              "headerTitle": "FR B2 - Chapter 4",
-              "pages": [
-                { "title": "Page 1", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/t1m.mp4" },
-                { "title": "Page 2", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/t2m.mp4" }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "fr-b3",
-          "title": "Book 3",
-          "headerTitle": "French - Book 3",
-          "chapters": [
-            {
-              "id": "fr-b3-c1",
-              "title": "Chapter 1",
-              "headerTitle": "FR B3 - Chapter 1",
-              "pages": [
-                { "title": "Page 1", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/t1m.mp4" },
-                { "title": "Page 2", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/t2m.mp4" }
-              ]
-            },
-            {
-              "id": "fr-b3-c2",
-              "title": "Chapter 2",
-              "headerTitle": "FR B3 - Chapter 2",
-              "pages": [
-                { "title": "Page 1", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/t1m.mp4" },
-                { "title": "Page 2", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/t2m.mp4" }
-              ]
-            },
-            {
-              "id": "fr-b3-c3",
-              "title": "Chapter 3",
-              "headerTitle": "FR B3 - Chapter 3",
-              "pages": [
-                { "title": "Page 1", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/t1m.mp4" },
-                { "title": "Page 2", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/t2m.mp4" }
-              ]
-            },
-            {
-              "id": "fr-b3-c4",
-              "title": "Chapter 4",
-              "headerTitle": "FR B3 - Chapter 4",
-              "pages": [
-                { "title": "Page 1", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/t1m.mp4" },
-                { "title": "Page 2", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/t2m.mp4" }
-              ]
-            },
-            {
-              "id": "fr-b3-c5",
-              "title": "Chapter 5",
-              "headerTitle": "FR B3 - Chapter 5",
-              "pages": [
-                { "title": "Page 1", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/t1m.mp4" },
-                { "title": "Page 2", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/t2m.mp4" }
               ]
             }
           ]
