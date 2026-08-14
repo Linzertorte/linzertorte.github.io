@@ -402,6 +402,7 @@
         email,
         password,
         options: {
+          // 直接将用户原始输入作为 username 记录（保留原始邮箱或用户名格式）
           data: { username: inputStr }
         }
       });
@@ -442,28 +443,38 @@
       }
     }
 
+    // 播放日志埋点追踪
+    async function logVideoPlay(page) {
+      try {
+        const { data: { user } } = await supabaseClient.auth.getUser();
+        if (!user) return;
 
-async function logVideoPlay(page) {
-  try {
-    const { data: { user } } = await supabaseClient.auth.getUser();
-    if (!user) return;
+        // 1. 优先提取 user_metadata 存的原始输入 username
+        let userName = user.user_metadata?.username;
 
-    const userName = user.user_metadata?.username || user.email?.split('@')[0] || 'Unknown';
-    
-    // 截取 videoSrc 后 18 个字符
-    const videoId = page.videoSrc ? String(page.videoSrc).slice(-18) : '';
+        // 2. 如果 metadata 不存在，从 user.email 中精准还原
+        if (!userName && user.email) {
+          if (user.email.endsWith('@app.internal')) {
+            userName = user.email.replace('@app.internal', '');
+          } else {
+            userName = user.email;
+          }
+        }
 
-    await supabaseClient.from('video_play_logs').insert([
-      { 
-        user_name: userName, 
-        video_id: videoId, 
-        visited_at: new Date().toISOString()
+        // 3. 截取 videoSrc 字符串的后 18 个字符
+        const videoId = page.videoSrc ? String(page.videoSrc).slice(-18) : '';
+
+        await supabaseClient.from('video_play_logs').insert([
+          { 
+            user_name: userName || 'Unknown', 
+            video_id: videoId, 
+            visited_at: new Date().toISOString()
+          }
+        ]);
+      } catch (err) {
+        console.error('Failed to log video play:', err);
       }
-    ]);
-  } catch (err) {
-    console.error('Failed to log video play:', err);
-  }
-}
+    }
 
     function recoverAudio() {
       const video = document.getElementById('mainVideo');
