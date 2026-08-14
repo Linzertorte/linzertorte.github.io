@@ -1,4 +1,4 @@
-const CACHE_NAME = 'hp-audible-v6';
+const CACHE_NAME = 'hp-audible-v7';
 
 // 核心 App Shell 静态资源
 const ASSETS_TO_CACHE = [

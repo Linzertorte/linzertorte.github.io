@@ -442,13 +442,28 @@
       }
     }
 
-    async function logVideoPlay(page) {
-      try {
-        const { data: { user } } = await supabaseClient.auth.getUser();
-        if (!user) return;
-        await supabaseClient.from('video_play_logs').insert([{ video_id: page.videoSrc, video_title: page.title }]);
-      } catch (err) {}
-    }
+
+async function logVideoPlay(page) {
+  try {
+    const { data: { user } } = await supabaseClient.auth.getUser();
+    if (!user) return;
+
+    const userName = user.user_metadata?.username || user.email?.split('@')[0] || 'Unknown';
+    
+    // 截取 videoSrc 后 18 个字符
+    const videoId = page.videoSrc ? String(page.videoSrc).slice(-18) : '';
+
+    await supabaseClient.from('video_play_logs').insert([
+      { 
+        user_name: userName, 
+        video_id: videoId, 
+        visited_at: new Date().toISOString()
+      }
+    ]);
+  } catch (err) {
+    console.error('Failed to log video play:', err);
+  }
+}
 
     function recoverAudio() {
       const video = document.getElementById('mainVideo');
