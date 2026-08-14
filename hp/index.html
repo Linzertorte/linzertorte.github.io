@@ -346,7 +346,8 @@
       showView(pageMenu);
     }
 
-    // Level 5: Play Video (优化音频激活逻辑)
+
+    // Level 5: 仅加载视频，不自动播放
     function playVideo(page) {
       pageTitle.textContent = page.title;
       backBtn.style.visibility = 'visible';
@@ -359,22 +360,14 @@
 
       resetZoom();
 
-      // 在用户点击手势线程中强行开启音轨
+      // 恢复声音配置
       mainVideo.muted = false;
       mainVideo.volume = 1.0;
+  
+      // 只加载视频元数据和缓冲，等待用户手动点击控制条上的 Play 按钮
       mainVideo.load();
-
-      const playPromise = mainVideo.play();
-      if (playPromise !== undefined) {
-        playPromise.catch(() => {
-          // 若受限于 iOS 策略被阻断，降级方案：先静音播放激活硬件，再瞬间解禁声音
-          mainVideo.muted = true;
-          mainVideo.play().then(() => {
-            mainVideo.muted = false;
-          }).catch(() => {});
-        });
-      }
     }
+
 
     function showView(targetView) {
       pageMenu.classList.remove('active');
