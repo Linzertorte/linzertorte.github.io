@@ -236,49 +236,56 @@
       }
     }
 
-    // Render Level 1: Languages (支持静默更新数据)
-    async function renderLanguages() {
-      pageTitle.textContent = 'Harry Potter';
-      backBtn.style.visibility = 'hidden';
-
-      // 回到根目录时，静默拉取一次最新 data.json
+    // 统一静默刷新函数：保证退回首页时，数据能实时拉取最新版本
+    async function refreshData() {
       try {
         const res = await fetch('./data.json?t=' + Date.now());
         globalData = await res.json();
       } catch (err) {
-        console.log('静默更新数据失败，使用已有缓存/内存数据');
+        console.log('静默更新失败，继续使用已有数据');
       }
+    }
+
+    // Render Level 1: Languages (首页)
+    async function renderLanguages() {
+      await refreshData(); // 回到首页先静默拉取最新 json
+      
+      pageTitle.textContent = 'Harry Potter';
+      backBtn.style.visibility = 'hidden';
 
       menuList.innerHTML = '';
-      if (globalData && globalData.languages) {
-        globalData.languages.forEach(lang => {
-          const a = document.createElement('a');
-          a.className = 'plain-link';
-          a.textContent = lang.title;
-          a.onclick = () => {
-            pushHistory(renderLanguages);
-            renderBooks(lang);
-          };
-          menuList.appendChild(a);
-        });
-      }
+      if (!globalData || !globalData.languages) return;
+
+      globalData.languages.forEach((lang, langIndex) => {
+        const a = document.createElement('a');
+        a.className = 'plain-link';
+        a.textContent = lang.title;
+        a.onclick = () => {
+          pushHistory(renderLanguages);
+          renderBooks(langIndex); // 传数组索引，彻底消除陈旧闭包数据引用
+        };
+        menuList.appendChild(a);
+      });
 
       showView(pageMenu);
     }
 
     // Render Level 2: Books
-    function renderBooks(lang) {
+    function renderBooks(langIndex) {
+      const lang = globalData.languages[langIndex];
+      if (!lang) return;
+
       pageTitle.textContent = lang.headerTitle;
       backBtn.style.visibility = 'visible';
 
       menuList.innerHTML = '';
-      lang.books.forEach(book => {
+      lang.books.forEach((book, bookIndex) => {
         const a = document.createElement('a');
         a.className = 'plain-link';
         a.textContent = book.title;
         a.onclick = () => {
-          pushHistory(() => renderBooks(lang));
-          renderChapters(book);
+          pushHistory(() => renderBooks(langIndex));
+          renderChapters(langIndex, bookIndex);
         };
         menuList.appendChild(a);
       });
@@ -287,18 +294,21 @@
     }
 
     // Render Level 3: Chapters
-    function renderChapters(book) {
+    function renderChapters(langIndex, bookIndex) {
+      const book = globalData.languages[langIndex]?.books[bookIndex];
+      if (!book) return;
+
       pageTitle.textContent = book.headerTitle;
       backBtn.style.visibility = 'visible';
 
       menuList.innerHTML = '';
-      book.chapters.forEach(chapter => {
+      book.chapters.forEach((chapter, chapterIndex) => {
         const a = document.createElement('a');
         a.className = 'plain-link';
         a.textContent = chapter.title;
         a.onclick = () => {
-          pushHistory(() => renderChapters(book));
-          renderPages(chapter);
+          pushHistory(() => renderChapters(langIndex, bookIndex));
+          renderPages(langIndex, bookIndex, chapterIndex);
         };
         menuList.appendChild(a);
       });
@@ -307,17 +317,20 @@
     }
 
     // Render Level 4: Pages
-    function renderPages(chapter) {
+    function renderPages(langIndex, bookIndex, chapterIndex) {
+      const chapter = globalData.languages[langIndex]?.books[bookIndex]?.chapters[chapterIndex];
+      if (!chapter) return;
+
       pageTitle.textContent = chapter.headerTitle;
       backBtn.style.visibility = 'visible';
 
       menuList.innerHTML = '';
-      chapter.pages.forEach(page => {
+      chapter.pages.forEach((page) => {
         const a = document.createElement('a');
         a.className = 'plain-link';
         a.textContent = page.title;
         a.onclick = () => {
-          pushHistory(() => renderPages(chapter));
+          pushHistory(() => renderPages(langIndex, bookIndex, chapterIndex));
           playVideo(page);
         };
         menuList.appendChild(a);
