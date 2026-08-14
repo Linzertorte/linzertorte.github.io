@@ -210,6 +210,15 @@
       }
     }
 
+    // 视频错误/解码崩溃自动救援机制
+    mainVideo.addEventListener('error', (e) => {
+      console.warn('视频解码或网络异常，尝试重置 AudioSession...', e);
+      mainVideo.pause();
+      mainVideo.removeAttribute('src');
+      mainVideo.load();
+      recoverAudio();
+    });
+
     // 监听 iOS Safari 专属原生全屏结束事件
     mainVideo.addEventListener('webkitendfullscreen', () => {
       recoverAudio();
@@ -346,28 +355,27 @@
       showView(pageMenu);
     }
 
-
-    // Level 5: 仅加载视频，不自动播放
+    // Level 5: Play Video (防黑闪与音轨锁死安全版)
     function playVideo(page) {
       pageTitle.textContent = page.title;
       backBtn.style.visibility = 'visible';
 
       showView(pageVideo);
 
+      // 仅在 URL 改变时切换，并温和暂停前一视频，切忌在此使用 mainVideo.load()
       if (mainVideo.src !== page.videoSrc) {
+        mainVideo.pause();
         mainVideo.src = page.videoSrc;
       }
 
       resetZoom();
 
-      // 恢复声音配置
+      // 重置基础音频属性
       mainVideo.muted = false;
       mainVideo.volume = 1.0;
-  
-      // 只加载视频元数据和缓冲，等待用户手动点击控制条上的 Play 按钮
-      mainVideo.load();
+      
+      recoverAudio();
     }
-
 
     function showView(targetView) {
       pageMenu.classList.remove('active');
@@ -384,6 +392,9 @@
 
       if (pageVideo.classList.contains('active')) {
         mainVideo.pause();
+        // 关键：返回时移除 src 彻底释放硬件解码资源与音频会话
+        mainVideo.removeAttribute('src');
+        mainVideo.load();
       }
 
       const previousRender = historyStack.pop();
@@ -444,16 +455,14 @@
 
     window.addEventListener('load', initApp);
 
-    // 当用户从后台切回应用时：
-    // 1. 若停留在首页，静默重新 fetch 数据；
-    // 2. 若停留在视频播放页，自动修复可能被 iOS 挂起的音轨。
+    // 应用切回前台逻辑
     document.addEventListener('visibilitychange', () => {
       if (document.visibilityState === 'visible') {
         if (pageMenu.classList.contains('active') && historyStack.length === 0) {
           console.log('应用切回前台且在首页，自动重新 fetch 数据...');
           renderLanguages();
         } else if (pageVideo.classList.contains('active')) {
-          console.log('应用切回前台且处于播放页，自动激活/恢复音轨...');
+          console.log('应用切回前台且处于播放页，自动唤醒音轨...');
           recoverAudio();
         }
       }
