@@ -246,8 +246,8 @@
       <button class="logout-btn" id="logoutBtn" onclick="handleLogout()">Exit</button>
     </header>
 
-    <!-- Auth View -->
-    <div id="page-auth" class="view active">
+    <!-- Auth View (默认不再添加 active 类，防止闪屏) -->
+    <div id="page-auth" class="view">
       <div class="auth-card">
         <h2 id="authTitle">Login</h2>
         
@@ -475,7 +475,6 @@
       }
     }
 
-    // 重点修改：点击 Exit 时立即同步销毁底层 DOM 与 MediaSession
     async function handleLogout() {
       destroyPlayer();
       historyStack.length = 0;
@@ -492,10 +491,28 @@
     }
 
     async function initApp() {
+      // 1. 同步预判：通过检查 localStorage 中存有的 Supabase Token，提前展示菜单页，防止未完成接口调用前闪现登录界面
+      const hasLocalToken = Object.keys(localStorage).some(key => key.includes('sb-') && key.includes('-auth-token'));
+      if (hasLocalToken) {
+        showView(pageMenu);
+        updateHeaderState(true);
+      }
+
+      // 2. 正常异步校验 Supabase Session
       const { data: { session } } = await supabaseClient.auth.getSession();
-      if (!session) { updateHeaderState(false); showView(pageAuth); return; }
+      
+      if (!session) { 
+        updateHeaderState(false); 
+        showView(pageAuth); 
+        return; 
+      }
+      
       updateHeaderState(true);
-      await renderLanguages();
+      
+      // 保证页面内容正常渲染
+      if (!pageMenu.classList.contains('active') || menuList.children.length === 0) {
+        await renderLanguages();
+      }
     }
 
     async function loadLocalData() {
@@ -665,7 +682,7 @@
         translateX = Math.min(Math.max(translateX, -maxTx), maxTx);
         translateY = Math.min(Math.max(translateY, -maxTy), maxTy);
       }
-      videoEl.style.transform = `translate(${translateX}px, ${translateY}px) scale(${scale})`;
+      videoEl.style.transform = `translate(${translateX}px) translate(${translateY}px) scale(${scale})`;
     }
 
     function setZoom(newScale) { scale = Math.min(Math.max(newScale, minScale), maxScale); updateTransform(); }
