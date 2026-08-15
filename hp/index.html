@@ -197,12 +197,10 @@
       transform-origin: center center;
     }
 
-    /* 屏蔽原生 Video 标签的指针响应 */
     .video-js .vjs-tech {
       pointer-events: none;
     }
 
-    /* 控制条样式并避开 iOS Safe Area */
     .video-js .vjs-control-bar {
       pointer-events: auto !important;
       bottom: calc(20px + env(safe-area-inset-bottom, 0px)) !important;
@@ -214,12 +212,10 @@
       backdrop-filter: blur(8px);
     }
 
-    /* 强制隐藏全屏按钮 */
     .video-js .vjs-fullscreen-control {
       display: none !important;
     }
 
-    /* 双击快进/快退提示浮层 */
     .seek-tip {
       position: absolute;
       top: 50%;
@@ -294,8 +290,7 @@
         <div id="seekTipLeft" class="seek-tip left">◄◄ -10s</div>
         <div id="seekTipRight" class="seek-tip right">+10s ►►</div>
 
-        <!-- Video.js 播放器标签 -->
-        <video id="mainVideo" class="video-js vjs-default-skin" playsinline webkit-playsinline></video>
+        <!-- 动态生成 video 标签 -->
       </div>
     </div>
   </div>
@@ -335,8 +330,8 @@
     const pageVideo = document.getElementById('page-video');
     const authMsg = document.getElementById('authMsg');
 
-    // 彻底清理 MediaSession 及底层 DOM Video 资源
-    function clearMediaSession() {
+    // 彻底销毁播放器及清空系统 MediaSession
+    function destroyPlayer() {
       if ('mediaSession' in navigator) {
         navigator.mediaSession.metadata = null;
         navigator.mediaSession.playbackState = 'none';
@@ -346,13 +341,46 @@
         });
       }
 
-      // 强行清理 iOS WebKit 层面的 video 节点状态
-      if (player && player.tech_ && player.tech_.el_) {
-        const videoEl = player.tech_.el_;
-        videoEl.pause();
-        videoEl.removeAttribute('src');
-        videoEl.load();
+      if (player) {
+        try {
+          player.pause();
+          player.dispose(); // 彻底干掉 Video.js 实例并同步抹除 DOM 节点
+        } catch (e) {
+          console.warn('Dispose error:', e);
+        }
+        player = null;
       }
+    }
+
+    function createVideoElement() {
+      const viewport = document.getElementById('viewport');
+      const oldVideo = document.getElementById('mainVideo');
+      if (oldVideo) oldVideo.remove();
+
+      const videoEl = document.createElement('video');
+      videoEl.id = 'mainVideo';
+      videoEl.className = 'video-js vjs-default-skin';
+      videoEl.setAttribute('playsinline', 'true');
+      videoEl.setAttribute('webkit-playsinline', 'true');
+      
+      viewport.appendChild(videoEl);
+
+      player = videojs('mainVideo', {
+        controls: true,
+        autoplay: false,
+        preload: 'auto',
+        playsinline: true,
+        userActions: { click: false, doubleClick: false },
+        controlBar: { fullscreenToggle: false },
+        html5: {
+          vhs: { overrideNative: true },
+          nativeAudioTracks: false,
+          nativeVideoTracks: false
+        }
+      });
+
+      player.on('ended', resumeAudioContext);
+      player.on('play', resumeAudioContext);
     }
 
     function updateHeaderState(isLoggedIn) {
@@ -447,15 +475,17 @@
       }
     }
 
+    // 重点修改：点击 Exit 时立即同步销毁底层 DOM 与 MediaSession
     async function handleLogout() {
-      if (player) {
-        player.pause();
-        player.src('');
-        clearMediaSession();
-      }
+      destroyPlayer();
       historyStack.length = 0;
 
-      await supabaseClient.auth.signOut();
+      try {
+        await supabaseClient.auth.signOut();
+      } catch (e) {
+        console.error('Logout error:', e);
+      }
+
       localStorage.clear();
       updateHeaderState(false);
       showView(pageAuth);
@@ -501,38 +531,6 @@
           const videoEl = player.tech_.el_;
           videoEl.muted = false;
           if (videoEl.volume === 0) videoEl.volume = 1.0;
-        }
-      }
-    }
-
-    function initVideoJs() {
-      if (!player) {
-        player = videojs('mainVideo', {
-          controls: true,
-          autoplay: false,
-          preload: 'auto',
-          playsinline: true,
-          userActions: {
-            click: false,
-            doubleClick: false
-          },
-          controlBar: {
-            fullscreenToggle: false
-          },
-          html5: {
-            vhs: { overrideNative: true },
-            nativeAudioTracks: false,
-            nativeVideoTracks: false
-          }
-        });
-
-        player.on('ended', resumeAudioContext);
-        player.on('play', resumeAudioContext);
-
-        if (player.tech_ && player.tech_.el_) {
-          const videoEl = player.tech_.el_;
-          videoEl.setAttribute('playsinline', 'true');
-          videoEl.setAttribute('webkit-playsinline', 'true');
         }
       }
     }
@@ -608,16 +606,14 @@
       backBtn.style.visibility = 'visible';
       showView(pageVideo);
 
-      initVideoJs();
+      destroyPlayer();
+      createVideoElement();
 
-      player.pause();
       player.src({ src: page.videoSrc, type: 'video/mp4' });
       if (page.poster) player.poster(page.poster);
 
       player.currentTime(0);
       resumeAudioContext();
-
-      clearMediaSession();
 
       const playPromise = player.play();
       if (playPromise !== undefined) {
@@ -644,11 +640,7 @@
       if (historyStack.length === 0) return;
       
       if (pageVideo.classList.contains('active')) {
-        if (player) {
-          player.pause();
-          player.src('');
-        }
-        clearMediaSession();
+        destroyPlayer();
       }
       
       const previousRender = historyStack.pop();
@@ -812,6 +804,11 @@
     document.addEventListener('click', unlockAudioContext, { once: true });
 
     window.addEventListener('load', initApp);
+
+    // 页面完全卸载/关闭时防护
+    window.addEventListener('beforeunload', () => {
+      destroyPlayer();
+    });
 
     document.addEventListener('visibilitychange', async () => {
       if (document.visibilityState === 'visible') {
