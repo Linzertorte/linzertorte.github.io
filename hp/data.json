@@ -397,6 +397,28 @@
       ]
     },
     {
+      "id": "italian",
+      "title": "Harry Potter Italiano",
+      "headerTitle": "Italiano",
+      "books": [
+        {
+          "id": "it-b1",
+          "title": "Harry Potter e la Pietra Filosofale",
+          "headerTitle": "la Pietra Filosofale",
+          "chapters": [
+          {
+              "id": "it-b1-c1",
+              "title": "1 IL BAMBINO CHE È SOPRAVVISSUTO",
+              "headerTitle": "1 IL BAMBINO CHE È SOPRAVVISSUTO",
+              "pages": [
+                { "title": "Page 01", "videoSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/it/b1ch01/m-01.mp4" }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "japanese",
       "title": "ハリー・ポッタ 日本語",
       "headerTitle": "日本語",
