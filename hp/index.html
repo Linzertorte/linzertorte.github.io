@@ -600,6 +600,12 @@
       player.currentTime(0);
       resumeAudioContext();
 
+      // 清空 iOS MediaSession 从而隐藏锁屏 Media Card
+      if ('mediaSession' in navigator) {
+        navigator.mediaSession.metadata = null;
+        navigator.mediaSession.playbackState = 'none';
+      }
+
       const playPromise = player.play();
       if (playPromise !== undefined) {
         playPromise.catch((err) => {
