@@ -335,6 +335,18 @@
     const pageVideo = document.getElementById('page-video');
     const authMsg = document.getElementById('authMsg');
 
+    // 辅助清理 MediaSession 的函数
+    function clearMediaSession() {
+      if ('mediaSession' in navigator) {
+        navigator.mediaSession.metadata = null;
+        navigator.mediaSession.playbackState = 'none';
+        const actions = ['play', 'pause', 'seekbackward', 'seekforward', 'previoustrack', 'nexttrack'];
+        actions.forEach(action => {
+          try { navigator.mediaSession.setActionHandler(action, null); } catch (e) {}
+        });
+      }
+    }
+
     function updateHeaderState(isLoggedIn) {
       if (isLoggedIn) {
         logoutBtn.style.display = 'inline-block';
@@ -427,11 +439,12 @@
       }
     }
 
-    // 退出登录函数：增加停止播放逻辑
+    // 退出登录函数：增加停止播放与彻底卸载媒体逻辑
     async function handleLogout() {
       if (player) {
         player.pause();
         player.src(''); // 切断媒体流加载
+        clearMediaSession();
       }
       historyStack.length = 0;
 
@@ -600,11 +613,8 @@
       player.currentTime(0);
       resumeAudioContext();
 
-      // 清空 iOS MediaSession 从而隐藏锁屏 Media Card
-      if ('mediaSession' in navigator) {
-        navigator.mediaSession.metadata = null;
-        navigator.mediaSession.playbackState = 'none';
-      }
+      // 开始播放时强行重置 MediaSession，防止之前可能留存的回调唤醒卡片
+      clearMediaSession();
 
       const playPromise = player.play();
       if (playPromise !== undefined) {
@@ -629,9 +639,14 @@
 
     async function goBack() {
       if (historyStack.length === 0) return;
+      
+      // 如果当前是从视频视图返回，切断播放并清除 MediaSession 状态
       if (pageVideo.classList.contains('active') && player) {
         player.pause();
+        player.src('');
+        clearMediaSession();
       }
+      
       const previousRender = historyStack.pop();
       await previousRender();
     }
