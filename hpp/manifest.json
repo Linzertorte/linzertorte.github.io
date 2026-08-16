@@ -1,0 +1,17 @@
+{
+  "name": "Harry Potter Audible",
+  "short_name": "Harry",
+  "description": "Harry Potter Audible",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "harry.png",
+      "sizes": "any",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
