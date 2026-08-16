@@ -502,6 +502,7 @@
       } catch (err) { console.error('Failed to log media play:', err); }
     }
 
+    // 1. 语言列表
     async function renderLanguages() {
       pageTitle.textContent = 'Harry Potter';
       backBtn.style.visibility = 'hidden';
@@ -513,28 +514,36 @@
         const a = document.createElement('a');
         a.className = 'plain-link';
         a.textContent = lang.title;
-        a.onclick = () => { pushHistory(renderLanguages); renderBooks(langIndex); };
+        a.onclick = () => { 
+          pushHistory(() => renderLanguages()); 
+          renderBooks(langIndex); 
+        };
         menuList.appendChild(a);
       });
       showView(pageMenu);
     }
 
+    // 2. 书级列表
     function renderBooks(langIndex) {
       const lang = globalData.languages[langIndex];
       if (!lang) return;
       pageTitle.textContent = lang.headerTitle;
-      backBtn.style.visibility = 'visible';
+      backBtn.style.visibility = historyStack.length > 0 ? 'visible' : 'hidden';
       menuList.innerHTML = '';
       lang.books.forEach((book, bookIndex) => {
         const a = document.createElement('a');
         a.className = 'plain-link';
         a.textContent = book.title;
-        a.onclick = () => { pushHistory(() => renderBooks(langIndex)); renderChapters(langIndex, bookIndex); };
+        a.onclick = () => { 
+          pushHistory(() => renderBooks(langIndex)); 
+          renderChapters(langIndex, bookIndex); 
+        };
         menuList.appendChild(a);
       });
       showView(pageMenu);
     }
 
+    // 3. 章节列表
     function renderChapters(langIndex, bookIndex) {
       const book = globalData.languages[langIndex]?.books[bookIndex];
       if (!book) return;
@@ -545,12 +554,16 @@
         const a = document.createElement('a');
         a.className = 'plain-link';
         a.textContent = chapter.title;
-        a.onclick = () => { pushHistory(() => renderChapters(langIndex, bookIndex)); renderPages(langIndex, bookIndex, chapterIndex); };
+        a.onclick = () => { 
+          pushHistory(() => renderChapters(langIndex, bookIndex)); 
+          renderPages(langIndex, bookIndex, chapterIndex); 
+        };
         menuList.appendChild(a);
       });
       showView(pageMenu);
     }
 
+    // 4. 页面列表
     function renderPages(langIndex, bookIndex, chapterIndex) {
       const chapter = globalData.languages[langIndex]?.books[bookIndex]?.chapters[chapterIndex];
       if (!chapter) return;
@@ -561,12 +574,16 @@
         const a = document.createElement('a');
         a.className = 'plain-link';
         a.textContent = page.title;
-        a.onclick = () => { pushHistory(() => renderPages(langIndex, bookIndex, chapterIndex)); playMedia(page); };
+        a.onclick = () => { 
+          pushHistory(() => renderPages(langIndex, bookIndex, chapterIndex)); 
+          playMedia(page); 
+        };
         menuList.appendChild(a);
       });
       showView(pageMenu);
     }
 
+    // 5. 播放页
     function playMedia(page) {
       logMediaPlay(page);
       pageTitle.textContent = page.title;
@@ -575,7 +592,6 @@
 
       mainImage.src = page.imageSrc;
 
-      // 音频规范重载逻辑
       mainAudio.pause();
       mainAudio.src = page.audioSrc;
       mainAudio.load();
@@ -590,7 +606,6 @@
       resetZoom();
     }
 
-    // 音频加载与网络异常保护
     mainAudio.onerror = () => {
       if (!mainAudio.src) return;
       console.warn('音频加载异常，重新尝试连接...');
@@ -625,6 +640,8 @@
       
       const previousRender = historyStack.pop();
       await previousRender();
+      
+      backBtn.style.visibility = historyStack.length > 0 ? 'visible' : 'hidden';
     }
 
     // ==========================================
@@ -782,7 +799,6 @@
       stopAudio();
     });
 
-    // 页面切后台/解锁屏自动恢复逻辑
     document.addEventListener('visibilitychange', async () => {
       if (document.visibilityState === 'visible') {
         if (pageMedia.classList.contains('active')) {
