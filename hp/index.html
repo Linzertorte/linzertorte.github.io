@@ -431,8 +431,13 @@
 
       const email = resolveToEmail(inputStr);
       const { data, error } = await supabaseClient.auth.signInWithPassword({ email, password });
-      if (error) authMsg.textContent = error.message;
-      else initApp();
+      if (error) {
+        authMsg.textContent = error.message;
+      } else {
+        historyStack.length = 0;
+        updateHeaderState(true);
+        await renderLanguages();
+      }
     }
 
     async function handleRegister() {
@@ -473,12 +478,6 @@
     }
 
     async function initApp() {
-      const hasLocalToken = Object.keys(localStorage).some(key => key.includes('sb-') && key.includes('-auth-token'));
-      if (hasLocalToken) {
-        showView(pageMenu);
-        updateHeaderState(true);
-      }
-
       const { data: { session } } = await supabaseClient.auth.getSession();
       
       if (!session) { 
@@ -489,7 +488,7 @@
       
       updateHeaderState(true);
       
-      if (!pageMenu.classList.contains('active') || menuList.children.length === 0) {
+      if (historyStack.length === 0) {
         await renderLanguages();
       }
     }
