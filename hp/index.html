@@ -349,7 +349,7 @@
       // 彻底清空并销毁 iOS 系统层面的 Media Session 卡片
       if ('mediaSession' in navigator) {
         navigator.mediaSession.playbackState = 'none';
-        navigator.mediaSession.metadata = null;
+        navigator.mediaSession.metadata = null; // 清空标题和图标
 
         const actions = ['play', 'pause', 'seekbackward', 'seekforward', 'previoustrack', 'nexttrack'];
         actions.forEach(action => {
@@ -453,7 +453,7 @@
     }
 
     async function handleLogout() {
-      stopAudio();
+      stopAudio(); // 退出时停止播放并彻底销毁系统 Media Card
       historyStack.length = 0;
 
       try {
@@ -591,7 +591,7 @@
       showView(pageMenu);
     }
 
-    // 更新系统 Media Session：修复 Resume 后“有进度无声音”的 iOS 管道锁死问题
+    // 更新系统 Media Session：主标题固定为 Harry Potter
     function updateMediaSession(page) {
       if (!('mediaSession' in navigator) || !window.MediaMetadata) return;
 
@@ -612,26 +612,12 @@
       });
 
       // 绑定系统的播放与拖动处理函数
-      navigator.mediaSession.setActionHandler('play', async () => {
-        try {
-          const curTime = mainAudio.currentTime;
-          await mainAudio.play();
-          // 微调 currentTime，强行唤醒并重新链接 iOS 硬件音频输出通道
-          mainAudio.currentTime = curTime;
-        } catch (e) {
-          console.warn('System play handler error:', e);
-        }
-      });
-
-      navigator.mediaSession.setActionHandler('pause', () => {
-        mainAudio.pause();
-      });
-
+      navigator.mediaSession.setActionHandler('play', () => mainAudio.play());
+      navigator.mediaSession.setActionHandler('pause', () => mainAudio.pause());
       navigator.mediaSession.setActionHandler('seekbackward', (details) => {
         const skipTime = details.seekOffset || 10;
         mainAudio.currentTime = Math.max(mainAudio.currentTime - skipTime, 0);
       });
-
       navigator.mediaSession.setActionHandler('seekforward', (details) => {
         const skipTime = details.seekOffset || 10;
         mainAudio.currentTime = Math.min(mainAudio.currentTime + skipTime, mainAudio.duration || 0);
@@ -656,22 +642,17 @@
       // 注册 Media Session 元数据
       updateMediaSession(page);
 
-      // 音频事件监听
+      // 监听真正开始播放与暂停事件，通知 iOS 系统上报正确的运行状态
       mainAudio.onplay = () => {
         if ('mediaSession' in navigator) {
           navigator.mediaSession.playbackState = 'playing';
         }
       };
-
+      
       mainAudio.onpause = () => {
         if ('mediaSession' in navigator && pageMedia.classList.contains('active')) {
           navigator.mediaSession.playbackState = 'paused';
         }
-      };
-
-      // 解锁无声防线：检测到系统误置静音时解禁
-      mainAudio.onplaying = () => {
-        if (mainAudio.muted) mainAudio.muted = false;
       };
 
       const playPromise = mainAudio.play();
