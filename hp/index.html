@@ -295,7 +295,8 @@
 
         <!-- 音频控件面板 -->
         <div class="audio-controls" id="audioControls">
-          <audio id="mainAudio" controls preload="auto"></audio>
+          <!-- 调整了 preload 模式并加入 playsinline 以兼容 iPadOS -->
+          <audio id="mainAudio" controls preload="metadata" playsinline></audio>
         </div>
       </div>
     </div>
@@ -342,7 +343,8 @@
       if (mainAudio) {
         mainAudio.pause();
         mainAudio.currentTime = 0;
-        mainAudio.src = '';
+        mainAudio.removeAttribute('src');
+        mainAudio.load();
       }
       if ('mediaSession' in navigator) {
         navigator.mediaSession.playbackState = 'none';
@@ -592,35 +594,31 @@
 
       mainImage.src = page.imgSrc;
 
+      // 彻底清空并重置资源，避免 iPadOS 状态竞争
       mainAudio.pause();
-      mainAudio.src = page.audioSrc;
+      mainAudio.removeAttribute('src');
       mainAudio.load();
+
+      mainAudio.src = page.audioSrc;
 
       const playPromise = mainAudio.play();
       if (playPromise !== undefined) {
         playPromise.catch((err) => {
-          console.warn('自动播放受限，等待用户交互:', err);
+          console.warn('播放受到限制:', err);
         });
       }
 
       resetZoom();
     }
 
-    mainAudio.onerror = () => {
+    // 捕获真实播放报错以帮助定位
+    mainAudio.addEventListener('error', () => {
       if (!mainAudio.src) return;
-      console.warn('音频加载异常，重新尝试连接...');
-      const currTime = mainAudio.currentTime;
-      mainAudio.load();
-      mainAudio.currentTime = currTime;
-      mainAudio.play().catch(() => {});
-    };
-
-    mainAudio.onstalled = () => {
-      if (!mainAudio.paused && mainAudio.readyState < 3) {
-        console.warn('网络抖动导致缓冲卡顿，正在恢复...');
-        mainAudio.load();
+      const err = mainAudio.error;
+      if (err) {
+        console.error('Audio playback error code:', err.code, 'message:', err.message);
       }
-    };
+    });
 
     function showView(targetView) {
       pageAuth.classList.remove('active');

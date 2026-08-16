@@ -1,4 +1,4 @@
-const CACHE_NAME = 'hp-audible-v29';
+const CACHE_NAME = 'hp-audible-v30';
 
 const ASSETS_TO_CACHE = [
   './',
@@ -30,8 +30,15 @@ self.addEventListener('activate', (event) => {
 self.addEventListener('fetch', (event) => {
   const url = new URL(event.request.url);
 
-  // A. 只有视频流继续保持 Network Only（支持 206 Partial Content 拖动）
-  if (event.request.destination === 'video') {
+  // A. 音频与视频流：完全走网络直连 Network Only（支持 HTTP 206 Range 分段请求，解决 iPad PWA 播放弹回）
+  if (
+    event.request.destination === 'audio' ||
+    event.request.destination === 'video' ||
+    url.pathname.endsWith('.mp3') ||
+    url.pathname.endsWith('.m4a') ||
+    url.pathname.endsWith('.wav') ||
+    url.hostname.includes('amazonaws.com')
+  ) {
     event.respondWith(fetch(event.request));
     return;
   }
@@ -52,7 +59,7 @@ self.addEventListener('fetch', (event) => {
     return;
   }
 
-  // C. 其他静态资源（含 AWS 上的音频、PNG 等）：缓存优先
+  // C. 其他静态资源（HTML、CSS、JS、PNG 等）：缓存优先
   event.respondWith(
     caches.match(event.request).then((cachedResponse) => {
       if (cachedResponse) {
