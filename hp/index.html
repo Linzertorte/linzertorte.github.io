@@ -346,10 +346,15 @@
         mainAudio.load();
       }
 
-      // 彻底清空并销毁 iOS 系统层面的 Media Session 卡片
+      // 彻底清空并销毁 iOS / 系统层面的 Media Session 卡片
       if ('mediaSession' in navigator) {
         navigator.mediaSession.playbackState = 'none';
-        navigator.mediaSession.metadata = null; // 清空标题和图标
+
+        try {
+          navigator.mediaSession.metadata = new MediaMetadata({});
+        } catch (e) {
+          navigator.mediaSession.metadata = null;
+        }
 
         const actions = ['play', 'pause', 'seekbackward', 'seekforward', 'previoustrack', 'nexttrack'];
         actions.forEach(action => {
@@ -453,7 +458,7 @@
     }
 
     async function handleLogout() {
-      stopAudio(); // 退出时停止播放并彻底销毁系统 Media Card
+      stopAudio();
       historyStack.length = 0;
 
       try {
@@ -591,7 +596,6 @@
       showView(pageMenu);
     }
 
-    // 更新系统 Media Session：主标题固定为 Harry Potter
     function updateMediaSession(page) {
       if (!('mediaSession' in navigator) || !window.MediaMetadata) return;
 
@@ -611,7 +615,6 @@
         ]
       });
 
-      // 绑定系统的播放与拖动处理函数
       navigator.mediaSession.setActionHandler('play', () => mainAudio.play());
       navigator.mediaSession.setActionHandler('pause', () => mainAudio.pause());
       navigator.mediaSession.setActionHandler('seekbackward', (details) => {
@@ -632,17 +635,14 @@
 
       mainImage.src = page.imgSrc;
 
-      // 重置音频句柄
       mainAudio.pause();
       mainAudio.removeAttribute('src');
       mainAudio.load();
 
       mainAudio.src = page.audioSrc;
 
-      // 注册 Media Session 元数据
       updateMediaSession(page);
 
-      // 监听真正开始播放与暂停事件，通知 iOS 系统上报正确的运行状态
       mainAudio.onplay = () => {
         if ('mediaSession' in navigator) {
           navigator.mediaSession.playbackState = 'playing';
