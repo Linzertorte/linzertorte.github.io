@@ -346,13 +346,10 @@
         mainAudio.load();
       }
 
-      // 彻底销毁系统层面的 Media Session 卡片
+      // 彻底清空并销毁 iOS 系统层面的 Media Session 卡片
       if ('mediaSession' in navigator) {
         navigator.mediaSession.playbackState = 'none';
-
-        if (window.MediaMetadata) {
-          navigator.mediaSession.metadata = null;
-        }
+        navigator.mediaSession.metadata = null; // 清空标题和图标
 
         const actions = ['play', 'pause', 'seekbackward', 'seekforward', 'previoustrack', 'nexttrack'];
         actions.forEach(action => {
@@ -456,7 +453,7 @@
     }
 
     async function handleLogout() {
-      stopAudio(); // 退出时停止播放并销毁卡片
+      stopAudio(); // 退出时停止播放并彻底销毁系统 Media Card
       historyStack.length = 0;
 
       try {
@@ -516,28 +513,27 @@
       } catch (err) { console.error('Failed to log media play:', err); }
     }
 
-    // 1. 语言列表
-    async function renderLanguages() {
+    function renderLanguages() {
       pageTitle.textContent = 'Harry Potter';
       backBtn.style.visibility = 'hidden';
-      await loadLocalData();
-      menuList.innerHTML = '';
-      if (!globalData || !globalData.languages) return;
+      loadLocalData().then(() => {
+        menuList.innerHTML = '';
+        if (!globalData || !globalData.languages) return;
 
-      globalData.languages.forEach((lang, langIndex) => {
-        const a = document.createElement('a');
-        a.className = 'plain-link';
-        a.textContent = lang.title;
-        a.onclick = () => { 
-          pushHistory(() => renderLanguages()); 
-          renderBooks(langIndex); 
-        };
-        menuList.appendChild(a);
+        globalData.languages.forEach((lang, langIndex) => {
+          const a = document.createElement('a');
+          a.className = 'plain-link';
+          a.textContent = lang.title;
+          a.onclick = () => { 
+            pushHistory(() => renderLanguages()); 
+            renderBooks(langIndex); 
+          };
+          menuList.appendChild(a);
+        });
+        showView(pageMenu);
       });
-      showView(pageMenu);
     }
 
-    // 2. 书级列表
     function renderBooks(langIndex) {
       const lang = globalData.languages[langIndex];
       if (!lang) return;
@@ -557,7 +553,6 @@
       showView(pageMenu);
     }
 
-    // 3. 章节列表
     function renderChapters(langIndex, bookIndex) {
       const book = globalData.languages[langIndex]?.books[bookIndex];
       if (!book) return;
@@ -577,7 +572,6 @@
       showView(pageMenu);
     }
 
-    // 4. 页面列表
     function renderPages(langIndex, bookIndex, chapterIndex) {
       const chapter = globalData.languages[langIndex]?.books[bookIndex]?.chapters[chapterIndex];
       if (!chapter) return;
@@ -597,7 +591,39 @@
       showView(pageMenu);
     }
 
-    // 5. 播放页
+    // 更新系统 Media Session：主标题固定为 Harry Potter
+    function updateMediaSession(page) {
+      if (!('mediaSession' in navigator) || !window.MediaMetadata) return;
+
+      const title = 'Harry Potter';
+      const subtitle = 'Audiobook';
+      const imgSrc = new URL('harry.png', window.location.href).href;
+
+      navigator.mediaSession.metadata = new MediaMetadata({
+        title: title,
+        artist: subtitle,
+        album: 'Harry Potter',
+        artwork: [
+          { src: imgSrc, sizes: '96x96', type: 'image/png' },
+          { src: imgSrc, sizes: '128x128', type: 'image/png' },
+          { src: imgSrc, sizes: '192x192', type: 'image/png' },
+          { src: imgSrc, sizes: '512x512', type: 'image/png' }
+        ]
+      });
+
+      // 绑定系统的播放与拖动处理函数
+      navigator.mediaSession.setActionHandler('play', () => mainAudio.play());
+      navigator.mediaSession.setActionHandler('pause', () => mainAudio.pause());
+      navigator.mediaSession.setActionHandler('seekbackward', (details) => {
+        const skipTime = details.seekOffset || 10;
+        mainAudio.currentTime = Math.max(mainAudio.currentTime - skipTime, 0);
+      });
+      navigator.mediaSession.setActionHandler('seekforward', (details) => {
+        const skipTime = details.seekOffset || 10;
+        mainAudio.currentTime = Math.min(mainAudio.currentTime + skipTime, mainAudio.duration || 0);
+      });
+    }
+
     function playMedia(page) {
       logMediaPlay(page);
       pageTitle.textContent = page.title;
@@ -606,25 +632,33 @@
 
       mainImage.src = page.imgSrc;
 
+      // 重置音频句柄
       mainAudio.pause();
       mainAudio.removeAttribute('src');
       mainAudio.load();
 
       mainAudio.src = page.audioSrc;
 
-      // 注册 Media Session 元数据，以便控制中心正确显示
-      if ('mediaSession' in navigator && window.MediaMetadata) {
-        navigator.mediaSession.metadata = new MediaMetadata({
-          title: page.title || 'Harry Potter',
-          artist: 'Audiobook',
-          artwork: page.imgSrc ? [{ src: page.imgSrc, sizes: '512x512', type: 'image/png' }] : []
-        });
-      }
+      // 注册 Media Session 元数据
+      updateMediaSession(page);
+
+      // 监听真正开始播放与暂停事件，通知 iOS 系统上报正确的运行状态
+      mainAudio.onplay = () => {
+        if ('mediaSession' in navigator) {
+          navigator.mediaSession.playbackState = 'playing';
+        }
+      };
+      
+      mainAudio.onpause = () => {
+        if ('mediaSession' in navigator && pageMedia.classList.contains('active')) {
+          navigator.mediaSession.playbackState = 'paused';
+        }
+      };
 
       const playPromise = mainAudio.play();
       if (playPromise !== undefined) {
         playPromise.catch((err) => {
-          console.warn('播放受到限制:', err);
+          console.warn('播放受限制:', err);
         });
       }
 
@@ -808,14 +842,14 @@
       stopAudio();
     });
 
-    document.addEventListener('visibilitychange', async () => {
+    document.addEventListener('visibilitychange', () => {
       if (document.visibilityState === 'visible') {
         if (pageMedia.classList.contains('active')) {
           if (!mainAudio.paused && mainAudio.readyState >= 2) {
             mainAudio.play().catch(err => console.warn('恢复播放拦截:', err));
           }
         } else if (pageMenu.classList.contains('active') && historyStack.length === 0) {
-          await renderLanguages();
+          renderLanguages();
         }
       }
     });
