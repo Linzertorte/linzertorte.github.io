@@ -335,16 +335,33 @@
     const pageMedia = document.getElementById('page-media');
     const authMsg = document.getElementById('authMsg');
 
-    const mainAudio = document.getElementById('mainAudio');
     const mainImage = document.getElementById('mainImage');
 
+    function getAudio() {
+      return document.getElementById('mainAudio');
+    }
+
     function stopAudio() {
-      if (mainAudio) {
-        mainAudio.pause();
-        mainAudio.currentTime = 0;
-        mainAudio.src = '';
-        mainAudio.removeAttribute('src');
-        mainAudio.load();
+      const audioContainer = document.getElementById('audioControls');
+      const oldAudio = document.getElementById('mainAudio');
+
+      if (oldAudio) {
+        oldAudio.pause();
+        oldAudio.removeAttribute('src');
+        oldAudio.src = '';
+        oldAudio.srcObject = null;
+        oldAudio.load();
+
+        // 彻底替换 DOM 节点，强制 iOS / Safari 销毁绑定的 Media Controller 实例
+        const newAudio = document.createElement('audio');
+        newAudio.id = 'mainAudio';
+        newAudio.controls = true;
+        newAudio.preload = 'metadata';
+        newAudio.setAttribute('playsinline', '');
+
+        if (audioContainer && oldAudio.parentNode === audioContainer) {
+          audioContainer.replaceChild(newAudio, oldAudio);
+        }
       }
 
       if ('mediaSession' in navigator) {
@@ -466,18 +483,23 @@
     }
 
     async function handleLogout() {
+      // 优先且同步清理音频及界面状态
       stopAudio();
       historyStack.length = 0;
+      updateHeaderState(false);
+      showView(pageAuth);
 
+      try {
+        localStorage.clear();
+        sessionStorage.clear();
+      } catch (e) {}
+
+      // 异步尝试 Supabase 登出，避免网络阻塞前端 UI
       try {
         await supabaseClient.auth.signOut();
       } catch (e) {
         console.error('Logout error:', e);
       }
-
-      localStorage.clear();
-      updateHeaderState(false);
-      showView(pageAuth);
     }
 
     async function initApp() {
@@ -604,6 +626,7 @@
       const title = 'Harry Potter';
       const subtitle = 'Audiobook';
       const imgSrc = new URL('harry.png', window.location.href).href;
+      const mainAudio = getAudio();
 
       navigator.mediaSession.metadata = new MediaMetadata({
         title: title,
@@ -617,13 +640,15 @@
         ]
       });
 
-      navigator.mediaSession.setActionHandler('play', () => mainAudio.play());
-      navigator.mediaSession.setActionHandler('pause', () => mainAudio.pause());
+      navigator.mediaSession.setActionHandler('play', () => mainAudio && mainAudio.play());
+      navigator.mediaSession.setActionHandler('pause', () => mainAudio && mainAudio.pause());
       navigator.mediaSession.setActionHandler('seekbackward', (details) => {
+        if (!mainAudio) return;
         const skipTime = details.seekOffset || 10;
         mainAudio.currentTime = Math.max(mainAudio.currentTime - skipTime, 0);
       });
       navigator.mediaSession.setActionHandler('seekforward', (details) => {
+        if (!mainAudio) return;
         const skipTime = details.seekOffset || 10;
         mainAudio.currentTime = Math.min(mainAudio.currentTime + skipTime, mainAudio.duration || 0);
       });
@@ -636,6 +661,9 @@
       showView(pageMedia);
 
       mainImage.src = page.imgSrc;
+
+      const mainAudio = getAudio();
+      if (!mainAudio) return;
 
       mainAudio.pause();
       mainAudio.removeAttribute('src');
@@ -821,7 +849,9 @@
     }
 
     function handleDoubleTapSeek(clientX) {
+      const mainAudio = getAudio();
       if (!mainAudio || !mainAudio.src) return;
+
       const rect = viewport.getBoundingClientRect();
       const clickX = clientX - rect.left;
       const currTime = mainAudio.currentTime;
@@ -844,8 +874,9 @@
 
     document.addEventListener('visibilitychange', () => {
       if (document.visibilityState === 'visible') {
+        const mainAudio = getAudio();
         if (pageMedia.classList.contains('active')) {
-          if (!mainAudio.paused && mainAudio.readyState >= 2) {
+          if (mainAudio && !mainAudio.paused && mainAudio.readyState >= 2) {
             mainAudio.play().catch(err => console.warn('恢复播放拦截:', err));
           }
         } else if (pageMenu.classList.contains('active') && historyStack.length === 0) {

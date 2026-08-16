@@ -1,4 +1,4 @@
-const CACHE_NAME = 'hp-audible-v38';
+const CACHE_NAME = 'hp-audible-v39';
 
 const ASSETS_TO_CACHE = [
   './',
