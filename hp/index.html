@@ -346,7 +346,6 @@
         mainAudio.load();
       }
 
-      // 彻底清空并销毁 iOS / 系统层面的 Media Session 卡片
       if ('mediaSession' in navigator) {
         navigator.mediaSession.playbackState = 'none';
 
@@ -434,6 +433,7 @@
       if (error) {
         authMsg.textContent = error.message;
       } else {
+        // 清空历史栈并重置渲染首页
         historyStack.length = 0;
         updateHeaderState(true);
         await renderLanguages();
@@ -488,6 +488,7 @@
       
       updateHeaderState(true);
       
+      // 当处于首页/无历史栈时强制重新渲染首页
       if (historyStack.length === 0) {
         await renderLanguages();
       }
@@ -519,7 +520,7 @@
 
     function renderLanguages() {
       pageTitle.textContent = 'Harry Potter';
-      backBtn.style.visibility = 'hidden';
+      backBtn.style.visibility = 'hidden'; // 首页强制隐藏 Back 按钮
       loadLocalData().then(() => {
         menuList.innerHTML = '';
         if (!globalData || !globalData.languages) return;
@@ -686,9 +687,7 @@
       backBtn.style.visibility = historyStack.length > 0 ? 'visible' : 'hidden';
     }
 
-    // ==========================================
-    // 图片缩放 (Zoom) & 平移 (Pan) + 双击快进/快退
-    // ==========================================
+    /* 图片缩放 (Zoom) & 平移 (Pan) + 双击快进/快退 */
     const viewport = document.getElementById('viewport');
     let scale = 1, translateX = 0, translateY = 0;
     const minScale = 1, maxScale = 5;
