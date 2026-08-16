@@ -14,10 +14,6 @@
   <!-- Supabase JS Client -->
   <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
 
-  <!-- Video.js CSS & JS -->
-  <link href="https://vjs.zencdn.net/8.10.0/video-js.css" rel="stylesheet" />
-  <script src="https://vjs.zencdn.net/8.10.0/video.min.js"></script>
-  
   <style>
     * {
       margin: 0;
@@ -169,8 +165,8 @@
       font-size: 16px;
     }
 
-    /* 视频播放页 */
-    #page-video {
+    /* 媒体展示页 */
+    #page-media {
       padding: 0;
       background: #000000;
       align-items: center;
@@ -190,30 +186,34 @@
       touch-action: none;
     }
 
-    /* Video.js 容器 */
-    .video-js {
-      width: 100% !important;
-      height: 100% !important;
+    #mainImage {
+      max-width: 100%;
+      max-height: 100%;
+      object-fit: contain;
       transform-origin: center center;
+      user-select: none;
+      -webkit-user-drag: none;
     }
 
-    .video-js .vjs-tech {
-      pointer-events: none;
-    }
-
-    .video-js .vjs-control-bar {
-      pointer-events: auto !important;
-      bottom: calc(20px + env(safe-area-inset-bottom, 0px)) !important;
-      width: 92% !important;
-      left: 50% !important;
+    /* 音频控件面板 */
+    .audio-controls {
+      position: absolute;
+      bottom: calc(20px + env(safe-area-inset-bottom, 0px));
+      left: 50%;
       transform: translateX(-50%);
-      border-radius: 10px;
-      background-color: rgba(20, 20, 20, 0.85) !important;
+      width: 92%;
+      max-width: 600px;
+      background-color: rgba(20, 20, 20, 0.85);
       backdrop-filter: blur(8px);
+      border-radius: 10px;
+      padding: 8px 12px;
+      z-index: 20;
     }
 
-    .video-js .vjs-fullscreen-control {
-      display: none !important;
+    audio {
+      width: 100%;
+      height: 36px;
+      outline: none;
     }
 
     .seek-tip {
@@ -229,7 +229,7 @@
       pointer-events: none;
       opacity: 0;
       transition: opacity 0.2s ease;
-      z-index: 10;
+      z-index: 30;
     }
     .seek-tip.left { left: 15%; }
     .seek-tip.right { right: 15%; }
@@ -246,7 +246,7 @@
       <button class="logout-btn" id="logoutBtn" onclick="handleLogout()">Exit</button>
     </header>
 
-    <!-- Auth View (默认不再添加 active 类，防止闪屏) -->
+    <!-- Auth View -->
     <div id="page-auth" class="view">
       <div class="auth-card">
         <h2 id="authTitle">Login</h2>
@@ -283,14 +283,20 @@
       <div class="link-list" id="menuList"></div>
     </div>
 
-    <!-- Video Player View -->
-    <div id="page-video" class="view">
+    <!-- Image + Audio View -->
+    <div id="page-media" class="view">
       <div class="viewport" id="viewport">
         <!-- 提示浮层 -->
         <div id="seekTipLeft" class="seek-tip left">◄◄ -10s</div>
         <div id="seekTipRight" class="seek-tip right">+10s ►►</div>
 
-        <!-- 动态生成 video 标签 -->
+        <!-- 图片 -->
+        <img id="mainImage" src="" alt="page content" />
+
+        <!-- 音频控件面板 -->
+        <div class="audio-controls" id="audioControls">
+          <audio id="mainAudio" controls preload="auto"></audio>
+        </div>
       </div>
     </div>
   </div>
@@ -318,7 +324,6 @@
     let globalData = null;
     const historyStack = [];
     let isRegisterMode = false;
-    let player = null;
     
     const pageTitle = document.getElementById('pageTitle');
     const backBtn = document.getElementById('backBtn');
@@ -327,60 +332,21 @@
     
     const pageAuth = document.getElementById('page-auth');
     const pageMenu = document.getElementById('page-menu');
-    const pageVideo = document.getElementById('page-video');
+    const pageMedia = document.getElementById('page-media');
     const authMsg = document.getElementById('authMsg');
 
-    // 彻底销毁播放器及清空系统 MediaSession
-    function destroyPlayer() {
+    const mainAudio = document.getElementById('mainAudio');
+    const mainImage = document.getElementById('mainImage');
+
+    function stopAudio() {
+      if (mainAudio) {
+        mainAudio.pause();
+        mainAudio.currentTime = 0;
+        mainAudio.src = '';
+      }
       if ('mediaSession' in navigator) {
-        navigator.mediaSession.metadata = null;
         navigator.mediaSession.playbackState = 'none';
-        const actions = ['play', 'pause', 'seekbackward', 'seekforward', 'previoustrack', 'nexttrack'];
-        actions.forEach(action => {
-          try { navigator.mediaSession.setActionHandler(action, null); } catch (e) {}
-        });
       }
-
-      if (player) {
-        try {
-          player.pause();
-          player.dispose(); // 彻底干掉 Video.js 实例并同步抹除 DOM 节点
-        } catch (e) {
-          console.warn('Dispose error:', e);
-        }
-        player = null;
-      }
-    }
-
-    function createVideoElement() {
-      const viewport = document.getElementById('viewport');
-      const oldVideo = document.getElementById('mainVideo');
-      if (oldVideo) oldVideo.remove();
-
-      const videoEl = document.createElement('video');
-      videoEl.id = 'mainVideo';
-      videoEl.className = 'video-js vjs-default-skin';
-      videoEl.setAttribute('playsinline', 'true');
-      videoEl.setAttribute('webkit-playsinline', 'true');
-      
-      viewport.appendChild(videoEl);
-
-      player = videojs('mainVideo', {
-        controls: true,
-        autoplay: false,
-        preload: 'auto',
-        playsinline: true,
-        userActions: { click: false, doubleClick: false },
-        controlBar: { fullscreenToggle: false },
-        html5: {
-          vhs: { overrideNative: true },
-          nativeAudioTracks: false,
-          nativeVideoTracks: false
-        }
-      });
-
-      player.on('ended', resumeAudioContext);
-      player.on('play', resumeAudioContext);
     }
 
     function updateHeaderState(isLoggedIn) {
@@ -476,7 +442,7 @@
     }
 
     async function handleLogout() {
-      destroyPlayer();
+      stopAudio();
       historyStack.length = 0;
 
       try {
@@ -491,14 +457,12 @@
     }
 
     async function initApp() {
-      // 1. 同步预判：通过检查 localStorage 中存有的 Supabase Token，提前展示菜单页，防止未完成接口调用前闪现登录界面
       const hasLocalToken = Object.keys(localStorage).some(key => key.includes('sb-') && key.includes('-auth-token'));
       if (hasLocalToken) {
         showView(pageMenu);
         updateHeaderState(true);
       }
 
-      // 2. 正常异步校验 Supabase Session
       const { data: { session } } = await supabaseClient.auth.getSession();
       
       if (!session) { 
@@ -509,7 +473,6 @@
       
       updateHeaderState(true);
       
-      // 保证页面内容正常渲染
       if (!pageMenu.classList.contains('active') || menuList.children.length === 0) {
         await renderLanguages();
       }
@@ -522,7 +485,7 @@
       } catch (err) { console.error('Failed to load data.json:', err); }
     }
 
-    async function logVideoPlay(page) {
+    async function logMediaPlay(page) {
       try {
         const { data: { user } } = await supabaseClient.auth.getUser();
         if (!user) return;
@@ -530,28 +493,16 @@
         if (!userName && user.email) {
           userName = user.email.endsWith('@app.internal') ? user.email.replace('@app.internal', '') : user.email;
         }
-        const videoId = page.videoSrc ? String(page.videoSrc).slice(-18) : '';
+        const mediaId = page.audioSrc ? String(page.audioSrc).slice(-18) : '';
         await supabaseClient.from('video_play_logs').insert([{ 
           user_name: userName || 'Unknown', 
-          video_id: videoId, 
+          video_id: mediaId, 
           visited_at: new Date().toISOString()
         }]);
-      } catch (err) { console.error('Failed to log video play:', err); }
+      } catch (err) { console.error('Failed to log media play:', err); }
     }
 
-    function resumeAudioContext() {
-      if (player) {
-        player.muted(false);
-        player.volume(1.0);
-
-        if (player.tech_ && player.tech_.el_) {
-          const videoEl = player.tech_.el_;
-          videoEl.muted = false;
-          if (videoEl.volume === 0) videoEl.volume = 1.0;
-        }
-      }
-    }
-
+    // 1. 语言列表
     async function renderLanguages() {
       pageTitle.textContent = 'Harry Potter';
       backBtn.style.visibility = 'hidden';
@@ -563,28 +514,36 @@
         const a = document.createElement('a');
         a.className = 'plain-link';
         a.textContent = lang.title;
-        a.onclick = () => { pushHistory(renderLanguages); renderBooks(langIndex); };
+        a.onclick = () => { 
+          pushHistory(() => renderLanguages()); 
+          renderBooks(langIndex); 
+        };
         menuList.appendChild(a);
       });
       showView(pageMenu);
     }
 
+    // 2. 书级列表
     function renderBooks(langIndex) {
       const lang = globalData.languages[langIndex];
       if (!lang) return;
       pageTitle.textContent = lang.headerTitle;
-      backBtn.style.visibility = 'visible';
+      backBtn.style.visibility = historyStack.length > 0 ? 'visible' : 'hidden';
       menuList.innerHTML = '';
       lang.books.forEach((book, bookIndex) => {
         const a = document.createElement('a');
         a.className = 'plain-link';
         a.textContent = book.title;
-        a.onclick = () => { pushHistory(() => renderBooks(langIndex)); renderChapters(langIndex, bookIndex); };
+        a.onclick = () => { 
+          pushHistory(() => renderBooks(langIndex)); 
+          renderChapters(langIndex, bookIndex); 
+        };
         menuList.appendChild(a);
       });
       showView(pageMenu);
     }
 
+    // 3. 章节列表
     function renderChapters(langIndex, bookIndex) {
       const book = globalData.languages[langIndex]?.books[bookIndex];
       if (!book) return;
@@ -595,12 +554,16 @@
         const a = document.createElement('a');
         a.className = 'plain-link';
         a.textContent = chapter.title;
-        a.onclick = () => { pushHistory(() => renderChapters(langIndex, bookIndex)); renderPages(langIndex, bookIndex, chapterIndex); };
+        a.onclick = () => { 
+          pushHistory(() => renderChapters(langIndex, bookIndex)); 
+          renderPages(langIndex, bookIndex, chapterIndex); 
+        };
         menuList.appendChild(a);
       });
       showView(pageMenu);
     }
 
+    // 4. 页面列表
     function renderPages(langIndex, bookIndex, chapterIndex) {
       const chapter = globalData.languages[langIndex]?.books[bookIndex]?.chapters[chapterIndex];
       if (!chapter) return;
@@ -611,43 +574,58 @@
         const a = document.createElement('a');
         a.className = 'plain-link';
         a.textContent = page.title;
-        a.onclick = () => { pushHistory(() => renderPages(langIndex, bookIndex, chapterIndex)); playVideo(page); };
+        a.onclick = () => { 
+          pushHistory(() => renderPages(langIndex, bookIndex, chapterIndex)); 
+          playMedia(page); 
+        };
         menuList.appendChild(a);
       });
       showView(pageMenu);
     }
 
-    function playVideo(page) {
-      logVideoPlay(page);
+    // 5. 播放页
+    function playMedia(page) {
+      logMediaPlay(page);
       pageTitle.textContent = page.title;
       backBtn.style.visibility = 'visible';
-      showView(pageVideo);
+      showView(pageMedia);
 
-      destroyPlayer();
-      createVideoElement();
+      mainImage.src = page.imgSrc;
 
-      player.src({ src: page.videoSrc, type: 'video/mp4' });
-      if (page.poster) player.poster(page.poster);
+      mainAudio.pause();
+      mainAudio.src = page.audioSrc;
+      mainAudio.load();
 
-      player.currentTime(0);
-      resumeAudioContext();
-
-      const playPromise = player.play();
+      const playPromise = mainAudio.play();
       if (playPromise !== undefined) {
         playPromise.catch((err) => {
-          console.warn('带声自动播放被拒绝，尝试静音启动:', err);
-          player.muted(true);
-          player.play().catch(() => {});
+          console.warn('自动播放受限，等待用户交互:', err);
         });
       }
 
       resetZoom();
     }
 
+    mainAudio.onerror = () => {
+      if (!mainAudio.src) return;
+      console.warn('音频加载异常，重新尝试连接...');
+      const currTime = mainAudio.currentTime;
+      mainAudio.load();
+      mainAudio.currentTime = currTime;
+      mainAudio.play().catch(() => {});
+    };
+
+    mainAudio.onstalled = () => {
+      if (!mainAudio.paused && mainAudio.readyState < 3) {
+        console.warn('网络抖动导致缓冲卡顿，正在恢复...');
+        mainAudio.load();
+      }
+    };
+
     function showView(targetView) {
       pageAuth.classList.remove('active');
       pageMenu.classList.remove('active');
-      pageVideo.classList.remove('active');
+      pageMedia.classList.remove('active');
       targetView.classList.add('active');
     }
 
@@ -656,24 +634,25 @@
     async function goBack() {
       if (historyStack.length === 0) return;
       
-      if (pageVideo.classList.contains('active')) {
-        destroyPlayer();
+      if (pageMedia.classList.contains('active')) {
+        stopAudio();
       }
       
       const previousRender = historyStack.pop();
       await previousRender();
+      
+      backBtn.style.visibility = historyStack.length > 0 ? 'visible' : 'hidden';
     }
 
     // ==========================================
-    // Zoom & Pan + 双击快进/快退 (忽略单击)
+    // 图片缩放 (Zoom) & 平移 (Pan) + 双击快进/快退
     // ==========================================
     const viewport = document.getElementById('viewport');
     let scale = 1, translateX = 0, translateY = 0;
     const minScale = 1, maxScale = 5;
 
     function updateTransform() {
-      const videoEl = document.querySelector('.video-js');
-      if (!videoEl) return;
+      if (!mainImage) return;
       if (scale === 1) { translateX = 0; translateY = 0; } 
       else {
         const rect = viewport.getBoundingClientRect();
@@ -682,13 +661,16 @@
         translateX = Math.min(Math.max(translateX, -maxTx), maxTx);
         translateY = Math.min(Math.max(translateY, -maxTy), maxTy);
       }
-      videoEl.style.transform = `translate(${translateX}px) translate(${translateY}px) scale(${scale})`;
+      mainImage.style.transform = `translate(${translateX}px, ${translateY}px) scale(${scale})`;
     }
 
     function setZoom(newScale) { scale = Math.min(Math.max(newScale, minScale), maxScale); updateTransform(); }
     function resetZoom() { scale = 1; translateX = 0; translateY = 0; updateTransform(); }
 
-    viewport.addEventListener('wheel', (e) => { e.preventDefault(); setZoom(scale + (e.deltaY < 0 ? 0.2 : -0.2)); }, { passive: false });
+    viewport.addEventListener('wheel', (e) => { 
+      e.preventDefault(); 
+      setZoom(scale + (e.deltaY < 0 ? 0.2 : -0.2)); 
+    }, { passive: false });
 
     let isDragging = false, startX = 0, startY = 0;
     let hasMoved = false;
@@ -716,14 +698,14 @@
     function onDragEnd() { isDragging = false; }
 
     viewport.addEventListener('mousedown', (e) => {
-      if (e.target.closest('.vjs-control-bar')) return;
+      if (e.target.closest('#audioControls')) return;
       onDragStart(e.clientX, e.clientY);
     });
     window.addEventListener('mousemove', (e) => onDragMove(e.clientX, e.clientY));
     window.addEventListener('mouseup', onDragEnd);
 
     viewport.addEventListener('dblclick', (e) => {
-      if (e.target.closest('.vjs-control-bar')) return;
+      if (e.target.closest('#audioControls')) return;
       handleDoubleTapSeek(e.clientX);
     });
 
@@ -733,7 +715,7 @@
     function getDistance(t) { return Math.hypot(t[0].clientX - t[1].clientX, t[0].clientY - t[1].clientY); }
 
     viewport.addEventListener('touchstart', (e) => {
-      if (e.target.closest('.vjs-control-bar')) return;
+      if (e.target.closest('#audioControls')) return;
       if (e.touches.length === 1) {
         onDragStart(e.touches[0].clientX, e.touches[0].clientY);
       } else if (e.touches.length === 2) { 
@@ -753,7 +735,7 @@
     }, { passive: true });
 
     viewport.addEventListener('touchend', (e) => {
-      if (e.target.closest('.vjs-control-bar')) return;
+      if (e.target.closest('#audioControls')) return;
 
       if (hasMoved || initialPinchDist !== null) {
         hasMoved = false;
@@ -796,43 +778,32 @@
     }
 
     function handleDoubleTapSeek(clientX) {
-      if (!player) return;
-      resumeAudioContext();
+      if (!mainAudio || !mainAudio.src) return;
       const rect = viewport.getBoundingClientRect();
       const clickX = clientX - rect.left;
-      const currTime = player.currentTime();
-      const duration = player.duration();
+      const currTime = mainAudio.currentTime;
+      const duration = mainAudio.duration;
 
       if (clickX < rect.width / 2) {
-        player.currentTime(Math.max(0, currTime - 10));
+        mainAudio.currentTime = Math.max(0, currTime - 10);
         showSeekTip('left');
       } else {
-        player.currentTime(Math.min(duration || 0, currTime + 10));
+        mainAudio.currentTime = Math.min(duration || 0, currTime + 10);
         showSeekTip('right');
       }
     }
 
-    function unlockAudioContext() {
-      resumeAudioContext();
-      document.removeEventListener('touchstart', unlockAudioContext);
-      document.removeEventListener('click', unlockAudioContext);
-    }
-    document.addEventListener('touchstart', unlockAudioContext, { once: true });
-    document.addEventListener('click', unlockAudioContext, { once: true });
-
     window.addEventListener('load', initApp);
 
-    // 页面完全卸载/关闭时防护
     window.addEventListener('beforeunload', () => {
-      destroyPlayer();
+      stopAudio();
     });
 
     document.addEventListener('visibilitychange', async () => {
       if (document.visibilityState === 'visible') {
-        if (pageVideo.classList.contains('active') && player) {
-          resumeAudioContext();
-          if (!player.paused()) {
-            player.play().catch(() => {});
+        if (pageMedia.classList.contains('active')) {
+          if (!mainAudio.paused && mainAudio.readyState >= 2) {
+            mainAudio.play().catch(err => console.warn('恢复播放拦截:', err));
           }
         } else if (pageMenu.classList.contains('active') && historyStack.length === 0) {
           await renderLanguages();
