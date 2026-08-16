@@ -342,6 +342,7 @@
       if (mainAudio) {
         mainAudio.pause();
         mainAudio.currentTime = 0;
+        mainAudio.src = '';
         mainAudio.removeAttribute('src');
         mainAudio.load();
       }
@@ -350,12 +351,15 @@
         navigator.mediaSession.playbackState = 'none';
 
         try {
-          navigator.mediaSession.metadata = new MediaMetadata({});
-        } catch (e) {
           navigator.mediaSession.metadata = null;
+        } catch (e) {
+          navigator.mediaSession.metadata = new MediaMetadata({});
         }
 
-        const actions = ['play', 'pause', 'seekbackward', 'seekforward', 'previoustrack', 'nexttrack'];
+        const actions = [
+          'play', 'pause', 'seekbackward', 'seekforward', 
+          'previoustrack', 'nexttrack', 'stop'
+        ];
         actions.forEach(action => {
           try {
             navigator.mediaSession.setActionHandler(action, null);
@@ -433,7 +437,6 @@
       if (error) {
         authMsg.textContent = error.message;
       } else {
-        // 清空历史栈并重置渲染首页
         historyStack.length = 0;
         updateHeaderState(true);
         await renderLanguages();
@@ -488,7 +491,6 @@
       
       updateHeaderState(true);
       
-      // 当处于首页/无历史栈时强制重新渲染首页
       if (historyStack.length === 0) {
         await renderLanguages();
       }
@@ -520,7 +522,7 @@
 
     function renderLanguages() {
       pageTitle.textContent = 'Harry Potter';
-      backBtn.style.visibility = 'hidden'; // 首页强制隐藏 Back 按钮
+      backBtn.style.visibility = 'hidden';
       loadLocalData().then(() => {
         menuList.innerHTML = '';
         if (!globalData || !globalData.languages) return;
