@@ -295,7 +295,6 @@
 
         <!-- 音频控件面板 -->
         <div class="audio-controls" id="audioControls">
-          <!-- 调整了 preload 模式并加入 playsinline 以兼容 iPadOS -->
           <audio id="mainAudio" controls preload="metadata" playsinline></audio>
         </div>
       </div>
@@ -346,8 +345,21 @@
         mainAudio.removeAttribute('src');
         mainAudio.load();
       }
+
+      // 彻底销毁系统层面的 Media Session 卡片
       if ('mediaSession' in navigator) {
         navigator.mediaSession.playbackState = 'none';
+
+        if (window.MediaMetadata) {
+          navigator.mediaSession.metadata = null;
+        }
+
+        const actions = ['play', 'pause', 'seekbackward', 'seekforward', 'previoustrack', 'nexttrack'];
+        actions.forEach(action => {
+          try {
+            navigator.mediaSession.setActionHandler(action, null);
+          } catch (e) {}
+        });
       }
     }
 
@@ -444,7 +456,7 @@
     }
 
     async function handleLogout() {
-      stopAudio();
+      stopAudio(); // 退出时停止播放并销毁卡片
       historyStack.length = 0;
 
       try {
@@ -594,12 +606,20 @@
 
       mainImage.src = page.imgSrc;
 
-      // 彻底清空并重置资源，避免 iPadOS 状态竞争
       mainAudio.pause();
       mainAudio.removeAttribute('src');
       mainAudio.load();
 
       mainAudio.src = page.audioSrc;
+
+      // 注册 Media Session 元数据，以便控制中心正确显示
+      if ('mediaSession' in navigator && window.MediaMetadata) {
+        navigator.mediaSession.metadata = new MediaMetadata({
+          title: page.title || 'Harry Potter',
+          artist: 'Audiobook',
+          artwork: page.imgSrc ? [{ src: page.imgSrc, sizes: '512x512', type: 'image/png' }] : []
+        });
+      }
 
       const playPromise = mainAudio.play();
       if (playPromise !== undefined) {
@@ -610,15 +630,6 @@
 
       resetZoom();
     }
-
-    // 捕获真实播放报错以帮助定位
-    mainAudio.addEventListener('error', () => {
-      if (!mainAudio.src) return;
-      const err = mainAudio.error;
-      if (err) {
-        console.error('Audio playback error code:', err.code, 'message:', err.message);
-      }
-    });
 
     function showView(targetView) {
       pageAuth.classList.remove('active');
