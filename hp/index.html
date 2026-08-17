@@ -306,6 +306,7 @@
     const SUPABASE_ANON_KEY = 'sb_publishable_1DYjKoOQBWLfkJ8qz519nA_iPrSPDkj';
     const supabaseClient = window.supabase.createClient(SUPABASE_URL, SUPABASE_ANON_KEY);
 
+    // 修复 1：移除 Service Worker 更新时的自动 window.location.reload()
     if ('serviceWorker' in navigator) {
       window.addEventListener('load', () => {
         navigator.serviceWorker.register('./sw.js').then(reg => {
@@ -313,7 +314,7 @@
             const newWorker = reg.installing;
             newWorker.addEventListener('statechange', () => {
               if (newWorker.state === 'installed' && navigator.serviceWorker.controller) {
-                window.location.reload();
+                console.log('SW updated');
               }
             });
           });
@@ -352,7 +353,6 @@
         oldAudio.srcObject = null;
         oldAudio.load();
 
-        // 彻底替换 DOM 节点，强制 iOS / Safari 销毁绑定的 Media Controller 实例
         const newAudio = document.createElement('audio');
         newAudio.id = 'mainAudio';
         newAudio.controls = true;
@@ -483,7 +483,6 @@
     }
 
     async function handleLogout() {
-      // 优先且同步清理音频及界面状态
       stopAudio();
       historyStack.length = 0;
       updateHeaderState(false);
@@ -494,7 +493,6 @@
         sessionStorage.clear();
       } catch (e) {}
 
-      // 异步尝试 Supabase 登出，避免网络阻塞前端 UI
       try {
         await supabaseClient.auth.signOut();
       } catch (e) {
@@ -542,6 +540,7 @@
       } catch (err) { console.error('Failed to log media play:', err); }
     }
 
+    // 修复 2：给所有 <a> 标签加 preventDefault() 防止默认事件引起错乱
     function renderLanguages() {
       pageTitle.textContent = 'Harry Potter';
       backBtn.style.visibility = 'hidden';
@@ -553,7 +552,8 @@
           const a = document.createElement('a');
           a.className = 'plain-link';
           a.textContent = lang.title;
-          a.onclick = () => { 
+          a.onclick = (e) => { 
+            if (e) { e.preventDefault(); e.stopPropagation(); }
             pushHistory(() => renderLanguages()); 
             renderBooks(langIndex); 
           };
@@ -573,7 +573,8 @@
         const a = document.createElement('a');
         a.className = 'plain-link';
         a.textContent = book.title;
-        a.onclick = () => { 
+        a.onclick = (e) => { 
+          if (e) { e.preventDefault(); e.stopPropagation(); }
           pushHistory(() => renderBooks(langIndex)); 
           renderChapters(langIndex, bookIndex); 
         };
@@ -592,7 +593,8 @@
         const a = document.createElement('a');
         a.className = 'plain-link';
         a.textContent = chapter.title;
-        a.onclick = () => { 
+        a.onclick = (e) => { 
+          if (e) { e.preventDefault(); e.stopPropagation(); }
           pushHistory(() => renderChapters(langIndex, bookIndex)); 
           renderPages(langIndex, bookIndex, chapterIndex); 
         };
@@ -611,7 +613,8 @@
         const a = document.createElement('a');
         a.className = 'plain-link';
         a.textContent = page.title;
-        a.onclick = () => { 
+        a.onclick = (e) => { 
+          if (e) { e.preventDefault(); e.stopPropagation(); }
           pushHistory(() => renderPages(langIndex, bookIndex, chapterIndex)); 
           playMedia(page); 
         };
@@ -872,6 +875,7 @@
       stopAudio();
     });
 
+    // 保持你原有的 visibilitychange 处理（包含页面显示时的重播尝试以及 menu 状态检查）
     document.addEventListener('visibilitychange', () => {
       if (document.visibilityState === 'visible') {
         const mainAudio = getAudio();
