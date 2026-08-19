@@ -1421,6 +1421,36 @@
                   "title": "Page 10",
                   "imgSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b2ch04/t-10.png",
                   "audioSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b2ch04/t-10.mp3"
+                },
+                {
+                  "title": "Page 11",
+                  "imgSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b2ch04/t-11.png",
+                  "audioSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b2ch04/t-11.mp3"
+                },                
+                {
+                  "title": "Page 12",
+                  "imgSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b2ch04/t-12.png",
+                  "audioSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b2ch04/t-12.mp3"
+                },                
+                {
+                  "title": "Page 13",
+                  "imgSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b2ch04/t-13.png",
+                  "audioSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b2ch04/t-13.mp3"
+                },                
+                {
+                  "title": "Page 14",
+                  "imgSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b2ch04/t-14.png",
+                  "audioSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b2ch04/t-14.mp3"
+                },                
+                {
+                  "title": "Page 15",
+                  "imgSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b2ch04/t-15.png",
+                  "audioSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b2ch04/t-15.mp3"
+                },                
+                {
+                  "title": "Page 16",
+                  "imgSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b2ch04/t-16.png",
+                  "audioSrc": "https://langenscheidt.s3.us-east-1.amazonaws.com/video/es/b2ch04/t-16.mp3"
                 }
               ]
             },
