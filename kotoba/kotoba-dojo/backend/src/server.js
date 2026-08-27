@@ -1,0 +1,3 @@
+import express from 'express'; import cors from 'cors'; import { config, validateConfig } from './config.js'; import { requireUser } from './auth.js'; import booksRouter from './routes/books.js';
+validateConfig();
+const app = express(); app.use(cors({ origin: config.origin })); app.use(express.json()); app.get('/health', (_req, res) => res.json({ ok: true })); app.use('/api/books', requireUser, booksRouter); app.use('/api/me', requireUser, booksRouter); app.use((error, _req, res, _next) => { console.error(error); res.status(500).json({ error: 'Internal server error.' }); }); app.listen(config.port, () => console.log(`Kotoba Dojo API listening on ${config.port}`));
