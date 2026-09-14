@@ -1,0 +1,114 @@
+<html>
+   <head>
+      <title>Assimil Arabic</title>
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+      <link rel="stylesheet" href="bootstrap.min.css">
+      <script src="jquery.min.js"></script>
+      <script src="popper.min.js"></script>
+      <script src="bootstrap.min.js"></script>
+      <script src="howler.core.min.js"></script>
+      <script src="howler.min.js"></script>
+      <style>
+         body {
+            padding-top: 2em;
+            background-color: #F8F8F8;
+         }
+         table {
+           table-layout: fixed;
+           word-wrap: break-word;
+         }
+         tr {
+            background-color: white;
+         }
+         td {
+            word-break: break-all;
+         }
+      </style>
+   </head>
+   <body>
+      <div class="container">
+         <h3>Lesson 3</h3>
+         <table class="table">
+            <tbody>
+               <tr onclick="m('N3')">
+                  <td>N3</td>
+               </tr>
+               <tr onclick="m('S00-TITLE')">
+                  <td>S00-TITLE</td>
+               </tr>
+               <tr onclick="m('S01')">
+                  <td>S01</td>
+               </tr>
+               <tr onclick="m('S02')">
+                  <td>S02</td>
+               </tr>
+               <tr onclick="m('T00-TRANSLATE')">
+                  <td>T00-TRANSLATE</td>
+               </tr>
+               <tr onclick="m('T01')">
+                  <td>T01</td>
+               </tr>
+               <tr onclick="m('T02')">
+                  <td>T02</td>
+               </tr>
+               <tr onclick="m('T03')">
+                  <td>T03</td>
+               </tr>
+            </tbody>
+         </table>
+      </div>
+   </body>
+   <script>
+      var sound = new Howl(
+        {
+          "src": [
+            "ar_003.mp3"
+          ],
+          "sprite": {
+            "N3": [
+              0,
+              4162
+            ],
+            "S00-TITLE": [
+              5000,
+              3358
+            ],
+            "S01": [
+              9000,
+              4609
+            ],
+            "S02": [
+              14000,
+              4807
+            ],
+            "T00-TRANSLATE": [
+              19000,
+              3068
+            ],
+            "T01": [
+              23000,
+              4485
+            ],
+            "T02": [
+              28000,
+              4992
+            ],
+            "T03": [
+              33000,
+              4711
+            ]
+          }
+        }
+      );
+      function m(p){
+        sound.play(p);
+      }
+      $('table tr').each(function(a,b){
+        $(b).click(function(){
+          $('table tr').css('background','white');
+          $(this).css('background','#E8E8E8');
+        });
+      });
+   </script>
+</html>

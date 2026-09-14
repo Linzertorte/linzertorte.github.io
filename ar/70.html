@@ -1,0 +1,163 @@
+<html>
+   <head>
+      <title>Assimil Arabic</title>
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+      <link rel="stylesheet" href="bootstrap.min.css">
+      <script src="jquery.min.js"></script>
+      <script src="popper.min.js"></script>
+      <script src="bootstrap.min.js"></script>
+      <script src="howler.core.min.js"></script>
+      <script src="howler.min.js"></script>
+      <style>
+         body {
+            padding-top: 2em;
+            background-color: #F8F8F8;
+         }
+         table {
+           table-layout: fixed;
+           word-wrap: break-word;
+         }
+         tr {
+            background-color: white;
+         }
+         td {
+            word-break: break-all;
+         }
+      </style>
+   </head>
+   <body>
+      <div class="container">
+         <h3>Lesson 70</h3>
+         <table class="table">
+            <tbody>
+               <tr onclick="m('N70')">
+                  <td>N70</td>
+               </tr>
+               <tr onclick="m('S00-TITLE')">
+                  <td>S00-TITLE</td>
+               </tr>
+               <tr onclick="m('S01')">
+                  <td>S01</td>
+               </tr>
+               <tr onclick="m('S02')">
+                  <td>S02</td>
+               </tr>
+               <tr onclick="m('S03')">
+                  <td>S03</td>
+               </tr>
+               <tr onclick="m('S04')">
+                  <td>S04</td>
+               </tr>
+               <tr onclick="m('S05')">
+                  <td>S05</td>
+               </tr>
+               <tr onclick="m('S06')">
+                  <td>S06</td>
+               </tr>
+               <tr onclick="m('S07')">
+                  <td>S07</td>
+               </tr>
+               <tr onclick="m('S08')">
+                  <td>S08</td>
+               </tr>
+               <tr onclick="m('S09')">
+                  <td>S09</td>
+               </tr>
+               <tr onclick="m('S10')">
+                  <td>S10</td>
+               </tr>
+               <tr onclick="m('S11')">
+                  <td>S11</td>
+               </tr>
+               <tr onclick="m('S12')">
+                  <td>S12</td>
+               </tr>
+               <tr onclick="m('X01')">
+                  <td>X01</td>
+               </tr>
+            </tbody>
+         </table>
+      </div>
+   </body>
+   <script>
+      var sound = new Howl(
+        {
+          "src": [
+            "ar_070.mp3"
+          ],
+          "sprite": {
+            "N70": [
+              0,
+              4017
+            ],
+            "S00-TITLE": [
+              5000,
+              5457
+            ],
+            "S01": [
+              11000,
+              6764
+            ],
+            "S02": [
+              18000,
+              9800
+            ],
+            "S03": [
+              28000,
+              7095
+            ],
+            "S04": [
+              36000,
+              10410
+            ],
+            "S05": [
+              47000,
+              5416
+            ],
+            "S06": [
+              53000,
+              4630
+            ],
+            "S07": [
+              58000,
+              10352
+            ],
+            "S08": [
+              69000,
+              9478
+            ],
+            "S09": [
+              79000,
+              7986
+            ],
+            "S10": [
+              87000,
+              10413
+            ],
+            "S11": [
+              98000,
+              5109
+            ],
+            "S12": [
+              104000,
+              10773
+            ],
+            "X01": [
+              115000,
+              8933
+            ]
+          }
+        }
+      );
+      function m(p){
+        sound.play(p);
+      }
+      $('table tr').each(function(a,b){
+        $(b).click(function(){
+          $('table tr').css('background','white');
+          $(this).css('background','#E8E8E8');
+        });
+      });
+   </script>
+</html>

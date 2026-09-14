@@ -1,0 +1,177 @@
+<html>
+   <head>
+      <title>Assimil Arabic</title>
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+      <link rel="stylesheet" href="bootstrap.min.css">
+      <script src="jquery.min.js"></script>
+      <script src="popper.min.js"></script>
+      <script src="bootstrap.min.js"></script>
+      <script src="howler.core.min.js"></script>
+      <script src="howler.min.js"></script>
+      <style>
+         body {
+            padding-top: 2em;
+            background-color: #F8F8F8;
+         }
+         table {
+           table-layout: fixed;
+           word-wrap: break-word;
+         }
+         tr {
+            background-color: white;
+         }
+         td {
+            word-break: break-all;
+         }
+      </style>
+   </head>
+   <body>
+      <div class="container">
+         <h3>Lesson 47</h3>
+         <table class="table">
+            <tbody>
+               <tr onclick="m('N47')">
+                  <td>N47</td>
+               </tr>
+               <tr onclick="m('S00-TITLE')">
+                  <td>S00-TITLE</td>
+               </tr>
+               <tr onclick="m('S01')">
+                  <td>S01</td>
+               </tr>
+               <tr onclick="m('S02')">
+                  <td>S02</td>
+               </tr>
+               <tr onclick="m('S03')">
+                  <td>S03</td>
+               </tr>
+               <tr onclick="m('S04')">
+                  <td>S04</td>
+               </tr>
+               <tr onclick="m('S05')">
+                  <td>S05</td>
+               </tr>
+               <tr onclick="m('S06')">
+                  <td>S06</td>
+               </tr>
+               <tr onclick="m('S07')">
+                  <td>S07</td>
+               </tr>
+               <tr onclick="m('S08')">
+                  <td>S08</td>
+               </tr>
+               <tr onclick="m('S09')">
+                  <td>S09</td>
+               </tr>
+               <tr onclick="m('T00-TRANSLATE')">
+                  <td>T00-TRANSLATE</td>
+               </tr>
+               <tr onclick="m('T01')">
+                  <td>T01</td>
+               </tr>
+               <tr onclick="m('T02')">
+                  <td>T02</td>
+               </tr>
+               <tr onclick="m('T03')">
+                  <td>T03</td>
+               </tr>
+               <tr onclick="m('T04')">
+                  <td>T04</td>
+               </tr>
+               <tr onclick="m('T05')">
+                  <td>T05</td>
+               </tr>
+            </tbody>
+         </table>
+      </div>
+   </body>
+   <script>
+      var sound = new Howl(
+        {
+          "src": [
+            "ar_047.mp3"
+          ],
+          "sprite": {
+            "N47": [
+              0,
+              5672
+            ],
+            "S00-TITLE": [
+              6000,
+              4325
+            ],
+            "S01": [
+              11000,
+              5615
+            ],
+            "S02": [
+              17000,
+              9243
+            ],
+            "S03": [
+              27000,
+              9031
+            ],
+            "S04": [
+              37000,
+              8660
+            ],
+            "S05": [
+              46000,
+              5515
+            ],
+            "S06": [
+              52000,
+              5728
+            ],
+            "S07": [
+              58000,
+              9130
+            ],
+            "S08": [
+              68000,
+              9121
+            ],
+            "S09": [
+              78000,
+              6880
+            ],
+            "T00-TRANSLATE": [
+              85000,
+              2868
+            ],
+            "T01": [
+              88000,
+              8265
+            ],
+            "T02": [
+              97000,
+              12137
+            ],
+            "T03": [
+              110000,
+              12706
+            ],
+            "T04": [
+              123000,
+              9856
+            ],
+            "T05": [
+              133000,
+              10442
+            ]
+          }
+        }
+      );
+      function m(p){
+        sound.play(p);
+      }
+      $('table tr').each(function(a,b){
+        $(b).click(function(){
+          $('table tr').css('background','white');
+          $(this).css('background','#E8E8E8');
+        });
+      });
+   </script>
+</html>

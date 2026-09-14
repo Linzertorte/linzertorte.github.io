@@ -1,0 +1,184 @@
+<html>
+   <head>
+      <title>Assimil Arabic</title>
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+      <link rel="stylesheet" href="bootstrap.min.css">
+      <script src="jquery.min.js"></script>
+      <script src="popper.min.js"></script>
+      <script src="bootstrap.min.js"></script>
+      <script src="howler.core.min.js"></script>
+      <script src="howler.min.js"></script>
+      <style>
+         body {
+            padding-top: 2em;
+            background-color: #F8F8F8;
+         }
+         table {
+           table-layout: fixed;
+           word-wrap: break-word;
+         }
+         tr {
+            background-color: white;
+         }
+         td {
+            word-break: break-all;
+         }
+      </style>
+   </head>
+   <body>
+      <div class="container">
+         <h3>Lesson 73</h3>
+         <table class="table">
+            <tbody>
+               <tr onclick="m('N73')">
+                  <td>N73</td>
+               </tr>
+               <tr onclick="m('S00-TITLE')">
+                  <td>S00-TITLE</td>
+               </tr>
+               <tr onclick="m('S01')">
+                  <td>S01</td>
+               </tr>
+               <tr onclick="m('S02')">
+                  <td>S02</td>
+               </tr>
+               <tr onclick="m('S03')">
+                  <td>S03</td>
+               </tr>
+               <tr onclick="m('S04')">
+                  <td>S04</td>
+               </tr>
+               <tr onclick="m('S05')">
+                  <td>S05</td>
+               </tr>
+               <tr onclick="m('S06')">
+                  <td>S06</td>
+               </tr>
+               <tr onclick="m('S07')">
+                  <td>S07</td>
+               </tr>
+               <tr onclick="m('S08')">
+                  <td>S08</td>
+               </tr>
+               <tr onclick="m('S09')">
+                  <td>S09</td>
+               </tr>
+               <tr onclick="m('S10')">
+                  <td>S10</td>
+               </tr>
+               <tr onclick="m('S11')">
+                  <td>S11</td>
+               </tr>
+               <tr onclick="m('S12')">
+                  <td>S12</td>
+               </tr>
+               <tr onclick="m('S13')">
+                  <td>S13</td>
+               </tr>
+               <tr onclick="m('S14')">
+                  <td>S14</td>
+               </tr>
+               <tr onclick="m('S15')">
+                  <td>S15</td>
+               </tr>
+               <tr onclick="m('S16')">
+                  <td>S16</td>
+               </tr>
+            </tbody>
+         </table>
+      </div>
+   </body>
+   <script>
+      var sound = new Howl(
+        {
+          "src": [
+            "ar_073.mp3"
+          ],
+          "sprite": {
+            "N73": [
+              0,
+              4516
+            ],
+            "S00-TITLE": [
+              5000,
+              3385
+            ],
+            "S01": [
+              9000,
+              7020
+            ],
+            "S02": [
+              17000,
+              8825
+            ],
+            "S03": [
+              26000,
+              6091
+            ],
+            "S04": [
+              33000,
+              8665
+            ],
+            "S05": [
+              42000,
+              10889
+            ],
+            "S06": [
+              53000,
+              7786
+            ],
+            "S07": [
+              61000,
+              11536
+            ],
+            "S08": [
+              73000,
+              6494
+            ],
+            "S09": [
+              80000,
+              9086
+            ],
+            "S10": [
+              90000,
+              6686
+            ],
+            "S11": [
+              97000,
+              5412
+            ],
+            "S12": [
+              103000,
+              2984
+            ],
+            "S13": [
+              106000,
+              8033
+            ],
+            "S14": [
+              115000,
+              5396
+            ],
+            "S15": [
+              121000,
+              3547
+            ],
+            "S16": [
+              125000,
+              5959
+            ]
+          }
+        }
+      );
+      function m(p){
+        sound.play(p);
+      }
+      $('table tr').each(function(a,b){
+        $(b).click(function(){
+          $('table tr').css('background','white');
+          $(this).css('background','#E8E8E8');
+        });
+      });
+   </script>
+</html>

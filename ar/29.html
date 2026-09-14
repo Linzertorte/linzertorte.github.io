@@ -1,0 +1,170 @@
+<html>
+   <head>
+      <title>Assimil Arabic</title>
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+      <link rel="stylesheet" href="bootstrap.min.css">
+      <script src="jquery.min.js"></script>
+      <script src="popper.min.js"></script>
+      <script src="bootstrap.min.js"></script>
+      <script src="howler.core.min.js"></script>
+      <script src="howler.min.js"></script>
+      <style>
+         body {
+            padding-top: 2em;
+            background-color: #F8F8F8;
+         }
+         table {
+           table-layout: fixed;
+           word-wrap: break-word;
+         }
+         tr {
+            background-color: white;
+         }
+         td {
+            word-break: break-all;
+         }
+      </style>
+   </head>
+   <body>
+      <div class="container">
+         <h3>Lesson 29</h3>
+         <table class="table">
+            <tbody>
+               <tr onclick="m('N29')">
+                  <td>N29</td>
+               </tr>
+               <tr onclick="m('S00-TITLE')">
+                  <td>S00-TITLE</td>
+               </tr>
+               <tr onclick="m('S01')">
+                  <td>S01</td>
+               </tr>
+               <tr onclick="m('S02')">
+                  <td>S02</td>
+               </tr>
+               <tr onclick="m('S03')">
+                  <td>S03</td>
+               </tr>
+               <tr onclick="m('S04')">
+                  <td>S04</td>
+               </tr>
+               <tr onclick="m('S05')">
+                  <td>S05</td>
+               </tr>
+               <tr onclick="m('S06')">
+                  <td>S06</td>
+               </tr>
+               <tr onclick="m('S07')">
+                  <td>S07</td>
+               </tr>
+               <tr onclick="m('S08')">
+                  <td>S08</td>
+               </tr>
+               <tr onclick="m('T00-TRANSLATE')">
+                  <td>T00-TRANSLATE</td>
+               </tr>
+               <tr onclick="m('T01')">
+                  <td>T01</td>
+               </tr>
+               <tr onclick="m('T02')">
+                  <td>T02</td>
+               </tr>
+               <tr onclick="m('T03')">
+                  <td>T03</td>
+               </tr>
+               <tr onclick="m('T04')">
+                  <td>T04</td>
+               </tr>
+               <tr onclick="m('T05')">
+                  <td>T05</td>
+               </tr>
+            </tbody>
+         </table>
+      </div>
+   </body>
+   <script>
+      var sound = new Howl(
+        {
+          "src": [
+            "ar_029.mp3"
+          ],
+          "sprite": {
+            "N29": [
+              0,
+              5811
+            ],
+            "S00-TITLE": [
+              6000,
+              5120
+            ],
+            "S01": [
+              12000,
+              7684
+            ],
+            "S02": [
+              20000,
+              4897
+            ],
+            "S03": [
+              25000,
+              5181
+            ],
+            "S04": [
+              31000,
+              5513
+            ],
+            "S05": [
+              37000,
+              4804
+            ],
+            "S06": [
+              42000,
+              5432
+            ],
+            "S07": [
+              48000,
+              5583
+            ],
+            "S08": [
+              54000,
+              5351
+            ],
+            "T00-TRANSLATE": [
+              60000,
+              3188
+            ],
+            "T01": [
+              64000,
+              5075
+            ],
+            "T02": [
+              70000,
+              5724
+            ],
+            "T03": [
+              76000,
+              5223
+            ],
+            "T04": [
+              82000,
+              5432
+            ],
+            "T05": [
+              88000,
+              5264
+            ]
+          }
+        }
+      );
+      function m(p){
+        sound.play(p);
+      }
+      $('table tr').each(function(a,b){
+        $(b).click(function(){
+          $('table tr').css('background','white');
+          $(this).css('background','#E8E8E8');
+        });
+      });
+   </script>
+</html>
